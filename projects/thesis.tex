@@ -59,7 +59,7 @@
 % More about you and your thesis:
 \def \Title{TESIS}
 \def \title{PRA TESIS}
-\def \subtitle{Pengaruh Fitur Binaan Terhadap Aktivitas di Jalan Pinggir Laut}
+\def \subtitle{Preferensi Pengunjung Waterfront di Kota Parepare Sebagai Kota Wisata}
 \def \yourName{Muhammad Uliah Shafar}
 \def \yourIdentifier{21020119420029}
 \def \yourPlace{<place>}
@@ -67,10 +67,10 @@
 \DTMsavedate{tanggalberita}{2021-01-31} %tanggal sidang
 \DTMsavetime{waktuberita}{24:60:60} %waktu sidang
 \def \hariBerita{<day>} %hari sidang
-\def \yourAdvisor{<firstname lastname>}
-\def \yourNipAdvisor{<xxxxxxxxx xxxxxxxx>}
-\def \yourSecAdvisor{<firstname lastname>}
-\def \yourNipSecAdvisor{<xxxxxxxxx xxxxxxxx>}
+\def \yourAdvisor{Dr. Ars. Ir. Wijayanti, M.Eng}
+\def \yourNipAdvisor{196307111990012001}
+\def \yourSecAdvisor{Prof. Dr. Ir. Atik Suprapti,  M.T.}
+\def \yourNipSecAdvisor{196511131998032001}
 %\def \thisDocumentIsA{Thesis} % possible options:
                      % Thesis  .... for Master's Thesis   / Masterarbeit
                      % Thesis  .... for Bachelor's Thesis / Bachelorarbeit
@@ -87,29 +87,29 @@
 % Front Matter
 %
 %----------------------------------------------------------
-\subfile{../subfiles/01_titlepage.tex}
+%\subfile{../subfiles/01_titlepage.tex}
 \subfile{../subfiles/01titlepage.tex}
 
 \pagenumbering{roman}
-\subfile{../subfiles/02declaration.tex}
-\subfile{../subfiles/03validation.tex}
-\subfile{../subfiles/04agreement.tex}
-\subfile{../subfiles/05private.tex}
-\subfile{../subfiles/06abstrak.tex}
-\subfile{../subfiles/07abstract.tex}
-\subfile{../subfiles/08acknowledge.tex}
+%\subfile{../subfiles/02declaration.tex}
+%\subfile{../subfiles/03validation.tex}
+%\subfile{../subfiles/04agreement.tex}
+%\subfile{../subfiles/05private.tex}
+%\subfile{../subfiles/06abstrak.tex}
+%\subfile{../subfiles/07abstract.tex}
+%\subfile{../subfiles/08acknowledge.tex}
 
 %----------------------------------------------------------
 % Table Of Content
 %
 %----------------------------------------------------------
 %\tableofcontents
-\clearpage
-\addcontentsline{toc}{chapter}{\listfigurename}
-\listoffigures
-\clearpage
-\addcontentsline{toc}{chapter}{\listtablename}
-\listoftables
+%\clearpage
+%\addcontentsline{toc}{chapter}{\listfigurename}
+%\listoffigures
+%\clearpage
+%\addcontentsline{toc}{chapter}{\listtablename}
+%\listoftables
 
 %----------------------------------------------------------
 % Body Matter
@@ -118,69 +118,17 @@
 \clearpage
 \pagenumbering{arabic}
 \subfile{../subfiles/introduction.tex}
-\subfile{../subfiles/literature.tex}
-\subfile{../subfiles/method.tex}
-
-% !Rnw root = thesis.Rnw
-% Child with Latex code only - Work as a subfiles:
-
-%---------------------------------------------------
-
-%---------------------------------------------------
-
-
-%---------------------------------------------------
-
-%------------------------------------------------------
-
-%------------------------------------------------------
-
-
-
-\newcommand{\pieChartFig}
-{\begin{figure}[h]
-\centering
-
-\includegraphics[width=\maxwidth]{../figures/stats2-1} 
-\caption{Pie Chart Pekerjaan}
-\label{pieChartFig}\end{figure}
-}
-
-
-
-\newcommand{\tabRegresi}{
-% latex table generated in R 4.0.3 by xtable 1.8-4 package
-% Tue Feb 16 17:36:46 2021
-\begin{table}[ht]
-\centering
-\begin{tabular}{lrrrrr}
-  \hline
- & Df & Sum Sq & Mean Sq & F value & Pr($>$F) \\ 
-  \hline
-data2\$total\_fit & 1.000 & 96.998 & 96.998 & 3.679 & 0.065 \\ 
-  Residuals & 29.000 & 764.551 & 26.364 &  &  \\ 
-   \hline
-\end{tabular}
-\caption{Regresi Linear} 
-\label{tabRegresi}
-\end{table}
-}
-
-%-------------------------------------------------
-
-\section{ Knitr child Documents}
-You should note that using knitr package you can easily incorporate difference kinds of files into a project.
-
-\tabRegresi
-\pieChartFig
-\subfile{../subfiles/conclusion.tex}
+%\subfile{../subfiles/literature.tex}
+%\subfile{../subfiles/method.tex}
+%knit_child("child_latex.Rnw")
+%\subfile{../subfiles/conclusion.tex}
 
 %----------------------------------------------------------
 % End Matter
 %
 %----------------------------------------------------------
-\subfile{../subfiles/09beritaacara.tex}
-\subfile{../subfiles/10biography.tex}
+%\subfile{../subfiles/09beritaacara.tex}
+%\subfile{../subfiles/10biography.tex}
 
 
 

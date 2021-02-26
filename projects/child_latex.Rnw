@@ -10,7 +10,7 @@ set_parent("thesis.Rnw")
 
 
 %---------------------------------------------------
-<<content1, child="child_stats.Rnw">>=
+<<content1, child="child_stats.Rnw", cache=T>>=
 @
 %-------------------------------------------------
 
