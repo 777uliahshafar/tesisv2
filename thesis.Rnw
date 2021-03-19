@@ -35,27 +35,10 @@
 
 \begin{document}
 
+\Sexpr{knit_child("frontmatter.Rnw")}
 
-%----------------------------------------------------------
-% Front Matter
-%
-%----------------------------------------------------------
-%\subfile{../subfiles/01_titlepage.tex}
-\subfile{../subfiles/01titlepage.tex}
-
-\pagenumbering{roman}
-%\subfile{../subfiles/02declaration.tex}
-%\subfile{../subfiles/03validation.tex}
-%\subfile{../subfiles/04agreement.tex}
-%\subfile{../subfiles/05private.tex}
-%\subfile{../subfiles/06abstrak.tex}
-%\subfile{../subfiles/07abstract.tex}
-%\subfile{../subfiles/08acknowledge.tex}
-
-%----------------------------------------------------------
-% Table Of Content
-%
-%----------------------------------------------------------
+%----------------------------------------------------------------------------------------
+% TOC
 %\tableofcontents
 %\clearpage
 %\addcontentsline{toc}{chapter}{\listfigurename}
@@ -64,34 +47,15 @@
 %\addcontentsline{toc}{chapter}{\listtablename}
 %\listoftables
 
-%----------------------------------------------------------
-% Body Matter
-%
-%----------------------------------------------------------
 \clearpage
 \pagenumbering{arabic}
-\subfile{../subfiles/introduction.tex}
-%\subfile{../subfiles/literature.tex}
-%\subfile{../subfiles/method.tex}
-%\Sexpr{knit_child("child_latex.Rnw")}
-%\subfile{../subfiles/conclusion.tex}
-
-%----------------------------------------------------------
-% End Matter
-%
-%----------------------------------------------------------
-%\subfile{../subfiles/09beritaacara.tex}
-%\subfile{../subfiles/10biography.tex}
-
-
-
-
-
+\Sexpr{knit_child("principaltext.Rnw")}
+\Sexpr{knit_child("backmatter.Rnw")}
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 \bibliographystyle{apalike}
-\bibliography{biblio.bib}
+\bibliography{bibliography/biblio.bib}
 
 
 \end{document}

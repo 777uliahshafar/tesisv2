@@ -1,6 +1,21 @@
-\documentclass[../projects/thesis.tex]{subfiles}
+% Child with Latex code only:
 
-\begin{document}
+
+%--------------------------------------------------------------------------------------
+% R chunk
+%--------------------------------------------------------------------------------------
+% Set parent
+<<<parent2, echo=F , cache=F>>=
+rm(list=ls())
+library("knitr")
+set_parent("thesis.Rnw")
+@
+
+% load stat
+<<content1, child="stats.Rnw", cache=T>>=
+@
+%--------------------------------------------------------------------------------------
+
 
 \chapter{Pendahuluan}\label{chap:pendahuluan}
 
@@ -157,5 +172,67 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \newpage
 \end{comment}
-%\onlyinsubfile{\biblio}
-\end{document}
+
+\chapter{Tinjauan Pustaka}\label{chap:pstk}
+
+\lipsum[2-4]
+
+\section{Kerangka Penelitian}
+
+
+Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan variabel-variable yang layak diteliti.
+
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[node distance=2cm]
+
+	\node (tit) [startstop, text width= 5cm] {Fitur Fisik Binaan pada Aktivitas Luar Jl. Pinggir Laut};
+
+	\node (va1) [startstop, below of=tit, text width=5cm, xshift=-3cm] {Variabel Bebas\\ Fitur Fisik Binaan};
+
+	\node (va2) [startstop, below of=tit, text width=5cm, xshift=3cm] {Variabel Tergantung\\ Aktivitas Luar};
+
+	\node (de1) [startstop, below of=va1, text width=5cm, yshift=-2cm] {
+		\textbf{Sub Variabel Bebas}\\
+		- Elemen Jalan \\
+		- Kualitas Jalan \\
+		- Elemen Tempat Duduk \\
+		- Kualitas Tempat Duduk \\
+		- Elemen Alami \\
+		- Kualitas Alami \\
+		- Fasilitas \& Aminities \\
+		- Estetika \\
+
+	};
+	\node (de2) [startstop, below of=va2, text width=5cm, yshift=-2cm] {
+			\textbf{Sub Variable Tergantung}\\
+		- Aktivitas relaxsasi\\
+		- Aktivitas fisik\\
+		- Travel aktif\\
+		- Interaction with wildlife and nature\\
+		- Interaksi sosial\\
+		- Partisipasi di aktivitas grup\\
+		};
+\draw [arrow] (tit) -| (va1);
+\draw [arrow] (va1) -- (de1);
+\draw [arrow] (tit) -| (va2);
+\draw [arrow] (va2) -- (de2);
+
+\end{tikzpicture}
+\caption{Alur Pikir}
+\end{figure}
+
+\chapter{Metodologi Penelitian}\label{chap:method}
+
+\section{Metode dan Jenis Penelitian}
+
+\lipsum[2-4]
+
+\section{ Knitr child Documents}
+You should note that using knitr package you can easily incorporate difference kinds of files into a project.
+
+\tabRegresi
+\pieChartFig
+
+\chapter{Kesimpulan}\label{chap:kesimp}

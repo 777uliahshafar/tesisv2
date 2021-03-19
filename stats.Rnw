@@ -22,7 +22,7 @@ library(data.table)
 
 #=====================================================
 # Set working directory:
-setwd("~/Documents/Magister/project files/proposalTesis/projects")
+setwd("/Volumes/hdd/proposalTesis/")
 cur.wd <- getwd()
 #=====================================================
 @
@@ -30,7 +30,7 @@ cur.wd <- getwd()
 
 <<stats2, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
 
-df <- read.table("descriptiveCSV.csv", sep = ";", header = TRUE)
+df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
 # head(df)
 df$Pekerjaan <- as.factor(df$Pekerjaan)
 
@@ -76,7 +76,7 @@ cat(paste("}\n"))
 
 <<stats3, echo= F, error= F, message= F, results= "asis", warning= F, cache=F, autodep= T>>=
 
-df <- read.table("dataset_tes2.csv", sep = ";", header = TRUE, stringsAsFactors = F)
+df <- read.table("csv/dataset_tes2.csv", sep = ";", header = TRUE, stringsAsFactors = F)
 
 data <- data.table(df)
 # class(data)
