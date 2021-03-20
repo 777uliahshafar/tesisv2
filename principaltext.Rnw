@@ -1,6 +1,5 @@
 % Child with Latex code only:
 
-
 %--------------------------------------------------------------------------------------
 % R chunk
 %--------------------------------------------------------------------------------------
@@ -62,6 +61,7 @@ Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut se
 
 Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi ruang masyarakat di kawasan tepi laut senggol. Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
+
 \begin{enumerate}
 \item Apa preferensi ruang masyarakat di kawasan tepi laut Senggol? Mengapa masyarakat memilih satu daripada lainnya?
     \item Apakah elemen buatan dan beragam penggunaan adalah faktor penting untuk preferensi ruang masyarakat? Apakah kepentingannya bervariasi diantara ruang-ruang?
@@ -83,7 +83,6 @@ Penelitian ini dapat bermanfaat dalam bidang ilmu pengetahuan perencanaan perkot
 \end{enumerate}
 
 
-\begin{comment}
 \section{Sistematika Penulisan}
 Berikut ini adalah sistematika penulisan yang digunakan pada penelitian dimensi kenyamanan pada Waterfront Development:
 \begin{itemize}
@@ -97,9 +96,8 @@ Bab ini terdiri dari penjelasan variabel dan jenis paradigma yang digunakan untu
 Bab ini terdiri dari pembahasan mengenai hasil - hasil penelitian yang berupa data-data yang didapatkan, dengan melakukan pengolahan terhadap indikator-indikator kenyamanan. Setelah pengelolahan bahan-bahan tersebut, analisis diperlukan untuk menemukan penemuan penelitian. Analisis diarahkan untuk menjawab rumusan masalah.
 	\item Bab V : Kesimpulan\\
 Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap permasalahan yang terdapat pada penelitian ini, sehingga penemuan bersama saran-saran dari penelusi dapat menghasilkan apa yang diinginkan.
-
-
 \end{itemize}
+
 \section{Alur Pikir}
 
 \begin{figure}[hp]
@@ -111,35 +109,33 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \node (tuj) [startstop, below of=rum, yshift=0.5cm] {Tujuan Penelitian};
 
-
 \node (pus) [startstop, below of=tuj, yshift=0.5cm] {Studi Pustaka};
 
-
 \node (kaj) [startstop, below of=pus, text width=3.5cm, xshift= -4cm, yshift=.5cm] {
-	\textbf{Kajian Teori}\\ - Fitur binaan\\ - Aktivitas Luar
+	\textbf{Kajian Teori}\\ - Preferensi Ruang\\ - Atribut Kawasan
 };
 
 
 \node (kaj2) [startstop, below of=pus, text width=3.5cm, xshift= 4cm, yshift=.5cm] {
-	\textbf{Gambaran Objek}\\ Fitur Binaan dan Aktivitas Luar Jl. Pinggir Laut
+	\textbf{Gambaran Objek}\\ Ruang Tepi Laut Senggol Parepare
 };
 
 
 \node (hip) [startstop, below of=pus, yshift=-.5cm] {Hipotesa};
 
 
-\node (met) [startstop, below of=hip, yshift=-.75cm, text width=7cm] {
+\node (met) [startstop, below of=hip, yshift=-1cm, text width=7cm] {
 	\textbf{Metode Peneltian}\\ Menggunakan Metode penelitian Kuantitatif Rasionalistik
 
 	\textbf{Variabel}\\
-	- Bebas : Fitur Binaan\\
-	- Terikat : Aktivitas Luar\\
+	- Bebas : Atribut Kawasan Tepi laut \\
+	- Terikat : Preferensi Ruang Masyarakat\\
 
 	\textbf{Sumber data}: Observasi dan Kuesioner
 };
 
 \node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel fitur binaan terhadap variabel aktivitas luar.
+		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel atribut kawasan terhadap variabel preferensi ruang.
 };
 
 \node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
@@ -171,7 +167,6 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 \end{figure}
 
 \newpage
-\end{comment}
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 

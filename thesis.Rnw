@@ -30,12 +30,9 @@
 % ITM/SWD/IRM: you could possibly write in German.
 %\def \yourLanguage{english} % possible options: german, english
 
-
-
-
 \begin{document}
 
-\Sexpr{knit_child("frontmatter.Rnw")}
+%\Sexpr{knit_child("frontmatter.Rnw")}
 
 %----------------------------------------------------------------------------------------
 % TOC
@@ -50,7 +47,7 @@
 \clearpage
 \pagenumbering{arabic}
 \Sexpr{knit_child("principaltext.Rnw")}
-\Sexpr{knit_child("backmatter.Rnw")}
+%\Sexpr{knit_child("backmatter.Rnw")}
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
