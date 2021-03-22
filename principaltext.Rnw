@@ -42,7 +42,9 @@ Kawasan tepi laut senggol terbentang dari Pelabuhan Nusantara hingga Pasar Sengg
 Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}. Beberapa ruang yang tercipta melahirkan preferensi ruang masyarakat. Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. Sejumlah atribut pada ruang tersebut menjadi alasan dalam pemilihan ruang di kawasan tepi laut.
 Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
 %atribut preferensi ruang
-Beberapa penelitian menemukan sejumlah atribut yang mempengaruhi preferensi ruang masyarakat. Pada studi terhadap preferensi fitur lanskap manula, fasilitas dan infrastruktur yang alami, estetik, beragam, aksesibel, komprehensif, terpelihara serta adanya interaksi diantara manusia dan alam mempengaruhi tingkat preferensi mereka \citep{wen2018}. Karakteristik fisik suatu ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{general preference}, meskipun preferensi ruang untuk menghilangkan stres hampir sama dengan preferensi umum, ini lebih mengutamakan pada jumlah pengunjung yang sedikit \citep{arnberger2015}. Studi lain menjabarkan sejumlah atribut penting dalam sebuah kawasan hijau yakni: kebersihan dan pemeliharaan, peningkatan jumlah kekayaan vegetasi, keberadaan badan air berperan dalam membentuk preferensi atribut RTH \citep{madureira2018}.
+Beberapa penelitian menemukan sejumlah atribut yang mempengaruhi preferensi ruang masyarakat. Pada studi terhadap preferensi fitur lanskap manula, fasilitas dan infrastruktur yang alami, estetik, beragam, aksesibel, komprehensif, terpelihara serta adanya interaksi diantara manusia dan alam mempengaruhi tingkat preferensi mereka \citep{wen2018}. Karakteristik fisik suatu ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{general preference}, meskipun preferensi ruang untuk menghilangkan stres hampir sama dengan preferensi umum, ini lebih mengutamakan pada jumlah pengunjung yang sedikit \citep{arnberger2015}.
+Sedangkan studi mengenai elemen \textit{intangible}, \textit{soundscape} khususnya \textit{natural sound} menarik banyak pengunjung pada suatu taman \citep{ma2021}.
+Studi lain menjabarkan sejumlah atribut penting dalam sebuah kawasan hijau yakni: kebersihan dan pemeliharaan, peningkatan jumlah kekayaan vegetasi, keberadaan badan air berperan dalam membentuk preferensi atribut RTH \citep{madureira2018}.
 
 % existing research
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
@@ -170,7 +172,29 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
-\lipsum[2-4]
+Penelitian ini menganalisis pengaruh dari
+
+- fitur ruang/taman(eg. kebisingan, fasilitas, estetika, keamanan, pemeliharaan)
+
+
+
+- faktor socio-demografi
+- jumlah pengunjung???
+
+dalam pemilihan(preferensi) ruang di tepi laut.
+
+\section{Atribut waterfront}
+
+Kebisingan( noise )
+Kebisingan menjadi faktor penting dalam pemilihan sebuah ruang publik.
+Facility ( )
+
+
+
+
+
+
+
 
 \section{Kerangka Penelitian}
 
@@ -182,32 +206,28 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (tit) [startstop, text width= 5cm] {Fitur Fisik Binaan pada Aktivitas Luar Jl. Pinggir Laut};
+	\node (tit) [startstop, text width= 5cm] {Preferensi Ruang Masyarakat Parepare};
 
-	\node (va1) [startstop, below of=tit, text width=5cm, xshift=-3cm] {Variabel Bebas\\ Fitur Fisik Binaan};
+	\node (va1) [startstop, below of=tit, text width=5cm, xshift=-3cm] {Variabel Bebas\\ Atribut Ruang};
 
-	\node (va2) [startstop, below of=tit, text width=5cm, xshift=3cm] {Variabel Tergantung\\ Aktivitas Luar};
+	\node (va2) [startstop, below of=tit, text width=5cm, xshift=3cm] {Variabel Terikat\\ Preferensi Ruang Masyarakat};
 
 	\node (de1) [startstop, below of=va1, text width=5cm, yshift=-2cm] {
 		\textbf{Sub Variabel Bebas}\\
-		- Elemen Jalan \\
-		- Kualitas Jalan \\
-		- Elemen Tempat Duduk \\
-		- Kualitas Tempat Duduk \\
-		- Elemen Alami \\
-		- Kualitas Alami \\
-		- Fasilitas \& Aminities \\
-		- Estetika \\
+        - Karakter fisik \\
+        encloser, shadow, pond
+        - Elemen Alami/penghijauan \\
+		- Soundscape \\
+        - Aksesibilitas
+        - Keterbukaan(encloser)
 
 	};
 	\node (de2) [startstop, below of=va2, text width=5cm, yshift=-2cm] {
-			\textbf{Sub Variable Tergantung}\\
-		- Aktivitas relaxsasi\\
-		- Aktivitas fisik\\
-		- Travel aktif\\
-		- Interaction with wildlife and nature\\
-		- Interaksi sosial\\
-		- Partisipasi di aktivitas grup\\
+			\textbf{Sub Variable Terikat}\\
+		- Rekreasi \textit{stress relief} \\
+        - Rasa aman \\
+        - Estetika \\
+        -
 		};
 \draw [arrow] (tit) -| (va1);
 \draw [arrow] (va1) -- (de1);
