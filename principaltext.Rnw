@@ -66,7 +66,7 @@ Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi ruang masyar
 
 \begin{enumerate}
 \item Apa preferensi ruang masyarakat di kawasan tepi laut Senggol? Mengapa masyarakat memilih satu daripada lainnya?
-    \item Apakah elemen buatan dan beragam penggunaan adalah faktor penting untuk preferensi ruang masyarakat? Apakah kepentingannya bervariasi diantara ruang-ruang?
+\item Apakah fitur ruang adalah faktor terpenting untuk preferensi ruang masyarakat? Apakah kepentingannya bervariasi diantara ruang-ruang?
 \end{enumerate}
 
 
@@ -170,15 +170,41 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \newpage
 
+
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
-Penelitian ini menganalisis pengaruh dari
 
-- fitur ruang/taman(eg. kebisingan, fasilitas, estetika, keamanan, pemeliharaan)
+\section{Fitur Ruang}
+
+Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika. Kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan\citep{england2009}.
+Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, dan pemeliharan.
+
+
+\citep{balai2020} mendukung pernyataan tersebut dengan penemuan bahwa kurangnya fasilitas-fasilitas pada sebuah ruang publik mencegah penggunaan ruang publik kecil.
+Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
+
+
+\section{Socio-Demografi}
+
+Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
+Terbalik dengan sejumlah penelitian menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
+
+Berbicara socio-demografi, aspek umur dan status sosial lebih sering muncul pada penelitian.
+\cite{scott2002} menjelaskan terkait kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang(lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} mengindikasikan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ketenangan.
+Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
+
+Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan.
 
 
 
-- faktor socio-demografi
+
+
+\begin{comment}
+
+%Ketika berbicara terhadap kebutan terhadap kelompok tertentu
+
+Faktor socio-demografi
+
 - jumlah pengunjung???
 
 dalam pemilihan(preferensi) ruang di tepi laut.
@@ -189,12 +215,7 @@ Kebisingan( noise )
 Kebisingan menjadi faktor penting dalam pemilihan sebuah ruang publik.
 Facility ( )
 
-
-
-
-
-
-
+\end{comment}
 
 \section{Kerangka Penelitian}
 
@@ -214,20 +235,14 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 
 	\node (de1) [startstop, below of=va1, text width=5cm, yshift=-2cm] {
 		\textbf{Sub Variabel Bebas}\\
-        - Karakter fisik \\
-        encloser, shadow, pond
-        - Elemen Alami/penghijauan \\
-		- Soundscape \\
-        - Aksesibilitas
-        - Keterbukaan(encloser)
+            - Socio-Demografi(Umur, Usia, Jenis Kelamin) \\
+            - Fitur ruang/taman(eg. kebisingan, fasilitas, estetika, keamanan, pemeliharaan)\\
 
 	};
 	\node (de2) [startstop, below of=va2, text width=5cm, yshift=-2cm] {
 			\textbf{Sub Variable Terikat}\\
-		- Rekreasi \textit{stress relief} \\
-        - Rasa aman \\
-        - Estetika \\
-        -
+            - Ruang A \\
+            - Ruang B \\
 		};
 \draw [arrow] (tit) -| (va1);
 \draw [arrow] (va1) -- (de1);
@@ -237,6 +252,20 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \end{tikzpicture}
 \caption{Alur Pikir}
 \end{figure}
+
+\begin{comment}
+        - Karakter fisik \\
+        encloser, shadow, pond
+        - Elemen Alami/penghijauan \\
+		- Soundscape \\
+        - Aksesibilitas
+        - Keterbukaan(encloser)
+
+
+		- Rekreasi \textit{stress relief} \\
+        - Rasa aman \\
+        - Estetika \\
+        -
 
 \chapter{Metodologi Penelitian}\label{chap:method}
 
@@ -251,3 +280,5 @@ You should note that using knitr package you can easily incorporate difference k
 \pieChartFig
 
 \chapter{Kesimpulan}\label{chap:kesimp}
+
+\end{comment}
