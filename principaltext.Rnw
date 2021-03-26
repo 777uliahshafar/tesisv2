@@ -15,6 +15,36 @@ set_parent("thesis.Rnw")
 @
 %--------------------------------------------------------------------------------------
 
+\begin{titlepage}
+	\begin{center}
+
+\mbox{}\vfill
+
+  {\bf \title \par}
+
+    \vspace{3\baselineskip}
+		\includegraphics[width=0.20\textwidth]{figures/logo}
+
+    \vspace{3\baselineskip}
+
+		{\large\bf\MakeUppercase \subtitle}
+
+    \vspace{3\baselineskip}
+    disusun oleh\\
+        {\bf
+           {\MakeUppercase\yourName}\\
+           \yourIdentifier
+        }
+
+    \vspace{3\baselineskip}
+		{\large\bf PROGRAM STUDI MAGISTER ARSITEKTUR DEPARTEMEN ARSITEKTUR FAKULTAS TEKNIK\\ UNIVERSITAS DIPONEGORO\\
+			SEMARANG\\
+			2021
+		}
+	\end{center}
+\vfill\mbox{}
+
+\end{titlepage}
 
 \chapter{Pendahuluan}\label{chap:pendahuluan}
 
@@ -50,7 +80,8 @@ Studi lain menjabarkan sejumlah atribut penting dalam sebuah kawasan hijau yakni
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
 %state of the art
 Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferesi diantara ruang secara menyeluruh di kawasan tepi laut.
-Kebanyakan penelitian hanya mendiskusikan karakteristik atau atribut yang paling dicenderungi masyarakat. Hipotesis peneliti bahwa pemilihan ruang didasarkan atas alasan apakah seseorang menyukai ruang dengan sekelompok atribut satu daripada ruang dengan sekelompok atribut lainnya.
+Kebanyakan penelitian hanya mendiskusikan karakteristik atau atribut yang paling dicenderungi masyarakat seperti dalam \citep{dipeolu2021}.
+Hipotesis peneliti bahwa pemilihan ruang didasarkan atas alasan apakah seseorang menyukai ruang dengan sekelompok atribut satu daripada ruang dengan sekelompok atribut lainnya.
 Ditambah lagi, penilaian lokal harus diadakan karena preferensi ruang tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
 Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulawesi Selatan.
 Selain memperhatikan preferensi ruang masyarakat, isu-isu berkaitan dengan keberlanjutan akan di selediki dalam mendukung tepi laut sukses berkelanjutan.
@@ -176,21 +207,31 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \section{Fitur Ruang}
 
-Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika. Kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan\citep{england2009}.
-Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, dan pemeliharan.
+
+Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
+Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang termasuk kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
+\cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
 
 
-\citep{balai2020} mendukung pernyataan tersebut dengan penemuan bahwa kurangnya fasilitas-fasilitas pada sebuah ruang publik mencegah penggunaan ruang publik kecil.
+%fasilitas
 Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
+\cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut). Pernyataan ini mewakili preferensi ruang berdasarkan socio-demografi juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, refuge, \& prospect} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Hal ini memperkuat alasan kecenderungan ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
+\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Sebagai tambahan, terdapat pula persaingan ketat antara fasilitas hijau dan biru \citep{kasim2016}.
 
+Dua diantara fitur ruang yang menunjukkan eksistensinya adalah rasa aman dan estetika. \cite{gao2019} menemukan penambahan pepohonan memiliki asosiasi pada estetika.
+
+meneliti preferensi ruang yang memiliki tingkat keterbukaan yang berbeda, ruang \textit{semi-open} lebih dicenderungi oleh partisipan.
+
+
+Ia mengungkapkan bahwa ini disebabkan oleh ruang tersebut memenuhi kebuthuhan partisipan yaitu rasa aman dan estetika.
 
 \section{Socio-Demografi}
 
 Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
-Terbalik dengan sejumlah penelitian menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
+Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 Berbicara socio-demografi, aspek umur dan status sosial lebih sering muncul pada penelitian.
-\cite{scott2002} menjelaskan terkait kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang(lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} mengindikasikan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ketenangan.
+\cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang(lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} mengindikasikan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ketenangan.
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
 
 Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan.
