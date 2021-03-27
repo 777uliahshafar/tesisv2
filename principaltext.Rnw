@@ -209,21 +209,35 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
-Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang termasuk kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
+Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang adalah kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
 \cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
 
+\subsection{Fasilitas}
 
-%fasilitas
 Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
-\cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut). Pernyataan ini mewakili preferensi ruang berdasarkan socio-demografi juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, refuge, \& prospect} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Hal ini memperkuat alasan kecenderungan ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
+\cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
+Pernyataan ini mewakili preferensi ruang berdasarkan socio-demografi juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
+Hal ini memperkuat alasan kecenderungan ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
 \cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Sebagai tambahan, terdapat pula persaingan ketat antara fasilitas hijau dan biru \citep{kasim2016}.
 
-Dua diantara fitur ruang yang menunjukkan eksistensinya adalah rasa aman dan estetika. \cite{gao2019} menemukan penambahan pepohonan memiliki asosiasi pada estetika.
-
-meneliti preferensi ruang yang memiliki tingkat keterbukaan yang berbeda, ruang \textit{semi-open} lebih dicenderungi oleh partisipan.
 
 
-Ia mengungkapkan bahwa ini disebabkan oleh ruang tersebut memenuhi kebuthuhan partisipan yaitu rasa aman dan estetika.
+\subsection{Estetika}
+\label{sub:est}
+
+Fitur ruang lain yang menunjukkan eksistensinya dalam preferensi ruang adalah estetika. Fitur ini lebih terkait dengan indera penglihatan \textit{visual} untuk menerima keindahan di sekitarnya.
+Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival/biological needs)}.
+Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
+Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
+Penelitian \citep{gao2019} menjelaskan teori diatas melalui penemuan masyarakat lebih cenderung terhadap ruang keterbukaan sedang dan kerapatan vegetasi sedang dimana mendukung seseorang untuk mencapai kebutuhan biologi atau kebutuhan bertahan dan berkembang. Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}.
+
+
+\subsection{Keamanan}
+\label{sub:keamanan}
+
+
+
+
 
 \section{Socio-Demografi}
 
@@ -235,6 +249,7 @@ Berbicara socio-demografi, aspek umur dan status sosial lebih sering muncul pada
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
 
 Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan.
+
 
 
 
