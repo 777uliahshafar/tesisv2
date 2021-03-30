@@ -233,15 +233,19 @@ Penelitian \citep{gao2019} menjelaskan teori diatas melalui penemuan masyarakat 
 
 \subsection{Keamanan}
 \label{sub:keamanan}
-Keamanan menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
-Tingkat keterbukaan, kehadiran seseorang, pencahayaan dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang.
+Rasa aman adalah faktor penting untuk menentukan nilai daya tarik sebuah ruang publik \citep{luo2021}.
+Rasa aman juga  menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
+Tingkat keterbukaan, kehadiran seseorang, pencahayaan dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat keterbukaan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
+Tingkat keterbukaan yang kurang dapa t mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}. Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
 
-Salah satu faktor penting dalam mempengaruhi persepsi seseorang terhadap keamanan adalah keberadaan orang \citep{lis2021}.
+Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}.
+Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap keamanan adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Lebih lanjut, menurut \cite{luo2021} bahwa musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) menunjukkan lingkungan alami yang lebih aman.
 
 
 
 
-Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}
+
+
 
 
 
