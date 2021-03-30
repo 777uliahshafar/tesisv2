@@ -243,6 +243,24 @@ Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap keamanan adal
 
 
 
+\subsection{Kebisingan}
+\label{sub:kebisingan}
+
+Kebisingan atau polusi suara adalah isu lingkungan yang sangat melekat pada kehidupan sehari-hari bersama polusi udara dan temperatur panas \citep{zhang2020}. Seseorang rela untuk membayar lebih untuk mengatasi isu lingkungan ini. \cite{zhang2020} menuturkan laki-laki lebih peka terhadap isu ini dibanding perempuan.
+Berdasarkan sejumlah penelitian kategori sumber suara adalah manusia, mekanik, dan alam \citep{yu2010,ma2021}.
+
+
+Seperti pada \ref{sub:keamanan} suara adalah faktor yang mempengaruhi rasa aman dan preferensi, begitu juga terhadap aspek kebisingan dalam mempengaruhi preferensi ruang.
+
+
+
+Faktor kebisingan mempengaruhi keputusan preferensi rute untuk jalan-jalan rekreasi di seputar area perkotaan. Semakin tinggi kebisingan yang dihasilkan semakin kecil preferensi untuk berjalan di rute tertentu \citep{bunds2019}.
+
+Pengembangan kebijakan kebisingan berdasarkan komunitas mulai mempertimbangkan seperti \textit{soundscape} pada akhir pertengahan abad \citep{schmidb2007}.
+
+
+Selain meningkatkan jumlah pengunjung pada suatu tempat
+
 
 
 
