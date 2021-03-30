@@ -207,7 +207,6 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \section{Fitur Ruang}
 
-
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang adalah kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
 \cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
@@ -234,8 +233,15 @@ Penelitian \citep{gao2019} menjelaskan teori diatas melalui penemuan masyarakat 
 
 \subsection{Keamanan}
 \label{sub:keamanan}
+Keamanan menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
+Tingkat keterbukaan, kehadiran seseorang, pencahayaan dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang.
+
+Salah satu faktor penting dalam mempengaruhi persepsi seseorang terhadap keamanan adalah keberadaan orang \citep{lis2021}.
 
 
+
+
+Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}
 
 
 
