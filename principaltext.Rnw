@@ -209,7 +209,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang adalah kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
-\cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
+\cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas. Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual mempengaruhi rasa nyaman masyrakat pada ruang publik \citep{monta2019}. Alhasil frekuensi pengunjung pada taman yang memiliki atribut tersebut meningkat.
 
 \subsection{Fasilitas}
 
@@ -217,7 +217,12 @@ Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak 
 \cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
 Pernyataan ini mewakili preferensi ruang berdasarkan socio-demografi juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
 Hal ini memperkuat alasan kecenderungan ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
-\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Sebagai tambahan, terdapat pula persaingan ketat antara fasilitas hijau dan biru \citep{kasim2016}.
+Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khsus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
+Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
+
+Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
+\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
+Terakhir, bentuk hijau juga sepadan dengan biru \citep{kasim2016}.
 
 
 
@@ -225,10 +230,13 @@ Hal ini memperkuat alasan kecenderungan ruang didasarkan pada bagaimana mereka m
 \label{sub:est}
 
 Fitur ruang lain yang menunjukkan eksistensinya dalam preferensi ruang adalah estetika. Fitur ini lebih terkait dengan indera penglihatan \textit{visual} untuk menerima keindahan di sekitarnya.
+Seperti pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
+Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}.
+
 Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival/biological needs)}.
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
-Penelitian \citep{gao2019} menjelaskan teori diatas melalui penemuan masyarakat lebih cenderung terhadap ruang keterbukaan sedang dan kerapatan vegetasi sedang dimana mendukung seseorang untuk mencapai kebutuhan biologi atau kebutuhan bertahan dan berkembang. Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}.
+Penelitian \citep{gao2019} menjelaskan teori diatas melalui penemuan masyarakat lebih cenderung terhadap ruang keterbukaan sedang dan kerapatan vegetasi sedang dimana mendukung seseorang untuk mencapai kebutuhan biologi atau kebutuhan bertahan dan berkembang. Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}. \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningkatkan kesuksessan sebuah RTH.
 
 
 \subsection{Keamanan}
@@ -236,45 +244,44 @@ Penelitian \citep{gao2019} menjelaskan teori diatas melalui penemuan masyarakat 
 Rasa aman adalah faktor penting untuk menentukan nilai daya tarik sebuah ruang publik \citep{luo2021}.
 Rasa aman juga  menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
 Tingkat keterbukaan, kehadiran seseorang, pencahayaan dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat keterbukaan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
-Tingkat keterbukaan yang kurang dapa t mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}. Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
+Tingkat keterbukaan yang kurang dapat mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}. Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
 
 Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}.
-Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap keamanan adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Lebih lanjut, menurut \cite{luo2021} bahwa musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) menunjukkan lingkungan alami yang lebih aman.
+Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap rasa aman adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Contohnya, menurut \cite{luo2021} bahwa adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Namun kehadiran orang yang berlebih dapat menurunkan rasa aman \citep{zhang2021}
+
+Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) menunjukkan lingkungan alami yang lebih aman.
 
 
 
 \subsection{Kebisingan}
 \label{sub:kebisingan}
 
-Kebisingan atau polusi suara adalah isu lingkungan yang sangat melekat pada kehidupan sehari-hari bersama polusi udara dan temperatur panas \citep{zhang2020}. Seseorang rela untuk membayar lebih untuk mengatasi isu lingkungan ini. \cite{zhang2020} menuturkan laki-laki lebih peka terhadap isu ini dibanding perempuan.
-Berdasarkan sejumlah penelitian kategori sumber suara adalah manusia, mekanik, dan alam \citep{yu2010,ma2021}.
+Kebisingan atau polusi suara adalah isu lingkungan yang sangat melekat pada kehidupan sehari-hari bersama polusi udara dan temperatur panas \citep{zhang2020}. Seseorang rela untuk membayar lebih untuk mengatasi isu lingkungan ini. Pada penelitian lain menyebutkan bahwa pengunjung atau partisipan sangat memperhatikan pengurangan kebisingan beserta temperatur dan peningkatan udara \citep{zhang2021}.
+Beberapa menuturkan laki-laki memiliki sedikit kepekaan terhadap isu ini dibanding perempuan \citep{zhang2020,lin2011}. Lebih lanjut, faktor socio-demografi seperti pendidikan berpengaruh signifikan terhadap penerimaan kualitas kebisingan daripada pekerjaan dan gender \citep{lin2011}.
 
-
-Seperti pada \ref{sub:keamanan} suara adalah faktor yang mempengaruhi rasa aman dan preferensi, begitu juga terhadap aspek kebisingan dalam mempengaruhi preferensi ruang.
-
-
-
-Faktor kebisingan mempengaruhi keputusan preferensi rute untuk jalan-jalan rekreasi di seputar area perkotaan. Semakin tinggi kebisingan yang dihasilkan semakin kecil preferensi untuk berjalan di rute tertentu \citep{bunds2019}.
-
-Pengembangan kebijakan kebisingan berdasarkan komunitas mulai mempertimbangkan seperti \textit{soundscape} pada akhir pertengahan abad \citep{schmidb2007}.
-
-
-Selain meningkatkan jumlah pengunjung pada suatu tempat
+Berdasarkan sejumlah penelitian kategori sumber suara adalah manusia, mekanik, buatan, dan alam \citep{yu2010,ma2021,monta2019,zhao2020}. Efek kebisingan terhadap preferensi terungkap pada sejumlah penelitian.
+Salah satunya penelitian terhadap pemilihan rute di ruang perkotaan, faktor kebisingan mempengaruhi keputusan preferensi rute untuk jalan-jalan rekreasi di seputar area perkotaan. Semakin tinggi kebisingan yang dihasilkan semakin kecil preferensi untuk berjalan di rute tertentu \citep{bunds2019}.
+Penelitian lain mejabarkan preferensi ruang komersial dan cagar budaya lebih tinggi dibanding ruang preservasi sejarah dan alami. Artinya ruang preservasi sejarah dan alami perlu mengurangi suara buatan dan manusia serta meningkatkan suara alami \citep{zhao2020}.
+Suara mobil dan motor menjadi sumber suara yang mengganggu kenyamanan akustik, berbeda dengan suara anak-anak bermain,air, obrolan, dan bisnis mendukung kenyamanan akustik di \textit{historic square}\citep{monta2019}.
 
 
 
-
+\subsection{Pemeliharaan}
+\label{sub:pemeliharaan}
 
 
 
 \section{Socio-Demografi}
 
-Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
+Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Variabel-variabel sosio-demografi mungkin mempengaruhi preferensi ruang\textit{(spatial preference)}\citep{zhao2020}.
+Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
 Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 Berbicara socio-demografi, aspek umur dan status sosial lebih sering muncul pada penelitian.
-\cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang(lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} mengindikasikan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ketenangan.
+\cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang(lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}.
+Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} menemukan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ketenangan.
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
+Penelitian terkait preferensi ruang publik taman, mengutarakan bahwa status pendidikan setara sekolah dasar lebih memilih ruang komersial modern. Hal ini terjadi karena pemahaman terhadap ruang publik taman masih kurang \citep{zhao2020}. Berbeda dengan status pendidikan yang tinggi memiliki perhatian lebih terhadap lingkungan \citep{wall1995,ewert2001}.
 
 Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan.
 
