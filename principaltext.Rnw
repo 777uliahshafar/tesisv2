@@ -224,39 +224,37 @@ Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelan
 \cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Namun pada penelitian lain, ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
 
 Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
-Terakhir, bentuk hijau juga sepadan dengan biru \citep{kasim2016}.
-
-
+Terakhir, atribut hijau dan biru adalah sepadan \citep{kasim2016}. Kedua atribut tadi kehadirannya dicenderungi oleh manusia berdasarkan penjelasan \citep{ostoic2020}
 
 \subsection{Estetika}
 \label{sub:est}
-
-Fitur ruang lain yang menunjukkan eksistensinya dalam preferensi ruang adalah estetika. Fitur ini lebih terkait dengan indera penglihatan \textit{visual} untuk menerima keindahan di sekitarnya.
+\cite{ahmad2020} menterjemahkan fitur estetika sebagai ukuran taman, desain layout, landskap, dan keseimbangan matahari.
+Fitur ini lebih terkait dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya.
 Seperti pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
 Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}.
 
 Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival needs)}.
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
-Penelitian \citep{gao2019} menerangkan teori diatas melalui penemuan masyarakat lebih cenderung terhadap ruang keterbukaan sedang dan kerapatan vegetasi sedang dimana mendukung seseorang untuk mencapai kebutuhan bertahan dan berkembang.
-Penelitian lain memperkuat teori diatas dengan sejumlah penemuan bahwa orang kulit hitam lebih cenderung ruang yang memiliki tingkat keterbukaan lebih daripada orang kulit \citep{elmen2005}.
-Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}.
-\cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningkatkan kesuksessan sebuah RTH.
 
+Penelitian \citep{gao2019} menerangkan teori diatas melalui penemuan bahwa masyarakat lebih cenderung terhadap ruang keterbukaan sedang dan kerapatan vegetasi sedang dimana mendukung seseorang untuk mencapai kebutuhan bertahan dan berkembang.
+Penelitian lain memperkuat teori diatas dengan sejumlah penemuan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat keterbukaan lebih daripada orang kulit putih \citep{elmen2005}.
+Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}. Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}.
+Pola visual ini mengindikasikan bahwa orang yang tinggal dan bekerja di ruang perkotaan yang sibuk menghargai keberdaan tumbuhan, matahari, dan angin \citep{ahmad2020}.
+Menurut \cite{ostoic2020} dalam preferensi karakter pohon, manusia lebih cenderung terhadap pohon yang tinggi, lebar, dan gugur.
+Terakhir, \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningkatkan keberhasilan sebuah RTH.
 
 \subsection{Keamanan}
 \label{sub:keamanan}
 Rasa aman adalah faktor penting untuk menentukan nilai daya tarik sebuah ruang publik \citep{luo2021}.
 Rasa aman juga  menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
-Tingkat keterbukaan, kehadiran seseorang, pencahayaan dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat keterbukaan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
+Tingkat keterbukaan \textit{(visibility)}, kehadiran seseorang, pencahayaan, pagar dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020,ahmad2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat keterbukaan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
 Tingkat keterbukaan yang kurang dapat mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}.
 Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
 Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. \cite{virden1999} lebih menjelaskan jarak antara orang mempengaruhi rasa aman pada manula dan perempuan. Namun ini kontradiksi dengan penelitian \citep{elmen2005} bahwa socio-demografi tidak berhubungan dengan jarak antara orang.
 
-Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap rasa aman adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Contohnya, menurut \cite{luo2021} bahwa adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Namun kehadiran orang yang berlebih dapat menurunkan rasa aman \citep{zhang2021}
-
-Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) menunjukkan lingkungan alami yang lebih aman.
-
+Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap rasa aman adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Contohnya, menurut \cite{luo2021} bahwa adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Namun kehadiran orang yang berlebihan dapat menurunkan rasa aman \citep{zhang2021}
+Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) dan hilangnya sampah/grafiti mungkin mempengaruhi presepsi keamanan dan estetika \citep{van2016}. Lebih lanjut, kedua aspek tersebut adalah faktor penting dalam peningkatan kunjungan taman \citep{veitch2017}.
 
 
 \subsection{Kebisingan}
@@ -275,8 +273,13 @@ Suara mobil dan motor menjadi sumber suara yang mengganggu kenyamanan akustik, b
 \subsection{Pemeliharaan}
 \label{sub:pemeliharaan}
 
-Pemeliharaan(area \textit{litter-free}, tempat sampah, ruang parkir \& rambu lalu lintas) disebutkan pada satu penelitian terhadap preferensi ruang ras hitam dan putih. \cite{elmen2005} menyebutkan bahwa aspek pemeliharaan adalah perhatian kulit hitam dalam preferensi ruang. Perhatian terhadap pemeliharaan juga diberikan oleh perempuan daripada laki-laki dengan memasukkan aspek keamanan \citep{elmen2005}. Sejumlah penelitian menjelaskan masyarakat lebih menyukai karakter pemeliharaan, akses, dan fasilitas pada RTH \citep{kraj2017,}.
+Area yang mencakupi aspek pemeliharaan adalah toilet publik, area bermain dan peralatan, fasilitas olahraga, bangku, dan fasilitas lainnya di taman (tempat sampah, tempat parkir, ruang bebas sampah, rambu lalu lintas \& dll.) \citep{ahmad2020,elmen2005}.
+Pada penelitian terhadap preferensi kriteria fitur taman, pemeliharaan adalah kriteria yang paling dicenderungi setelah keamanan \citep{ahmad2020}.
+\cite{elmen2005} menyebutkan bahwa aspek pemeliharaan merupakan perhatian dari orang kulit hitam dalam preferensi ruang.
+Perhatian terhadap pemeliharaan juga diberikan oleh perempuan daripada laki-laki dengan memasukkan aspek keamanan \citep{elmen2005}. Sejumlah penelitian menjelaskan masyarakat lebih menyukai karakter RTH seperti pemeliharaan yang sesuai, akses, dan fasilitas \citep{kraj2017,ostoic2020,jurkovic2014}. Adapun pemeliharaan memiliki tingkatan penilaian.
+Menurut \cite{mertens2019} pemeliharaan sebuah taman tergambar dalam 3 tingkatan: pemeliharaan yang buruk (grafiti, sampah, pemeliharaan rumput yang jelek), pemeliharaan yang sedang(tidak ada grafiti, sedikit sampah, pemeliharan rumput yang sedang), pemeliharaan yang bagus(tidak ada grafiti, tidak ada sampah, pemeliharaan sampah yang bagus). Pemeliharaan yang buruk dapat menurunkan penggunaan taman dan berdampak buruk terhadap estetika, rasa aman, fungsi dan presepsi kualitas taman \citep{mccormack2010}.
 
+Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \citep{mertens2019,van2016,anas2009}. \cite{van2016} menerangkan anak-anak sekolah menengah pertama di Amerika Serikat lebih tertarik pada taman dengan pemeliharan dan kebersihan yang sesuai. \cite{mertens2019} menyimpulkan strategi pemiliharaan yang baik merupakan langkah yang bagus untuk menarik pengunjung pada taman kota. Dengan demikian, pemeliharan mungkin mempengaruhi preferensi ruang.
 
 
 
