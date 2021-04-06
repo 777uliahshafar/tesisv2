@@ -204,6 +204,38 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
+\section{Ruang Publik Waterfront}
+
+Pengembangan tepi laut biasanya mengubah tepi laut untuk area industri dan komersial menjadi area untuk waktu luang, fasilitas publik dan kantor \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}. Beberapa kota telah menitikberatkan pengembangan waterfront dalam mewujudkan kota yang sukses seperti Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}. Ditambah kota-kota besar di Eropa, Amerika Serikat, Cina telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}.
+\cite{nur2006} menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar. Dia menegaskan bahwa tepi laut merupakan ruang publik yang memiliki nilai visual yang menarik.
+Selain itu, ukuran dan lebar dari aliran, karakter dari tepi laut, tata letak arsitektur dari tepi laut dan penggunaan sekarang berhubungan dengan struktur masyarakat dan dampak pada ruang publik \citep{hradilova2013}.
+Sehingga watefront membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota \citep{hradilova2013}.
+
+Munculnya istilah ruang publik tepi laut merupakan hasil dari permintaan besar oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \textit{(riverbanks)} \citep{luan2018}.
+
+
+\subsection{Ruang Publik}
+\label{sub:rt}
+
+Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apabila ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang.
+
+\subsection{Pengertian Waterfront}
+\label{sub:defwat}
+
+Tepi laut atau waterfront menurut KBBI adalah wilayah pesisir. Berdasarkan kamus Amerika Oxford menyebutkan tepi laut adalah "bagian dari kota yang berdampingan dengan sungai, pelabuhan atau danau." Tepi laut adalah sumber yang unik \citep{yassin2017}, yang mana memiliki istilah yang beragam pula. Beberapa penelitian merujuk pada tepi laut dengan istilah \textit{riverfront} \citep{ahmad2000}, \textit{lakefront} \citep{keating2005}, \textit{harbourfront} \citep{gordon1996}, dan \textit{beaches}\citep{cervantes2008}.
+
+Tepi laut adalah kawasan yang dinamis suatu kota tempat bertemunya daratan dan perairan \citep{breen1994,hou2009}. Istilah yang sama \textit{waterfront} sebagai kawasan berinteraksi antara pengembangan perkotaan dan perairan \cite{yassin2010} dan kawasan perkotaan yang secara langsung berhubungan dengan air \citep{moretti2010}.
+Definisi-defenisi ini hampir meliputi hal yang sama yaitu darat dan perairan. \cite{luan2018} meringkasnya sebagai sisi perairan yang ada di berbagai ukuran kota atau kabupaten.
+Terakhir, \cite{sari2015} menyimpulkan tepi laut adalah kawasan dinamis yang berbatasan dengan air yang memiliki kontak fisik dan visual dengan laut, sungai, danau dan badan air lainnya. Pengembangan waterfront telah mengalami banyak transformasi dan proses menjadi sebuah ruang publik perkotaan.
+
+
+\subsection{Tipe Waterfront}
+\label{sub:subsectionlabel}
+
+
+
+
+
 
 \section{Fitur Ruang}
 
@@ -221,15 +253,15 @@ Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khsus
 Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
 
 Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
-\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Namun pada penelitian lain, ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
+\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Namun pada penelitian lain, ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}. Lebih spesifik, \cite{huang2020} mengungkapkan tipe vegetasi dapat mempengaruhi preferensi lanskap, yang mana ikutserta dalam memberi dampak terhadap kesejahteraan masyarakat.
 
 Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
 Terakhir, atribut hijau dan biru adalah sepadan \citep{kasim2016}. Kedua atribut tadi kehadirannya dicenderungi oleh manusia berdasarkan penjelasan \citep{ostoic2020}
 
 \subsection{Estetika}
 \label{sub:est}
-\cite{ahmad2020} menterjemahkan fitur estetika sebagai ukuran taman, desain layout, landskap, dan keseimbangan matahari.
-Fitur ini lebih terkait dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya.
+\cite{ahmad2020} menerjemahkan fitur estetika sebagai ukuran taman, desain layout, landskap, dan keseimbangan matahari. Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks\citep{hradilova2013}.
+Fitur ini lebih terikat dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya.
 Seperti pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
 Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}.
 
@@ -370,6 +402,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
         - Rasa aman \\
         - Estetika \\
         -
+
 
 \chapter{Metodologi Penelitian}\label{chap:method}
 
