@@ -206,34 +206,66 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \section{Ruang Publik Waterfront}
 
-Pengembangan tepi laut biasanya mengubah tepi laut untuk area industri dan komersial menjadi area untuk waktu luang, fasilitas publik dan kantor \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}. Beberapa kota telah menitikberatkan pengembangan waterfront dalam mewujudkan kota yang sukses seperti Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}. Ditambah kota-kota besar di Eropa, Amerika Serikat, Cina telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}.
-\cite{nur2006} menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar. Dia menegaskan bahwa tepi laut merupakan ruang publik yang memiliki nilai visual yang menarik.
-Selain itu, ukuran dan lebar dari aliran, karakter dari tepi laut, tata letak arsitektur dari tepi laut dan penggunaan sekarang berhubungan dengan struktur masyarakat dan dampak pada ruang publik \citep{hradilova2013}.
-Sehingga watefront membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota \citep{hradilova2013}.
-
-Munculnya istilah ruang publik tepi laut merupakan hasil dari permintaan besar oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \textit{(riverbanks)} \citep{luan2018}.
-
-
-\subsection{Ruang Publik}
-\label{sub:rt}
-
-Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apabila ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang.
-
 \subsection{Pengertian Waterfront}
 \label{sub:defwat}
 
 Tepi laut atau waterfront menurut KBBI adalah wilayah pesisir. Berdasarkan kamus Amerika Oxford menyebutkan tepi laut adalah "bagian dari kota yang berdampingan dengan sungai, pelabuhan atau danau." Tepi laut adalah sumber yang unik \citep{yassin2017}, yang mana memiliki istilah yang beragam pula. Beberapa penelitian merujuk pada tepi laut dengan istilah \textit{riverfront} \citep{ahmad2000}, \textit{lakefront} \citep{keating2005}, \textit{harbourfront} \citep{gordon1996}, dan \textit{beaches}\citep{cervantes2008}.
 
 Tepi laut adalah kawasan yang dinamis suatu kota tempat bertemunya daratan dan perairan \citep{breen1994,hou2009}. Istilah yang sama \textit{waterfront} sebagai kawasan berinteraksi antara pengembangan perkotaan dan perairan \cite{yassin2010} dan kawasan perkotaan yang secara langsung berhubungan dengan air \citep{moretti2010}.
-Definisi-defenisi ini hampir meliputi hal yang sama yaitu darat dan perairan. \cite{luan2018} meringkasnya sebagai sisi perairan yang ada di berbagai ukuran kota atau kabupaten.
+Definisi-defenisi ini hampir meliputi hal yang sama yaitu darat dan perairan. \cite{luan2018} meringkasnya sebagai sisi perairan yang ada di berbagai macam ukuran kota atau kabupaten.
 Terakhir, \cite{sari2015} menyimpulkan tepi laut adalah kawasan dinamis yang berbatasan dengan air yang memiliki kontak fisik dan visual dengan laut, sungai, danau dan badan air lainnya. Pengembangan waterfront telah mengalami banyak transformasi dan proses menjadi sebuah ruang publik perkotaan.
 
-
-\subsection{Tipe Waterfront}
+\subsection{Tepi Laut sebagai Ruang Publik}
 \label{sub:subsectionlabel}
 
+Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menguatkan pernyataan tadi bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan. Akses ini dapat berupa gratis masuk atau dengan biaya murah(seperti tiket) imbuhnya.
 
+Pengembangan tepi laut biasanya mengubah tepi laut untuk area industri dan komersial menjadi area untuk waktu luang, fasilitas publik dan kantor \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}. Beberapa kota telah menitikberatkan pengembangan waterfront dalam mewujudkan kota yang sukses seperti Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}. Ditambah kota-kota besar di Eropa, Amerika Serikat, Cina telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}.
+\cite{nur2006} menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar. Dia menegaskan bahwa tepi laut merupakan ruang publik yang memiliki nilai visual yang menarik.
+Selain itu, ukuran dan lebar dari aliran, karakter dari tepi laut, tata letak arsitektur dari tepi laut dan penggunaan sekarang berhubungan dengan struktur masyarakat dan dampak pada ruang publik \citep{hradilova2013}.
+Sehingga watefront membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota, menampilkan karakter dari masyarakat, sistem ekonomi sekarang, dan pemikiran dari era kontemporer \citep{hradilova2013}.
 
+Munculnya istilah ruang publik tepi laut merupakan hasil dari permintaan oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \textit{(riverbanks)} \citep{luan2018}.
+Namun, pada dasarnya permintaan ini membentuk tiga fitur perkotaan dasar yaitu fungsi, operasi dan pengaturan spasial \citep{hradilova2013}.
+Semua ini menjadi evaluasi terhadap kualitas ruang publik dan acuan dalam memuaskan permintaan masyarakat. Dimana pengaturan spasial membentuk komposisi seluruh perkotaan, operasi mewakili transportasi perkotaan dan infrastruktur teknis, dan fungsi menurut \cite{gehl2000} adalah kemampuan untuk memenuhi aktivitas sosial,pilihan dan perlu. Aktivitas yang tumpang tindih mencakup rekreasi, budaya dan peninggalan, perumahan, pekerjaan, dan industri \citep{norcliffe1996}. \cite{wittmann2008} mengkategorikan fungsi dasar kawasan tepi laut sebagai berikut :
+
+\begin{itemize}
+    \item transportasi
+    \item sosial
+    \item fungsi tambahan perumahan
+    \item rekreasi
+    \item penggunaan industri dan fungsi pelengkap seperti:
+    \item persimpangan
+    \item persimpangan sosial tertentu
+\end{itemize}
+
+%ENVIRONMENT QUAALITY TOWARDS QUALITY OF LIFE
+Saat ini kenyamanan yang dirasakan di waterfront menjadi tantangan besar terhadap kualitas hidup seseorang \citep{li2020}. Bahkan kualitas sebuah urban waterfront menjadi tolak ukur sebuah keberhasilan kota. Menurut \cite{lansing1969} kualitas dari sebuah lingkungan menyampaikan rasa kesejahteraan dan kepuasan kepada penduduk melalui \textit{karakteristik fisik, sosial maupun simbolis}. Dalam cakupan yang besar, \cite{smith1997} menjabarkan tabel prinsip dari kualitas dan kebutuhan yang \textit{urban enviornment } harus penuhi yaitu \textit{}liveability, karakter, penghubung, \textit{mobility}, kebebesan diri, dan keberagaman.
+
+Beberapa tahun terakhir ini, kualitas \textit{urban environtment} menjadi perbincangan yang hangat dalam penelitian perkotaan. Mereka berpendapat dalam \cite{hubbard1996} bahwa elemen kualitas yang sulit dipahami sangat penting dalam hubungan emosional yang kuat antara manusia dan linkungan binaan, yang mana dimediasi oleh rasa dan persepsi seorang (tentunya, ini beda terhadap setiap individu maupun kelompok dengan kebudayaan, nilai, dan latar belakang yang berbeda). Hingga saat ini, kualitas waterfront menjadi syarat pengembangan ekonomi kota; meningkatkan prospek pengembangan kota. Padahal dahulu ekonomi kota menjadi pendorong untuk kualitas waterfront
+Perubahan kenyataan ini menjadi alasan yang kuat untuk mendorong kualitas fisik, sosial, estetika dan ekonomi suatu tepi laut.
+
+%BAGIAN-BAGIAN KUALITAS LINGKUNGAN WATERFRONT
+%part 1
+Tujuan estetika tepi laut yang baik yang harus dicapai adalah seperti akses fisik, akses visual, pelestarian sejarah, dan rasa tempat dan kontinuitas\citep{richarda.lehmann1966}. Dengan bagian-bagian tersebut, warga kota akan melihat tepi laut lebih baik.
+%part 2
+Menurut \cite{tunbridge1992} menguraikan faktor kunci utama kesuksessan skema pengembangan waterfront adalah mixed-uses dan aktivitas untuk bersantai. Mixed-uses pada waterfront menjadi kata kunci alasan sebuah tepi laut sebagian besar hanya menarik orang-orang tertentu. Seperti perkataan \cite{gospodini2001} bahwa penggunaan kembali ruang berdimensi tunggal telah membatasi potensi pengembangan dan mencegah tempat itu untuk berintegerasi dengan pusat kota dan ruang terbuka yang berdekatan dengan tempat itu. Tepi laut yang menyenangkan menempatkan karakteristik multi dimensi, agar orang-orang menjadikannya sebagai tempat untuk menyeimbangkan kerja, rekreasi dan hidup. Keberagaman dimensi waterfront menambah aktivitas-aktivitas yang mungkin dilakukan.
+
+%part 3
+Kualitas yang ada pada lingkungan binaan waterfront memunculkan preferensi pengguna terhadap lingkungan tersebut. Preferensi penggunaan waterfront dapat diuraikan sebagai berikut:
+\begin{inparaenum}
+\item  Aktivitas bersantai, olahraga, dan laut bertujuan untuk mengembangkan tepi pantai ke area rekreasi \citep{breen1994}. \cite{gospodini2009} menyebutnya sebagai \textit{`Popular leisure epicentres'}.
+\item Jalur pejalan kaki, akuarium, ekologi, dan lahan parkir untuk mengubah tepi laut sebagai area lingkungan(\textit{environment areas}) \citep{costa1990}.
+\item Aktivitas perusahaan, bisnis, rumah sakit, dan tepi laut yang mengubah tepi pantai menjadi lokasi finansial \citep{hoyle1999} \citep{hoyle2000}. \cite{gospodini2009} sering menyebutnya \textit{`entrepreneurial epicentres'}
+\item Rumah mewah, bertujuan untuk menjadikan tepi pantai sebagai area perumahan \citep{dong2004}.
+\item Bangunan-bangunan pelestarian sejarah meliputi hotel, restaurant, teater bahkan sungai untuk menjadikan tepi pantai sebagai kawasan \textit{heritage} \citep{macleod1999}. Atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}.
+	\end{inparaenum}
+
+%part 4
+Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengundang acara internasional. Kota Toronto berinisiatif untuk mengembangkan 6 pengembangan besar, berikut ini: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk Acara Olympic Games 2008\end{inparaenum}\citep{white2016}. Berbeda dengan \citep{mostafa2017} yang meringkas dampak urban dan sosial dari tepi laut yang mengungkapkan kebutuhan didominasi oleh : 1. pelayanan 2. taman 3. aktivitas 4. Shading 5. parkir 6. kafe dan rekreasi.
+
+\section{Preferensi}
+\label{sub:pref}
 
 
 
@@ -244,6 +276,8 @@ Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan ke
 \cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas. Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual mempengaruhi rasa nyaman masyrakat pada ruang publik \citep{monta2019}. Alhasil frekuensi pengunjung pada taman yang memiliki atribut tersebut meningkat.
 
 \subsection{Fasilitas}
+
+Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia\textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}.
 
 Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
 \cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
@@ -261,10 +295,10 @@ Terakhir, atribut hijau dan biru adalah sepadan \citep{kasim2016}. Kedua atribut
 \subsection{Estetika}
 \label{sub:est}
 \cite{ahmad2020} menerjemahkan fitur estetika sebagai ukuran taman, desain layout, landskap, dan keseimbangan matahari. Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks\citep{hradilova2013}.
-Fitur ini lebih terikat dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya.
-Seperti pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
-Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}.
+Fitur ini lebih terikat dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya. Wajar apabila estetika dari sebuah \textit{watercourse} adalah faktor penting dalam membentuk kesempatan untuk pemandangan unik dari sebuah kota \citep{hradilova2013}.
 
+Pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
+Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}.
 Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival needs)}.
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
