@@ -404,15 +404,17 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \chapter{Metodologi Penelitian}\label{chap:method}
 
 \section{Jenis Penelitian}
-Penelitian ini berusaha mencari penyebab preferensi ruang masyarakat yang ada di kawasan tepi laut, dengan menggunakan pendekatan kualitatif dan kuantitatif.
+Penelitian ini berusaha untuk mengetahui alasan preferensi ruang masyarakat yang ada di kawasan tepi laut dengan menggunakan pendekatan kuantitatif rasionalistik.
+Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
+Secara teknis, Azwar menyebutkan bahwa pendekatan kuantitatif menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Dengan begitu, variabel dapat diteliti untuk mengetahui hubungannya dengan preferensi ruang melalui data numerik.
 
 \section{Lokasi dan Waktu Penelitian}
-Kawasan waterfront senggol di Kota Parepare menjadi lokasi penelitian ini. Setelah selesainya pengembangan tepi laut senggol, kawasan ini memanjang dan membentuk ruang baru.
-Adanya perbedaan pemilihan ruang pada lokasi mendorong peneliti untuk mengetahui alasan penyebab masyarakat memilih ruang satu diantara lainnya. Objek yang dipilih berada pada sepanjang Jalan Pinggir Laut, mulai dari Pelabuhan Nusantara hingga Pasar Senggol. Terdapat dua macam ruang publik yang menjadi titik fokus pada penelitian ini terkait preferensi. Objek penelitian dapat dilihat pada gambar \ref{fig:lokzi}.
+Kawasan waterfront senggol di Kota Parepare menjadi lokasi penelitian ini. Setelah selesainya pengembangan tepi laut senggol, kawasan ini memanjang dan membentuk beragam ruang.
+Adanya perbedaan pemilihan ruang pada lokasi mendorong peneliti untuk mengetahui alasan penyebab masyarakat memilih ruang satu diantara lainnya. Objek yang dipilih berada pada sepanjang Jalan Pinggir Laut, mulai dari Pelabuhan Nusantara hingga Pasar Senggol. Terdapat dua macam ruang publik yang menjadi titik fokus pada penelitian ini. Objek penelitian dapat dilihat pada gambar \ref{fig:lokzi}.
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/lokzi.png}
+    \includegraphics[width=0.86\textwidth]{figures/lokzi.png}
     \caption{lokasi penelitian}
     \label{fig:lokzi}
 \end{figure}
@@ -423,8 +425,17 @@ Sementara waktu penelitian ini terjadi pada beberapa rentang waktu yang ditentuk
     \item Periode kepadatan pengunjung yang rendah\\
         Hari Senin-Jumat pada pagi hari pukul 06.00 - 09.00, dimana pengunjung singgah hanya untuk makan atau berdiskusi pada objek penelitian tanpa keinginan berekreasi. Serta pada malam hari, dimana pengunjung berkunjung untuk rekreasi malam.
     \item Periode kepadatan pengujung yang tinggi\\
-        Hari Sabtu dan Minggu pukul 06.00 11.00, yaitu rentang waktu
+        Hari Sabtu dan Minggu pukul 06.00-11.00 adalah waktu kepadatan tinggi saat masyarakat menggunakan kawasan tepi laut sebagai tempat berlibur atau berekreasi serta \textit{last point} bagi pengunjung yang datang setelah berolahraga  dari Lapangan Andi Makassau. Lapangan ini menjadi pusat rekreasi di pusat kota Parepare yang berdekatan dengan tepi laut Senggol. Pemberlakuan \textit{car free day} menunjang keramaian pada waktu ini.
+\end{itemize}
 
+\section{Alat rekam}
+Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data terkait atribut kawasan dan pemetaan pengunjung pada ruang-ruang di tepi laut. Pendekatan kuantitatif mengharuskan tingkat kepekaan yang tinggi dan terpercaya, sehingga membutuhkan alat yang valid dan andal. Alat-alat yang dapat membantu penelitian ini sebagai berikut:
+
+\begin{itemize}
+    \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang keberadaan fitur ruang kawasan tepi laut.
+    \item \textit{Kertas dan alat gambar}, berfungsi untuk merekam preferensi ruang masyarakat.
+    \item \textit{Kuesioner}, berfungsi untuk mengambil data dari partisipan di lapangan untuk selanjutnya diolah.
+    \item \textit{Tabel dan matriks}, sebagai alat untuk menganalisis.
 \end{itemize}
 
 
