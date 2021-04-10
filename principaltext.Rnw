@@ -144,17 +144,17 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \node (pus) [startstop, below of=tuj, yshift=0.5cm] {Studi Pustaka};
 
-\node (kaj) [startstop, below of=pus, text width=3.5cm, xshift= -4cm, yshift=.5cm] {
-	\textbf{Kajian Teori}\\ - Preferensi Ruang\\ - Atribut Kawasan
+\node (kaj) [startstop, below of=pus, text width=4cm, xshift= -4cm, yshift=-.2cm] {
+	\textbf{Kajian Teori}\\ -Ruang publik waterfront\\ - Preferensi Ruang\\ - Atribut Kawasan
 };
 
 
-\node (kaj2) [startstop, below of=pus, text width=3.5cm, xshift= 4cm, yshift=.5cm] {
+\node (kaj2) [startstop, below of=pus, text width=3.5cm, xshift= 4cm, yshift=-.2cm] {
 	\textbf{Gambaran Objek}\\ Ruang Tepi Laut Senggol Parepare
 };
 
 
-\node (hip) [startstop, below of=pus, yshift=-.5cm] {Hipotesa};
+\node (hip) [startstop, below of=pus, yshift=-2cm] {Hipotesa};
 
 
 \node (met) [startstop, below of=hip, yshift=-1cm, text width=7cm] {
@@ -168,7 +168,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 };
 
 \node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel atribut kawasan terhadap variabel preferensi ruang.
+		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel fitur ruang dan sosio-demo terhadap variabel preferensi ruang.
 };
 
 \node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
@@ -266,18 +266,29 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 
 \section{Preferensi}
 \label{sub:pref}
+\cite{huang1997} menjelaskan tentang preferensi berdasarkan pada urutan suatu tempat dalam hal keinginan yang relatif terhadap suatu jenis perilaku.
+Faktor kognisi mungkin penting dalam preferensi yang melibatkan peran dari isi \textit{(content)} \citep{kaplan1987}. Artinya kehadiran suatu isi \textit{(content)} mungkin memiliki pengaruh yang kuat.
+Preferensi untuk ruang tidak bergantung pada ukuran objektif dari tempat tersebut, melainkan informasi yang terfilter yang berdasarkan pada kognisi lingkungan seseorang \citep{huang1997}.
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/pfbox}
+    \caption{Kerangka Konseptual Menggambarkan Bagaiamana Individu Menggunakan Informasi Lingkungan sebagai dasar Perilakunya}
+    \caption*{sumber:\cite{huang1997} }
+    \label{fig:pfbox}
+\end{figure}
 
+Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain.
 
 \section{Fitur Ruang}
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang adalah kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
-\cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas. Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual mempengaruhi rasa nyaman masyrakat pada ruang publik \citep{monta2019}. Alhasil frekuensi pengunjung pada taman yang memiliki atribut tersebut meningkat.
+\cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas. Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}. \cite{beckers2016} menunjukkan bahwa ada pengaruh signifikan dari lingkungan belajar fisik terhadap preferensi ruang untuk belajar siswa. Beberapa aspek yang mendukung seperti preferensi individu untuk privasi, estetika, fasilitas TIK (teknologi informasi dan komunikasi) dan tata letak yang dirasakan.
 
 \subsection{Fasilitas}
 
-Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia\textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}.
+Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia \textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}. Terakhir, desain fasilitas mempengaruhi bagaimana ruang digunakan dan diterima oleh pengguna \citep{lee2017}.
 
 Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
 \cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
@@ -303,8 +314,8 @@ Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dal
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
 
-Penelitian \citep{gao2019} menerangkan teori diatas melalui penemuan bahwa masyarakat lebih cenderung terhadap ruang keterbukaan sedang dan kerapatan vegetasi sedang dimana mendukung seseorang untuk mencapai kebutuhan bertahan dan berkembang.
-Penelitian lain memperkuat teori diatas dengan sejumlah penemuan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat keterbukaan lebih daripada orang kulit putih \citep{elmen2005}.
+Derajat keterbukaan\textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ruang keterbukaan yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai kebutuhan bertahan dan berkembang \citep{gao2019}.
+\citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat keterbukaan lebih daripada orang kulit putih.
 Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}. Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}.
 Pola visual ini mengindikasikan bahwa orang yang tinggal dan bekerja di ruang perkotaan yang sibuk menghargai keberdaan tumbuhan, matahari, dan angin \citep{ahmad2020}.
 Menurut \cite{ostoic2020} dalam preferensi karakter pohon, manusia lebih cenderung terhadap pohon yang tinggi, lebar, dan gugur.
@@ -352,7 +363,7 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 
 \section{Socio-Demografi}
 
-Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Variabel-variabel sosio-demografi mungkin mempengaruhi preferensi ruang\textit{(spatial preference)}\citep{zhao2020}.
+Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Variabel-variabel sosio-demografi mungkin mempengaruhi preferensi ruang\textit{(spatial preference)}\citep{zhao2020}. Pada studi terkait preferensi ruang belajar siswa, karakteristik siswa (socio-demografi) memiliki signifikan, akan tetapi pengaruh yang terbatas \citep{beckers2016}.
 Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
 Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
@@ -364,29 +375,6 @@ Penelitian terkait preferensi ruang publik taman, mengutarakan bahwa status pend
 
 Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan. Perbedaan ras hitam atau putih juga memiliki preferensi ruang tersendiri. Lebih lanjut,orang hitam lebih cenderung pada ruang terbuka dengan lanskap yang terpelihara dan terawat, sedangkan orang kulit putih lebih cenderung pada ruang yang memiliki pepohonan, vegetasi yang rindang, dedaunan yang lebat dan area kayu yang padat  \citep{elmen2005}.
 
-
-
-
-
-
-\begin{comment}
-
-%Ketika berbicara terhadap kebutan terhadap kelompok tertentu
-
-Faktor socio-demografi
-
-- jumlah pengunjung???
-
-dalam pemilihan(preferensi) ruang di tepi laut.
-
-\section{Atribut waterfront}
-
-Kebisingan( noise )
-Kebisingan menjadi faktor penting dalam pemilihan sebuah ruang publik.
-Facility ( )
-
-\end{comment}
-
 \section{Kerangka Penelitian}
 
 
@@ -397,53 +385,50 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (tit) [startstop, text width= 5cm] {Preferensi Ruang Masyarakat Parepare};
+	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur Ruang}\\\small(fasilitas,estetika,keamanan,kebisingan, dan pemeliharaan)};
 
-	\node (va1) [startstop, below of=tit, text width=5cm, xshift=-3cm] {Variabel Bebas\\ Atribut Ruang};
+	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Socio-demo}\\\small(gender,umur,status,pendidikan, dan ras)};
 
-	\node (va2) [startstop, below of=tit, text width=5cm, xshift=3cm] {Variabel Terikat\\ Preferensi Ruang Masyarakat};
+	\node (pre) [startstop, right of=fit, text width= 5cm,yshift=-2.5cm, xshift=4cm] {\textbf{Preferensi Ruang}\\ Ruang A atau Ruang B};
 
-	\node (de1) [startstop, below of=va1, text width=5cm, yshift=-2cm] {
-		\textbf{Sub Variabel Bebas}\\
-            - Socio-Demografi(Umur, Usia, Jenis Kelamin) \\
-            - Fitur ruang/taman(eg. kebisingan, fasilitas, estetika, keamanan, pemeliharaan)\\
 
-	};
-	\node (de2) [startstop, below of=va2, text width=5cm, yshift=-2cm] {
-			\textbf{Sub Variable Terikat}\\
-            - Ruang A \\
-            - Ruang B \\
-		};
-\draw [arrow] (tit) -| (va1);
-\draw [arrow] (va1) -- (de1);
-\draw [arrow] (tit) -| (va2);
-\draw [arrow] (va2) -- (de2);
+\draw [arrow] (fit) -- (pre);
+\draw [arrow] (soc) -- (pre);
+
 
 \end{tikzpicture}
 \caption{Alur Pikir}
 \end{figure}
 
-\begin{comment}
-        - Karakter fisik \\
-        encloser, shadow, pond
-        - Elemen Alami/penghijauan \\
-		- Soundscape \\
-        - Aksesibilitas
-        - Keterbukaan(encloser)
-
-
-		- Rekreasi \textit{stress relief} \\
-        - Rasa aman \\
-        - Estetika \\
-        -
-
 
 \chapter{Metodologi Penelitian}\label{chap:method}
 
-\section{Metode dan Jenis Penelitian}
+\section{Jenis Penelitian}
+Penelitian ini berusaha mencari penyebab preferensi ruang masyarakat yang ada di kawasan tepi laut, dengan menggunakan pendekatan kualitatif dan kuantitatif.
 
-\lipsum[2-4]
+\section{Lokasi dan Waktu Penelitian}
+Kawasan waterfront senggol di Kota Parepare menjadi lokasi penelitian ini. Setelah selesainya pengembangan tepi laut senggol, kawasan ini memanjang dan membentuk ruang baru.
+Adanya perbedaan pemilihan ruang pada lokasi mendorong peneliti untuk mengetahui alasan penyebab masyarakat memilih ruang satu diantara lainnya. Objek yang dipilih berada pada sepanjang Jalan Pinggir Laut, mulai dari Pelabuhan Nusantara hingga Pasar Senggol. Terdapat dua macam ruang publik yang menjadi titik fokus pada penelitian ini terkait preferensi. Objek penelitian dapat dilihat pada gambar \ref{fig:lokzi}.
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/lokzi.png}
+    \caption{lokasi penelitian}
+    \label{fig:lokzi}
+\end{figure}
+
+Sementara waktu penelitian ini terjadi pada beberapa rentang waktu yang ditentukan berdasarkan kepadatan pengunjung objek penelitian. Adapun kepadatan pengunjung terjadi pada:
+
+\begin{itemize}
+    \item Periode kepadatan pengunjung yang rendah\\
+        Hari Senin-Jumat pada pagi hari pukul 06.00 - 09.00, dimana pengunjung singgah hanya untuk makan atau berdiskusi pada objek penelitian tanpa keinginan berekreasi. Serta pada malam hari, dimana pengunjung berkunjung untuk rekreasi malam.
+    \item Periode kepadatan pengujung yang tinggi\\
+        Hari Sabtu dan Minggu pukul 06.00 11.00, yaitu rentang waktu
+
+\end{itemize}
+
+
+\begin{comment}
 \section{ Knitr child Documents}
 You should note that using knitr package you can easily incorporate difference kinds of files into a project.
 
