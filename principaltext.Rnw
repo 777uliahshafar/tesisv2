@@ -414,8 +414,8 @@ Adanya perbedaan pemilihan ruang pada lokasi mendorong peneliti untuk mengetahui
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.86\textwidth]{figures/lokzi.png}
-    \caption{lokasi penelitian}
+    \includegraphics[width=0.86\textwidth]{figures/lokzi}
+    \caption{Lokasi Kota Parepare}
     \label{fig:lokzi}
 \end{figure}
 
@@ -437,6 +437,62 @@ Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data 
     \item \textit{Kuesioner}, berfungsi untuk mengambil data dari partisipan di lapangan untuk selanjutnya diolah.
     \item \textit{Tabel dan matriks}, sebagai alat untuk menganalisis.
 \end{itemize}
+
+\section{Langkah-langkah penelitian}
+Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penelitiannya di Indonesia. Kondisi Indonesia sebagai negara kepulauan membuat perencanaan \textit{waterfront} menemui permintaan tinggi oleh penduduk di kota pesisir. Namun perencanaan setiap tepi laut tidak serta merta memenuhi permintaan penduduk dengan segala macam kebutuhan  dan beragam latar belakang terhadap area pesisir. Perlunya untuk mengetahui kebutuhan masyarakat melalui preferensi ruang di kawasan tepi laut menjadi tujuan penelitian ini. Penelitian mengharuskan merencanakan langkah-langkah yang dipelukan untuk mencapai hasil jelas dan optimal.
+ Langkah-langkah yang tersusun adalah sebagai berikut:
+
+ \begin{itemize}
+     \item Studi pendahuluan, langkah awal ini mengikuti metode pendekatan kuantitatif rasionalistik. Pendekatan ini memerlukan kerangka teoritik yang disusun dari teori-teori dan buah pikiran para pakar untuk dikontruksikan menjadi konsep utama dengan pembahasan yang bersifat holistik  dan disesuaikan dengan konteks penelitiannya \citep{muhadjir1996}. Sehingga ada landasan teori yang digunakan dalam menelitii topik penelitian dan memahami kondisi lapangan berdasarkan perspektif tertentu.
+     \item Langkah kedua adalah observasi dan penyebaran kuesioner yang telah tersusun berdasarkan kajian teori. Isi dari kuesioner ini berasal dari variabel-variabel yang muncul pada teori dan layak sebagai acuan dalam melakukan observasi di lapangan.
+     \item Setelah memperoleh hasil dari observasi, peneliti menganalisa data yang terkumpulkan dengan menggunakan metode tertentu dalam mendapatkan suatu temuan. Data yang terkumpulkan dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
+     \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
+ \end{itemize}
+
+\section{Teknik pengumpulan data}
+\subsection{Data Primer}
+
+Data primer merupakan informasi yang didapatkan dari objek penelitian melalui kuesioner, wawancara, dan pengamatan langsung.
+
+
+\subsection{Data Sekunder}
+Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.
+
+\chapter{Objek Penelitian}\label{chap:obj}
+
+\section{Tinjauan Umum Kota Parepare}
+
+Kota Parepare adalah kota tempat kelahiran presiden ke-3 Indonesia BJ Habibie. Istilah tersebut menjadi ikon bagi Parepare untuk memajukan aspek kepariwisataan. Peningkatan kepariwisataan Parepare mendorong kemajuan kawasan pesisir. Tujuan dari kemajuan ini adalah untuk menarik masyarakat untuk berkunjung ke \textit{waterfront}. Parepare memiliki potensi untuk mengembangkan tepi laut yang ramai, berhasil dan berkelanjutan.
+
+Daerah ini memiliki 4 kecamatan dan  22 kelurahan. Keempat kecamatan tersebut yaitu Ujung, Soreang, Bacukiki dan Bacukiki Barat. Parepare memiliki kondisi geografis menghadap ke selat Makassar dan berada di garis teluk Parepare \citep{uliah2019}. Area laut ini memiliki kedalaman dibawah 100 meter \citep{petatematikindo2013}.
+Secara administratif Parepare memiliki batasan wilayah sebagai berikut:
+
+    \begin{tabular}{l l}
+    Sebelah Utara &: Kabupaten Pinrang\\
+    Sebelah Timur &: Kabupaten Sidenreng Rappang\\
+    Sebelah Barat &: Selat Makassar atau Teluk Parepare\\
+    Sebelah Selatan &: Kabupaten Barru\\
+    \end{tabular}
+
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.98\textwidth]{figures/admpare}
+    \caption{Peta Administrasi Kota Parepare}
+    \caption*{sumber: \citep{petatematikindo2013}}
+    \label{fig:admpare}
+\end{figure}
+
+\section{Tinjauan Kawasan Waterfront}
+Kawasan tepi laut merupakah daerah paling barat di kota Parepare. Daerah yang berbatasan laut ini mempunyai banyak tempat menarik di sekitarnya. Pada sebelah utara tempat ini berbatasan dengan Pasar Senggol, pada sebelah selatan terdapat Pelabuhan Nusantara, sedangkan pada sebelah timur ada Perumahan dan Lapangan. Selain itu, kawasan tepi laut ini berada di Kecamatan Ujung, Parepare. Menurut \citep{bpskotaparepare2020} pada tahun 2018, kecamatan ini memiliki jumlah pasar dan restauran paling banyak dengan jumlah unit 4 dan 30, berurutan. Terakhir berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol ini merupakan kawasan strategis kota (KSK) untuk pengembangan PKL dalam kepentingan pertumbuhan ekonomi.
+
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.86\textwidth]{figures/lokzi2}
+    \caption{Peta lokasi penelitian}
+    \label{fig:lokzi2}
+\end{figure}
 
 
 \begin{comment}
