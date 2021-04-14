@@ -438,25 +438,45 @@ Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data 
     \item \textit{Tabel dan matriks}, sebagai alat untuk menganalisis.
 \end{itemize}
 
-\section{Langkah-langkah penelitian}
+\section{Langkah-langkah Penelitian}
 Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penelitiannya di Indonesia. Kondisi Indonesia sebagai negara kepulauan membuat perencanaan \textit{waterfront} menemui permintaan tinggi oleh penduduk di kota pesisir. Namun perencanaan setiap tepi laut tidak serta merta memenuhi permintaan penduduk dengan segala macam kebutuhan  dan beragam latar belakang terhadap area pesisir. Perlunya untuk mengetahui kebutuhan masyarakat melalui preferensi ruang di kawasan tepi laut menjadi tujuan penelitian ini. Penelitian mengharuskan merencanakan langkah-langkah yang dipelukan untuk mencapai hasil jelas dan optimal.
  Langkah-langkah yang tersusun adalah sebagai berikut:
 
  \begin{itemize}
      \item Studi pendahuluan, langkah awal ini mengikuti metode pendekatan kuantitatif rasionalistik. Pendekatan ini memerlukan kerangka teoritik yang disusun dari teori-teori dan buah pikiran para pakar untuk dikontruksikan menjadi konsep utama dengan pembahasan yang bersifat holistik  dan disesuaikan dengan konteks penelitiannya \citep{muhadjir1996}. Sehingga ada landasan teori yang digunakan dalam menelitii topik penelitian dan memahami kondisi lapangan berdasarkan perspektif tertentu.
      \item Langkah kedua adalah observasi dan penyebaran kuesioner yang telah tersusun berdasarkan kajian teori. Isi dari kuesioner ini berasal dari variabel-variabel yang muncul pada teori dan layak sebagai acuan dalam melakukan observasi di lapangan.
-     \item Setelah memperoleh hasil dari observasi, peneliti menganalisa data yang terkumpulkan dengan menggunakan metode tertentu dalam mendapatkan suatu temuan. Data yang terkumpulkan dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
+     \item Setelah memperoleh hasil dari observasi, peneliti menganalisis data yang terkumpulkan dengan menggunakan metode tertentu dalam mendapatkan suatu temuan. Data yang terkumpulkan dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
      \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
  \end{itemize}
 
-\section{Teknik pengumpulan data}
+\section{Metode Penentuan Sampel}
+Populasi adalah sekelompok subjek atau objek yang menjadi sasaran penelitian. Sekelompok tersebut dapat berupa manusia, hewan, tumbuhan atau objek keseluruhan \citep{bungin2005}.
+Peneliti perlu menentukan terlebih dahulu apa batasan wilayah, objek atau peristiwa yang hendak diselidiki.
+Umumnya peneliti menetapkan kualitas dan karakteristik dari objek/subjek suatu populasi untuk dipelajari dan diambil kesimpulan \citep{sugiyono2010}. Hal ini mempermudah untuk mengetahui keluasan populasi yang tercakup didalamnya \citep{sudjarwo2009}.
+Semua karakteristik atau kualitas yang ada pada individu, objek, atau peristiwa sebaiknya terwakili agar penelitian mencakup keseluruhan karakteristik pada unit tersebut \citep{prof2016}.
+
+Populasi dalam penelitian ini berasal dari pengunjung kawasan \textit{waterfront}. Mereka adalah masyarakat kota Parepare yang tinggal dekat maupun jauh dari objek penelitian. Serta memiliki pemahaman kognisi terhadap kondisi atau karakteristik dari \textit{waterfront}. Peneliti tidak mentukan jumlah populasi dikarena kawasan yang diteliti merupakan ruang publik yang mana siapa saja dapat mengunjunginya kapanpun.
+
+Setelah menentukan batasan populasi, peneliti meringkas lagi subjek penelitian agar penelitian berjalan lebih mudah. Membangun sampel artinya mengambil bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Dengan syarat sampel dapat mewakili populasi yang telah ditentukan.
+
+
+
+Singkatknya sampel adalah bagian dari populasi yang terpilih untuk mewakili populasi tersebut.
+
+\section{Metode Pengumpulan Data}
 \subsection{Data Primer}
 
-Data primer merupakan informasi yang didapatkan dari objek penelitian melalui kuesioner, wawancara, dan pengamatan langsung.
+Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung, kuesioner dan wawancara. Sumber data tersebut berasal dari partisipan kawasan tepi laut Senggol, khususnya mereka yang menjawab seluruh daftar item/pertanyaan yang tersedia di kuesioner. Untuk mencapai kecukupan data, maka peneliti mengadakan wawancara juga.
+
+Pengamatan langsung atau observasi atau \textit{observation} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
+Adapun yang menjadi perhatian adalah bagaimana kecenderungan ruang pengunjung \textit{waterfront} senggol dan aspek apa saja yang mempengaruhi kecenderungannya tersebut.
+Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
+
+Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang tersusun secara sistematis untuk menjawab suatu pertanyaan penelitian. Peneliti menyajikan daftar pertanyaan untuk dijawab oleh partisipan yang memiliki kompetensi dan cocok sebagai subjek penelitian. Penelitian ini menggunakan jenis kuesioner langsung tertutup, yang menyediakan pilihan jawaban untuk setiap pertanyaan.
 
 
 \subsection{Data Sekunder}
-Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.
+Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder sangat bermanfaat untuk penelitian kuantitatif karena lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
 
 \chapter{Objek Penelitian}\label{chap:obj}
 
