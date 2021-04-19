@@ -168,7 +168,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 };
 
 \node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel fitur ruang dan sosio-demo terhadap variabel preferensi ruang.
+		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel atribut lingkungan dan sosio-demo terhadap variabel preferensi ruang.
 };
 
 \node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
@@ -266,9 +266,11 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 
 \section{Preferensi}
 \label{sub:pref}
-\cite{huang1997} menjelaskan tentang preferensi berdasarkan pada urutan suatu tempat dalam hal keinginan yang relatif terhadap suatu jenis perilaku.
-Faktor kognisi mungkin penting dalam preferensi yang melibatkan peran dari isi \textit{(content)} \citep{kaplan1987}. Artinya kehadiran suatu isi \textit{(content)} mungkin memiliki pengaruh yang kuat.
-Preferensi untuk ruang tidak bergantung pada ukuran objektif dari tempat tersebut, melainkan informasi yang terfilter yang berdasarkan pada kognisi lingkungan seseorang \citep{huang1997}.
+Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari tumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
+\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
+
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}
+Alhasil, menurut \cite{jamila2016} preferensi merupakan tolak ukur dalam menilai keberhasilan suatu taman kota.
 
 \begin{figure}[htpb]
     \centering
@@ -278,30 +280,42 @@ Preferensi untuk ruang tidak bergantung pada ukuran objektif dari tempat tersebu
     \label{fig:pfbox}
 \end{figure}
 
-Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain.
 
-\section{Fitur Ruang}
+\section{Atribut Lingkungan}
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
-Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}. \cite{wang2021} merumuskan fitur ruang adalah kebisingan, fasilitas, keamanan, estetika, dan pemeliharaan.
-\cite{balai2020} mengungkapkan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas. Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}. \cite{beckers2016} menunjukkan bahwa ada pengaruh signifikan dari lingkungan belajar fisik terhadap preferensi ruang untuk belajar siswa. Beberapa aspek yang mendukung seperti preferensi individu untuk privasi, estetika, fasilitas TIK (teknologi informasi dan komunikasi) dan tata letak yang dirasakan.
+Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}.
+Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau kebisingan kondisi sekitar)
+Beberapa istilah terkait atribut lingkungan muncul pada penelitian lain misalnya fitur lingkungan \citep{alves2008} dan karakteristik lingkungan \citep{dwiputra2017}.
+\cite{zhang2020} menggunakan preferensi ruang(lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
+
+
+Atribut lingkungan yang dapat menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
+Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berperan penting terhadap preferensi taman lokal \citep{alves2008}.
+Adapun fitur-fitur yang muncul adalah jarak, kemunculan \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}. Sedangkan penelitian terkait preferensi taman kota terdiri atas unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
+Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
+
+Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
+\cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
+Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual juga mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}.
+
+%\cite{beckers2016} menunjukkan bahwa ada pengaruh signifikan dari lingkungan belajar fisik terhadap preferensi ruang untuk belajar siswa. Beberapa aspek yang mendukung seperti preferensi individu untuk privasi, estetika, fasilitas TIK (teknologi informasi dan komunikasi) dan tata letak yang dirasakan.
 
 \subsection{Fasilitas}
 
-Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia \textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}. Terakhir, desain fasilitas mempengaruhi bagaimana ruang digunakan dan diterima oleh pengguna \citep{lee2017}.
+Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia \textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. Ketika orang telah mengetahui alasannya untuk mengunjungi sebuah taman maka ini juga dapat membentuk pilihan mereka. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}. Terakhir, desain fasilitas mempengaruhi bagaimana ruang digunakan dan diterima oleh pengguna \citep{lee2017}.
 
 Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
 \cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
 Pernyataan ini mewakili preferensi ruang berdasarkan socio-demografi juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
-Hal ini memperkuat alasan kecenderungan ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
-Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khsus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
+Hal ini memperkuat alasan preferensi ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
+Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khusus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
 Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
 
 Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
-\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Namun pada penelitian lain, ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}. Lebih spesifik, \cite{huang2020} mengungkapkan tipe vegetasi dapat mempengaruhi preferensi lanskap, yang mana ikutserta dalam memberi dampak terhadap kesejahteraan masyarakat.
-
+\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
 Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
-Terakhir, atribut hijau dan biru adalah sepadan \citep{kasim2016}. Kedua atribut tadi kehadirannya dicenderungi oleh manusia berdasarkan penjelasan \citep{ostoic2020}
+\cite{kasim2016} menuturkan atribut hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi ruang suatu pengunjung ruang publik.
 
 \subsection{Estetika}
 \label{sub:est}
@@ -362,6 +376,7 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 
 
 \section{Socio-Demografi}
+%%tak ea look on a landscape prference study of campus hal 74
 
 Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Variabel-variabel sosio-demografi mungkin mempengaruhi preferensi ruang\textit{(spatial preference)}\citep{zhao2020}. Pada studi terkait preferensi ruang belajar siswa, karakteristik siswa (socio-demografi) memiliki signifikan, akan tetapi pengaruh yang terbatas \citep{beckers2016}.
 Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
@@ -385,7 +400,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur Ruang}\\\small(fasilitas,estetika,keamanan,kebisingan, dan pemeliharaan)};
+	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur lingkungan}\\\small(fasilitas,estetika,keamanan,kebisingan, dan pemeliharaan)};
 
 	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Socio-demo}\\\small(gender,umur,status,pendidikan, dan ras)};
 
@@ -432,7 +447,7 @@ Sementara waktu penelitian ini terjadi pada beberapa rentang waktu yang ditentuk
 Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data terkait atribut kawasan dan pemetaan pengunjung pada ruang-ruang di tepi laut. Pendekatan kuantitatif mengharuskan tingkat kepekaan yang tinggi dan terpercaya, sehingga membutuhkan alat yang valid dan andal. Alat-alat yang dapat membantu penelitian ini sebagai berikut:
 
 \begin{itemize}
-    \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang keberadaan fitur ruang kawasan tepi laut.
+    \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang keberadaan fitur kawasan tepi laut.
     \item \textit{Kertas dan alat gambar}, berfungsi untuk merekam preferensi ruang masyarakat.
     \item \textit{Kuesioner}, berfungsi untuk mengambil data dari partisipan di lapangan untuk selanjutnya diolah.
     \item \textit{Tabel dan matriks}, sebagai alat untuk menganalisis.
@@ -449,6 +464,9 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
      \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
  \end{itemize}
 
+%% Instrumen penelitian
+
+
 \section{Metode Penentuan Sampel}
 Populasi adalah sekelompok subjek atau objek yang menjadi sasaran penelitian. Sekelompok tersebut dapat berupa manusia, hewan, tumbuhan atau objek keseluruhan \citep{bungin2005}.
 Peneliti perlu menentukan terlebih dahulu apa batasan wilayah, objek atau peristiwa yang hendak diselidiki.
@@ -457,11 +475,17 @@ Semua karakteristik atau kualitas yang ada pada individu, objek, atau peristiwa 
 
 Populasi dalam penelitian ini berasal dari pengunjung kawasan \textit{waterfront}. Mereka adalah masyarakat kota Parepare yang tinggal dekat maupun jauh dari objek penelitian. Serta memiliki pemahaman kognisi terhadap kondisi atau karakteristik dari \textit{waterfront}. Peneliti tidak mentukan jumlah populasi dikarena kawasan yang diteliti merupakan ruang publik yang mana siapa saja dapat mengunjunginya kapanpun.
 
-Setelah menentukan batasan populasi, peneliti meringkas lagi subjek penelitian agar penelitian berjalan lebih mudah. Membangun sampel artinya mengambil bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Dengan syarat sampel dapat mewakili populasi yang telah ditentukan.
+Setelah menentukan batasan populasi, peneliti meringkas lagi subjek penelitian agar penelitian berjalan lebih mudah. Membangun sampel artinya mengambil bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Dengan syarat sampel dapat mewakili populasi yang telah ditentukan. Seperti contoh apabila populasi memiliki 5 karakteristik dan kualitas, maka harus mencakup kelima karakteristik tersebut dan mengambil sebagian kecil dari masing-masing karaktersitik sesuai dengan teknik dalam menentukan besar ukuran sampel \citep{prof2016}.
+
+Penelitian ini menggunakan sampel dengan karakteristik subjek  berumur 14 tahun keatas dan pengunjung tepi laut Senggol.
+Peneliti menggunakan sampel jenis \textit{non-random} untuk mengumpulkan data kuantitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
+Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian. Untuk menentukan sampel, penelitian ini menggunakan teknik \textit{accidental sampling}. Teknik ini menentukan sampel secara kebetulan, artinya peneliti/\textit{surveyor} menentukan siapa saja yang ditemui di objek penelitian asal sesuai dengan kriteria\citep{sugiyono2010}.
+
+Penelitian ini menggunakan target jumlah besaran sampel sesuai dengan aturan yang ada.
+Berdasarkan aturan \textit{Roscoe} jumlah besaran yang layak adalah 30 hingga 500, hal ini juga berlaku pada setiap kategori jika sampel terkategorikan. Apabila penelitian melakukan analisis \textit{multivariate} (korelasi atau regresi ganda), maka jumlah variabel sampel harus dikalikan 10. Dari hasil rumusan diatas maka penelitian ini mengambil 99 orang sebagai sampel sesuai dengan kriteria yang ditetapkan.
 
 
 
-Singkatknya sampel adalah bagian dari populasi yang terpilih untuk mewakili populasi tersebut.
 
 \section{Metode Pengumpulan Data}
 \subsection{Data Primer}
