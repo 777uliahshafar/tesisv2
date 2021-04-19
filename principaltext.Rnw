@@ -269,13 +269,14 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari tumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
 \cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
 
+
 Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}
 Alhasil, menurut \cite{jamila2016} preferensi merupakan tolak ukur dalam menilai keberhasilan suatu taman kota.
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/pfbox}
-    \caption{Kerangka Konseptual Menggambarkan Bagaiamana Individu Menggunakan Informasi Lingkungan sebagai dasar Perilakunya}
+    \includegraphics[width=0.8\textwidth]{figures/pfbox2}
+    \caption{Kerangka Konseptual Perilaku Pemilihan Kawasan Rekreasi}
     \caption*{sumber:\cite{huang1997} }
     \label{fig:pfbox}
 \end{figure}
@@ -289,11 +290,12 @@ Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau ke
 Beberapa istilah terkait atribut lingkungan muncul pada penelitian lain misalnya fitur lingkungan \citep{alves2008} dan karakteristik lingkungan \citep{dwiputra2017}.
 \cite{zhang2020} menggunakan preferensi ruang(lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
 
-
-Atribut lingkungan yang dapat menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
-Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berperan penting terhadap preferensi taman lokal \citep{alves2008}.
-Adapun fitur-fitur yang muncul adalah jarak, kemunculan \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}. Sedangkan penelitian terkait preferensi taman kota terdiri atas unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
+Atribut lingkungan yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
+Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berperan penting terhadap preferensi taman lokal, seperti jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
+\cite{huang1997} mendefinisikan ini sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika(keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine, sejarah dan budaya, fasilitas rekreasi, dan danau.
+Sedangkan dalam penelitian preferensi taman kota terdiri dari unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
 Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
+Berdasarkan penemuan diatas, maka penelitian mencakup fitur ruang antara lain fasilitas, estetika, pemeliharaan, keamanan dan kebisingan.
 
 Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
 \cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
@@ -347,17 +349,6 @@ Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruan
 Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap rasa aman adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Contohnya, menurut \cite{luo2021} bahwa adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Namun kehadiran orang yang berlebihan dapat menurunkan rasa aman \citep{zhang2021}
 Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) dan hilangnya sampah/grafiti mungkin mempengaruhi presepsi keamanan dan estetika \citep{van2016}. Lebih lanjut, kedua aspek tersebut adalah faktor penting dalam peningkatan kunjungan taman \citep{veitch2017}.
 
-
-\subsection{Kebisingan}
-\label{sub:kebisingan}
-
-Kebisingan atau polusi suara adalah isu lingkungan yang sangat melekat pada kehidupan sehari-hari bersama polusi udara dan temperatur panas \citep{zhang2020}. Seseorang rela untuk membayar lebih untuk mengatasi isu lingkungan ini. Pada penelitian lain menyebutkan bahwa pengunjung atau partisipan sangat memperhatikan pengurangan kebisingan beserta temperatur dan peningkatan udara \citep{zhang2021}.
-Beberapa menuturkan laki-laki memiliki sedikit kepekaan terhadap isu ini dibanding perempuan \citep{zhang2020,lin2011}. Lebih lanjut, faktor socio-demografi seperti pendidikan berpengaruh signifikan terhadap penerimaan kualitas kebisingan daripada pekerjaan dan gender \citep{lin2011}.
-
-Berdasarkan sejumlah penelitian kategori sumber suara adalah manusia, mekanik, buatan, dan alam \citep{yu2010,ma2021,monta2019,zhao2020}. Efek kebisingan terhadap preferensi terungkap pada sejumlah penelitian.
-Salah satunya penelitian terhadap pemilihan rute di ruang perkotaan, faktor kebisingan mempengaruhi keputusan preferensi rute untuk jalan-jalan rekreasi di seputar area perkotaan. Semakin tinggi kebisingan yang dihasilkan semakin kecil preferensi untuk berjalan di rute tertentu \citep{bunds2019}.
-Penelitian lain mejabarkan preferensi ruang komersial dan cagar budaya lebih tinggi dibanding ruang preservasi sejarah dan alami. Artinya ruang preservasi sejarah dan alami perlu mengurangi suara buatan dan manusia serta meningkatkan suara alami \citep{zhao2020}.
-Suara mobil dan motor menjadi sumber suara yang mengganggu kenyamanan akustik, berbeda dengan suara anak-anak bermain,air, obrolan, dan bisnis mendukung kenyamanan akustik di \textit{historic square}\citep{monta2019}.
 
 
 
