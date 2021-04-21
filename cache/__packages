@@ -1,0 +1,15 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+nvimcom
+knitr
+scales
+dplyr
+ggplot2
+colorout
+xtable
+data.table

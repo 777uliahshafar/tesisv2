@@ -269,8 +269,7 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari tumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
 \cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
 
-
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}.
 Alhasil, menurut \cite{jamila2016} preferensi merupakan tolak ukur dalam menilai keberhasilan suatu taman kota.
 
 \begin{figure}[htpb]
@@ -295,13 +294,22 @@ Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berpe
 \cite{huang1997} mendefinisikan ini sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika(keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine, sejarah dan budaya, fasilitas rekreasi, dan danau.
 Sedangkan dalam penelitian preferensi taman kota terdiri dari unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
 Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
-Berdasarkan penemuan diatas, maka penelitian mencakup fitur ruang antara lain fasilitas, estetika, pemeliharaan, keamanan dan kebisingan.
+Fitur ruang juga muncul pada penelitian terkait preferensi ruang kota sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebutkan fitur ruang sebagai karakteristik antara lain: aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang.
+Berdasarkan penemuan diatas, maka penelitian mencakup fitur ruang antara lain akses, fasilitas, estetika, pemeliharaan, dan keamanan.
 
 Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
 \cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
 Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual juga mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}.
 
 %\cite{beckers2016} menunjukkan bahwa ada pengaruh signifikan dari lingkungan belajar fisik terhadap preferensi ruang untuk belajar siswa. Beberapa aspek yang mendukung seperti preferensi individu untuk privasi, estetika, fasilitas TIK (teknologi informasi dan komunikasi) dan tata letak yang dirasakan.
+
+
+
+\subsection{Aksesibilitas}
+Aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu \citep{larosa2018}. Ini dapat dirasakan orang yang berbeda sesuai dengan kebutuhan dan preferensinya. Aksesbilitas menjadi penting untuk kesehatan masyarakat dan kesejahteraannya. Sehingga akses sangat penting untuk mengalami suatu tempat \textit{(settings)}.
+Pada penelitian terhadap preferensi penduduk manula untuk ruang publik hijau, \citep{arnberger2017} menemukan manula lebih menyukai aksesibilitas yang mudah serta menarik dan sunyi. Taman Hisaya Odori contohnya memiliki nilai yang tinggi disebabkan lokasinya yang berpusat diantara area komersial yang membuatnya lebih mudah diakses. Contoh lain pada penelitian terhadap lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki fitur ruang seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}.
+Kualitas yang bagus dari aksesibilitas dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Sebaliknya, kurangnya akses terhadap lingkungan dan fasilitas dapat berdampak lebih besar terhadap kesehatan dan kesejahteraan orang berpendapatan rendah dibanding yang tinggi \citep{talen1998}. Pada penelitian aksesibilitas untuk penyandang disabilitas menyebutkan, tingkat aksesibilitas dapat disebabkan oleh penghalang \textit{external} dan \textit{internal} serta kurangnya informasi adanya tempat yang aksesibel \citep{brown1999}.
+
 
 \subsection{Fasilitas}
 
@@ -321,11 +329,11 @@ Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman
 
 \subsection{Estetika}
 \label{sub:est}
-\cite{ahmad2020} menerjemahkan fitur estetika sebagai ukuran taman, desain layout, landskap, dan keseimbangan matahari. Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks\citep{hradilova2013}.
+\cite{ahmad2020} menerjemahkan fitur estetika sebagai ukuran taman, desain layout, lanskap, dan keseimbangan matahari. Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks\citep{hradilova2013}.
 Fitur ini lebih terikat dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya. Wajar apabila estetika dari sebuah \textit{watercourse} adalah faktor penting dalam membentuk kesempatan untuk pemandangan unik dari sebuah kota \citep{hradilova2013}.
 
 Pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
-Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}.
+Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}. Sama halnya, elemen lanskap yang mendukung estetika akan lebih mudah dicenderungi sepeti \textit{broadwalk} \citep{hwang2019}.
 Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival needs)}.
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
@@ -363,14 +371,40 @@ Menurut \cite{mertens2019} pemeliharaan sebuah taman tergambar dalam 3 tingkatan
 
 Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \citep{mertens2019,van2016,anas2009}. \cite{van2016} menerangkan anak-anak sekolah menengah pertama di Amerika Serikat lebih tertarik pada taman dengan pemeliharan dan kebersihan yang sesuai. \cite{mertens2019} menyimpulkan strategi pemiliharaan yang baik merupakan langkah yang bagus untuk menarik pengunjung pada taman kota. Dengan demikian, pemeliharan mungkin mempengaruhi preferensi ruang.
 
+\begin{table}[htpb]
+    \centering
+    \caption{Variabel Fitur Ruang (fisik)}
+    \label{tab:var}
+    \begin{tabular}{l p{3.4cm} l}
+        \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
+        \toprule
+\multirow{ 3}{*}{1.} & \multirow{ 3}{*}{Akses} & Lebar jalan\\
+& & Kedekatan fasilitas\\
+& & \\
+\multirow{ 3}{*}{2.} & \multirow{ 3}{*}{Fasilitas} & Kehadiran fitur buatan\\
+& & Kehadiran fitur hijau \\
+& & Kehadiran fitur biru\\
+& & \\
+\multirow{ 3}{*}{3.} & \multirow{ 3}{*}{Estetika} & Kerapatan vegetasi\\
+& & Kehadiran tumbuhan\\
+& & \\
+
+\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Keamanan} & Tingkat keterbukaan\\
+& & Keramaian \\
+& & \\
+
+\multirow{ 3}{*}{5.} & \multirow{ 3}{*}{Pemeliharaan} & Kondisi rumput \\
+& & Grafiti \\
+& & Sampah\\
+
+    \end{tabular}
+\end{table}
 
 
 
 \section{Socio-Demografi}
 %%tak ea look on a landscape prference study of campus hal 74
-
-Socio-demografi memiliki asosiasi terhadap frekuensi penggunaan suatu taman kota \citep{azagew2020}. Variabel-variabel sosio-demografi mungkin mempengaruhi preferensi ruang\textit{(spatial preference)}\citep{zhao2020}. Pada studi terkait preferensi ruang belajar siswa, karakteristik siswa (socio-demografi) memiliki signifikan, akan tetapi pengaruh yang terbatas \citep{beckers2016}.
-Namun \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
+Penelitian tentang taman perkotaan, variabel sosio-demografi mempengaruhi preferensi ruang\textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
 Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 Berbicara socio-demografi, aspek umur dan status sosial lebih sering muncul pada penelitian.
@@ -381,6 +415,34 @@ Penelitian terkait preferensi ruang publik taman, mengutarakan bahwa status pend
 
 Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan. Perbedaan ras hitam atau putih juga memiliki preferensi ruang tersendiri. Lebih lanjut,orang hitam lebih cenderung pada ruang terbuka dengan lanskap yang terpelihara dan terawat, sedangkan orang kulit putih lebih cenderung pada ruang yang memiliki pepohonan, vegetasi yang rindang, dedaunan yang lebat dan area kayu yang padat  \citep{elmen2005}.
 
+
+
+\begin{table}[htpb]
+    \centering
+    \caption{Variabel Socio-demografi}
+    \label{tab:var2}
+    \begin{tabular}{l p{3.4cm} l}
+    \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
+        \toprule
+    \multirow{ 4}{*}{1.} & \multirow{ 4}{*}{Umur} & 14-25 \\
+    & & 26-44\\
+    & & 45-64\\
+    & & \\
+    \multirow{ 3}{*}{2.} & \multirow{ 3}{*}{Gender} & Laki-laki \\
+    & & Perempuan\\
+    & & \\
+    \multirow{ 3}{*}{3.} & \multirow{ 3}{*}{Ras} & Minoritas\\
+    & & Mayoritas\\
+    & & \\
+    \multirow{ 4}{*}{4.} & \multirow{ 4}{*}{Pendapatan} & Tinggi\\
+    & & Sedang\\
+    & & Rendah\\
+    & & \\
+
+    \end{tabular}
+\end{table}
+
+\newpage
 \section{Kerangka Penelitian}
 
 
@@ -393,7 +455,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 
 	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur lingkungan}\\\small(fasilitas,estetika,keamanan,kebisingan, dan pemeliharaan)};
 
-	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Socio-demo}\\\small(gender,umur,status,pendidikan, dan ras)};
+	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Socio-demo}\\\small(umur,gender,ras dan pendapatan)};
 
 	\node (pre) [startstop, right of=fit, text width= 5cm,yshift=-2.5cm, xshift=4cm] {\textbf{Preferensi Ruang}\\ Ruang A atau Ruang B};
 

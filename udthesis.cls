@@ -183,7 +183,7 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 
 \usepackage{tabularx}
 \usepackage{booktabs} % Required for better horizontal rules in tables
-%\usepackage{multirow}
+\usepackage{multirow}
 
 \usepackage{paralist} %Inline list(inparaenum), always on top of enumitem
 %\usepackage{longtable} % Enable table cross multiple page
