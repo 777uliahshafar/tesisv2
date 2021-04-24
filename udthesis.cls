@@ -167,8 +167,8 @@
 %\graphicspath{{figures/}{./}}
 
 \usepackage{wrapfig} % Allows in-line images
-%\usepackage{subcaption} %Subfigure component
-%\usepackage[labelformat=parens,labelsep=quad, skip=3pt]{caption}  %Subcaption in 2 column img
+\usepackage{subcaption} %Subfigure component
+\usepackage[labelformat=parens,labelsep=quad, skip=3pt]{caption}  %Subcaption in 2 column img
 
 \usepackage[labelsep=space,
 labelfont={bf},

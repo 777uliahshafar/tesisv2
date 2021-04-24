@@ -338,8 +338,8 @@ Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dal
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
 
-Derajat keterbukaan\textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ruang keterbukaan yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai kebutuhan bertahan dan berkembang \citep{gao2019}.
-\citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat keterbukaan lebih daripada orang kulit putih.
+Ketertutupan \textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ruang ketertutupan yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai kebutuhan bertahan dan berkembang \citep{gao2019}.
+\citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat ketertutupan lebih daripada orang kulit putih.
 Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}. Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}.
 Pola visual ini mengindikasikan bahwa orang yang tinggal dan bekerja di ruang perkotaan yang sibuk menghargai keberdaan tumbuhan, matahari, dan angin \citep{ahmad2020}.
 Menurut \cite{ostoic2020} dalam preferensi karakter pohon, manusia lebih cenderung terhadap pohon yang tinggi, lebar, dan gugur.
@@ -349,8 +349,8 @@ Terakhir, \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningk
 \label{sub:keamanan}
 Rasa aman adalah faktor penting untuk menentukan nilai daya tarik sebuah ruang publik \citep{luo2021}.
 Rasa aman juga  menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
-Tingkat keterbukaan \textit{(visibility)}, kehadiran seseorang, pencahayaan, pagar dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020,ahmad2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat keterbukaan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
-Tingkat keterbukaan yang kurang dapat mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}.
+Tingkat ketertutupan \textit{(visibility)}, kehadiran seseorang, pencahayaan, pagar dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020,ahmad2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat ketertutupan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
+Tingkat ketertutupan yang kurang dapat mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}.
 Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
 Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. \cite{virden1999} lebih menjelaskan jarak antara orang mempengaruhi rasa aman pada manula dan perempuan. Namun ini kontradiksi dengan penelitian \citep{elmen2005} bahwa socio-demografi tidak berhubungan dengan jarak antara orang.
 
@@ -389,7 +389,7 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 & & Kehadiran tumbuhan\\
 & & \\
 
-\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Keamanan} & Tingkat keterbukaan\\
+\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Keamanan} & Tingkat ketertutupan\\
 & & Keramaian \\
 & & \\
 
@@ -512,7 +512,12 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
 
  \begin{itemize}
      \item Studi pendahuluan, langkah awal ini mengikuti metode pendekatan kuantitatif rasionalistik. Pendekatan ini memerlukan kerangka teoritik yang disusun dari teori-teori dan buah pikiran para pakar untuk dikontruksikan menjadi konsep utama dengan pembahasan yang bersifat holistik  dan disesuaikan dengan konteks penelitiannya \citep{muhadjir1996}. Sehingga ada landasan teori yang digunakan dalam menelitii topik penelitian dan memahami kondisi lapangan berdasarkan perspektif tertentu.
-     \item Langkah kedua adalah observasi dan penyebaran kuesioner yang telah tersusun berdasarkan kajian teori. Isi dari kuesioner ini berasal dari variabel-variabel yang muncul pada teori dan layak sebagai acuan dalam melakukan observasi di lapangan.
+     \item Langkah kedua adalah observasi dan penyebaran kuesioner yang telah tersusun berdasarkan kajian teori bukan dari objek yang telah disurvei.
+
+%         Menurut \cite{}, pengukuran atribut
+
+%         Pengunjung ditanya untuk menandai pendapat mereka terhadap daftar persoalan berdasarkan skala Likert lima-poin.
+
      \item Setelah memperoleh hasil dari observasi, peneliti menganalisis data yang terkumpulkan dengan menggunakan metode tertentu dalam mendapatkan suatu temuan. Data yang terkumpulkan dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
      \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
  \end{itemize}
@@ -555,6 +560,12 @@ Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang t
 \subsection{Data Sekunder}
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder sangat bermanfaat untuk penelitian kuantitatif karena lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
 
+%\section{Metode Analisis Data}
+
+%Setelah data terkumpul, peneliti menganalisis keseluruhan data dari sejumlah kuesioner yang terisi dan valid menggunakan analisis statistik.
+
+
+
 \chapter{Objek Penelitian}\label{chap:obj}
 
 \section{Tinjauan Umum Kota Parepare}
@@ -591,6 +602,85 @@ Kawasan tepi laut merupakah daerah paling barat di kota Parepare. Daerah yang be
     \label{fig:lokzi2}
 \end{figure}
 
+\section{Kondisi Ruang A}
+Ruang A pada penelitian ini mengacu pada area yang terbangun dengan konsep yang berbeda.
+
+\subsection{Akses}
+Nilai akses ditandai dengan lebar jalan dan kedekatan fasilitas pada suatu ruang. Ruang A memiliki lebar jalan yang cukup besar. Akses ini terbilang cukup memadai dengan penambahan penerangan dan paving. Akses atau biasa disebut pedestrian ini berlokasi berpapasan langsung dengan pesisir laut. Tempatnya membuat pengunjung dapat berjalan-jalan sambil mendengar suara dan pemandangan laut. Fitur ini berbeda signifikan terhadap ruang B. Selain lebar jalan, kedekatan fasilitas merupakan indikator oleh akses. Pada ruang A, integrasi fasilitas terbilang cukup tinggi, artinya orang-orang dapat mencapai fasilitas dengan mudah. Misalnya fasilitas akses terhadap laut, ruang terbuka, lapangan basket dan kios makanan.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/akses1}
+\end{subfigure}%
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/akses1(2)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Akses}
+\label{aks}
+\end{figure}
+
+
+\subsection{Fasilitas}
+Fasilitas pada setiap ruang publik penulis kategorikan sebagai fasilitas-fasilitas buatan, hijau, dan biru. Sebagai dasar, kawasan waterfront Senggol mempunyai tujuan sebagai ruang rekreasi dan peningkatan ekonomi. Dalam beberapa sumber, fasilitas tidak hanya membantu ekonomi masyarakat akan tetapi kesejahteraan dan kesehatan. Fasilitas pada ruang A mayoritas adalah buatan.  Beberapa fasilitas yang ada diantaranya seperti:
+
+\begin{itemize}
+    \item Ruang terbuka
+    \item Lapangan basket
+    \item kios makanan
+    \item penerang
+    \item Pesisir laut \textit{(waterbank)}
+    \item Pohon
+\end{itemize}
+
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/fb1(2)}
+\end{subfigure}%
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/fb1(3)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Fasilitas}
+\label{fas}
+\end{figure}
+
+\subsection{Estetika}
+Fitur estetika dominan didukung oleh elemen alami yaitu kerapatan vegetasi dan kehadiran tumbuhan. Elemen alami juga mendukung aspek keberlanjutan sebuah kawasan terutama pada \textit{waterfront}. Kerapatan vegetasi di \textit{waterfront} Senggol terutama di Ruang A adalah cukup renggang, jaraknya satu antara lainnya adalah 4 meter lebih. Letak pohon tersebut lebih banyak di beton pembatas, dimana kehadiran tumbuh-tumbuhan pada tempat ini terbilang sedikit. Terdapat sekitar 20 pohon yang ada pada ruang A ini.
+
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/est1}
+\end{subfigure}%
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/est1(2)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Estetika}
+\label{est}
+\end{figure}
+
+\subsection{Keamanan}
+Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ketertutupan sebuah ruang dapat dipengaruhi oleh karakteristik ruang dan fungsi bangunan, ketinggian dan \textit{setback} vegetasi, pagar dan bangunan. Ketertutupan pada ruang A didominasi oleh kios penjual dengan tinggi bangunan 5 meter dan lebar pedestrian sekitar 4 meter. Sehingga tempat ini hampir memenuhi proporsi 1:1 atau cukup terasa ketertutupan berdasarkan teori GLC. Selain derajat ketertutupan, keramaian juga menjadi fokus dari keamanan. Keramaian pada ruang A pada hari-hari biasa ataupun hari libur terlihat seperti gambar \ref{amn}.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/amn1}
+    \caption{Keamanan}
+    \label{fig:amn}
+\end{figure}
+
+
+\subsection{Pemeliharaan}
+Pemeliharaan pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(continue)} yang ada di lapangan seperti kondisi rumput, dinding(grafiti), dan sampah.
+Rumput pada ruang A bukan menjadi masalah karena luasan
+
+
 
 \begin{comment}
 \section{ Knitr child Documents}
@@ -598,6 +688,7 @@ You should note that using knitr package you can easily incorporate difference k
 
 \tabRegresi
 \pieChartFig
+
 
 \chapter{Kesimpulan}\label{chap:kesimp}
 
