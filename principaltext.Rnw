@@ -666,7 +666,7 @@ Fitur estetika dominan didukung oleh elemen alami yaitu kerapatan vegetasi dan k
 \end{figure}
 
 \subsection{Keamanan}
-Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ketertutupan sebuah ruang dapat dipengaruhi oleh karakteristik ruang dan fungsi bangunan, ketinggian dan \textit{setback} vegetasi, pagar dan bangunan. Ketertutupan pada ruang A didominasi oleh kios penjual dengan tinggi bangunan 5 meter dan lebar pedestrian sekitar 4 meter. Sehingga tempat ini hampir memenuhi proporsi 1:1 atau cukup terasa ketertutupan berdasarkan teori GLC. Selain derajat ketertutupan, keramaian juga menjadi fokus dari keamanan. Keramaian pada ruang A pada hari-hari biasa ataupun hari libur terlihat seperti gambar \ref{amn}.
+Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ketertutupan sebuah ruang dapat dipengaruhi oleh karakteristik ruang dan fungsi bangunan, ketinggian dan \textit{setback} vegetasi, pagar dan bangunan. Ketertutupan pada ruang A didominasi oleh kios penjual dengan tinggi bangunan 5 meter dan lebar pedestrian sekitar 4 meter. Sehingga tempat ini hampir memenuhi proporsi 1:1 atau cukup terasa ketertutupan berdasarkan teori GLC. Selain derajat ketertutupan, keramaian juga menjadi fokus dari keamanan. Keramaian pada ruang A pada hari-hari biasa ataupun hari libur terlihat seperti gambar \ref{fig:amn}.
 
 \begin{figure}[htpb]
     \centering
@@ -675,10 +675,41 @@ Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ke
     \label{fig:amn}
 \end{figure}
 
-
 \subsection{Pemeliharaan}
-Pemeliharaan pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(continue)} yang ada di lapangan seperti kondisi rumput, dinding(grafiti), dan sampah.
-Rumput pada ruang A bukan menjadi masalah karena luasan
+
+
+Pemeliharaan pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(continue)} yang ada di lapangan seperti kondisi rumput, dinding(grafiti), dan sampah. Pada kawasan waterfront Senggol, tidak banyak ditemui area yang berumput. Hampir seluruh permukaan dilapisi dengan \textit{hardscape)} sehingga pemeliharaan terhadap rumput bukan sebuah perhatian. Namun, ruang A memiliki restauran dan pengunjung yang dapat memproduksi sampah setiap hari. Sehingga ini menjadi sebuah perhatian pemeliharaan. Seperti pada gambar \ref{fig:pem}, sampah masih dapat terlihat di tempat tidak semestinya dan pojok sebuah ruang. Ada juga yang masih berserakan di tempat pembuangan sampah sementara. Dari segi vandalisme, tempat ini mempunyai grafiti yang kurang. Dinding-dinding pada kios atau restauran masih kelihatan bersih dari grafiti.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/pem1}
+\end{subfigure}%
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/pem1(4)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Pemeliharaan}
+\label{fig:pem}
+\end{figure}
+
+
+\section{Kondisi Ruang B}
+Ruang B pada penelitian ini mengacu pada area tempat seluruh PKL berada.
+
+\subsection{Akses}
+Penerapan akses pada ruang B masih terbilang kurang. Seperti pada masalah umum ruang publik, tempat ini tidak menyediakan pedestrian khusus. Masyarakat terpaksa berjalan di bahu jalan untuk melintasi atau berjalan-jalan di seputar area. Kadang tempat ini juga berfungsi sebagai tempat parkir motor, dimana menambah kerumitan pedestrian (lihat gambar \ref{fig:aks2}). Ketika PKL belum beroperasi, masyarakat dapat berjalan di tempat makan PKL tersebut. Namun, saat mereka beroperasi pada pagi hari dan sore menjelang malam hari masyarakat tidak dapat menggunakannya. Sehingga akses pada ruang ini adalah kurang. Pada faktor kedekatan fasilitas, tempat ini memiliki keberagaman fasilitas yang kurang. Jarak antara fasilitas dengan fasilitas lainnya adalah jauh. Namun kekuatan fasilitas PKL ruang ini cukup kuat.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/akses2}
+    \caption{Akses}
+    \label{fig:aks2}
+\end{figure}
+
+
+
+\subsection{Fasilitas}
 
 
 
