@@ -168,7 +168,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 };
 
 \node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel atribut lingkungan dan sosio-demo terhadap variabel preferensi ruang.
+		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel fitur ruang dan sosio-demo terhadap variabel preferensi ruang.
 };
 
 \node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
@@ -281,12 +281,12 @@ Alhasil, menurut \cite{jamila2016} preferensi merupakan tolak ukur dalam menilai
 \end{figure}
 
 
-\section{Atribut Lingkungan}
+\section{Fitur Ruang}
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}.
 Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau kebisingan kondisi sekitar)
-Beberapa istilah terkait atribut lingkungan muncul pada penelitian lain misalnya fitur lingkungan \citep{alves2008} dan karakteristik lingkungan \citep{dwiputra2017}.
+Beberapa istilah terkait fitur ruang muncul pada penelitian lain misalnya atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan \citep{dwiputra2017}.
 \cite{zhang2020} menggunakan preferensi ruang(lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
 
 Atribut lingkungan yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
@@ -556,7 +556,6 @@ Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga
 
 Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang tersusun secara sistematis untuk menjawab suatu pertanyaan penelitian. Peneliti menyajikan daftar pertanyaan untuk dijawab oleh partisipan yang memiliki kompetensi dan cocok sebagai subjek penelitian. Penelitian ini menggunakan jenis kuesioner langsung tertutup, yang menyediakan pilihan jawaban untuk setiap pertanyaan.
 
-
 \subsection{Data Sekunder}
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder sangat bermanfaat untuk penelitian kuantitatif karena lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
 
@@ -585,26 +584,108 @@ Secara administratif Parepare memiliki batasan wilayah sebagai berikut:
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.98\textwidth]{figures/admpare}
+    \includegraphics[width=0.84\textwidth]{figures/admpare}
     \caption{Peta Administrasi Kota Parepare}
     \caption*{sumber: \citep{petatematikindo2013}}
     \label{fig:admpare}
 \end{figure}
 
 \section{Tinjauan Kawasan Waterfront}
-Kawasan tepi laut merupakah daerah paling barat di kota Parepare. Daerah yang berbatasan laut ini mempunyai banyak tempat menarik di sekitarnya. Pada sebelah utara tempat ini berbatasan dengan Pasar Senggol, pada sebelah selatan terdapat Pelabuhan Nusantara, sedangkan pada sebelah timur ada Perumahan dan Lapangan. Selain itu, kawasan tepi laut ini berada di Kecamatan Ujung, Parepare. Menurut \citep{bpskotaparepare2020} pada tahun 2018, kecamatan ini memiliki jumlah pasar dan restauran paling banyak dengan jumlah unit 4 dan 30, berurutan. Terakhir berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol ini merupakan kawasan strategis kota (KSK) untuk pengembangan PKL dalam kepentingan pertumbuhan ekonomi.
+Kawasan tepi laut merupakah daerah paling barat di kota Parepare. Daerah yang berbatasan laut ini mempunyai banyak tempat menarik di sekitarnya. Pada sebelah utara tempat ini berbatasan dengan Pasar Senggol, pada sebelah selatan terdapat Pelabuhan Nusantara, sedangkan pada sebelah timur ada Perumahan dan Lapangan. Selain itu, kawasan tepi laut ini berada di Kecamatan Ujung, Parepare.
 
+Menurut \cite{bpskotaparepare2020} pada tahun 2018, kecamatan Ujung memiliki jumlah pasar dan restauran paling banyak dengan jumlah unit 4 dan 30, berurutan. Akan tetapi Ujung bukan kecamatan terluas di Parepare, kecamatan ini hanya mempunyai luas 11.30 km2, terbesar ketiga setelah kecamatan lainnya.
+Berdasakan \cite{dauwani2015} permukiman warga berpusat di pesisir laut menyebar ke area perbukitan meliputi kecamatan Ujung, Soreang, Bacukiki Barat. Sedangkan daerah lainnya yaitu bagian tengah untuk perkebunan dan pertanian dan bagian tenggara untuk kawasan hutan. Oleh karena kecamatan ini didominasi oleh permukiman maka ruang publik menjadi kebutuhan masyarakat baik segi ekonomi maupun kesejahteraan sosial.
+Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol ini merupakan kawasan strategis kota (KSK) untuk pengembangan PKL dalam kepentingan pertumbuhan ekonomi.
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.86\textwidth]{figures/lokzi2}
+    \includegraphics[width=0.84\textwidth]{figures/lokzi2}
     \caption{Peta lokasi penelitian}
     \label{fig:lokzi2}
 \end{figure}
 
-\section{Kondisi Ruang A}
-Ruang A pada penelitian ini mengacu pada area yang terbangun dengan konsep yang berbeda.
+Pada gambar \ref{fig:figur}, kita ketahui bentuk tapak di sekitar kawasan tepi laut Senggol. Gambar tersebut menunjukkan adanya \textit{void square} dan \textit{void street} di tempat ini. \textit{Void square} yang paling menonjol adalah lapangan basket bernama "Jati Diri" yang berdekatan dengan ruang A. Sementara \textit{void street} yang ada di kawasan tepi laut Senggol adalah Jalan Pinggir Laut. Jalan ini selain berfungsi sebagai jalur kendaraan, bahu jalannya digunakan sebagai tempat parkir motor.
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.86\textwidth]{figures/figur}
+    \caption{Peta Solid-Void}
+    \label{fig:figur}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/jat}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/jal}
+\end{subfigure}\vspace{10pt}
+
+\caption{Ruang Void}
+\end{figure}
+
+Sejumlah massa bangunan yang berdekatan dengan \textit{waterfront} tergambarkan pada gambar \ref{fig:figur}. Bangunan-bangunan ini dapat menjadi tempat tujuan berpergian bersama ruang A dan ruang B dari objek penelitian. Ini juga mendukung keberlangsungan pada kawasan tepi laut Senggol dimana membutuhkan hubungan diantara objek penelitian dan objek sekitarnya. Objek di sekitar merupakan bangunan-bangunan yang berfungsi beragam, beberapa bangunan yang menonjol diantaranya:
+
+\begin{enumerate}
+    \item Pasar Senggol
+Pasar ini cukup populer di daerah Sulawesi Selatan sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memuaskan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
+Pada tahun 2006, Parepare mengadakan rehabilitasi terhadap prasana dan sarana. Pasar Senggol termasuk dalam proyek rehabilitasi tersebut. Hal yang melatarbelakanginya adalah untuk percepatan pertumbuhan ekonomi wilayah yang berbasis pada sumber daya lokal, investasi dan kesejahteraan masyarakat sesuai dengan prinsip pembangunan berkelanjutan. Kedua untuk pemerataan infrastruktur wilayah melalui keseimbangan penataan ruang dan adaptibilitas perubahan lingkungan hidup \citep{syafruddin2018}.
+
+Beberapa motivasi pembeli terhadap barang cakar adalah harganya termasuk murah, kualitasnya masih terjaga dan beragam pilihan. Pengunjung Pasar Senggol biasanya menyempatkan diri berkunjung ke tepi laut Senggol untuk makan malam atau hanya sekedar wisata malam.
+Pasar senggol berdekatan dengan ruang B kawasan tepi laut Senggol. Seseorang dapat mengakses ruang B melalui bahu jalan. Untuk mengakses ruang A, pengunjung lebih baik berputar menggunakan kendaraan karena jalan pada kawasan \textit{waterfront} ini adalah satu arah dan ruang A cukup jauh dari Pasar Senggol.
+
+\item Pelabuhan Nusantara
+Pelabuhan yang berada disamping ruang A ini merupakan pelabuhan utama di kota Parepare. Oleh karena itu, tempat ini sangat ramai saat keberangkatan dan kedatangan kapal penumpang. Tidak jarang pendatang berasal dari luar negeri yang transit menuju ke Tana Toraja. Saat transit kadang mereka berkeliaran sebentar di Tepi laut Senggol. Selain turis luar negeri, orang lokal juga menggunakan pelabuhan ini untuk berpergian ke luar pulau Indonesia seperti Jawa, Kalimantan, Sumatra dan Papua. Ini menjadi manfaat bagi tepi laut Senggol untuk menarik pengunjung dari luar.
+
+\item Lapangan Andi Makassau
+Lapangan sekaligus alun-alun Parepare setiap jam-jam istirahat selalu ramai. Pengunjung memanfaatkan lapangan ini sebagai tempat olahraga dan berekreasi. Pada malam hari, masyarakat menggunakannya sebagai pasar malam.
+\end{enumerate}
+
+\newpage
+\begin{longtable}{p{.05\textwidth} m{.3\textwidth} m{.2\textwidth} m{.3\textwidth}}
+	\caption{Bangunan Sekitar Objek Penelitian} \\
+	\label{tab:objs} \\
+    No & Bangunan & Fungsi & Aktivitas\\
+    \toprule
+1. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/psr} Pasar Senggol
+    \end{center} & Pasar Cakar & Perdagangan\\
+
+
+\midrule
+2. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/pel} Pelabuhan Nusantara
+    \end{center} & Pelabuhan & Transportasi laut\\
+
+\midrule
+3. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/per} Perpustakaan Habibie
+    \end{center} & Perpustakaan & Pendidikan\\
+
+\midrule
+4. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/han} Hanstom
+    \end{center} & Toko & Perdagangan\\
+
+\midrule
+5. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/ser} Balai Habibie Ainun
+    \end{center} & Gedung Serbaguna & Pertemuan\\
+
+\midrule
+6. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/mas} Masjid Raya
+    \end{center} & Tempat Ibadah & Shalat\\
+\midrule
+7. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/mus} Museum Bj. Habibie
+    \end{center} & Museum & Rekreasi \& Edukasi \\
+\bottomrule
+\end{longtable}
+
+
+\section{Fitur Ruang}
 \subsection{Akses}
 Nilai akses ditandai dengan lebar jalan dan kedekatan fasilitas pada suatu ruang. Ruang A memiliki lebar jalan yang cukup besar. Akses ini terbilang cukup memadai dengan penambahan penerangan dan paving. Akses atau biasa disebut pedestrian ini berlokasi berpapasan langsung dengan pesisir laut. Tempatnya membuat pengunjung dapat berjalan-jalan sambil mendengar suara dan pemandangan laut. Fitur ini berbeda signifikan terhadap ruang B. Selain lebar jalan, kedekatan fasilitas merupakan indikator oleh akses. Pada ruang A, integrasi fasilitas terbilang cukup tinggi, artinya orang-orang dapat mencapai fasilitas dengan mudah. Misalnya fasilitas akses terhadap laut, ruang terbuka, lapangan basket dan kios makanan.
 
@@ -617,8 +698,18 @@ Nilai akses ditandai dengan lebar jalan dan kedekatan fasilitas pada suatu ruang
 \centering\includegraphics[width=6cm]{figures/akses1(2)}
 \end{subfigure}\vspace{10pt}
 
-\caption{Akses}
+\caption{Akses Ruang A}
 \label{aks}
+\end{figure}
+
+Penerapan akses pada ruang B masih terbilang kurang. Seperti pada masalah umum ruang publik, tempat ini tidak menyediakan pedestrian khusus. Masyarakat hanya boleh berjalan di bahu jalan untuk melintasi atau berjalan-jalan di seputar area. Kadang tempat ini juga berfungsi sebagai tempat parkir motor, dimana menambah kerumitan pedestrian (lihat gambar \ref{fig:aks2}). Ketika PKL belum beroperasi, masyarakat dapat berjalan di tempat makan PKL tersebut. Namun, saat mereka beroperasi pada pagi hari dan sore menjelang malam hari masyarakat tidak dapat menggunakannya. Selain itu, akses terhadap fasilitas biru (laut) juga terhalangi.
+Sehingga akses pada ruang ini adalah kurang. Pada faktor kedekatan fasilitas, tempat ini memiliki keberagaman fasilitas yang kurang. Jarak antara fasilitas dengan fasilitas lainnya adalah jauh. Namun kekuatan fasilitas PKL ruang ini cukup kuat.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/akses2}
+    \caption{Akses Ruang B}
+    \label{fig:aks2}
 \end{figure}
 
 
@@ -634,7 +725,6 @@ Fasilitas pada setiap ruang publik penulis kategorikan sebagai fasilitas-fasilit
     \item Pohon
 \end{itemize}
 
-
 \begin{figure}[htbp]
 \centering
 \begin{subfigure}{6cm}
@@ -644,8 +734,30 @@ Fasilitas pada setiap ruang publik penulis kategorikan sebagai fasilitas-fasilit
 \centering\includegraphics[width=5cm]{figures/fb1(3)}
 \end{subfigure}\vspace{10pt}
 
-\caption{Fasilitas}
+\caption{Fasilitas Ruang A}
 \label{fas}
+\end{figure}
+
+Berbeda dengan ruang A, ruang B memiliki fasilitas yang kurang beragam. Ada sebuah patung adipura yang terletak di ujung pesisir ini. Padahal patung adipura tersebut berperan juga sebagai ruang terbuka dimana sangat dibutuhkan masyarakat. Selain itu, fasilitas yang sangat dominan disini adalah fasilitas biru dimana seluruh kalangan masyarakat menggunakannya untuk berenang. Fasilitas ini terbentang sepanjang ruang B di pesisir laut. Kemudian, ada fasilitas PKL sebagai tempat wisata kuliner. PKL buka pada pagi hari dan sore menjelang malam hari. Pohon-pohon hanya berfungsi sebagai pohon jalan, dalam kata lain jumlah fasilitas hijau masih kurang.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/fb2(4)}
+\end{subfigure}%
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5cm]{figures/fb2(5)}
+\end{subfigure}\vspace{10pt}
+
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5.5cm]{figures/fb2}
+\end{subfigure}%
+\begin{subfigure}{6cm}
+\centering\includegraphics[width=5.5cm]{figures/fh2}
+\end{subfigure}%
+
+\caption{Fasilitas Ruang B}
+\label{fas2}
 \end{figure}
 
 \subsection{Estetika}
@@ -665,6 +777,17 @@ Fitur estetika dominan didukung oleh elemen alami yaitu kerapatan vegetasi dan k
 \label{est}
 \end{figure}
 
+
+Estetika ruang B menunjukkan kerapatan vegetasi yang lebih dari ruang A. Jarak antar pohon ada yang hanya sekitar 3 meter dan ada juga yang 5 meter.
+Pohon di ruang ini berada di area pedestrian dan berjejer sepanjang Jalan Pinggir Laut dengan jumlah pohon berkisar 14 unit. Jenis seluruh pohon yang berada di kawasan waterfront Senggol adalah Pohon Palem.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/est2}
+    \caption{Kerapatan Vegetasi Ruang B}
+    \label{fig:est2}
+\end{figure}
+
 \subsection{Keamanan}
 Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ketertutupan sebuah ruang dapat dipengaruhi oleh karakteristik ruang dan fungsi bangunan, ketinggian dan \textit{setback} vegetasi, pagar dan bangunan. Ketertutupan pada ruang A didominasi oleh kios penjual dengan tinggi bangunan 5 meter dan lebar pedestrian sekitar 4 meter. Sehingga tempat ini hampir memenuhi proporsi 1:1 atau cukup terasa ketertutupan berdasarkan teori GLC. Selain derajat ketertutupan, keramaian juga menjadi fokus dari keamanan. Keramaian pada ruang A pada hari-hari biasa ataupun hari libur terlihat seperti gambar \ref{fig:amn}.
 
@@ -676,7 +799,6 @@ Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ke
 \end{figure}
 
 \subsection{Pemeliharaan}
-
 
 Pemeliharaan pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(continue)} yang ada di lapangan seperti kondisi rumput, dinding(grafiti), dan sampah. Pada kawasan waterfront Senggol, tidak banyak ditemui area yang berumput. Hampir seluruh permukaan dilapisi dengan \textit{hardscape)} sehingga pemeliharaan terhadap rumput bukan sebuah perhatian. Namun, ruang A memiliki restauran dan pengunjung yang dapat memproduksi sampah setiap hari. Sehingga ini menjadi sebuah perhatian pemeliharaan. Seperti pada gambar \ref{fig:pem}, sampah masih dapat terlihat di tempat tidak semestinya dan pojok sebuah ruang. Ada juga yang masih berserakan di tempat pembuangan sampah sementara. Dari segi vandalisme, tempat ini mempunyai grafiti yang kurang. Dinding-dinding pada kios atau restauran masih kelihatan bersih dari grafiti.
 
@@ -693,23 +815,20 @@ Pemeliharaan pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(co
 \label{fig:pem}
 \end{figure}
 
-
-\section{Kondisi Ruang B}
-Ruang B pada penelitian ini mengacu pada area tempat seluruh PKL berada.
-
-\subsection{Akses}
-Penerapan akses pada ruang B masih terbilang kurang. Seperti pada masalah umum ruang publik, tempat ini tidak menyediakan pedestrian khusus. Masyarakat terpaksa berjalan di bahu jalan untuk melintasi atau berjalan-jalan di seputar area. Kadang tempat ini juga berfungsi sebagai tempat parkir motor, dimana menambah kerumitan pedestrian (lihat gambar \ref{fig:aks2}). Ketika PKL belum beroperasi, masyarakat dapat berjalan di tempat makan PKL tersebut. Namun, saat mereka beroperasi pada pagi hari dan sore menjelang malam hari masyarakat tidak dapat menggunakannya. Sehingga akses pada ruang ini adalah kurang. Pada faktor kedekatan fasilitas, tempat ini memiliki keberagaman fasilitas yang kurang. Jarak antara fasilitas dengan fasilitas lainnya adalah jauh. Namun kekuatan fasilitas PKL ruang ini cukup kuat.
+Pada dasarnya pemeliharaan ruang B sepenuhnya dilaksanakan oleh pemilik PKL.
+Biasanya sebelum berjualan, mereka membersihkan sampah-sampah yang berserakan di tempat ini. Namun, manajemen sampah di ruang ini tidak selalu maksimal. Banyak sampah yang terbuang ke laut seperti gambar \ref{fig:pem2}. Sehingga pemeliharan terhadap sampah-sampah sangat kurang. Pemeliharan terhadap grafiti dan rumput bukan menjadi masalah pada tempat ini, karena tidak ada tempat untuk grafiti dan ditumbuhi vegetasi. Akan tetapi ruang B memerlukan peningkatan penghijauan untuk mendukung aspek keberlanjutan.
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/akses2}
-    \caption{Akses}
-    \label{fig:aks2}
+    \includegraphics[width=0.8\textwidth]{figures/pem2}
+    \caption{Sampah Ruang B}
+    \label{fig:pem2}
 \end{figure}
 
 
 
-\subsection{Fasilitas}
+
+
 
 
 

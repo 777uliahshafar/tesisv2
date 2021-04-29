@@ -186,8 +186,8 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{multirow}
 
 \usepackage{paralist} %Inline list(inparaenum), always on top of enumitem
-%\usepackage{longtable} % Enable table cross multiple page
-%\usepackage{array} %Mostly formatting columns and spacing
+\usepackage{longtable} % Enable table cross multiple page
+\usepackage{array} %Mostly formatting columns and spacing
 \usepackage{enumitem} % Required for list customisation
 
 \setlist{noitemsep} % No spacing between list items
