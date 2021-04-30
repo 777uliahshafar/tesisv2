@@ -57,13 +57,13 @@ Berdasarkan \cite{imperatives1987}, \textit{Sustainability development} adalah p
 Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, Indonesia memiliki jam terbang yang panjang dalam menghadapi masalah yang rumit dari tepi laut. Pembahasan tentang pengembangan berkelanjutan tepi laut telah ramai diperbincangkan di Indonesia seperti contohnya proyek reklamasi di Makassar dan Manado \citep{andi2017,tungka2012, fhuh2017}, pengembangan ulang tepi laut tahun 1995 sepanjang 32 km di Jakarta \citep{pramesti2017} dan Desain lanskap tepi laut di Sungai Cikapundung \citep{ainy2016}. Menurut \cite{breen1994}, tekanan pada ruang kota dan infrastruktur, kebutuhan atas kualitas lingkungan, dan ketersediaan ruang tepi laut yang terbengkalai menjadi alasan pengembangan ulang kawasan tepi laut sebagai solusi yang pas. Pengembangan ulang tersebut telah di atur sedemikian rupa agar menjadi bagian dari langkah perkotaan yang keberlanjutan \citep{pramesti2017}.
 
 %kondisi parepare
-Kota Parepare merupakan kota yang terletak di Provinsi Sulawesi Selatan. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia awal(0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
-Parepare memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti Kabupaten Jeneponto (114km) \citep{wardasusaniati2011}, Kabupaten Pangkep(58.87) dan Kabupaten Pinrang(98.51km) \citep{goni2018}. Meskipun demikian, Kota Parepare adalah kota adminsitratif dari 3 kota di Sulawesi Selatan \citep{junaid2016} sebagai faktor pendorong kemajuan kota ini.
+Kota Parepare merupakan kota yang terletak di Provinsi Sulawesi Selatan. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
+Parepare memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti Kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, Kabupaten Pangkep sepanjang 58.87 km dan Kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}. Meskipun demikian, Kota Parepare adalah kota adminsitratif dari tiga kota di Sulawesi Selatan yang mana mendorong kemajuan kota ini.
 Terdapat sejumlah area yang berada di garis pantai tersebut misalnya Tepi Sungai Tonrangeng, Taman Mattirotasi, Pantai Bibir dan Tepi Laut Senggol.
 Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan konsep kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden Ketiga Republik Indonesia.
 
 %karakteristik di tepi laut senggol
-Saat ini, Kota Parepare sedang melakukan sejumlah kemajuan di bidang pariwisata. Salah satunya adalah revitalisasi tepi laut senggol.
+Saat ini, Kota Parepare sedang melakukan sejumlah peningkatan sarana dan prasarana perkotaan. Salah satunya adalah revitalisasi tepi laut senggol.
 Pengembangan tepi laut ini bertujuan agar mampu mendorong jumlah pengunjung pada tempat wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa masyarakat dan pengunjung untuk datang ke pesisir.
 Tepi laut senggol telah lama menjadi daya tarik populer bagi masyarakat setempat. Tepi laut senggol memiliki pemandangan yang sangat indah. Pemandangan sebuah teluk menjadi ciri khas daerah ini. Selain itu, pengunjung juga tertarik untuk berwisata kuliner yang ditemani dengan kombinasi pemandangan elemen daratan dan air. Penyedia utama yang mendukung daya tarik tersebut adalah pedagang kaki lima yang bertahan dari dulu hingga saat ini. Setelah berwisata kuliner, banyak yang menghabiskan sisa waktunya untuk berenang di tepi laut. Menurut \cite{davidowich1998}, bagian yang terpenting dalam pengembangan tepi laut adalah kemampuan pengunjung untuk berinteraksi dengan air. Selain berenang, aktivitas rekreasi seperti memancing dan mencari kepiting membutuhkan akses ke air \citep{gordon1996}. Penggunaan beragam dapat berkontribusi terhadap kesuksessan strategi berkelanjutan \citep{eldeeb2015}.
 
@@ -79,7 +79,8 @@ Studi lain menjabarkan sejumlah atribut penting dalam sebuah kawasan hijau yakni
 % existing research
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
 %state of the art
-Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferesi diantara ruang secara menyeluruh di kawasan tepi laut.
+Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferensi ruang secara menyeluruh yang ada di kawasan tepi laut.
+
 Kebanyakan penelitian hanya mendiskusikan karakteristik atau atribut yang paling dicenderungi masyarakat seperti dalam \citep{dipeolu2021}.
 Hipotesis peneliti bahwa pemilihan ruang didasarkan atas alasan apakah seseorang menyukai ruang dengan sekelompok atribut satu daripada ruang dengan sekelompok atribut lainnya.
 Ditambah lagi, penilaian lokal harus diadakan karena preferensi ruang tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
@@ -153,11 +154,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 	\textbf{Gambaran Objek}\\ Ruang Tepi Laut Senggol Parepare
 };
 
-
-\node (hip) [startstop, below of=pus, yshift=-2cm] {Hipotesa};
-
-
-\node (met) [startstop, below of=hip, yshift=-1cm, text width=7cm] {
+\node (met) [startstop, below of=pus, yshift=-4cm, text width=7cm] {
 	\textbf{Metode Peneltian}\\ Menggunakan Metode penelitian Kuantitatif Rasionalistik
 
 	\textbf{Variabel}\\
@@ -185,10 +182,8 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 \draw [doublearrow] (kaj) -- (kaj2);
 
 \draw [arrow] (kaj) |- (met);
-\draw [dotted] (kaj) |- (hip);
 
 \draw [arrow] (kaj2) |- (met);
-\draw [dotted] (kaj2) |- (hip);
 
 \draw [arrow] (met) -- (ana);
 \draw [arrow] (ana) -- (tem);
