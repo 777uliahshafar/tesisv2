@@ -121,8 +121,9 @@ Penelitian ini bertujuan untuk menelusuri preferensi ruang  masyarakat di kawasa
 Peneliti berharap hasil penelitian ini dapat digunakan dalam melengkapi kekurangan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya menghasilkan integrasi antara ruang dan mensukseskan kawasan tepi laut senggol secara keseluruhan tanpa melupakan sisi keberlanjutan sebuah tepi laut.
 
 \begin{enumerate}
+
     \item Untuk mengetahui preferensi ruang berdasarkan fitur ruang karakter pengguna tepi laut.
-    \item Untuk menjelaskan fitur yang ada yang mempengaruhi preferensi ruang masyarakat pada suatu ruang.
+    \item Untuk menyelidiki fitur-fitur terkait preferensi ruang yang ada di tepi laut Senggol.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -304,7 +305,7 @@ Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau ke
 Beberapa istilah terkait fitur ruang muncul pada penelitian lain misalnya atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018}.
 \cite{zhang2020} menggunakan preferensi ruang (lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
 
-Atribut lingkungan yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
+Fitur ruang yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
 Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berperan penting terhadap preferensi taman lokal, seperti jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
 \cite{huang1997} mendefinisikan ini sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika(keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine, sejarah dan budaya, fasilitas rekreasi, dan danau.
 Sedangkan dalam penelitian preferensi taman kota terdiri dari unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
@@ -487,9 +488,14 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \chapter{Metodologi Penelitian}\label{chap:method}
 
 \section{Jenis Penelitian}
-Penelitian ini berusaha untuk mengetahui alasan preferensi ruang masyarakat yang ada di kawasan tepi laut dengan menggunakan pendekatan kuantitatif rasionalistik.
-Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
-Secara teknis, Azwar menyebutkan bahwa pendekatan kuantitatif menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Dengan begitu, variabel dapat diteliti untuk mengetahui hubungannya dengan preferensi ruang melalui data numerik.
+
+Penelitian ini menggunakan metode kualitatif deskriptif.
+Dengan menggunakan metode ini, penelitian objek dapat mendeskripsikan atau menggambarkan preferensi ruang dan fitur-fitur terkait preferensi yang membentuk suatu sekumpulan massa pada suatu ruang secara sistematis, faktual, dan akurat.
+Penelitian dengan metode kualitatif berupaya untuk memahami kondisi tertentu dengan menginterpretasikan masalah atau dengan menyimpulkan kombinasi dari berbagai permasalahan.
+Selain itu, penelitian ini juga mendeskripsikan objek pengamatan melalui statistik sederhana. Dengan tujuan memahami distribusi kepentingan sebuah fitur-fitur ruang dan hubungan fitur yang ada dengan preferensi ruang secara deskriptif. Arti lain teknik ini masuk dalam ranah kuantitatif yang menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Jenis statistik yang digunakan adalah \textit{crosstab} untuk mengetahui kecenderungan hasil temuan.
+
+
+%Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
 
 \section{Lokasi dan Waktu Penelitian}
 Kawasan waterfront senggol di Kota Parepare menjadi lokasi penelitian ini. Setelah selesainya pengembangan tepi laut senggol, kawasan ini memanjang dan membentuk beragam ruang.
@@ -512,7 +518,7 @@ Sementara waktu penelitian ini terjadi pada beberapa rentang waktu yang ditentuk
 \end{itemize}
 
 \section{Alat rekam}
-Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data terkait atribut kawasan dan pemetaan pengunjung pada ruang-ruang di tepi laut. Pendekatan kuantitatif mengharuskan tingkat kepekaan yang tinggi dan terpercaya, sehingga membutuhkan alat yang valid dan andal. Alat-alat yang dapat membantu penelitian ini sebagai berikut:
+Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data terkait atribut kawasan dan pemetaan pengunjung pada ruang-ruang di tepi laut. Pendekatan kualitatif membutuhkan alat yang valid dan andal untuk mendukung pengumpulan data. Alat-alat yang dapat membantu penelitian ini sebagai berikut:
 
 \begin{itemize}
     \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang keberadaan fitur kawasan tepi laut.
@@ -526,14 +532,10 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
  Langkah-langkah yang tersusun adalah sebagai berikut:
 
  \begin{itemize}
-     \item Studi pendahuluan, langkah awal ini mengikuti metode pendekatan kuantitatif rasionalistik. Pendekatan ini memerlukan kerangka teoritik yang disusun dari teori-teori dan buah pikiran para pakar untuk dikontruksikan menjadi konsep utama dengan pembahasan yang bersifat holistik  dan disesuaikan dengan konteks penelitiannya \citep{muhadjir1996}. Sehingga ada landasan teori yang digunakan dalam menelitii topik penelitian dan memahami kondisi lapangan berdasarkan perspektif tertentu.
-     \item Langkah kedua adalah observasi dan penyebaran kuesioner yang telah tersusun berdasarkan kajian teori bukan dari objek yang telah disurvei.
-
-%         Menurut \cite{}, pengukuran atribut
-
+     \item Studi pendahuluan, mempersiapkan data-data informasi terkait preferensi ruang untuk meningkatkan pemahaman terhadap permasalahan yang diambil.
+     \item Langkah kedua adalah observasi dan penyebaran kuesioner. Observasi untuk memahami objek penelitian secara langsung berdasarkan kebenarannya, situasi, kondisi, konteks, ruang, serta maknanya dalam upaya pengumpulan data. Sebagai tambahan, melakukan penyebaran kuesioner yang telah tersusun berdasarkan literatur tentang preferensi sebagai landasan eksplorasi pada objek penelitian.
 %         Pengunjung ditanya untuk menandai pendapat mereka terhadap daftar persoalan berdasarkan skala Likert lima-poin.
-
-     \item Setelah memperoleh hasil dari observasi, peneliti menganalisis data yang terkumpulkan dengan menggunakan metode tertentu dalam mendapatkan suatu temuan. Data yang terkumpulkan dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
+     \item Setelah memperoleh hasil dari observasi, peneliti menganalisis preferensi ruang dan fitur-fitur yang muncul dengan metode kualitatif. Data tersebut dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
      \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
  \end{itemize}
 
@@ -551,7 +553,7 @@ Populasi dalam penelitian ini berasal dari pengunjung kawasan \textit{waterfront
 Setelah menentukan batasan populasi, peneliti meringkas lagi subjek penelitian agar penelitian berjalan lebih mudah. Membangun sampel artinya mengambil bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Dengan syarat sampel dapat mewakili populasi yang telah ditentukan. Seperti contoh apabila populasi memiliki 5 karakteristik dan kualitas, maka harus mencakup kelima karakteristik tersebut dan mengambil sebagian kecil dari masing-masing karaktersitik sesuai dengan teknik dalam menentukan besar ukuran sampel \citep{prof2016}.
 
 Penelitian ini menggunakan sampel dengan karakteristik subjek  berumur 14 tahun keatas dan pengunjung tepi laut Senggol.
-Peneliti menggunakan sampel jenis \textit{non-random} untuk mengumpulkan data kuantitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
+Peneliti menggunakan sampel jenis \textit{non-random} untuk mengumpulkan data kualitatif. Menurut \cite{prof2016} jenis sampel ini sangat erat dengan penelitian kualitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
 Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian. Untuk menentukan sampel, penelitian ini menggunakan teknik \textit{accidental sampling}. Teknik ini menentukan sampel secara kebetulan, artinya peneliti/\textit{surveyor} menentukan siapa saja yang ditemui di objek penelitian asal sesuai dengan kriteria\citep{sugiyono2010}.
 
 Penelitian ini menggunakan target jumlah besaran sampel sesuai dengan aturan yang ada.
@@ -572,7 +574,7 @@ Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga
 Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang tersusun secara sistematis untuk menjawab suatu pertanyaan penelitian. Peneliti menyajikan daftar pertanyaan untuk dijawab oleh partisipan yang memiliki kompetensi dan cocok sebagai subjek penelitian. Penelitian ini menggunakan jenis kuesioner langsung tertutup, yang menyediakan pilihan jawaban untuk setiap pertanyaan.
 
 \subsection{Data Sekunder}
-Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder sangat bermanfaat untuk penelitian kuantitatif karena lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
+Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
 
 %\section{Metode Analisis Data}
 
