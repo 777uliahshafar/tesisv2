@@ -57,8 +57,8 @@ Berdasarkan \cite{imperatives1987}, \textit{Sustainability development} adalah p
 Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, Indonesia memiliki jam terbang yang panjang dalam menghadapi masalah yang rumit dari tepi laut. Pembahasan tentang pengembangan berkelanjutan tepi laut telah ramai diperbincangkan di Indonesia seperti contohnya proyek reklamasi di Makassar dan Manado \citep{andi2017,tungka2012, fhuh2017}, pengembangan ulang tepi laut tahun 1995 sepanjang 32 km di Jakarta \citep{pramesti2017} dan Desain lanskap tepi laut di Sungai Cikapundung \citep{ainy2016}. Menurut \cite{breen1994}, tekanan pada ruang kota dan infrastruktur, kebutuhan atas kualitas lingkungan, dan ketersediaan ruang tepi laut yang terbengkalai menjadi alasan pengembangan ulang kawasan tepi laut sebagai solusi yang pas. Pengembangan ulang tersebut telah di atur sedemikian rupa agar menjadi bagian dari langkah perkotaan yang keberlanjutan \citep{pramesti2017}.
 
 %kondisi parepare
-Kota Parepare merupakan kota yang terletak di Provinsi Sulawesi Selatan. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
-Parepare memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti Kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, Kabupaten Pangkep sepanjang 58.87 km dan Kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}. Meskipun demikian, Kota Parepare adalah kota adminsitratif dari tiga kota di Sulawesi Selatan yang mana mendorong kemajuan kota ini.
+Kota Parepare merupakan kota yang terletak di Provinsi Sulsel. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
+Parepare memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti Kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, Kabupaten Pangkep sepanjang 58.87 km dan Kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}. Meskipun demikian, Kota Parepare adalah kota adminsitratif dari tiga kota di Sulsel yang mana mendorong kemajuan kota ini.
 Terdapat sejumlah area yang berada di garis pantai tersebut misalnya Tepi Sungai Tonrangeng, Taman Mattirotasi, Pantai Bibir dan Tepi Laut Senggol.
 Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan konsep kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden Ketiga Republik Indonesia.
 
@@ -71,36 +71,50 @@ Tepi laut senggol telah lama menjadi daya tarik populer bagi masyarakat setempat
 Kawasan tepi laut senggol terbentang dari Pelabuhan Nusantara hingga Pasar Senggol sepanjang sekitar 300 meter. Sepanjang garis pantai tersebut terbentuk sejumlah ruang dengan karakteristik yang berbeda. Pengembangan yang terjadi di kawasan tersebut untuk merespon konsep kota Parepare sebagai kota Pariwisata.
 Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}. Beberapa ruang yang tercipta melahirkan preferensi ruang masyarakat. Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. Sejumlah atribut pada ruang tersebut menjadi alasan dalam pemilihan ruang di kawasan tepi laut.
 Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
-%atribut preferensi ruang
-Beberapa penelitian menemukan sejumlah atribut yang mempengaruhi preferensi ruang masyarakat. Pada studi terhadap preferensi fitur lanskap manula, fasilitas dan infrastruktur yang alami, estetik, beragam, aksesibel, komprehensif, terpelihara serta adanya interaksi diantara manusia dan alam mempengaruhi tingkat preferensi mereka \citep{wen2018}. Karakteristik fisik suatu ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{general preference}, meskipun preferensi ruang untuk menghilangkan stres hampir sama dengan preferensi umum, ini lebih mengutamakan pada jumlah pengunjung yang sedikit \citep{arnberger2015}.
-Sedangkan studi mengenai elemen \textit{intangible}, \textit{soundscape} khususnya \textit{natural sound} menarik banyak pengunjung pada suatu taman \citep{ma2021}.
-Studi lain menjabarkan sejumlah atribut penting dalam sebuah kawasan hijau yakni: kebersihan dan pemeliharaan, peningkatan jumlah kekayaan vegetasi, keberadaan badan air berperan dalam membentuk preferensi atribut RTH \citep{madureira2018}.
 
 % existing research
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
 %state of the art
-Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferensi ruang secara menyeluruh yang ada di kawasan tepi laut.
+Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferensi ruang yang ada di kawasan tepi laut.
+Kebanyakan penelitian hanya mendiskusikan atribut atau fitur ruang yang paling dicenderungi masyarakat seperti dalam \citep{dipeolu2021,madureira2018,alves2008}.
 
-Kebanyakan penelitian hanya mendiskusikan karakteristik atau atribut yang paling dicenderungi masyarakat seperti dalam \citep{dipeolu2021}.
-Hipotesis peneliti bahwa pemilihan ruang didasarkan atas alasan apakah seseorang menyukai ruang dengan sekelompok atribut satu daripada ruang dengan sekelompok atribut lainnya.
-Ditambah lagi, penilaian lokal harus diadakan karena preferensi ruang tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
-Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulawesi Selatan.
+%atribut preferensi ruang
+Fitur ruang adalah bagian dari \textit{setting} ruang publik (seperti \textit{waterfront \& taman}) yang khas dan konteks lingkungan yang lebih luas \citep{alves2008}.
+Beberapa penelitian menemukan bahwa fitur ruang berperan penting terhadap preferensi ruang masyarakat.
+Karakteristik fisik ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{(general preference)}, meskipun preferensi ruang untuk menghilangkan stres hampir sama dengan preferensi umum, preferensi ruang untuk menghilangkan stress lebih mengutamakan pada jumlah pengunjung yang sedikit \citep{arnberger2015}. Fitur ruang berupa elemen alami juga disebutkan mempunyai peran terhadap preferensi, diantara elemen alami tersebut yaitu pohon/tumbuhan, pemandangan liar \textit{(wildlife)}, dan pohon jalan \citep{alves2008}.
+Pada studi terhadap preferensi fitur lanskap manula, fasilitas dan infrastruktur yang alami, estetik, beragam, aksesibel, komprehensif, terpelihara serta adanya interaksi diantara manusia dan alam mempengaruhi tingkat preferensi mereka \citep{wen2018}.
+
+Lebih lanjut, penilaian lokal harus diadakan karena preferensi ruang tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
+Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulsel.
 Selain memperhatikan preferensi ruang masyarakat, isu-isu berkaitan dengan keberlanjutan akan di selediki dalam mendukung tepi laut sukses berkelanjutan.
 
 
 \section{Rumusan Masalah}
 Kawasan tepi laut merupakan kawasan yang sangat rentan dan bernilai tinggi \citep{mullin2000}. Sebagai area yang merupakan bagian yang tidak terpisahkan dari sebuah kota \citep{hussein2014}. Pengembangan tepi laut yang berhasil menarik masyarakat untuk datang ke pesisir. Keberhasilan suatu tepi laut menjadi tanda sebuah kota yang berhasil.
-Pengembangan ulang dapat mendongkrak atau menurunkan kualitas suatu tepi laut. Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana meng­ hubungkan sejumlah kota wisata lainnya di Sulawesi Selatan \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Demikian menjadi pendukung kota Parepare sebagai kota Pariwisata. Potensi ini menjadi alasan perhatian penuh terhadap kawasan tepi laut di pesisir kota Parepare.
-Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini menghasilkan sejumlah ruang yang memiliki atribut yang berbeda. Saat ini, masyarakat terpecah dalam menggunakan ruang di kawasan waterfront. Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
+Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Potensi ini menjadi alasan perhatian penuh terhadap kawasan tepi laut di pesisir kota Parepare sebagai kota Pariwisata.
+Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membangun ruang-ruang yang memiliki fitur atau atribut yang berbeda.
+Dengan mengkategorikan ruangnya, ada masyarakat yang lebih memilih berkumpul di ruang A daripada ruang B.
+Sebuah kawasan yang ramai pertanda tempat itu telah berhasil \citep{hoyle2001}, yakni berhasil memenuhi kebutuhan penggunanya \citep{ozguner2011}. Artinya perencanaan mesti menjawab apa yang mereka lakukan dan harapkan dalam menggunakan tepi laut (preferensi)?
+
+%Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
 
 Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi ruang masyarakat di kawasan tepi laut senggol. Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 
 \begin{enumerate}
-\item Apa preferensi ruang masyarakat di kawasan tepi laut Senggol? Mengapa masyarakat memilih satu daripada lainnya?
-\item Apakah fitur ruang adalah faktor terpenting untuk preferensi ruang masyarakat? Apakah kepentingannya bervariasi diantara ruang-ruang?
+    \item Apa preferensi ruang masyarakat di kawasan tepi laut Senggol?
+    \item Apa fitur ruang yang paling penting terhadap pemilihan ruang? Apakah kepentingannya bervariasi diantara ruang-ruang?
 \end{enumerate}
 
+%Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
+%Menurut \cite{hoyle2001}, tepi laut yang berhasil artinya mampu membawa masyarakat untuk berkunjung.
+%Itu dapat ditingkatkan berdasarkan kebutuhan pengguna karena mereka adalah pengguna yang sebenarnya \citep{ozguner2011}.
+%\cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa masyarakat dan pengunjung untuk datang ke pesisir.
+%\cite{} menyebutkan bahwa keramaian suatu tempat berkaitan dengan preferensi orang. 06:31
+%mempunyai dua pilihan ruang dalam kawasan tepi laut. Timbulnya preferensi ruang
+%Sejumlah penelitian menghubungkan tingkat kunjungan suatu tempat dengan preferensi ruang.?/?
+%Belum muncul fitur ruang yang sebenarnya yang menjadi alasan seseorang dalam memilih ruang di kawasan ini.
+%Belum muncul fitur ruang yang sebenarnya terkait preferensi ruang
 
 \section{Tujuan Penelitian}
 Penelitian ini bertujuan untuk menelusuri preferensi ruang  masyarakat di kawasan tepi laut. Preferensi ruang masyarakat juga akan dijelaskan dalam konteks atribut-atribut yang ada pada setiap ruang. Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di kalangan masyarakat dan pengunjung.
@@ -261,11 +275,11 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 
 \section{Preferensi}
 \label{sub:pref}
-Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari tumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
+Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
 \cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
 
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}.
-Alhasil, menurut \cite{jamila2016} preferensi merupakan tolak ukur dalam menilai keberhasilan suatu taman kota.
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada fitur ruang, tetapi cara orang berinteraksi dengannya, \textit{setting} tertentu dari interaksi dan karakter orang.
+Alhasil, preferensi dapat menjadi tolak ukur dalam menilai keberhasilan suatu taman kota \cite{jamila2016}.
 
 \begin{figure}[htpb]
     \centering
@@ -281,8 +295,8 @@ Alhasil, menurut \cite{jamila2016} preferensi merupakan tolak ukur dalam menilai
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}.
 Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau kebisingan kondisi sekitar)
-Beberapa istilah terkait fitur ruang muncul pada penelitian lain misalnya atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan \citep{dwiputra2017}.
-\cite{zhang2020} menggunakan preferensi ruang(lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
+Beberapa istilah terkait fitur ruang muncul pada penelitian lain misalnya atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018}.
+\cite{zhang2020} menggunakan preferensi ruang (lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
 
 Atribut lingkungan yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
 Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berperan penting terhadap preferensi taman lokal, seperti jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
@@ -624,7 +638,7 @@ Sejumlah massa bangunan yang berdekatan dengan \textit{waterfront} tergambarkan 
 
 \begin{enumerate}
     \item Pasar Senggol
-Pasar ini cukup populer di daerah Sulawesi Selatan sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memuaskan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
+Pasar ini cukup populer di daerah Sulsel  sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memuaskan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
 Pada tahun 2006, Parepare mengadakan rehabilitasi terhadap prasana dan sarana. Pasar Senggol termasuk dalam proyek rehabilitasi tersebut. Hal yang melatarbelakanginya adalah untuk percepatan pertumbuhan ekonomi wilayah yang berbasis pada sumber daya lokal, investasi dan kesejahteraan masyarakat sesuai dengan prinsip pembangunan berkelanjutan. Kedua untuk pemerataan infrastruktur wilayah melalui keseimbangan penataan ruang dan adaptibilitas perubahan lingkungan hidup \citep{syafruddin2018}.
 
 Beberapa motivasi pembeli terhadap barang cakar adalah harganya termasuk murah, kualitasnya masih terjaga dan beragam pilihan. Pengunjung Pasar Senggol biasanya menyempatkan diri berkunjung ke tepi laut Senggol untuk makan malam atau hanya sekedar wisata malam.
