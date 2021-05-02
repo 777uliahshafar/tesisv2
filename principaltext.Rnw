@@ -94,7 +94,7 @@ Kawasan tepi laut merupakan kawasan yang sangat rentan dan bernilai tinggi \cite
 Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Potensi ini menjadi alasan perhatian penuh terhadap kawasan tepi laut di pesisir kota Parepare sebagai kota Pariwisata.
 Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membangun ruang-ruang yang memiliki fitur atau atribut yang berbeda.
 Dengan mengkategorikan ruangnya, ada masyarakat yang lebih memilih berkumpul di ruang A daripada ruang B.
-Sebuah kawasan yang ramai pertanda tempat itu telah berhasil \citep{hoyle2001}, yakni berhasil memenuhi kebutuhan penggunanya \citep{ozguner2011}. Artinya perencanaan mesti menjawab apa yang mereka lakukan dan harapkan dalam menggunakan tepi laut (preferensi)?
+Sebuah kawasan yang ramai pertanda tempat itu telah berhasil \citep{hoyle2001}, yakni berhasil memenuhi kebutuhan penggunanya \citep{ozguner2011}. Artinya perencanaan mesti menjawab apa yang mereka lakukan dan harapkan dalam menggunakan tepi laut (preferensi) dan siapa pengguna tepi laut(karakter pengguna)? Dalam kata lain, keramaian memiliki hubungan dengan preferensi.
 
 %Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
 
@@ -119,6 +119,11 @@ Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi ruang masyar
 \section{Tujuan Penelitian}
 Penelitian ini bertujuan untuk menelusuri preferensi ruang  masyarakat di kawasan tepi laut. Preferensi ruang masyarakat juga akan dijelaskan dalam konteks atribut-atribut yang ada pada setiap ruang. Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di kalangan masyarakat dan pengunjung.
 Peneliti berharap hasil penelitian ini dapat digunakan dalam melengkapi kekurangan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya menghasilkan integrasi antara ruang dan mensukseskan kawasan tepi laut senggol secara keseluruhan tanpa melupakan sisi keberlanjutan sebuah tepi laut.
+
+\begin{enumerate}
+    \item Untuk mengetahui preferensi ruang berdasarkan fitur ruang karakter pengguna tepi laut.
+    \item Untuk menjelaskan fitur yang ada yang mempengaruhi preferensi ruang masyarakat pada suatu ruang.
+\end{enumerate}
 
 \section{Manfaat Penelitian}
 
@@ -151,35 +156,36 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 \begin{figure}[hp]
 \centering
 \begin{tikzpicture}[node distance=2cm]
-\node (ltr) [startstop] {Latar Belakang};
+\node (ltr) [startstop] {Latar belakang};
 
-\node (rum) [startstop, right of=ltr, xshift=2cm] {Perumusan Masalah};
+\node (rum) [startstop, right of=ltr, xshift=2cm] {Perumusan masalah};
 
-\node (tuj) [startstop, below of=rum, yshift=0.5cm] {Tujuan Penelitian};
+\node (tuj) [startstop, below of=rum, yshift=0.5cm] {Tujuan penelitian};
 
 \node (pus) [startstop, below of=tuj, yshift=0.5cm] {Studi Pustaka};
 
 \node (kaj) [startstop, below of=pus, text width=4cm, xshift= -4cm, yshift=-.2cm] {
-	\textbf{Kajian Teori}\\ -Ruang publik waterfront\\ - Preferensi Ruang\\ - Atribut Kawasan
+	\textbf{Kajian Teori}\\ -Ruang publik waterfront\\ - Preferensi ruang\\ - Fitur ruang
 };
 
 
 \node (kaj2) [startstop, below of=pus, text width=3.5cm, xshift= 4cm, yshift=-.2cm] {
-	\textbf{Gambaran Objek}\\ Ruang Tepi Laut Senggol Parepare
+	\textbf{Gambaran Objek}\\  Kondisi ruang A dan B tepi Laut Senggol Parepare berdasarkan fitur ruang
 };
 
 \node (met) [startstop, below of=pus, yshift=-4cm, text width=7cm] {
-	\textbf{Metode Peneltian}\\ Menggunakan Metode penelitian Kuantitatif Rasionalistik
+	\textbf{Metode Peneltian}\\ Menggunakan metode penelitian kualitatif deskriptif
 
 	\textbf{Variabel}\\
-	- Bebas : Atribut Kawasan Tepi laut \\
-	- Terikat : Preferensi Ruang Masyarakat\\
+	- Fitur ruang kawasan tepi laut \\
+    - Karakter pengguna\\
 
-	\textbf{Sumber data}: Observasi dan Kuesioner
+
+	\textbf{Sumber data}: Observasi dan kuesioner
 };
 
 \node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode statika berupa uji regresi guna mengetahui pengaruh variabel fitur ruang dan sosio-demo terhadap variabel preferensi ruang.
+		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode kualitatif deskriptif untuk mengekplorasi fitur yang ada yang terkait preferensi ruang di kawasan tepi laut dan metode statistik untuk penyebaran variabel preferensi ruang.
 };
 
 \node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
