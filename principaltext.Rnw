@@ -492,7 +492,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 Penelitian ini menggunakan metode kualitatif deskriptif.
 Dengan menggunakan metode ini, penelitian objek dapat mendeskripsikan atau menggambarkan preferensi ruang dan fitur-fitur terkait preferensi yang membentuk suatu sekumpulan massa pada suatu ruang secara sistematis, faktual, dan akurat.
 Penelitian dengan metode kualitatif berupaya untuk memahami kondisi tertentu dengan menginterpretasikan masalah atau dengan menyimpulkan kombinasi dari berbagai permasalahan.
-Selain itu, penelitian ini juga mendeskripsikan objek pengamatan melalui statistik sederhana. Dengan tujuan memahami distribusi kepentingan sebuah fitur-fitur ruang dan hubungan fitur yang ada dengan preferensi ruang secara deskriptif. Arti lain teknik ini masuk dalam ranah kuantitatif yang menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Jenis statistik yang digunakan adalah \textit{crosstab} untuk mengetahui kecenderungan hasil temuan.
+Selain itu, penelitian ini juga mendeskripsikan objek pengamatan melalui statistik sederhana. Dengan tujuan memahami distribusi kepentingan sebuah fitur-fitur ruang dan hubungan fitur yang ada dengan preferensi ruang secara deskriptif. Arti lain, teknik ini masuk dalam ranah kuantitatif yang menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Jenis statistik yang digunakan adalah \textit{crosstab} untuk mengetahui kecenderungan hasil temuan.
 
 
 %Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
@@ -576,7 +576,30 @@ Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang t
 \subsection{Data Sekunder}
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
 
-%\section{Metode Analisis Data}
+\section{Metode Analisis Data}
+
+Pada proses ini, peneliti melakukan identifikasi dan membaca hasil pengelolaan data untuk menganalisis dan membahas fenomena yang diteliti. Analisis ini berguna untuk membangun sebuah gambaran lengkap dan holistik terkait fitur ruang terkait preferensi yang ada serta preferensi ruang pada kawasan tepi laut Senggol. Penggambaran objek penelitian terkait preferensi ini membutuhkan alat bantu teori. Setelah itu, penulis menarik sebuah kesimpulan atau pemaknaan yang dapat menjadi bagian penting dari kontruksi pengetahuan untuk menemukan sebuah penemuan yang baru dari sebuah fenomena yang diteliti. Tahap-tahap tersebut merupakan bagian dari rangkaian jenis penelitian kualitatif yang dapat pula diuraikan sebagai berikut:
+
+\begin{enumerate}
+    \item Reduksi Data
+
+   Mereduksi data artinya melakukan pemilahan, penyederhanaan, pengabstakan dan perubahan data mentah yang muncul dari catatan yang tertulis di lapangan.
+
+   \item Penyajian data
+
+    Penyajian yang sangat populer saat ini adalah dalam bentuk deksriptif, gambar, tabel dan diagram. Peneliti menggunakan bahasa pemrograman statistika R untuk menyusun data mentah menjadi sebuah bentuk penyajian yang cocok. Penyajian ini juga memperhatikan informasi yang didapat dari data di objek penelitian agar relevan dan menjawab permasalahan fenomena yang di teliti.
+
+\item Penarikan Kesimpulan
+
+    Penarikan kesimpulan menandakan tahap analisis hampir selesai. Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang telah didapatkan berdasarkan metode kualitatif. Berdasarkan analisis dan pembahasan data, maka hasil yang diperoleh pada tahap kesimpulan ini adalah preferensi ruang (kecenderungan pada ruang A atau ruang B) dan fitur ruang yang ada berkaitan dengan preferensi. Sedangkan analisis data yang menggunakan statistik \textit{(crosstab)}, didapatkan hubungan antara variabel (fitur ruang) dan ruang yang terpilih.
+
+
+\end{enumerate}
+
+
+
+
+
 
 %Setelah data terkumpul, peneliti menganalisis keseluruhan data dari sejumlah kuesioner yang terisi dan valid menggunakan analisis statistik.
 
