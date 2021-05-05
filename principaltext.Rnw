@@ -104,6 +104,7 @@ Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi ruang masyar
 \begin{enumerate}
     \item Apa preferensi ruang masyarakat di kawasan tepi laut Senggol?
     \item Apa fitur ruang yang paling penting terhadap pemilihan ruang? Apakah kepentingannya bervariasi diantara ruang-ruang?
+        % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
 \end{enumerate}
 
 %Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
