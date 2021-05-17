@@ -76,26 +76,36 @@ Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan menge
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
 %state of the art
 Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferensi ruang yang ada di kawasan tepi laut.
-Kebanyakan penelitian hanya mendiskusikan atribut atau fitur ruang yang paling dicenderungi masyarakat seperti dalam \citep{dipeolu2021,madureira2018,alves2008}.
+Kebanyakan penelitian hanya mendiskusikan atribut atau fitur ruang yang paling dicenderungi masyarakat \citep{dipeolu2021,madureira2018,alves2008,elmen2005}.
 
-%atribut preferensi ruang
+%atribut preferensi ruang & karkter pengguna
 Fitur ruang adalah bagian dari \textit{setting} ruang publik (seperti \textit{waterfront \& taman}) yang khas dan konteks lingkungan yang lebih luas \citep{alves2008}.
-Beberapa penelitian menemukan bahwa fitur ruang berperan penting terhadap preferensi ruang masyarakat.
-Karakteristik fisik ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{(general preference)}, meskipun preferensi ruang untuk menghilangkan stres hampir sama dengan preferensi umum, preferensi ruang untuk menghilangkan stress lebih mengutamakan pada jumlah pengunjung yang sedikit \citep{arnberger2015}. Fitur ruang berupa elemen alami juga disebutkan mempunyai peran terhadap preferensi, diantara elemen alami tersebut yaitu pohon/tumbuhan, pemandangan liar \textit{(wildlife)}, dan pohon jalan \citep{alves2008}.
+Sejumlah penelitian menemukan hubungan antara fitur ruang dan preferensi ruang.
+Karakteristik fisik ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{(general preference)}, sedangkan jumlah pengunjung yang sedikit lebih mempengaruhi preferensi ruang untuk menghilangkan stress \citep{arnberger2015}.
+Fitur alami juga disebutkan berperan terhadap preferensi, diantara fitur alami tersebut yaitu pohon/tumbuhan, pemandangan liar \textit{(wildlife)}, dan pohon jalan \citep{alves2008}.
 Pada studi terhadap preferensi fitur lanskap manula, fasilitas dan infrastruktur yang alami, estetik, beragam, aksesibel, komprehensif, terpelihara serta adanya interaksi diantara manusia dan alam mempengaruhi tingkat preferensi mereka \citep{wen2018}.
+Selain fitur ruang, karakter pengguna terkait dengan keadaan \textit{socio-demografi} seperti umur, ras, gender dan status pekerjaan memiliki pengaruh besar terhadap pemilihan ruang.
+Seperti contoh, pelajar sekolah dasar lebih mencenderungi ruang komersial modern sedangkan pelajar sekolah menengah lebih menyukai ruang yang alami dan ekologi \citep{zhao2020}. Dia menegaskan bahwa karakter individu, keluarga, dan profesi penduduk menjadi pengaruh terhadap preferensi.
 
-Lebih lanjut, penilaian lokal harus diadakan karena preferensi ruang tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
+Lebih lanjut, sangat penting untuk melakukan penilaian lokal karena preferensi tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
 Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulsel.
-Selain memperhatikan preferensi ruang masyarakat, isu-isu berkaitan dengan keberlanjutan akan di selediki dalam mendukung tepi laut sukses berkelanjutan.
-
+Selain memperhatikan preferensi ruang masyarakat, fitur ruang dan karakter pengguna akan diselidiki untuk memberikan pemahaman deskriptif dari objek penelitian.
 
 \section{Rumusan Masalah}
 Kawasan tepi laut merupakan kawasan yang sangat rentan dan bernilai tinggi \citep{mullin2000}. Sebagai area yang merupakan bagian yang tidak terpisahkan dari sebuah kota \citep{hussein2014}. Pengembangan tepi laut yang berhasil menarik masyarakat untuk datang ke pesisir. Keberhasilan suatu tepi laut menjadi tanda sebuah kota yang berhasil.
-Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Potensi ini menjadi alasan perhatian penuh terhadap kawasan tepi laut di pesisir kota Parepare sebagai kota Pariwisata.
+Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Potensi ini menjadi alasan perhatian khusus terhadap kawasan tepi laut di pesisir kota Parepare sebagai kota Pariwisata.
 Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membangun ruang-ruang yang memiliki fitur atau atribut yang berbeda.
 Dengan mengkategorikan ruangnya, ada masyarakat yang lebih memilih berkumpul di ruang A daripada ruang B.
-Sebuah kawasan yang ramai pertanda tempat itu telah berhasil \citep{hoyle2001}, yakni berhasil memenuhi kebutuhan penggunanya \citep{ozguner2011}. Artinya perencanaan mesti menjawab apa yang mereka lakukan dan harapkan dalam menggunakan tepi laut (preferensi) dan siapa pengguna tepi laut(karakter pengguna)? Dalam kata lain, keramaian memiliki hubungan dengan preferensi.
 
+Kawasan revitalisasi tepi laut yang berhasil ditandai dengan keberhasilannya membawa pengunjung ke tepi laut \citep{hoyle2001}, yang mana menciptakan keramaian pada suatu ruang. Menurut \cite{ozguner2011}, keberhasilan ini dapat ditingkatkan berdasarkan kebutuhan pengguna, dengan mengetahui preferensi ruang dapat membantu mengelola pengembangan untuk memenuhi kebutuhan pengguna \citep{madureira2018}.
+
+%Untuk meningkatkan sebuah kawasan perlu memahami kebutuhan pengguna karena mereka adalah pengguna yang sebenarnya \citep{ozguner2011}.
+%Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
+%Kawasan itu dapat ditingkatkan berdasarkan kebutuhan penggunanya sebagai pengguna yang sebenarnya \citep{ozguner2011}.
+%Maka muncul pertanyaan berkaitan preferensi apa yang mereka lakukan dan harapkan dalam menggunakan tepi laut?\citep{mak2019}
+%Pengetahuan-pengetahuan terhadap interaksi dan hubungan ini dapat berguna untuk meningkatkan sebuah kawasan.
+%Kawasan yang ramai pertanda tempat itu telah berhasil \citep{hoyle2001}, yakni berhasil memenuhi kebutuhan penggunanya \citep{ozguner2011}.
+%Untuk meningkatkan keberhasilan tersebut perlu mementingkan kebutuhan pengguna taman sebagai pengguna yang sebenarnya \citep{ozguner2011}.
 %Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
 
 Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi ruang masyarakat di kawasan tepi laut senggol. Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
@@ -334,7 +344,7 @@ Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public 
 
 Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
 \cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
-Pernyataan ini mewakili preferensi ruang berdasarkan socio-demografi juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
+Pernyataan ini mewakili preferensi ruang berdasarkan karakter pengunjung juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
 Hal ini memperkuat alasan preferensi ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
 Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khusus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
 Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
@@ -369,7 +379,7 @@ Rasa aman juga  menjadi faktor penting yang dapat mempengaruhi keadaan emosional
 Tingkat ketertutupan \textit{(visibility)}, kehadiran seseorang, pencahayaan, pagar dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020,ahmad2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat ketertutupan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
 Tingkat ketertutupan yang kurang dapat mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}.
 Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
-Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. \cite{virden1999} lebih menjelaskan jarak antara orang mempengaruhi rasa aman pada manula dan perempuan. Namun ini kontradiksi dengan penelitian \citep{elmen2005} bahwa socio-demografi tidak berhubungan dengan jarak antara orang.
+Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. \cite{virden1999} lebih menjelaskan jarak antara orang mempengaruhi rasa aman pada manula dan perempuan. Namun ini kontradiksi dengan penelitian \citep{elmen2005} bahwa karakter orang tidak berhubungan dengan jarak antara orang.
 
 Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap rasa aman adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Contohnya, menurut \cite{luo2021} bahwa adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Namun kehadiran orang yang berlebihan dapat menurunkan rasa aman \citep{zhang2021}
 Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) dan hilangnya sampah/grafiti mungkin mempengaruhi presepsi keamanan dan estetika \citep{van2016}. Lebih lanjut, kedua aspek tersebut adalah faktor penting dalam peningkatan kunjungan taman \citep{veitch2017}.
@@ -419,43 +429,45 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 
 
 
-\section{Socio-Demografi}
+\section{Karakter Orang/Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
-Penelitian tentang taman perkotaan, variabel sosio-demografi mempengaruhi preferensi ruang\textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh socio-demografi lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Dalam kata lain, gender, pendapatan, profesi mungkin mempengaruhi variasi tingkat akses taman.
-Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
+Penelitian tentang taman perkotaan, variabel karakter pengguna (sosio-demografi) mempengaruhi preferensi ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
-Berbicara socio-demografi, aspek umur dan status sosial lebih sering muncul pada penelitian.
-\cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang(lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}.
-Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} menemukan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ketenangan.
+%Umur dan status
+Berbicara karakter orang, aspek umur dan status sosial lebih sering muncul pada penelitian.
+\cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang (lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Perbedaan juga tampak pada kesukarelaan untuk mengunjungi taman pada malam hari, anak muda lebih menyukai mengunjungi taman pada malam hari ketimbang manula \citep{mak2019}.
+Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} menemukan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ruang dengan derajat ketenangan tertentu.
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
-Penelitian terkait preferensi ruang publik taman, mengutarakan bahwa status pendidikan setara sekolah dasar lebih memilih ruang komersial modern. Hal ini terjadi karena pemahaman terhadap ruang publik taman masih kurang \citep{zhao2020}. Berbeda dengan status pendidikan yang tinggi memiliki perhatian lebih terhadap lingkungan \citep{wall1995,ewert2001}.
+Penelitian terkait preferensi ruang publik taman, mengutarakan bahwa status pendidikan setara sekolah dasar lebih memilih ruang komersial modern. Hal ini terjadi karena pemahaman terhadap ruang publik berbasis taman atau lingkungan masih kurang \citep{zhao2020}. Berbeda dengan status pendidikan yang tinggi memiliki perhatian lebih terhadap lingkungan \citep{wall1995,ewert2001}.
 
+%ras
 Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan. Perbedaan ras hitam atau putih juga memiliki preferensi ruang tersendiri. Lebih lanjut,orang hitam lebih cenderung pada ruang terbuka dengan lanskap yang terpelihara dan terawat, sedangkan orang kulit putih lebih cenderung pada ruang yang memiliki pepohonan, vegetasi yang rindang, dedaunan yang lebat dan area kayu yang padat  \citep{elmen2005}.
 
 
 
 \begin{table}[htpb]
     \centering
-    \caption{Variabel Socio-demografi}
+    \caption{Variabel Karakter Orang}
     \label{tab:var2}
     \begin{tabular}{l p{3.4cm} l}
     \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
         \toprule
-    \multirow{ 4}{*}{1.} & \multirow{ 4}{*}{Umur} & 14-25 \\
-    & & 26-44\\
+    \multirow{ 4}{*}{1.} & \multirow{ 4}{*}{Umur} & 18-44 \\
     & & 45-64\\
+    & & $\ge$  65\\
     & & \\
     \multirow{ 3}{*}{2.} & \multirow{ 3}{*}{Gender} & Laki-laki \\
     & & Perempuan\\
     & & \\
-    \multirow{ 3}{*}{3.} & \multirow{ 3}{*}{Ras} & Minoritas\\
-    & & Mayoritas\\
+    \multirow{ 3}{*}{3.} & \multirow{ 3}{*}{Ras} & Bugis\\
+    & & Bukan Bugis\\
     & & \\
-    \multirow{ 4}{*}{4.} & \multirow{ 4}{*}{Pendapatan} & Tinggi\\
-    & & Sedang\\
-    & & Rendah\\
+    \multirow{ 4}{*}{4.} & \multirow{ 4}{*}{Status Pekerjaan} & Karyawan \\
+    & & Wiraswasta\\
+    & & Pengangguran\\
+    & & Pelajar\\
+    & & Pensiun\\
     & & \\
-
     \end{tabular}
 \end{table}
 
@@ -472,7 +484,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 
 	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur lingkungan}\\\small(fasilitas,estetika,keamanan,kebisingan, dan pemeliharaan)};
 
-	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Socio-demo}\\\small(umur,gender,ras dan pendapatan)};
+	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Karakter Orang}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
 
 	\node (pre) [startstop, right of=fit, text width= 5cm,yshift=-2.5cm, xshift=4cm] {\textbf{Preferensi Ruang}\\ Ruang A atau Ruang B};
 
@@ -553,7 +565,7 @@ Populasi dalam penelitian ini berasal dari pengunjung kawasan \textit{waterfront
 
 Setelah menentukan batasan populasi, peneliti meringkas lagi subjek penelitian agar penelitian berjalan lebih mudah. Membangun sampel artinya mengambil bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Dengan syarat sampel dapat mewakili populasi yang telah ditentukan. Seperti contoh apabila populasi memiliki 5 karakteristik dan kualitas, maka harus mencakup kelima karakteristik tersebut dan mengambil sebagian kecil dari masing-masing karaktersitik sesuai dengan teknik dalam menentukan besar ukuran sampel \citep{prof2016}.
 
-Penelitian ini menggunakan sampel dengan karakteristik subjek  berumur 14 tahun keatas dan pengunjung tepi laut Senggol.
+Penelitian ini menggunakan sampel dengan karakteristik subjek  berumur 18 tahun keatas dan pengunjung tepi laut Senggol.
 Peneliti menggunakan sampel jenis \textit{non-random} untuk mengumpulkan data kualitatif. Menurut \cite{prof2016} jenis sampel ini sangat erat dengan penelitian kualitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
 Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian. Untuk menentukan sampel, penelitian ini menggunakan teknik \textit{accidental sampling}. Teknik ini menentukan sampel secara kebetulan, artinya peneliti/\textit{surveyor} menentukan siapa saja yang ditemui di objek penelitian asal sesuai dengan kriteria\citep{sugiyono2010}.
 
