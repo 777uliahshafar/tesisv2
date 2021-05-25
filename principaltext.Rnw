@@ -69,8 +69,8 @@ Tepi laut senggol telah lama menjadi daya tarik populer bagi masyarakat setempat
 
 % def Preferensi ruang
 Kawasan tepi laut senggol terbentang dari Pelabuhan Nusantara hingga Pasar Senggol sepanjang sekitar 300 meter. Sepanjang garis pantai tersebut terbentuk sejumlah ruang dengan karakteristik yang berbeda. Pengembangan yang terjadi di kawasan tersebut untuk merespon konsep kota Parepare sebagai kota Pariwisata.
-Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}. Beberapa ruang yang tercipta melahirkan preferensi ruang masyarakat. Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. Sejumlah atribut pada ruang tersebut menjadi alasan dalam pemilihan ruang di kawasan tepi laut.
-Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
+Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}, dengan cara memenuhi kebutuhannya. Mencari tahu preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
+Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. Sejumlah atribut pada ruang tersebut menjadi alasan dalam pemilihan ruang di kawasan tepi laut.
 
 % existing research
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
@@ -231,8 +231,31 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
-\section{Ruang Publik Waterfront}
+\section{Preferensi}
+\label{sub:pref}
+Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
+\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
 
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada fitur ruang, tetapi cara orang berinteraksi dengannya, \textit{setting} tertentu dari interaksi dan karakter orang. Preferensi ini juga didasari oleh faktor-faktor perseptual \citep{vandenberg2003,england2009}. \cite{ittelson1978} menjabarkan empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
+
+\begin{itemize}
+\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
+\item Afektif, lingkungan mempengaruhi perasaan seseorang
+\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
+\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk'.
+\end{itemize}
+
+Dari teori tentang presepsi didapatkan bahwa setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan bergantung pada umur, gender, dan ras dan lingkungan fisik \citep{carmona2021}. Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
+Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/pfbox2}
+    \caption{Kerangka Konseptual Perilaku Pemilihan Kawasan Rekreasi}
+    \caption*{sumber:\cite{huang1997} }
+    \label{fig:pfbox}
+\end{figure}
+\section{Ruang Publik Waterfront}
 \subsection{Pengertian Waterfront}
 \label{sub:defwat}
 
@@ -245,7 +268,7 @@ Terakhir, \cite{sari2015} menyimpulkan tepi laut adalah kawasan dinamis yang ber
 \subsection{Tepi Laut sebagai Ruang Publik}
 \label{sub:subsectionlabel}
 
-Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menguatkan pernyataan tadi bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan. Akses ini dapat berupa gratis masuk atau dengan biaya murah(seperti tiket) imbuhnya.
+Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menguatkan pernyataan tadi bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan. Akses ini dapat berupa gratis masuk atau dengan biaya murah (seperti tiket) imbuhnya. Dari istilah ini muncul defenisi ruang publik sebagai fasilitas atau wadah tempat berlangsungnya kehidupan komunal pada sebuah kawasan. Ruang publik ini terbagi atas dua kategori yakni ruang publik eksternal dan internal. Ruang publik eksternal: Ruang publik di area perkotaan antara lain taman, alun-alun \textit{(square)}, jalan, tol, parkir, dll. Ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang publik internal: Ruang publik institusi seperti perpustakaan, musium, \textit{town hall}, fasilitas transportasi, dll \citep{carmona2021}. Ruang-ruang yang disebutkan ini berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain \citep{carr1992}.
 
 Pengembangan tepi laut biasanya mengubah tepi laut untuk area industri dan komersial menjadi area untuk waktu luang, fasilitas publik dan kantor \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}. Beberapa kota telah menitikberatkan pengembangan waterfront dalam mewujudkan kota yang sukses seperti Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}. Ditambah kota-kota besar di Eropa, Amerika Serikat, Cina telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}.
 \cite{nur2006} menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar. Dia menegaskan bahwa tepi laut merupakan ruang publik yang memiliki nilai visual yang menarik.
@@ -266,30 +289,41 @@ Semua ini menjadi evaluasi terhadap kualitas ruang publik dan acuan dalam memuas
     \item persimpangan sosial tertentu
 \end{itemize}
 
-%ENVIRONMENT QUAALITY TOWARDS QUALITY OF LIFE
-Saat ini kenyamanan yang dirasakan di waterfront menjadi tantangan besar terhadap kualitas hidup seseorang \citep{li2020}. Bahkan kualitas sebuah urban waterfront menjadi tolak ukur sebuah keberhasilan kota. Menurut \cite{lansing1969} kualitas dari sebuah lingkungan menyampaikan rasa kesejahteraan dan kepuasan kepada penduduk melalui \textit{karakteristik fisik, sosial maupun simbolis}. Dalam cakupan yang besar, \cite{smith1997} menjabarkan tabel prinsip dari kualitas dan kebutuhan yang \textit{urban enviornment } harus penuhi yaitu \textit{}liveability, karakter, penghubung, \textit{mobility}, kebebesan diri, dan keberagaman.
+%ENVIRONMENT QUAALITY and  QUALITY OF LIFE PEOPLE
+Saat ini kenyamanan yang dirasakan di waterfront menjadi tantangan besar terhadap kualitas hidup seseorang \citep{li2020}. Bahkan kualitas sebuah urban waterfront menjadi tolak ukur sebuah keberhasilan kota. Menurut \cite{lansing1969} kualitas dari sebuah lingkungan menyampaikan rasa kesejahteraan dan kepuasan kepada penduduk melalui \textit{karakteristik fisik, sosial maupun simbolis}. Dalam pengertian luas, \cite{smith1997} menjabarkan tabel prinsip dari kualitas dan kebutuhan yang \textit{urban enviornment} harus dipenuhi yaitu \textit{liveability}, karakter, penghubung, \textit{mobility}, kebebesan diri, dan keberagaman. Para pakar berpendapat dalam \citep{hubbard1996} bahwa elemen kualitas yang sulit dipahami sangat penting dalam hubungan emosional yang kuat antara manusia dan linkungan binaan, yang mana dimediasi oleh rasa dan persepsi seorang (tentunya, ini beda terhadap setiap individu maupun kelompok dengan kebudayaan, nilai, dan latar belakang yang berbeda).
 
-Beberapa tahun terakhir ini, kualitas \textit{urban environtment} menjadi perbincangan yang hangat dalam penelitian perkotaan. Mereka berpendapat dalam \cite{hubbard1996} bahwa elemen kualitas yang sulit dipahami sangat penting dalam hubungan emosional yang kuat antara manusia dan linkungan binaan, yang mana dimediasi oleh rasa dan persepsi seorang (tentunya, ini beda terhadap setiap individu maupun kelompok dengan kebudayaan, nilai, dan latar belakang yang berbeda). Hingga saat ini, kualitas waterfront menjadi syarat pengembangan ekonomi kota; meningkatkan prospek pengembangan kota. Padahal dahulu ekonomi kota menjadi pendorong untuk kualitas waterfront
+Beberapa tahun terakhir ini, kualitas \textit{urban environment} menjadi perbincangan yang hangat dalam penelitian perkotaan.
+Hingga saat ini, kualitas waterfront menjadi syarat pengembangan ekonomi kota; meningkatkan prospek pengembangan kota. Padahal dahulu ekonomi kota menjadi pendorong untuk kualitas waterfront
 Perubahan kenyataan ini menjadi alasan yang kuat untuk mendorong kualitas fisik, sosial, estetika dan ekonomi suatu tepi laut.
 
 %BAGIAN-BAGIAN KUALITAS LINGKUNGAN WATERFRONT
-%part 1
-Tujuan estetika tepi laut yang baik yang harus dicapai adalah seperti akses fisik, akses visual, pelestarian sejarah, dan rasa tempat dan kontinuitas\citep{richarda.lehmann1966}. Dengan bagian-bagian tersebut, warga kota akan melihat tepi laut lebih baik.
-%part 2
-Menurut \cite{tunbridge1992} menguraikan faktor kunci utama kesuksessan skema pengembangan waterfront adalah mixed-uses dan aktivitas untuk bersantai. Mixed-uses pada waterfront menjadi kata kunci alasan sebuah tepi laut sebagian besar hanya menarik orang-orang tertentu. Seperti perkataan \cite{gospodini2001} bahwa penggunaan kembali ruang berdimensi tunggal telah membatasi potensi pengembangan dan mencegah tempat itu untuk berintegerasi dengan pusat kota dan ruang terbuka yang berdekatan dengan tempat itu. Tepi laut yang menyenangkan menempatkan karakteristik multi dimensi, agar orang-orang menjadikannya sebagai tempat untuk menyeimbangkan kerja, rekreasi dan hidup. Keberagaman dimensi waterfront menambah aktivitas-aktivitas yang mungkin dilakukan.
+Sejumlah penelitian melibatkan beberapa aspek dalam mendefinisikan sebuah kualitas lingkungan perkotaan yang baik.
+%quality 1
+\cite{tunbridge1992} menguraikan faktor kunci utama kesuksessan skema pengembangan waterfront adalah mixed-uses dan aktivitas untuk bersantai. Ini merupakan kualitas lingkungan yang memiliki cakupan yang besar. Seperti perkataan \cite{gospodini2001} bahwa penggunaan kembali ruang berdimensi tunggal telah membatasi potensi pengembangan dan mencegah tempat itu untuk berintegerasi dengan pusat kota dan ruang publik lainnya yang berdekatan dengan tempat itu. Tepi laut yang menyenangkan menempatkan karakteristik multi dimensi, agar orang-orang menjadikannya sebagai tempat untuk menyeimbangkan kerja, rekreasi dan hidup. Keberagaman dimensi waterfront menambah aktivitas-aktivitas yang mungkin bisa dilakukan.
+%quality 2
+\cite{richarda.lehmann1966} menerangkan estetika sebagai kualitas lingkungan yang terdiri dari akses fisik, akses visual, pelestarian sejarah, dan rasa tempat \textit{(sense of place)} dan kontiunitas.
 
-%part 3
-Kualitas yang ada pada lingkungan binaan waterfront memunculkan preferensi pengguna terhadap lingkungan tersebut. Preferensi penggunaan waterfront dapat diuraikan sebagai berikut:
-\begin{inparaenum}
+%quality 3
+\cite{macleod1999} menjelaskan kualitas yang ada pada lingkungan \textit{waterfront} mempertimbangkan preferensi pengguna terhadap lingkungan tersebut. \cite{gospodini2009} merangkum preferensi tersebut dalam enam kategori antara lain: \begin{inparaenum}
 \item  Aktivitas bersantai, olahraga, dan laut bertujuan untuk mengembangkan tepi pantai ke area rekreasi \citep{breen1994}. \cite{gospodini2009} menyebutnya sebagai \textit{`Popular leisure epicentres'}.
 \item Jalur pejalan kaki, akuarium, ekologi, dan lahan parkir untuk mengubah tepi laut sebagai area lingkungan(\textit{environment areas}) \citep{costa1990}.
 \item Aktivitas perusahaan, bisnis, rumah sakit, dan tepi laut yang mengubah tepi pantai menjadi lokasi finansial \citep{hoyle1999} \citep{hoyle2000}. \cite{gospodini2009} sering menyebutnya \textit{`entrepreneurial epicentres'}
 \item Rumah mewah, bertujuan untuk menjadikan tepi pantai sebagai area perumahan \citep{dong2004}.
-\item Bangunan-bangunan pelestarian sejarah meliputi hotel, restaurant, teater bahkan sungai untuk menjadikan tepi pantai sebagai kawasan \textit{heritage} \citep{macleod1999}. Atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}.
-	\end{inparaenum}
+\item Bangunan-bangunan pelestarian sejarah meliputi hotel, restaurant, teater bahkan sungai untuk menjadikan tepi pantai sebagai kawasan \textit{heritage} \citep{macleod1999}. Atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}\end{inparaenum}.
 
-%part 4
-Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengundang acara internasional. Kota Toronto berinisiatif untuk mengembangkan 6 pengembangan besar, berikut ini: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk Acara Olympic Games 2008\end{inparaenum}\citep{white2016}. Berbeda dengan \citep{mostafa2017} yang meringkas dampak urban dan sosial dari tepi laut yang mengungkapkan kebutuhan didominasi oleh : 1. pelayanan 2. taman 3. aktivitas 4. Shading 5. parkir 6. kafe dan rekreasi.
+%quality 4
+Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengundang acara internasional. Kota Toronto berinisiatif untuk mengembangkan 6 pengembangan besar, berikut ini: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk Acara Olympic Games 2008 \end{inparaenum} \citep{white2016}. Berbeda dengan \citep{mostafa2017} yang meringkas dampak urban dan sosial dari tepi laut yang mengungkapkan kebutuhan didominasi oleh : 1. pelayanan 2. taman 3. aktivitas 4. Shading 5. parkir 6. kafe dan rekreasi.
+
+\cite{carmona2021} menjelaskan pentingnya hubungan antara orang dan lingkungan sebagai bagian dari ranah publik dalam sebuah dimensi sosial. Dimana setiap lingkungan (`ruang') menghadirkan kegiatan-kegiatan sosial dan keberlangsungan kegiatan sosial melibatkan sebuah ruang. \citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang (masyarakat) membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
+
+
+
+Terdapat lingkungan fisik yang menentukan pengaruh terhadap perilaku manusia.
+
+
+Hubungan antara manusia dan lingkungannya
+tdk hanya dibahas epnelitan sblumny
+ttpi secara jelas dibahas oleh karmona dlam dimensi sosial.
 
 \section{Preferensi}
 \label{sub:pref}
@@ -307,7 +341,6 @@ Alhasil, preferensi dapat menjadi tolak ukur dalam menilai keberhasilan suatu ta
     \label{fig:pfbox}
 \end{figure}
 
-
 \section{Fitur Ruang}
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
@@ -316,12 +349,20 @@ Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau ke
 Beberapa istilah terkait fitur ruang muncul pada penelitian lain misalnya atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018}.
 \cite{zhang2020} menggunakan preferensi ruang (lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
 
-Fitur ruang yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}.
+
+Fitur ruang yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}. \cite{carmona2021} menerangkan sejumlah aspek-aspek ruang publik berdasarkan dimensi-dimensi. Dalam dimensi sosial, ada aspek aksesibilitas dan keamanan \textit{(safety \& security)}. Selanjutnya, dimensi visual membahas kualitas estetika beserta preferensi estetika dan juga lanskap lunak dan keras.
+
+
+
+Aksesiilitas pada ruang publik termasuk dalam dimensi sosial \citep{carmona2021}.
+
+%variabel-variabel fitur ruang dri jurnal
 Pada penelitian tentang preferensi taman lokal manula, beragam fitur ruang berperan penting terhadap preferensi taman lokal, seperti jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
 \cite{huang1997} mendefinisikan ini sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika(keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine, sejarah dan budaya, fasilitas rekreasi, dan danau.
 Sedangkan dalam penelitian preferensi taman kota terdiri dari unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
 Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
 Fitur ruang juga muncul pada penelitian terkait preferensi ruang kota sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebutkan fitur ruang sebagai karakteristik antara lain: aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang.
+%%%
 Berdasarkan penemuan diatas, maka penelitian mencakup fitur ruang antara lain akses, fasilitas, estetika, pemeliharaan, dan keamanan.
 
 Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
@@ -482,7 +523,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan va
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur lingkungan}\\\small(fasilitas,estetika,keamanan,kebisingan, dan pemeliharaan)};
+	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur lingkungan}\\\small(aksesibilitas,fasilitas,estetika,keamanan, dan pemeliharaan)};
 
 	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Karakter Orang}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
 
