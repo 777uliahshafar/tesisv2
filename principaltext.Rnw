@@ -268,7 +268,7 @@ Terakhir, \cite{sari2015} menyimpulkan tepi laut adalah kawasan dinamis yang ber
 \subsection{Tepi Laut sebagai Ruang Publik}
 \label{sub:subsectionlabel}
 
-Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menguatkan pernyataan tadi bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan. Akses ini dapat berupa gratis masuk atau dengan biaya murah (seperti tiket) imbuhnya. Dari istilah ini muncul defenisi ruang publik sebagai fasilitas atau wadah tempat berlangsungnya kehidupan komunal pada sebuah kawasan. Ruang publik ini terbagi atas dua kategori yakni ruang publik eksternal dan internal. Ruang publik eksternal: Ruang publik di area perkotaan antara lain taman, alun-alun \textit{(square)}, jalan, tol, parkir, dll. Ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang publik internal: Ruang publik institusi seperti perpustakaan, musium, \textit{town hall}, fasilitas transportasi, dll \citep{carmona2021}. Ruang-ruang yang disebutkan ini berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain \citep{carr1992}.
+Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menguatkan pernyataan tadi bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan. Akses ini dapat berupa gratis masuk atau dengan biaya murah (seperti tiket) imbuhnya. Dari istilah ini muncul defenisi ruang publik sebagai fasilitas atau wadah tempat berlangsungnya kehidupan komunal pada sebuah kawasan. Ruang publik ini terbagi atas dua kategori yakni ruang publik eksternal dan internal. Ruang publik eksternal: Ruang publik di area perkotaan antara lain \textit{waterfront}, taman, alun-alun \textit{(square)}, jalan, tol, parkir,  dll. Ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang publik internal: Ruang publik institusi seperti perpustakaan, musium, \textit{town hall}, fasilitas transportasi, dll \citep{carmona2021,carr1992}. Ruang-ruang yang disebutkan ini berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain \citep{carr1992}.
 
 Pengembangan tepi laut biasanya mengubah tepi laut untuk area industri dan komersial menjadi area untuk waktu luang, fasilitas publik dan kantor \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}. Beberapa kota telah menitikberatkan pengembangan waterfront dalam mewujudkan kota yang sukses seperti Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}. Ditambah kota-kota besar di Eropa, Amerika Serikat, Cina telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}.
 \cite{nur2006} menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar. Dia menegaskan bahwa tepi laut merupakan ruang publik yang memiliki nilai visual yang menarik.
@@ -314,24 +314,11 @@ Sejumlah penelitian melibatkan beberapa aspek dalam mendefinisikan sebuah kualit
 %quality 4
 Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengundang acara internasional. Kota Toronto berinisiatif untuk mengembangkan 6 pengembangan besar, berikut ini: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk Acara Olympic Games 2008 \end{inparaenum} \citep{white2016}. Berbeda dengan \citep{mostafa2017} yang meringkas dampak urban dan sosial dari tepi laut yang mengungkapkan kebutuhan didominasi oleh : 1. pelayanan 2. taman 3. aktivitas 4. Shading 5. parkir 6. kafe dan rekreasi.
 
-\cite{carmona2021} menjelaskan pentingnya hubungan antara orang dan lingkungan sebagai bagian dari ranah publik dalam sebuah dimensi sosial. Dimana setiap lingkungan (`ruang') menghadirkan kegiatan-kegiatan sosial dan keberlangsungan kegiatan sosial melibatkan sebuah ruang. \citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang (masyarakat) membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
+\cite{carmona2021} menjelaskan pentingnya hubungan antara orang dan lingkungan sebagai bagian dari ranah publik dalam sebuah dimensi sosial. Setiap lingkungan (`ruang') menghadirkan kegiatan-kegiatan sosial, begitupun sebaliknya keberlangsungan suatu kegiatan sosial selalu melibatkan sebuah ruang.
+\citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang (masyarakat) membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
+Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan fisik \textit{(physical environment)} dapat mempengaruhi perilaku orang \citep{carmona2021}. Ini mengindikasikan bahwa interaksi lingkungan-orang hanya berjalan satu arah. Akan tetapi, sebenarnya orang juga dapat mengubah dan mempengaruhi sebuah lingkungan. Meskipun pada dasarnya perilaku orang adalah `situasional' yang tertanam pada fisik -- dan juga `sosial', `budaya' dan `perseptual' --- konteks dan settings. Terdapat dua macam cara pandang bagaimana lingkungan berdampak pada kegiatan seseorang. \textit{environmenta possibilism} yaitu ketika orang dapat memilih lingkungan yang tersedia dan \textit{environmental probabilism} adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}. Seperti misalnya tepi laut dengan fitur alami lebih mendukung interaksi sosial daripada tepi laut yang menyerupai kawasan industri.
+Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada pengaturan tertentu \textit{(setting)} bergantung sebagian pada karakter orang \textit{(individual's own situation and characteristicts)}.
 
-
-
-Terdapat lingkungan fisik yang menentukan pengaruh terhadap perilaku manusia.
-
-
-Hubungan antara manusia dan lingkungannya
-tdk hanya dibahas epnelitan sblumny
-ttpi secara jelas dibahas oleh karmona dlam dimensi sosial.
-
-\section{Preferensi}
-\label{sub:pref}
-Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
-\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
-
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada fitur ruang, tetapi cara orang berinteraksi dengannya, \textit{setting} tertentu dari interaksi dan karakter orang.
-Alhasil, preferensi dapat menjadi tolak ukur dalam menilai keberhasilan suatu taman kota \cite{jamila2016}.
 
 \begin{figure}[htpb]
     \centering
@@ -343,14 +330,18 @@ Alhasil, preferensi dapat menjadi tolak ukur dalam menilai keberhasilan suatu ta
 
 \section{Fitur Ruang}
 
-Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik yang digunakan.
-Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil keberadaan atau jumlah dari sebuah fitur individu \citep{swanwick2009}.
-Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau kebisingan kondisi sekitar)
+Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik (lingkungan) yang digunakan.
+Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah fitur individu \citep{swanwick2009}.
+\cite{carmona2021} menerangkan sejumlah aspek-aspek ruang publik berdasarkan dimensi-dimensi. Dalam dimensi sosial, ada aspek aksesibilitas dan keamanan \textit{(safety \& security)}. Selanjutnya, dimensi visual membahas kualitas estetika beserta preferensi estetika dan juga lanskap lunak dan keras.
+
+
+%%revision
+Penelitian ini menggunakan istilah fitur ruang (cth. kehadiran pepohonan atau kebisingan kondisi sekitar).
 Beberapa istilah terkait fitur ruang muncul pada penelitian lain misalnya atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018}.
-\cite{zhang2020} menggunakan preferensi ruang (lanskap) sebagai metode penting untuk mengukur hubungan antara presepsi orang dan fitur lanskap.
+\cite{zhang2020} menggunakan preferensi ruang (lanskap) sebagai metode penting untuk mengukur hubungan orang-lingkungan.
 
+Fitur ruang yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi \cite{balling1982}.
 
-Fitur ruang yang menjamin kepuasan dan kebutuhan bertahan hidup mempengaruhi preferensi dan kepuasan estetika \cite{balling1982}. \cite{carmona2021} menerangkan sejumlah aspek-aspek ruang publik berdasarkan dimensi-dimensi. Dalam dimensi sosial, ada aspek aksesibilitas dan keamanan \textit{(safety \& security)}. Selanjutnya, dimensi visual membahas kualitas estetika beserta preferensi estetika dan juga lanskap lunak dan keras.
 
 
 
