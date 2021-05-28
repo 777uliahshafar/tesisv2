@@ -236,16 +236,16 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
 \cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
 
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada fitur ruang, tetapi cara orang berinteraksi dengannya, \textit{setting} tertentu dari interaksi dan karakter orang. Preferensi ini juga didasari oleh faktor-faktor perseptual \citep{vandenberg2003,england2009}. \cite{ittelson1978} menjabarkan empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter orang. Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}. Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
 
 \begin{itemize}
 \item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
 \item Afektif, lingkungan mempengaruhi perasaan seseorang
 \item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
-\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk'.
+\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
 \end{itemize}
 
-Dari teori tentang presepsi didapatkan bahwa setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan bergantung pada umur, gender, dan ras dan lingkungan fisik \citep{carmona2021}. Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
+Dari teori tentang presepsi didapatkan bahwa setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan dapat bergantung pada umur, gender, dan ras dan lingkungan fisik \citep{carmona2021}. Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
 Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
 
 \begin{figure}[htpb]
@@ -320,48 +320,35 @@ Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan
 Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter orang \textit{(individual's own situation and characteristicts)}.
 
 
-\begin{figure}[htpb]
-    \centering
-    \includegraphics[width=0.8\textwidth]{figures/pfbox2}
-    \caption{Kerangka Konseptual Perilaku Pemilihan Kawasan Rekreasi}
-    \caption*{sumber:\cite{huang1997} }
-    \label{fig:pfbox}
-\end{figure}
-
 \section{Elemen Ruang Publik}
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik (lingkungan) yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah fitur individu \citep{swanwick2009}. Ini menunjukkan adanya hubungan lingkungan dengan pengunjung.
 
-\cite{lynch1984} berpendapat bahwa manusia tidak dapat lepas dari keterikatannya dengan sekelilingnya selama hidupnya. Semua lingkungan perkotaan \textit{(urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{knox2014}. Elemen-elemen tersebut memiliki banyak kesamaan istilah seperti elemen lingkungan lingkungan binaan \citep{knox2014}, atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008} dan karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018}. Penelitian ini sendiri menggunakan istilah elemen ruang publik sebagaimana itu berakar pada tatanan fisik dan aktivitas pada tepi laut.
+\cite{lynch1984} berpendapat bahwa manusia tidak dapat lepas dari keterikatannya dengan sekelilingnya selama hidupnya. Semua lingkungan perkotaan \textit{(urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{knox2014}. Elemen-elemen tersebut memiliki banyak kesamaan istilah seperti elemen lingkungan lingkungan binaan \citep{knox2014}, atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008}, karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018} dan karakteristik ruang kota \citep{cahyaningtyas2020}. Penelitian ini sendiri menggunakan istilah elemen ruang publik (ERP) sebagaimana itu berakar pada tatanan fisik dan aktivitas pada tepi laut.
 
 \cite{carmona2021} menemukan sejumlah aspek-aspek perencanaan ruang publik yang terangkum dalam beberapa dimensi. Terdapat dimensi sosial (aksesibilitas dan keselamatan dan keamanan), visual (preferensi estetika dan lanskap lembut dan keras) dan fungsi (fitur). Dengan membentuk lingkungan binaan berdasarkan aspek-aspek ini, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial.
-
 %variabel-variabel fitur ruang dri jurnal
-Pada penelitian tentang preferensi taman lokal manula, beragam fitur lingkungan berperan penting terhadap preferensi taman lokal,
-Fitur lingkungan berpengaruh terhadap preferensi taman lokal pada penelitian preferensi manula.
-
-seperti jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
-\cite{huang1997} mendefinisikan ini sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika(keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine, sejarah dan budaya, fasilitas rekreasi, dan danau.
-Sedangkan dalam penelitian preferensi taman kota terdiri dari unsur-unsur seperti kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
+Pada penelitian preferensi manula, ERP mempengaruhi preferensi manula terhadap taman lokal. Adapun keberagaman fitur tersebut antara lain jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
+Sedangkan dalam penelitian preferensi pengunjung taman kota, aspek-aspek elemen terdiri dari kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
 Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
-Fitur ruang juga muncul pada penelitian terkait preferensi ruang kota sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebutkan fitur ruang sebagai karakteristik antara lain: aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang.
 
+\citeauthor{cahyaningtyas2020} menyebut ERP sebagai karakteristik ruang kota dalam penelitian preferensi masyarakat terhadap ruang kota sebagai tempat relaksasi. Karakteristik ruang kota tersebut terdiri atas aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang \citep{cahyaningtyas2020}.
+\cite{huang1997} mendefinisikan hubungan lingkungan-orang sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika (keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine (laut), sejarah dan budaya, fasilitas rekreasi, dan danau.
 
-%%%
-Berdasarkan penemuan diatas, maka penelitian mencakup fitur ruang antara lain akses, fasilitas, estetika, pemeliharaan, dan keamanan.
+Berdasarkan penemuan diatas, maka penelitian ini membagi aspek elemen ruang publik sebagai berikut aksessibilitas, keamanan dan keselamatan, estetika, lanskap, dan fitur fisik. Aspek ERP ini disebut variabel yang memunculkan parameter yang mengubah tatanan fisik dan akvitas serta mempengaruhi preferensi pengunjung.
 
-Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
-\cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
-Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual juga mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}.
-
-%\cite{beckers2016} menunjukkan bahwa ada pengaruh signifikan dari lingkungan belajar fisik terhadap preferensi ruang untuk belajar siswa. Beberapa aspek yang mendukung seperti preferensi individu untuk privasi, estetika, fasilitas TIK (teknologi informasi dan komunikasi) dan tata letak yang dirasakan.
+%Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
+%\cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
+%Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual juga mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}.
 
 
 
 \subsection{Aksesibilitas}
+Aksesibilitas membantu ruang publik untuk memberikan pilihan terhadap preferensi pengunjung.
+
 Aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu \citep{larosa2018}. Ini dapat dirasakan orang yang berbeda sesuai dengan kebutuhan dan preferensinya. Aksesbilitas menjadi penting untuk kesehatan masyarakat dan kesejahteraannya. Sehingga akses sangat penting untuk mengalami suatu tempat \textit{(settings)}.
-Pada penelitian terhadap preferensi penduduk manula untuk ruang publik hijau, \citep{arnberger2017} menemukan manula lebih menyukai aksesibilitas yang mudah serta menarik dan sunyi. Taman Hisaya Odori contohnya memiliki nilai yang tinggi disebabkan lokasinya yang berpusat diantara area komersial yang membuatnya lebih mudah diakses. Contoh lain pada penelitian terhadap lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki fitur ruang seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}.
+Pada penelitian terhadap preferensi penduduk manula terhadap ruang terbuka hijau, \citep{arnberger2017} menemukan manula lebih menyukai aksesibilitas yang mudah serta menarik dan sunyi. Taman Hisaya Odori contohnya memiliki nilai yang tinggi disebabkan lokasinya yang berpusat diantara area komersial yang membuatnya lebih mudah diakses. Contoh lain pada penelitian terhadap lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki fitur ruang seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}.
 Kualitas yang bagus dari aksesibilitas dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Sebaliknya, kurangnya akses terhadap lingkungan dan fasilitas dapat berdampak lebih besar terhadap kesehatan dan kesejahteraan orang berpendapatan rendah dibanding yang tinggi \citep{talen1998}. Pada penelitian aksesibilitas untuk penyandang disabilitas menyebutkan, tingkat aksesibilitas dapat disebabkan oleh penghalang \textit{external} dan \textit{internal} serta kurangnya informasi adanya tempat yang aksesibel \citep{brown1999}.
 
 
@@ -401,18 +388,18 @@ Terakhir, \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningk
 
 \subsection{Keamanan}
 \label{sub:keamanan}
-Rasa aman adalah faktor penting untuk menentukan nilai daya tarik sebuah ruang publik \citep{luo2021}.
+Rasa aman adalah faktor penting untuk menentukan nilai daya tarik sebuah ruang publik \citep{luo2021}. \citep{carr1992} mendefenisikannya sebagai bentuk perlindungan terhadap diri, keluarga, teman sendiri.
 Rasa aman juga  menjadi faktor penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi ruang mereka \citep{lis2011}.
-Tingkat ketertutupan \textit{(visibility)}, kehadiran seseorang, pencahayaan, pagar dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020,ahmad2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup, namun ini belum memastikan pada orang yang ingin menikmati kemewahan ruang. \cite{luo2021} menambahkan tingkat ketertutupan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
+
+Tingkat ketertutupan \textit{(visibility)}, kehadiran seseorang, pencahayaan, pagar dan vegetasi memiliki pengaruh signifikan terhadap rasa aman \citep{lis2021,shi2014,rahm2020,ahmad2020}. \cite{shi2014} menyebutkan bahwa sejumlah penduduk kota Hongkong, Cina lebih cenderung ke ruang yang terbuka dibanding yang tertutup. \cite{luo2021} menambahkan tingkat ketertutupan pada sebuah ruang memiliki pengaruh signifikan terhadap rasa aman dalam kondisi sunyi.
 Tingkat ketertutupan yang kurang dapat mencitrakan hal yang berbahaya dan meningkatkan laporan ketakutan \citep{luo2021}.
-Pemicu lain rasa takut juga adalah lingkungan alami, termasuk organisme, predator, dan bukit yang mana dapat mengancam keselamatan manusia \citep{ulrich1983}.
-Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. \cite{virden1999} lebih menjelaskan jarak antara orang mempengaruhi rasa aman pada manula dan perempuan. Namun ini kontradiksi dengan penelitian \citep{elmen2005} bahwa karakter orang tidak berhubungan dengan jarak antara orang.
 
-Faktor penting lain dalam mempengaruhi persepsi seseorang terhadap rasa aman adalah kehadiran orang \citep{lis2021}. Kehadiran manusia dapat tercerminkan melalui fasilitas yang ada pada ruang publik \citep{campagnaro2020}. Contohnya, menurut \cite{luo2021} bahwa adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari. Adanya suara yang dihasilkan musik juga menandakan kehadiran seseorang \citep{campagnaro2020}. Suara lain seperti suara alami lingkungan dan air mengalir tidak memiliki pengaruh signifikan terhadap rasa aman \cite{luo2021}. Namun kehadiran orang yang berlebihan dapat menurunkan rasa aman \citep{zhang2021}
-Mengkombinasikan aspek visual seperti pengadaan \textit{artificial traces}( seperti fasilitas atau tatanan lanskap) dan hilangnya sampah/grafiti mungkin mempengaruhi presepsi keamanan dan estetika \citep{van2016}. Lebih lanjut, kedua aspek tersebut adalah faktor penting dalam peningkatan kunjungan taman \citep{veitch2017}.
+Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. Ini lebih berdampak khususnya pada kelompok manula dan perempuan \cite{virden1999}, meskipun penelitian lain berpendapat faktor ini tidak menyangkut pada socio-demografi \citep{elmen2005}. Istilah yang lebih baik untuk mendeskripsikan jarak antara orang adalah keramaian. Semakin ramai suatu tempat artinya jarak antara orang lebih sempit. \cite{zhang2021} menyebutkan keramaian atau kehadiran orang yang berlebihan dapat menurunkan rasa aman. Keramaian ini membuat seseorang tidak nyaman dan takut berada di ruang publik, apalagi bila tempat tersebut diisi dengan `orang yang salah' \citep{carr1992}. Akan tetapi, kehadiran orang tidak selalu negatif sebagai contoh, adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari akibat suara musik yang ditimbulkan \citep{luo2021}, yang mana dipresepsikan oleh orang bahwa ada orang lain pada ruang publik tersebut \citep{campagnaro2020}. Suara lain seperti suara alami lanskap atau air mengalir tidak berpengaruh signifikan terhadap rasa aman \cite{luo2021}.
 
-
-
+Penghindaran juga biasanya menjadi tanda ketakutan terhadap bentuk lingkungan tertentu. Banyak orang yang tidak menyukai situasi tertentu seperti tempat yang gelap, area yang sepi dan yang dipenuhi berandal \citep{carr1992}.
+\cite{carr1992} menemukan tanda gangguan fisik dan sosial, seperti grafiti, sampah, dan vandalisme, menggambarkan suatu ruang diluar kendali.
+\cite{van2016} menemukan gabungan aspek dimensi visual seperti jejak buatan (seperti fasilitas atau tatanan lanskap) dan sampah/grafiti mempengaruhi presepsi seseorang terhadap keamanan dan estetika.
+Selain itu, privatisasi atau menarik diri dari ranah publik dapat mendukung keamanan melalui pemisahan ruang \textit{(segregation)} seperti jaga jarak, pagar, dinding, gerbang, dan penghalang \citep{carr1992}. Dengan begitu, presepsi terkait ancaman dan tantangan dapat dihilangkan. Berdasarkan hasil temuan teori, penelitian ini mengambil parameter dari aspek keamanan dan keselamatan sebagai berikut: \begin{inparaenum} \item Derajat Ketertutupan \item Keramaian \item Gangguan fisik dan sosial \item Privatisasi \item Pencahayaan \end{inparaenum}.
 
 \subsection{Pemeliharaan}
 \label{sub:pemeliharaan}
@@ -425,32 +412,39 @@ Menurut \cite{mertens2019} pemeliharaan sebuah taman tergambar dalam 3 tingkatan
 
 Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \citep{mertens2019,van2016,anas2009}. \cite{van2016} menerangkan anak-anak sekolah menengah pertama di Amerika Serikat lebih tertarik pada taman dengan pemeliharan dan kebersihan yang sesuai. \cite{mertens2019} menyimpulkan strategi pemiliharaan yang baik merupakan langkah yang bagus untuk menarik pengunjung pada taman kota. Dengan demikian, pemeliharan mungkin mempengaruhi preferensi ruang.
 
+\subsection*{Instrumen Penelitian}
+
 \begin{table}[htpb]
     \centering
-    \caption{Variabel Fitur Ruang (fisik)}
+    \caption{Variabel Elemen Ruang Publik}
     \label{tab:var}
-    \begin{tabular}{l p{3.4cm} l}
-        \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
-        \toprule
-\multirow{ 3}{*}{1.} & \multirow{ 3}{*}{Akses} & Lebar jalan\\
+    \begin{tabular}{l p{.3\textwidth} p{.5\textwidth}}
+\toprule
+        \textbf{No.} & \textbf{Variabel} & \textbf{Parameter}  \\
+\midrule
+\multirow{2}{*}{1.} & \multirow{2}{*}{Aksesibilitas} & Lebar jalan\\
 & & Kedekatan fasilitas\\
-& & \\
-\multirow{ 3}{*}{2.} & \multirow{ 3}{*}{Fasilitas} & Kehadiran fitur buatan\\
-& & Kehadiran fitur hijau \\
-& & Kehadiran fitur biru\\
-& & \\
-\multirow{ 3}{*}{3.} & \multirow{ 3}{*}{Estetika} & Kerapatan vegetasi\\
-& & Kehadiran tumbuhan\\
-& & \\
+\midrule
 
-\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Keamanan} & Tingkat ketertutupan\\
+\multirow{5}{*}{2.} & \multirow{5}{*}{\begin{minipage}{.3\textwidth}Keamanan dan Keselamatan\end{minipage}} & Derajat ketertutupan\\
 & & Keramaian \\
-& & \\
+& & Gangguan fisik dan sosial\\
+& & Privatisasi\\
+& & Pencahayaan\\
 
-\multirow{ 3}{*}{5.} & \multirow{ 3}{*}{Pemeliharaan} & Kondisi rumput \\
+\midrule
+\multirow{2}{*}{3.} & \multirow{2}{*}{Estetika} & Kerapatan vegetasi\\
+& & Kehadiran tumbuhan\\
+
+\midrule
+\multirow{2}{*}{4.} & \multirow{ 2}{*}{Lanskap} & Tingkat ketertutupan\\
+& & Keramaian \\
+
+\midrule
+\multirow{ 2}{*}{5.} & \multirow{ 2}{*}{Fitur Fisik} & Kondisi rumput \\
 & & Grafiti \\
 & & Sampah\\
-
+\bottomrule
     \end{tabular}
 \end{table}
 

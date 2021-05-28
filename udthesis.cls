@@ -204,10 +204,12 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 %    p{#1}%
 %    <{\@finalstrut\@arstrutbox\endenumerate\endminipage}}
 %
+%\makeatother
+%\makeatletter
 %\newcolumntype{i}[1]{%
-%    >{\minipage[t]{\linewidth}\let\\\tabularnewline
+%    >{\minipage[m]{\linewidth}\let\\\tabularnewline
 %      \itemize
-%      \addtolength{\rightskip}{0pt plus 50pt}% for raggedright
+%      \addtolength{\rightskip}{0pt plus 0pt}% for raggedright
 %      \setlength{\itemsep}{-\parsep}}%
 %    p{#1}%
 %    <{\@finalstrut\@arstrutbox\enditemize\endminipage}}
