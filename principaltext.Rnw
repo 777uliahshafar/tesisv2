@@ -330,13 +330,14 @@ Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan ke
 \cite{carmona2021} menemukan sejumlah aspek-aspek perencanaan ruang publik yang terangkum dalam beberapa dimensi. Terdapat dimensi sosial (aksesibilitas dan keselamatan dan keamanan), visual (preferensi estetika dan lanskap lembut dan keras) dan fungsi (fitur). Dengan membentuk lingkungan binaan berdasarkan aspek-aspek ini, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial.
 %variabel-variabel fitur ruang dri jurnal
 Pada penelitian preferensi manula, ERP mempengaruhi preferensi manula terhadap taman lokal. Adapun keberagaman fitur tersebut antara lain jarak, kehadiran \textit{pavement}, pepohonan sepanjang \textit{footpath}, fasilitas, pemeliharaan, dan gangguan \citep{alves2008}.
-Sedangkan dalam penelitian preferensi pengunjung taman kota, aspek-aspek elemen terdiri dari kondisi ruang fisik, desain (estetika), lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
+Sedangkan dalam penelitian preferensi pengunjung taman kota, aspek-aspek elemen terdiri dari kondisi ruang fisik, estetika, lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
 Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
 
 \citeauthor{cahyaningtyas2020} menyebut ERP sebagai karakteristik ruang kota dalam penelitian preferensi masyarakat terhadap ruang kota sebagai tempat relaksasi. Karakteristik ruang kota tersebut terdiri atas aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang \citep{cahyaningtyas2020}.
 \cite{huang1997} mendefinisikan hubungan lingkungan-orang sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika (keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine (laut), sejarah dan budaya, fasilitas rekreasi, dan danau.
 
-Berdasarkan penemuan diatas, maka penelitian ini membagi aspek elemen ruang publik sebagai berikut aksessibilitas, keamanan dan keselamatan, estetika, lanskap, dan fitur fisik. Aspek ERP ini disebut variabel yang memunculkan parameter yang mengubah tatanan fisik dan akvitas serta mempengaruhi preferensi pengunjung.
+Semua ini menggambarkan bahwa preferensi umum masyarakat tidak hanya bergantung pada satu kriteria.
+Berdasarkan penemuan diatas, maka penelitian ini membagi aspek elemen ruang publik sebagai berikut aksessibilitas, keamanan dan keselamatan, estetika, dan fitur fisik. Aspek ERP ini disebut variabel yang memunculkan parameter yang mengubah tatanan fisik dan aktivitas serta mempengaruhi preferensi pengunjung.
 
 %Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
 %\cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
@@ -345,11 +346,29 @@ Berdasarkan penemuan diatas, maka penelitian ini membagi aspek elemen ruang publ
 
 
 \subsection{Aksesibilitas}
-Aksesibilitas membantu ruang publik untuk memberikan pilihan terhadap preferensi pengunjung.
+Aksesibilitas membantu ruang publik untuk memberikan pilihan terhadap preferensi pengunjung. Menurut \cite{larosa2018}, Aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu.
+Ini dapat dirasakan orang yang berbeda sesuai dengan kebutuhannya.  Sehingga akses sangat penting untuk mengalami suatu tempat \textit{(settings)}. Meskipun itu adalah sebuah keharusan, beberapa lingkungan secara sengaja maupun tidak sengaja kurang terakses oleh kelompok tertentu. \cite{carr1992} menyebutkan pengecualian \textit{(exclusion)} yang mana bentuk kekuasaan dengan cara mengontrol sebuah ruang. Aksesibilitas dan pengecualian merupakan bentuk dari manajemen sebuah ranah publik seperti pencegahan atau pengecualian perilaku sosial yang tidak diinginkan, kadang pengecualian diartikan juga sebagai `keamanan' \citep{carr1992}. Melalui strategi desain fisik, \citeauthor{dear1997} dalam \citep{carr1992} membedakan lima kategori ruang didesain untuk pengecualian dengan mengkombinasikan fungsi dan kepekaan koginitifnya, sebagai berikut:
 
-Aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu \citep{larosa2018}. Ini dapat dirasakan orang yang berbeda sesuai dengan kebutuhan dan preferensinya. Aksesbilitas menjadi penting untuk kesehatan masyarakat dan kesejahteraannya. Sehingga akses sangat penting untuk mengalami suatu tempat \textit{(settings)}.
-Pada penelitian terhadap preferensi penduduk manula terhadap ruang terbuka hijau, \citep{arnberger2017} menemukan manula lebih menyukai aksesibilitas yang mudah serta menarik dan sunyi. Taman Hisaya Odori contohnya memiliki nilai yang tinggi disebabkan lokasinya yang berpusat diantara area komersial yang membuatnya lebih mudah diakses. Contoh lain pada penelitian terhadap lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki fitur ruang seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}.
-Kualitas yang bagus dari aksesibilitas dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Sebaliknya, kurangnya akses terhadap lingkungan dan fasilitas dapat berdampak lebih besar terhadap kesehatan dan kesejahteraan orang berpendapatan rendah dibanding yang tinggi \citep{talen1998}. Pada penelitian aksesibilitas untuk penyandang disabilitas menyebutkan, tingkat aksesibilitas dapat disebabkan oleh penghalang \textit{external} dan \textit{internal} serta kurangnya informasi adanya tempat yang aksesibel \citep{brown1999}.
+\begin{itemize}
+    \item Ruang tidak dapat ditemukan, \citeauthor{dear1997} menyebutnya sebagai `stealthy' yang mana dikaburkan dengan objek intervensi atau perubahan level.
+    \item Ruang tidak tercapai, atau `slippery' disebabkan oleh jalur pendekatan yang berkelok-kelok, berlarut-larut, dan hilang.
+    \item Ruang tidak terakses, atau `crusty' disebabkan oleh penghalang ( seperti dinding dan gerbang).
+    \item Ruang tidak nyaman digunakan, \citeauthor{dear1997} menamainya `prickly'
+    \item Ruang tidak dapat dimanfaatkan tanpa teramati, atau `jittery' yang disebabkan pengawasan aktif.
+\end{itemize}
+
+Lalu, pengecualian tersebut mengisyaratkan kemampuan untuk membuat ruang dapat terakses oleh semua orang. Membuat ruang dengan mudah ditemukan, dicapai, bebas hambatan, penggunaan yang nyaman, dan terawasi.
+
+Kualitas yang bagus dari aksesibilitas dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Sebaliknya, kurangnya akses terhadap lingkungan dan fasilitas dapat berdampak lebih besar terhadap kesehatan dan kesejahteraan orang berpendapatan rendah dibanding yang tinggi \citep{talen1998}. Lantas faktor lain yang mempengaruhi aksesibilitas adalah penghalang \textit{external} dan \textit{internal} \textit{(crusty space)} serta kurangnya informasi adanya tempat yang aksesibel dalam penelitian terkait penyandang disabilitas \textit{(stealthy space)} \citep{brown1999}.
+
+Pada penelitian terhadap preferensi penduduk manula terhadap ruang terbuka hijau, \citep{arnberger2017} menemukan manula lebih menyukai aksesibilitas yang mudah serta menarik dan sunyi. Taman Hisaya Odori contohnya memiliki nilai yang tinggi disebabkan lokasinya yang berpusat diantara area komersial yang membuat orang mudah mencapainya.
+Contoh lain ada pada penelitian lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki elemen ruang publik seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}. Kawasan tersebut menyediakan faktor penggunaan dengan ruang dengan nyaman.
+
+Suatu ruang publik sebaiknya didukung dengan mobilitas. Membuat desain perkotaan yang bersatu padu artinya membuat tempat dan fasilitas aksesibel dan transportasi yang layak \citep{carr1992}. Keberadaan \textit{automobile} menjadi satu diantara moda transportasi yang layak untuk perkotaan.
+
+Dengan menggunakan mobil, seseorang dapat berpergian kemanapun, dengan cepat, lebih cepat dan aman, meskipun kepemilikan mobil tidak selalu terdukung. Sehingga orang-orang dapat menggunakan moda transportasi lain, walaupun transportasi publik biasanya menghasilkan gap dalam penggunaannya baik itu perjalanan menuju setiap halte bus atau stasiun yang kadang dianggap beresiko. Ketersediaan parkir menjadi pendukung terhadap aksesibilitas terutama pada kelompok yang mengandalkan \textit{automobile} seperti perempuan. Serta ketersediaan moda transportasi tersebut pada ruang publik tertentu.
+
+Berdasarkan temuan teori maka dapat disimpulkan bahwa faktor aksesibilitas terdiri atas \begin{inparaenum} \item Kemudahan dikenali \item Pencapaian melalui jalan \item Bebas hambatan \item Penggunaan yang nyaman \item Pengawasan \item Ketersediaan parkir \end{inparaenum}.
 
 
 \subsection{Fasilitas}
@@ -370,20 +389,51 @@ Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman
 
 \subsection{Estetika}
 \label{sub:est}
-\cite{ahmad2020} menerjemahkan fitur estetika sebagai ukuran taman, desain layout, lanskap, dan keseimbangan matahari. Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks\citep{hradilova2013}.
-Fitur ini lebih terikat dengan pola visual \textit{visual pattern} untuk menerima keindahan di sekitarnya. Wajar apabila estetika dari sebuah \textit{watercourse} adalah faktor penting dalam membentuk kesempatan untuk pemandangan unik dari sebuah kota \citep{hradilova2013}.
+Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks \citep{hradilova2013}. Dua kombinasi itu membentuk kesempatan untuk pemandangan yang unik sebuah kota \citep{hradilova2013}.
+Menurut \cite{zhao2020} dalam penelitiannya terkait preferensi terhadap ruang, ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja. \cite{hwang2019} juga menyebutkan bahwa orang lebih menyukai estetika dalam sebuah lanskap contoh \textit{broadwalk}.
 
-Pada penelitian terhadap preferensi ruang diantara area komersial, area warisan budaya, area pelestarian sejarah dan area alami atau ekologi.
-Ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja \citep{zhao2020}. Sama halnya, elemen lanskap yang mendukung estetika akan lebih mudah dicenderungi sepeti \textit{broadwalk} \citep{hwang2019}.
+%Estetika sebagai bagian dari keindahan, ini tinggal pada sebuah objek bukan hanya pada pengamat.
+%
+%\cite{} menemukan bahwa estetika merupakan bagian dari keindahan yang terbentuk yang tidak hanya tinggal dalam
+%
+%Penting untuk diketahui bahwa estetika merupakan bagian dari keindahan
+%
+%\cite{ahmad2020} menerjemahkan estetika sebagai ukuran taman, desain layout, lanskap, dan keseimbangan matahari.
+%
+%Sementara \cite{nasar1998}
+%
+%
+%\citep{carr1992} menjelaskannya sebagai bagian dari dimensi visual lingkungan perkotaan.
+
+\cite{nasar1998} menjabarkan atribut dari lingkungan yang dapat menjadi preferensi orang yang terangkum dalam lima macam atribut \begin{inparaenum} \item Alami \item Pemeliharaan \item Ruang terbuka dan jelas \item Penataan \end{inparaenum}.
+
+
+
+
+
+%% ketertutupan
+Ketertutupan \textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ini mempertimbangkan baik denah maupun bagian vertikal sebuah ruang \citep{carr1992}.
+Ketertutupan ruang yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai `kebutuhan bertahan dan berkembang' \citep{gao2019}. Meskipun itu tidak selalu benar, beberapa kasus membuktikan bahwa orang kadang memilih berada dibawah pohon untuk sandar, celah alami, cekungan pada tanah. Demikian terjadi karena sepertinya derajat ketertutupan membuat rasa aman \citep{carr1992}. Ini juga tergambarkan melalui karakter orang, \citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat ketertutupan lebih daripada orang kulit putih.
+
+%%teori survival need
+
+
 Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival needs)}.
+
 Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
+
 Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
 
-Ketertutupan \textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ruang ketertutupan yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai kebutuhan bertahan dan berkembang \citep{gao2019}.
-\citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat ketertutupan lebih daripada orang kulit putih.
-Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}. Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}.
+%%vegetasi
+Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}.
+
+Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}.
+
 Pola visual ini mengindikasikan bahwa orang yang tinggal dan bekerja di ruang perkotaan yang sibuk menghargai keberdaan tumbuhan, matahari, dan angin \citep{ahmad2020}.
+
 Menurut \cite{ostoic2020} dalam preferensi karakter pohon, manusia lebih cenderung terhadap pohon yang tinggi, lebar, dan gugur.
+
+%%kerapatan vegetasi
 Terakhir, \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningkatkan keberhasilan sebuah RTH.
 
 \subsection{Keamanan}
@@ -422,8 +472,12 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 \toprule
         \textbf{No.} & \textbf{Variabel} & \textbf{Parameter}  \\
 \midrule
-\multirow{2}{*}{1.} & \multirow{2}{*}{Aksesibilitas} & Lebar jalan\\
-& & Kedekatan fasilitas\\
+\multirow{2}{*}{1.} & \multirow{2}{*}{Aksesibilitas} & Kemudahan dikenali\\
+& & Pencapaian melalui jalan\\
+& & Bebas hambatan\\
+& & Penggunaan yang nyaman\\
+& & Pengawasan\\
+& & Ketersediaan parkir\\
 \midrule
 
 \multirow{5}{*}{2.} & \multirow{5}{*}{\begin{minipage}{.3\textwidth}Keamanan dan Keselamatan\end{minipage}} & Derajat ketertutupan\\
@@ -435,10 +489,6 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 \midrule
 \multirow{2}{*}{3.} & \multirow{2}{*}{Estetika} & Kerapatan vegetasi\\
 & & Kehadiran tumbuhan\\
-
-\midrule
-\multirow{2}{*}{4.} & \multirow{ 2}{*}{Lanskap} & Tingkat ketertutupan\\
-& & Keramaian \\
 
 \midrule
 \multirow{ 2}{*}{5.} & \multirow{ 2}{*}{Fitur Fisik} & Kondisi rumput \\
