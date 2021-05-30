@@ -343,8 +343,6 @@ Berdasarkan penemuan diatas, maka penelitian ini membagi aspek elemen ruang publ
 %\cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
 %Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual juga mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}.
 
-
-
 \subsection{Aksesibilitas}
 Aksesibilitas membantu ruang publik untuk memberikan pilihan terhadap preferensi pengunjung. Menurut \cite{larosa2018}, Aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu.
 Ini dapat dirasakan orang yang berbeda sesuai dengan kebutuhannya.  Sehingga akses sangat penting untuk mengalami suatu tempat \textit{(settings)}. Meskipun itu adalah sebuah keharusan, beberapa lingkungan secara sengaja maupun tidak sengaja kurang terakses oleh kelompok tertentu. \cite{carr1992} menyebutkan pengecualian \textit{(exclusion)} yang mana bentuk kekuasaan dengan cara mengontrol sebuah ruang. Aksesibilitas dan pengecualian merupakan bentuk dari manajemen sebuah ranah publik seperti pencegahan atau pengecualian perilaku sosial yang tidak diinginkan, kadang pengecualian diartikan juga sebagai `keamanan' \citep{carr1992}. Melalui strategi desain fisik, \citeauthor{dear1997} dalam \citep{carr1992} membedakan lima kategori ruang didesain untuk pengecualian dengan mengkombinasikan fungsi dan kepekaan koginitifnya, sebagai berikut:
@@ -370,71 +368,50 @@ Dengan menggunakan mobil, seseorang dapat berpergian kemanapun, dengan cepat, le
 
 Berdasarkan temuan teori maka dapat disimpulkan bahwa faktor aksesibilitas terdiri atas \begin{inparaenum} \item Kemudahan dikenali \item Pencapaian melalui jalan \item Bebas hambatan \item Penggunaan yang nyaman \item Pengawasan \item Ketersediaan parkir \end{inparaenum}.
 
-
-\subsection{Fasilitas}
-
-Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia \textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. Ketika orang telah mengetahui alasannya untuk mengunjungi sebuah taman maka ini juga dapat membentuk pilihan mereka. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}. Terakhir, desain fasilitas mempengaruhi bagaimana ruang digunakan dan diterima oleh pengguna \citep{lee2017}.
-
-Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
-\cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
-Pernyataan ini mewakili preferensi ruang berdasarkan karakter pengunjung juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
-Hal ini memperkuat alasan preferensi ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
-Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khusus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
-Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
-
-Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
-\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
-Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
-\cite{kasim2016} menuturkan atribut hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi ruang suatu pengunjung ruang publik.
-
 \subsection{Estetika}
 \label{sub:est}
 Saat ini, estetika dan kepentingan kawasan tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks \citep{hradilova2013}. Dua kombinasi itu membentuk kesempatan untuk pemandangan yang unik sebuah kota \citep{hradilova2013}.
-Menurut \cite{zhao2020} dalam penelitiannya terkait preferensi terhadap ruang, ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja. \cite{hwang2019} juga menyebutkan bahwa orang lebih menyukai estetika dalam sebuah lanskap contoh \textit{broadwalk}.
-
-%Estetika sebagai bagian dari keindahan, ini tinggal pada sebuah objek bukan hanya pada pengamat.
-%
-%\cite{} menemukan bahwa estetika merupakan bagian dari keindahan yang terbentuk yang tidak hanya tinggal dalam
-%
-%Penting untuk diketahui bahwa estetika merupakan bagian dari keindahan
-%
-%\cite{ahmad2020} menerjemahkan estetika sebagai ukuran taman, desain layout, lanskap, dan keseimbangan matahari.
-%
-%Sementara \cite{nasar1998}
-%
-%
-%\citep{carr1992} menjelaskannya sebagai bagian dari dimensi visual lingkungan perkotaan.
-
-\cite{nasar1998} menjabarkan atribut dari lingkungan yang dapat menjadi preferensi orang yang terangkum dalam lima macam atribut \begin{inparaenum} \item Alami \item Pemeliharaan \item Ruang terbuka dan jelas \item Penataan \end{inparaenum}.
+Menurut \cite{zhao2020} dalam penelitiannya terkait preferensi terhadap ruang, ruang komersial yang lebih bergaya memiliki kesempatan lebih tinggi untuk dicenderungi daripada hanya sekedar tempat berbelanja. \cite{hwang2019} juga menyebutkan bahwa orang lebih menyukai estetika dalam sebuah lanskap contoh \textit{broadwalk}. Aspek estetika tidak terlepas dari `keindahan` dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian. Keindahan itu tinggal pada sebuah objek, daripada sederhanya pada pikiran pengamat \citep{carr1992}.
+\cite{nasar1998} menjabarkan atribut dari lingkungan yang dapat menjadi preferensi orang yang terangkum dalam lima macam atribut \begin{inparaenum} \item Ruang terbuka dan jelas \item Pemeliharaan \item Penataan \item Alami \end{inparaenum}.
 
 
+Area yang mencakupi aspek pemeliharaan adalah toilet publik, area bermain dan peralatan, fasilitas olahraga, bangku, dan fasilitas lainnya di taman (tempat sampah, tempat parkir, ruang bebas sampah, rambu lalu lintas \& dll.) \citep{ahmad2020,elmen2005}.
+Pada penelitian terhadap preferensi kriteria fitur taman, pemeliharaan adalah kriteria yang paling dicenderungi setelah keamanan \citep{ahmad2020}.
+\cite{elmen2005} menyebutkan bahwa aspek pemeliharaan merupakan perhatian dari orang kulit hitam dalam preferensi ruang.
+Perhatian terhadap pemeliharaan juga diberikan oleh perempuan daripada laki-laki dengan memasukkan aspek keamanan \citep{elmen2005}. Sejumlah penelitian menjelaskan masyarakat lebih menyukai karakter RTH seperti pemeliharaan yang sesuai, akses, dan fasilitas \citep{kraj2017,ostoic2020,jurkovic2014}. Adapun pemeliharaan memiliki tingkatan penilaian.
+Menurut \cite{mertens2019} pemeliharaan sebuah taman tergambar dalam 3 tingkatan: pemeliharaan yang buruk (grafiti, sampah, pemeliharaan rumput yang jelek), pemeliharaan yang sedang(tidak ada grafiti, sedikit sampah, pemeliharan rumput yang sedang), pemeliharaan yang bagus(tidak ada grafiti, tidak ada sampah, pemeliharaan sampah yang bagus). Pemeliharaan yang buruk dapat menurunkan penggunaan taman dan berdampak buruk terhadap estetika, rasa aman, fungsi dan presepsi kualitas taman \citep{mccormack2010}.
 
-
+Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \citep{mertens2019,van2016,anas2009}. \cite{van2016} menerangkan anak-anak sekolah menengah pertama di Amerika Serikat lebih tertarik pada taman dengan pemeliharan dan kebersihan yang sesuai. \cite{mertens2019} menyimpulkan strategi pemiliharaan yang baik merupakan langkah yang bagus untuk menarik pengunjung pada taman kota.
 
 %% ketertutupan
 Ketertutupan \textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ini mempertimbangkan baik denah maupun bagian vertikal sebuah ruang \citep{carr1992}.
-Ketertutupan ruang yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai `kebutuhan bertahan dan berkembang' \citep{gao2019}. Meskipun itu tidak selalu benar, beberapa kasus membuktikan bahwa orang kadang memilih berada dibawah pohon untuk sandar, celah alami, cekungan pada tanah. Demikian terjadi karena sepertinya derajat ketertutupan membuat rasa aman \citep{carr1992}. Ini juga tergambarkan melalui karakter orang, \citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki tingkat ketertutupan lebih daripada orang kulit putih.
+Ketertutupan ruang yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai `kebutuhan bertahan dan berkembang' \citep{gao2019}. Meskipun itu tidak selalu benar, beberapa kasus membuktikan bahwa orang kadang memilih berada dibawah pohon untuk sandar, celah alami, cekungan pada tanah. Demikian terjadi karena sepertinya derajat ketertutupan membuat rasa aman \citep{carr1992}. Ini juga tergambarkan melalui karakter orang, \citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki derajat ketertutupan lebih daripada orang kulit putih. Aspek ini juga menggambarkan teori \textit{prospect} dan \textit{refuge}. Dari teori tersebut memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat. Ketersediaan \textit{prospect} dan \textit{refuge} melalui derajat ketertutupan dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
 
-%%teori survival need
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=\textwidth, height= .85\textheight]{figures/enc}
+    \caption{Prinsip Konten Spasial dan Ketertutupan}
+    \caption*{Sumber: \citep{booth1989}}
+    \label{fig:enc}
+\end{figure}
 
+Aspek lain yang menarik perhatian visual-estetika adalah integrasi bangunan. \citeauthor{carr1992} menerjemahkannya sebagai harmonisasi bangunan dengan sekitarnya. Mempunyai arti dasar bagaimana bangunan dapat `berbaur' meskipun tidak mengikuti gaya arsitekturnya. Ada pendekatan yang sebaiknya dilakukan untuk menciptakan harmoni pada konteks yang telah ada. Pendekatan utama adalah \textit{uniformity} yang berarti mengimitasi karakter arsitektur lokal. Setelah itu, ada penjajaran atau kontras yang mempunyai arti membuat desain baru, mematuhi karakter arsitektur yang ada. Pendekatan yang terakhir adalah kontinuitas yang didapatkan melalui interpretasi daripada hanya sebuah imitasi \citep{carr1992}. Selain itu, \cite{cantacuzino1994} mengindentifikasi enam kriteria untuk integrasi yang harmoni dari bangunan baru terhadap konteks yang ada, antara lain  \begin{inparaenum} \item Tapak \item Massa \item Skala \item Proporsi \item Ritma \item Material \end{inparaenum}
 
-Ada sebuah teori \textit{prospect} dan \textit{refuge} sebagai kunci penting dalam membentuk preferensi ruang lanskap berdasarkan kualitas dari lingkungan memahami kebutuhan manusia untuk bertahan dan berkembang \textit{(survival needs)}.
+Ketika berbicara tentang lanskap, hal yang penting berkaitan dengan aspek estetika adalah material lantai dasar \textit{floorscape} itu sendiri. Material lantai itu dapat menggambarkan banyak hal seperti perubahan material lantai mengindikasikan kepemilikan yang berbeda, beban lalu lintas (aspal untuk mobil dan batu bata atau batu untuk pejalan kaki), potensi bahaya dan memberi peringatan \citep{carr1992}. \citeauthor{carr1992} juga menambahkan aspek selain material lantai dalam lingkup lanskap keras. Kualitas dan tatanan sebuah furnitur jalan adalah indikator penting terhadap kualitas ruang perkotaan.
 
-Dari teori ini memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat.
+Pola visual lanskap lembut (seperti pohon, tanaman, semak-semak) memberikan rasa kebaragaman untuk bekerja secara harmoni \citep{carr1992}. Penempatan pohon sebaiknya berdasarkan konteks kawasan, \citeauthor{heritage2000} menjelaskan strategi desain untuk pohon jalan dalam gambar berikut:
 
-Ketersediaan \textit{prospect} dan \textit{refuge} dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/tre}
+    \caption{Strategi Desain untuk Pohon Jalan}
+    \caption*{Sumber: \citep{heritage2000}}
+    \label{fig:tre}
+\end{figure}
 
-%%vegetasi
-Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}.
+Terkait hubungan vegetasi dengan estetika, \cite{ahmad2020} mengindikasikan bahwa orang yang tinggal dan bekerja di ruang perkotaan yang sibuk sangat menghargai keberdaan tumbuhan, matahari, dan angin. Lebih lanjut, kerapatan vegetasi memiliki asosiasi dengan estetika yang mana dapat ditingkatkan melalui penambahan pohon yang cukup \citep{parsons2002,dipeolu2021}. Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}. Menurut \cite{ostoic2020} dalam preferensi karakter pohon, manusia lebih cenderung terhadap pohon yang tinggi, lebar, dan gugur. Terakhir, \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningkatkan keberhasilan sebuah RTH.
 
-Serta keberadaan kombinasi air dan penghijauan meningkatkan preferensi estetika \citep{ostoic2020}.
-
-Pola visual ini mengindikasikan bahwa orang yang tinggal dan bekerja di ruang perkotaan yang sibuk menghargai keberdaan tumbuhan, matahari, dan angin \citep{ahmad2020}.
-
-Menurut \cite{ostoic2020} dalam preferensi karakter pohon, manusia lebih cenderung terhadap pohon yang tinggi, lebar, dan gugur.
-
-%%kerapatan vegetasi
-Terakhir, \cite{xue2017} menambahkan kerapatan vegetasi yang cukup dapat meningkatkan keberhasilan sebuah RTH.
+Berdasarkan hasil temuan terkait aspek estetika, maka penulis menyimpulkan aspek-aspek tersebut yang terdiri dari \begin{inparaenum} \item Derajat ketertutupan \item Susunan (order) \item Pola material \item Kualitas dan tatanan furnitur jalan \item Pemeliharaan \end{inparaenum}
 
 \subsection{Keamanan}
 \label{sub:keamanan}
@@ -451,16 +428,25 @@ Penghindaran juga biasanya menjadi tanda ketakutan terhadap bentuk lingkungan te
 \cite{van2016} menemukan gabungan aspek dimensi visual seperti jejak buatan (seperti fasilitas atau tatanan lanskap) dan sampah/grafiti mempengaruhi presepsi seseorang terhadap keamanan dan estetika.
 Selain itu, privatisasi atau menarik diri dari ranah publik dapat mendukung keamanan melalui pemisahan ruang \textit{(segregation)} seperti jaga jarak, pagar, dinding, gerbang, dan penghalang \citep{carr1992}. Dengan begitu, presepsi terkait ancaman dan tantangan dapat dihilangkan. Berdasarkan hasil temuan teori, penelitian ini mengambil parameter dari aspek keamanan dan keselamatan sebagai berikut: \begin{inparaenum} \item Derajat Ketertutupan \item Keramaian \item Gangguan fisik dan sosial \item Privatisasi \item Pencahayaan \end{inparaenum}.
 
-\subsection{Pemeliharaan}
-\label{sub:pemeliharaan}
 
-Area yang mencakupi aspek pemeliharaan adalah toilet publik, area bermain dan peralatan, fasilitas olahraga, bangku, dan fasilitas lainnya di taman (tempat sampah, tempat parkir, ruang bebas sampah, rambu lalu lintas \& dll.) \citep{ahmad2020,elmen2005}.
-Pada penelitian terhadap preferensi kriteria fitur taman, pemeliharaan adalah kriteria yang paling dicenderungi setelah keamanan \citep{ahmad2020}.
-\cite{elmen2005} menyebutkan bahwa aspek pemeliharaan merupakan perhatian dari orang kulit hitam dalam preferensi ruang.
-Perhatian terhadap pemeliharaan juga diberikan oleh perempuan daripada laki-laki dengan memasukkan aspek keamanan \citep{elmen2005}. Sejumlah penelitian menjelaskan masyarakat lebih menyukai karakter RTH seperti pemeliharaan yang sesuai, akses, dan fasilitas \citep{kraj2017,ostoic2020,jurkovic2014}. Adapun pemeliharaan memiliki tingkatan penilaian.
-Menurut \cite{mertens2019} pemeliharaan sebuah taman tergambar dalam 3 tingkatan: pemeliharaan yang buruk (grafiti, sampah, pemeliharaan rumput yang jelek), pemeliharaan yang sedang(tidak ada grafiti, sedikit sampah, pemeliharan rumput yang sedang), pemeliharaan yang bagus(tidak ada grafiti, tidak ada sampah, pemeliharaan sampah yang bagus). Pemeliharaan yang buruk dapat menurunkan penggunaan taman dan berdampak buruk terhadap estetika, rasa aman, fungsi dan presepsi kualitas taman \citep{mccormack2010}.
+\subsection{Fasilitas}
+Pada bagian ini menyangkut apda ketersediaan fasilitas
 
-Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \citep{mertens2019,van2016,anas2009}. \cite{van2016} menerangkan anak-anak sekolah menengah pertama di Amerika Serikat lebih tertarik pada taman dengan pemeliharan dan kebersihan yang sesuai. \cite{mertens2019} menyimpulkan strategi pemiliharaan yang baik merupakan langkah yang bagus untuk menarik pengunjung pada taman kota. Dengan demikian, pemeliharan mungkin mempengaruhi preferensi ruang.
+Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia \textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. Ketika orang telah mengetahui alasannya untuk mengunjungi sebuah taman maka ini juga dapat membentuk pilihan mereka. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}. Terakhir, desain fasilitas mempengaruhi bagaimana ruang digunakan dan diterima oleh pengguna \citep{lee2017}.
+
+Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
+\cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
+Pernyataan ini mewakili preferensi ruang berdasarkan karakter pengunjung juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
+Hal ini memperkuat alasan preferensi ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
+Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khusus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
+Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
+
+Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
+\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
+Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
+\cite{kasim2016} menuturkan atribut hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi ruang suatu pengunjung ruang publik.
+
+
 
 \subsection*{Instrumen Penelitian}
 
