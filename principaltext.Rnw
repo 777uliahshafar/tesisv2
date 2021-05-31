@@ -423,28 +423,35 @@ Tingkat ketertutupan yang kurang dapat mencitrakan hal yang berbahaya dan mening
 
 Ada asosiasi terhadap jarak antara orang dengan lainnya terhadap preferensi ruang taman, hal ini disebabkan oleh privasi dan keamanan \citep{lis2021}. Ini lebih berdampak khususnya pada kelompok manula dan perempuan \cite{virden1999}, meskipun penelitian lain berpendapat faktor ini tidak menyangkut pada socio-demografi \citep{elmen2005}. Istilah yang lebih baik untuk mendeskripsikan jarak antara orang adalah keramaian. Semakin ramai suatu tempat artinya jarak antara orang lebih sempit. \cite{zhang2021} menyebutkan keramaian atau kehadiran orang yang berlebihan dapat menurunkan rasa aman. Keramaian ini membuat seseorang tidak nyaman dan takut berada di ruang publik, apalagi bila tempat tersebut diisi dengan `orang yang salah' \citep{carr1992}. Akan tetapi, kehadiran orang tidak selalu negatif sebagai contoh, adanya permainan musik tradisional Cina meningkatkan rasa aman pada ruang terbuka hijau (RTH) di malam hari akibat suara musik yang ditimbulkan \citep{luo2021}, yang mana dipresepsikan oleh orang bahwa ada orang lain pada ruang publik tersebut \citep{campagnaro2020}. Suara lain seperti suara alami lanskap atau air mengalir tidak berpengaruh signifikan terhadap rasa aman \cite{luo2021}.
 
-Penghindaran juga biasanya menjadi tanda ketakutan terhadap bentuk lingkungan tertentu. Banyak orang yang tidak menyukai situasi tertentu seperti tempat yang gelap, area yang sepi dan yang dipenuhi berandal \citep{carr1992}.
+Penghindaran juga biasanya menjadi tanda ketakutan terhadap bentuk lingkungan tertentu. Banyak orang yang tidak menyukai situasi tertentu seperti tempat yang gelap, area yang sepi dan yang dipenuhi berandal \citep{carr1992}. Poin pertama, tempat yang memiliki penerangan yang baik akan sangat penting untuk membuat pengguna merasa aman. \citeauthor{carr1992} menerangkan penerangan jalan saat malam dapat bersumber dari berbagai macam --- lampu jalan, lampu bangunan, papan toko, dll.
 \cite{carr1992} menemukan tanda gangguan fisik dan sosial, seperti grafiti, sampah, dan vandalisme, menggambarkan suatu ruang diluar kendali.
 \cite{van2016} menemukan gabungan aspek dimensi visual seperti jejak buatan (seperti fasilitas atau tatanan lanskap) dan sampah/grafiti mempengaruhi presepsi seseorang terhadap keamanan dan estetika.
 Selain itu, privatisasi atau menarik diri dari ranah publik dapat mendukung keamanan melalui pemisahan ruang \textit{(segregation)} seperti jaga jarak, pagar, dinding, gerbang, dan penghalang \citep{carr1992}. Dengan begitu, presepsi terkait ancaman dan tantangan dapat dihilangkan. Berdasarkan hasil temuan teori, penelitian ini mengambil parameter dari aspek keamanan dan keselamatan sebagai berikut: \begin{inparaenum} \item Derajat Ketertutupan \item Keramaian \item Gangguan fisik dan sosial \item Privatisasi \item Pencahayaan \end{inparaenum}.
 
 
 \subsection{Fasilitas}
-Pada bagian ini menyangkut apda ketersediaan fasilitas
 
-Salah satu aspek yang mendorong masyarakat untuk pergi ke sebuah \textit{public space} adalah pertama karena dekat, kedua karena fasilitas yang tersedia \textit{(amenities)}. Hasil penelitian dari \cite{campbell2016} menunjukkan sekitar 24\% responden mengatakan bahwa mereka mengunjungi sebuah taman karena fasilitasnya. Ketika orang telah mengetahui alasannya untuk mengunjungi sebuah taman maka ini juga dapat membentuk pilihan mereka. \textit{Amenities} termasuk infrasturktur ruang publik, seperti alat bermain, bangungan, fasilitas rekreasi, pusat alam\textit{(nature center)}. Terakhir, desain fasilitas mempengaruhi bagaimana ruang digunakan dan diterima oleh pengguna \citep{lee2017}.
-
-Adanya beragam fasilitas waktu luang seperti ruang teh, rak sangkar burung, rak bunga, dan paviliun pandang meningkatkan kepuasan pengguna dengan fasilitas ruang publik \citep{wang2021}.
-\cite{qiu2021} menjelaskan bahwa manula lebih menyukai ruang publik yang sebagian tertutup dan ruang biru (eg. kolam, laut).
-Pernyataan ini mewakili preferensi ruang berdasarkan karakter pengunjung juga. Pemilihan tersebut didasarkan atas kemudahan \textit{serene, prospect \& refuge} dirasakan di ruang biru (air) oleh manula karena fasilitas air dan tanaman yang ada di sekitar \citep{qiu2021}. Bukan hanya manula, namun secara umum fasilitas air telah membentuk preferensi ruang masyarakat \citep{kaplan1977}.
-Hal ini memperkuat alasan preferensi ruang didasarkan pada bagaimana mereka merasakan kenyamanan dan relaksasi dari fasilitas taman, dan lingkungan tersebut dapat kondusif dalam pemulihan psikologis \citep{wilkie2018}.
-Pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khusus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}.
+\cite{carr1992} memberi perhatian terhadap ruang publik yang sukses dapat mendukung dan memfasilitasi aktivitas. Ini mengindikasikan hubungan antara ruang dan aktivitas dimana \textit{Project for Public Space} (PPS) menegaskan bahwa ketika seseorang mengamati ruang mereka memahami bagaimana itu dapat digunakan daripada bagaimana pendapat mereka itu digunakan.
 Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
+Ketersediaan beragam fasilitas waktu luang juga dapat meningkatkan kepuasan pengguna dengan fasilitas ruang publik seperti rak bunga, menara pandang, sangkar burung, ruang teh \citep{wang2021}.
+
+Ruang publik menjadi tempat berlangsungnya beragam aktivitas yang \citeauthor{carr1992} membaginya berdasarkan lima kebutuhan antara lain: \begin{inparaenum} \item Kenyamanan \item Relaksasi \item Keterikatan pasif \textit{(passive engagement)} \item Keterikatan aktif \textit{(active engagement)} \end{inparaenum}. Demikian memungkinkan orang untuk membuat koneksi yang kuat antara tempat, kehidupan pribadi dan dunia luar \citep{carr1992}. Penerapannya adalah dengan menyediakan fasilitas yang memenuhi kebutuhan orang, seperti contoh: orang lebih menyukai ruang publik yang memiliki fasilitas biru (kolam, laut dan danau) \citep{kaplan1977,qiu2021}. Pada penelitian preferensi manula terhadap ruang publik, manula lebih menyukai fasilitas biru karena itu memfasilitasinya untuk memenuhi kebutuhan kemudahan \textit{serene, prospect \& refuge} \citep{qiu2021}.
+Sebuah ruang publik yang memiliki fasilitas yang mendukung kenyamanan dan relaksasi, membuat lingkungan menjadi kondusif dalam pemulihan psikologis \citep{wilkie2018}. Contoh lain yaitu pengunjung yang alasannya untuk menemani anak bermain memberikan perhatian khusus terhadap peningkatan fasilitas yang ada di ruang publik \citep{zhang2021}. Ini menjadi implementasi bagaimana fasilitas-fasilitas mengakomodasi dan dipergunakan.
 
 Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
-\cite{dipeolu2021} menemukan preferensi bentuk infrastruktur perkotaan hijau pada masyarakat Nigeria adalah fitur hijau. Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
-Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman, kebun, dan halaman rumput). Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
-\cite{kasim2016} menuturkan atribut hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi ruang suatu pengunjung ruang publik.
+\cite{dipeolu2021} menemukan preferensi masyarakat Nigeria terhadap bentuk infrastruktur hijau perkotaan adalah fitur hijau (cth. taman, perumputan, kebun, lapangan olahraga, dan atap hijau). Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
+Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
+\cite{kasim2016} menuturkan fitur hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi pengunjung terhadap ruang publik. \cite{dipeolu2021} menjelaskan alasan utama mengapa orang mengunjungi kawasan hijau karena menikmati udara segar, pemandangan indah dan relaksasi. Tentunya kebutuhan-kebutuhan tersebut dipenuhi oleh fasilitas-fasilitas yang ada.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -473,11 +480,13 @@ Fitur hijau merupakan fasilitas hijau pada sebuah ruang termasuk vegetasi (taman
 & & Pencahayaan\\
 
 \midrule
-\multirow{2}{*}{3.} & \multirow{2}{*}{Estetika} & Kerapatan vegetasi\\
-& & Kehadiran tumbuhan\\
-
+\multirow{2}{*}{3.} & \multirow{2}{*}{Estetika} & Derajat ketertutupan\\
+& & Susunan \textit{(order)}\\
+& & Pola material\\
+& & Kualitas dan tatanan furnitur jalan\\
+& & Pemeliharaan\\
 \midrule
-\multirow{ 2}{*}{5.} & \multirow{ 2}{*}{Fitur Fisik} & Kondisi rumput \\
+\multirow{ 2}{*}{5.} & \multirow{ 2}{*}{Fasilitas} & Kondisi rumput \\
 & & Grafiti \\
 & & Sampah\\
 \bottomrule
