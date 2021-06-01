@@ -441,18 +441,16 @@ Sebuah ruang publik yang memiliki fasilitas yang mendukung kenyamanan dan relaks
 Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelanjutan, seperti peningkatan penghijauan kota.
 \cite{dipeolu2021} menemukan preferensi masyarakat Nigeria terhadap bentuk infrastruktur hijau perkotaan adalah fitur hijau (cth. taman, perumputan, kebun, lapangan olahraga, dan atap hijau). Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
 Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
-\cite{kasim2016} menuturkan fitur hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi pengunjung terhadap ruang publik. \cite{dipeolu2021} menjelaskan alasan utama mengapa orang mengunjungi kawasan hijau karena menikmati udara segar, pemandangan indah dan relaksasi. Tentunya kebutuhan-kebutuhan tersebut dipenuhi oleh fasilitas-fasilitas yang ada.
+\cite{kasim2016} menuturkan fitur hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi pengunjung terhadap ruang publik. \cite{dipeolu2021} menjelaskan alasan utama mengapa orang mengunjungi kawasan hijau karena menikmati udara segar, pemandangan indah dan relaksasi. Ini menampilkan dimensi fungsi pada ruang publik. Fungsi lain yang seharusnya tersedia pada ruang publik adalah penggunaan sosial. Ruang publik dapat mendukung fungsi sosial jika memiliki setidaknya faktor berikut:
+\begin{itemize}
+    \item Tempat untuk duduk, jeda, dan berpikir.
+    \item Ruang berkumpul (cth. tempat bermain, halte bis, tempat makan)
+    \item Jalan sebagai tempat bersosialisasi
+    \item Koneksi dengan beberapa tujuan
+    \item Fasad bangunan yang aktif
+\end{itemize} \citep{pps}.
 
-
-
-
-
-
-
-
-
-
-
+Dari hasil tinjauan pustaka, peneliti merangkum faktor-faktor fasilitas antaral lain: \begin{inparaenum} \item Memberi rasa nyaman \item Memberi relaksasi \item Mendukung interaksi sosial \item Privasi \item Menyediakan keragaman penggunaan \end{inparaenum}
 
 
 \subsection*{Instrumen Penelitian}
@@ -480,20 +478,20 @@ Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} 
 & & Pencahayaan\\
 
 \midrule
-\multirow{2}{*}{3.} & \multirow{2}{*}{Estetika} & Derajat ketertutupan\\
+\multirow{5}{*}{3.} & \multirow{5}{*}{Estetika} & Derajat ketertutupan\\
 & & Susunan \textit{(order)}\\
 & & Pola material\\
 & & Kualitas dan tatanan furnitur jalan\\
 & & Pemeliharaan\\
 \midrule
-\multirow{ 2}{*}{5.} & \multirow{ 2}{*}{Fasilitas} & Kondisi rumput \\
-& & Grafiti \\
-& & Sampah\\
+\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Fasilitas} & Memberi rasa nyaman \\
+& & Memberi relaksasi \\
+& & Mendukung interaksi sosial\\
+& & Mendukung privasi \\ % teori belum di masukkan
+& & Keragaman penggunaan \\ % teori belum di masukkan
 \bottomrule
     \end{tabular}
 \end{table}
-
-
 
 \section{Karakter Orang/Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
@@ -515,25 +513,26 @@ Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. 
     \centering
     \caption{Variabel Karakter Orang}
     \label{tab:var2}
-    \begin{tabular}{l p{3.4cm} l}
-    \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
+    \begin{tabular}{l p{.4\textwidth} p{.2\textwidth}}
         \toprule
-    \multirow{ 4}{*}{1.} & \multirow{ 4}{*}{Umur} & 18-44 \\
+    \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
+        \midrule
+    \multirow{ 3}{*}{1.} & \multirow{ 3}{*}{Umur} & 18-44 \\
     & & 45-64\\
     & & $\ge$  65\\
-    & & \\
-    \multirow{ 3}{*}{2.} & \multirow{ 3}{*}{Gender} & Laki-laki \\
+    \midrule
+    \multirow{ 2}{*}{2.} & \multirow{ 2}{*}{Gender} & Laki-laki \\
     & & Perempuan\\
-    & & \\
-    \multirow{ 3}{*}{3.} & \multirow{ 3}{*}{Ras} & Bugis\\
+    \midrule
+    \multirow{ 2}{*}{3.} & \multirow{ 2}{*}{Ras} & Bugis\\
     & & Bukan Bugis\\
-    & & \\
-    \multirow{ 4}{*}{4.} & \multirow{ 4}{*}{Status Pekerjaan} & Karyawan \\
+    \midrule
+    \multirow{ 5}{*}{4.} & \multirow{ 5}{*}{Status Pekerjaan} & Karyawan \\
     & & Wiraswasta\\
     & & Pengangguran\\
     & & Pelajar\\
     & & Pensiun\\
-    & & \\
+    \bottomrule
     \end{tabular}
 \end{table}
 
