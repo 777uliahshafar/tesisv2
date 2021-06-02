@@ -236,7 +236,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban\textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
 \cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
 
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter orang. Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}. Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter penunjung. Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}. Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
 
 \begin{itemize}
 \item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
@@ -245,7 +245,8 @@ Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai ti
 \item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
 \end{itemize}
 
-Dari teori tentang presepsi didapatkan bahwa setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan dapat bergantung pada umur, gender, dan ras dan lingkungan fisik \citep{carmona2021}. Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
+Maka penelitian ini mengambil aspek perseptual sebagai variabel preferensi pengunjung yang dikaitkan dengan elemen ruang publik untuk menemukan penemuan preferensi ruang publik sebenarnya.
+Lebih lanjut, dari teori tentang presepsi didapatkan bahwa setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan dapat bergantung pada umur, gender, dan ras dan lingkungan fisik \citep{carmona2021}. Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
 Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
 
 \begin{figure}[htpb]
@@ -317,7 +318,7 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 \cite{carmona2021} menjelaskan pentingnya hubungan antara orang dan lingkungan sebagai bagian dari ranah publik dalam sebuah dimensi sosial. Setiap lingkungan (`ruang') menghadirkan kegiatan-kegiatan sosial, begitupun sebaliknya keberlangsungan suatu kegiatan sosial selalu melibatkan sebuah ruang.
 \citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang (masyarakat) membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
 Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan fisik \textit{(physical environment)} dapat mempengaruhi perilaku orang \citep{carmona2021}. Ini mengindikasikan bahwa interaksi lingkungan-orang hanya berjalan satu arah. Akan tetapi, sebenarnya orang juga dapat mengubah dan mempengaruhi sebuah lingkungan. Meskipun pada dasarnya perilaku orang adalah `situasional' yang tertanam pada fisik -- dan juga `sosial', `budaya' dan `perseptual' --- konteks dan settings. Terdapat dua macam cara pandang bagaimana lingkungan berdampak pada kegiatan seseorang. \textit{environmenta possibilism} yaitu ketika orang dapat memilih lingkungan yang tersedia dan \textit{environmental probabilism} adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}. Seperti misalnya tepi laut dengan fitur alami lebih mendukung interaksi sosial daripada tepi laut yang menyerupai kawasan industri.
-Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter orang \textit{(individual's own situation and characteristicts)}.
+Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter orang dalam kata lain pengunjung tepi laut \textit{(individual's own situation and characteristicts)}.
 
 
 \section{Elemen Ruang Publik}
@@ -385,7 +386,7 @@ Sejumlah penelitian menyebutkan aspek pemeliharan meningkatkan kunjungan taman \
 
 %% ketertutupan
 Ketertutupan \textit{(enclosures)} pada ruang publik menjadi penting \citep{stino1983}, ini mempertimbangkan baik denah maupun bagian vertikal sebuah ruang \citep{carr1992}.
-Ketertutupan ruang yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai `kebutuhan bertahan dan berkembang' \citep{gao2019}. Meskipun itu tidak selalu benar, beberapa kasus membuktikan bahwa orang kadang memilih berada dibawah pohon untuk sandar, celah alami, cekungan pada tanah. Demikian terjadi karena sepertinya derajat ketertutupan membuat rasa aman \citep{carr1992}. Ini juga tergambarkan melalui karakter orang, \citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki derajat ketertutupan lebih daripada orang kulit putih. Aspek ini juga menggambarkan teori \textit{prospect} dan \textit{refuge}. Dari teori tersebut memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat. Ketersediaan \textit{prospect} dan \textit{refuge} melalui derajat ketertutupan dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
+Ketertutupan ruang yang sedang dan kerapatan vegetasi sedang adalah preferensi masyarakat untuk mencapai `kebutuhan bertahan dan berkembang' \citep{gao2019}. Meskipun itu tidak selalu benar, beberapa kasus membuktikan bahwa orang kadang memilih berada dibawah pohon untuk sandar, celah alami, cekungan pada tanah. Demikian terjadi karena sepertinya derajat ketertutupan membuat rasa aman \citep{carr1992}. Ini juga tergambarkan melalui karakter pengunjung, \citep{elmen2005} menemukan bahwa orang kulit hitam lebih cenderung pada ruang yang memiliki derajat ketertutupan lebih daripada orang kulit putih. Aspek ini juga menggambarkan teori \textit{prospect} dan \textit{refuge}. Dari teori tersebut memunculkan konsep dasar bahwa manusia pada dasarnya ingin melihat tanpa dilihat. Ketersediaan \textit{prospect} dan \textit{refuge} melalui derajat ketertutupan dapat mempengaruhi preferensi ruang masyarakat \citep{tveit2006}. \cite{appleton1996} menyebutnya sebagai kenikmatan estetika.
 
 \begin{figure}[htpb]
     \centering
@@ -442,6 +443,7 @@ Pada abad 20, kota memiliki kebutuhan untuk mengembangkan penataan yang berkelan
 \cite{dipeolu2021} menemukan preferensi masyarakat Nigeria terhadap bentuk infrastruktur hijau perkotaan adalah fitur hijau (cth. taman, perumputan, kebun, lapangan olahraga, dan atap hijau). Terbalik pada penelitian lain bahwa ras kulit hitam memberikan sedikit perhatian terhadap fitur hijau \citep{elmen2005}.
 Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} perkotaan alami dibanding dengan perubahan buatan \citep{zhao2020}. Selain daripada itu, ada pemahaman yang sama terhadap bentuk taman alami dan komersial, artinya perlu memadankan atribut alami dan komersial pada taman perkotaan.
 \cite{kasim2016} menuturkan fitur hijau dan biru adalah sepadan. Kedua atribut tadi kehadirannya dicenderungi berdasarkan penjelasan dari \citep{ostoic2020}. Sehinga fasilitas tertentu dapat dikatakan menjadi penentu terhadap preferensi pengunjung terhadap ruang publik. \cite{dipeolu2021} menjelaskan alasan utama mengapa orang mengunjungi kawasan hijau karena menikmati udara segar, pemandangan indah dan relaksasi. Ini menampilkan dimensi fungsi pada ruang publik. Fungsi lain yang seharusnya tersedia pada ruang publik adalah penggunaan sosial. Ruang publik dapat mendukung fungsi sosial jika memiliki setidaknya faktor berikut:
+
 \begin{itemize}
     \item Tempat untuk duduk, jeda, dan berpikir.
     \item Ruang berkumpul (cth. tempat bermain, halte bis, tempat makan)
@@ -449,6 +451,9 @@ Penelitian lain menemukan bahwa penduduk lebih menyukai taman \textit{(garden)} 
     \item Koneksi dengan beberapa tujuan
     \item Fasad bangunan yang aktif
 \end{itemize} \citep{pps}.
+
+%%% tinjauan teori PRIVASI lohh mana??
+%% tinjauan toori mixed use mana loh??
 
 Dari hasil tinjauan pustaka, peneliti merangkum faktor-faktor fasilitas antaral lain: \begin{inparaenum} \item Memberi rasa nyaman \item Memberi relaksasi \item Mendukung interaksi sosial \item Privasi \item Menyediakan keragaman penggunaan \end{inparaenum}
 
@@ -493,12 +498,12 @@ Dari hasil tinjauan pustaka, peneliti merangkum faktor-faktor fasilitas antaral 
     \end{tabular}
 \end{table}
 
-\section{Karakter Orang/Pengunjung}
+\section{Karakter Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
 Penelitian tentang taman perkotaan, variabel karakter pengguna (sosio-demografi) mempengaruhi preferensi ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 %Umur dan status
-Berbicara karakter orang, aspek umur dan status sosial lebih sering muncul pada penelitian.
+Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian.
 \cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang (lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Perbedaan juga tampak pada kesukarelaan untuk mengunjungi taman pada malam hari, anak muda lebih menyukai mengunjungi taman pada malam hari ketimbang manula \citep{mak2019}.
 Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} menemukan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ruang dengan derajat ketenangan tertentu.
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
@@ -511,7 +516,7 @@ Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. 
 
 \begin{table}[htpb]
     \centering
-    \caption{Variabel Karakter Orang}
+    \caption{Variabel Karakter Pengunjung}
     \label{tab:var2}
     \begin{tabular}{l p{.4\textwidth} p{.2\textwidth}}
         \toprule
@@ -538,30 +543,33 @@ Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. 
 
 \newpage
 \section{Kerangka Penelitian}
-
-
-Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan variabel-variable yang layak diteliti.
-
+Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan variabel-variabel yang layak diteliti.
 
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (fit) [startstop, text width= 8cm] {\textbf{Fitur lingkungan}\\\small(aksesibilitas,fasilitas,estetika,keamanan, dan pemeliharaan)};
+	\node (fit) [startstop, text width= 6cm] {\textbf{Elemen Ruang Publik}\\\small(Aksesibilitas, Estetika, Keamanan dan Fasilitas)};
 
-	\node (soc) [startstop, below of=fit, text width= 8cm, yshift=-3cm, ] {\textbf{Karakter Orang}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
+	\node (pre) [startstop, right of=fit, text width= 5cm, xshift=4cm] {\textbf{Preferensi Pengunjung}\\ Kognisi, Afektif, Interpretatif, Evaluatif };
 
-	\node (pre) [startstop, right of=fit, text width= 5cm,yshift=-2.5cm, xshift=4cm] {\textbf{Preferensi Ruang}\\ Ruang A atau Ruang B};
+	\node (soc) [startstop, below of=fit, text width= 8cm, xshift= 3cm, yshift=-1cm ] {\textbf{Preferensi Ruang}};
 
 
-\draw [arrow] (fit) -- (pre);
-\draw [arrow] (soc) -- (pre);
 
+\draw [arrow] (fit) -- (soc);
+\draw [arrow] (pre) -- (soc);
 
 \end{tikzpicture}
-\caption{Alur Pikir}
+\caption{Kerangka Konseptual}
 \end{figure}
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/kons}
+    \caption{Alternatif Kerangka Konseptual}
+    \label{fig:kons}
+\end{figure}
 
 \chapter{Metodologi Penelitian}\label{chap:method}
 
@@ -803,7 +811,7 @@ Lapangan sekaligus alun-alun Parepare setiap jam-jam istirahat selalu ramai. Pen
 \end{longtable}
 
 
-\section{Fitur Ruang}
+\section{Elemen Ruang Publik}
 \subsection{Akses}
 Nilai akses ditandai dengan lebar jalan dan kedekatan fasilitas pada suatu ruang. Ruang A memiliki lebar jalan yang cukup besar. Akses ini terbilang cukup memadai dengan penambahan penerangan dan paving. Akses atau biasa disebut pedestrian ini berlokasi berpapasan langsung dengan pesisir laut. Tempatnya membuat pengunjung dapat berjalan-jalan sambil mendengar suara dan pemandangan laut. Fitur ini berbeda signifikan terhadap ruang B. Selain lebar jalan, kedekatan fasilitas merupakan indikator oleh akses. Pada ruang A, integrasi fasilitas terbilang cukup tinggi, artinya orang-orang dapat mencapai fasilitas dengan mudah. Misalnya fasilitas akses terhadap laut, ruang terbuka, lapangan basket dan kios makanan.
 
@@ -881,7 +889,6 @@ Berbeda dengan ruang A, ruang B memiliki fasilitas yang kurang beragam. Ada sebu
 \subsection{Estetika}
 Fitur estetika dominan didukung oleh elemen alami yaitu kerapatan vegetasi dan kehadiran tumbuhan. Elemen alami juga mendukung aspek keberlanjutan sebuah kawasan terutama pada \textit{waterfront}. Kerapatan vegetasi di \textit{waterfront} Senggol terutama di Ruang A adalah cukup renggang, jaraknya satu antara lainnya adalah 4 meter lebih. Letak pohon tersebut lebih banyak di beton pembatas, dimana kehadiran tumbuh-tumbuhan pada tempat ini terbilang sedikit. Terdapat sekitar 20 pohon yang ada pada ruang A ini.
 
-
 \begin{figure}[htbp]
 \centering
 \begin{subfigure}{6cm}
@@ -895,7 +902,6 @@ Fitur estetika dominan didukung oleh elemen alami yaitu kerapatan vegetasi dan k
 \label{est}
 \end{figure}
 
-
 Estetika ruang B menunjukkan kerapatan vegetasi yang lebih dari ruang A. Jarak antar pohon ada yang hanya sekitar 3 meter dan ada juga yang 5 meter.
 Pohon di ruang ini berada di area pedestrian dan berjejer sepanjang Jalan Pinggir Laut dengan jumlah pohon berkisar 14 unit. Jenis seluruh pohon yang berada di kawasan waterfront Senggol adalah Pohon Palem.
 
@@ -906,19 +912,7 @@ Pohon di ruang ini berada di area pedestrian dan berjejer sepanjang Jalan Pinggi
     \label{fig:est2}
 \end{figure}
 
-\subsection{Keamanan}
-Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ketertutupan sebuah ruang dapat dipengaruhi oleh karakteristik ruang dan fungsi bangunan, ketinggian dan \textit{setback} vegetasi, pagar dan bangunan. Ketertutupan pada ruang A didominasi oleh kios penjual dengan tinggi bangunan 5 meter dan lebar pedestrian sekitar 4 meter. Sehingga tempat ini hampir memenuhi proporsi 1:1 atau cukup terasa ketertutupan berdasarkan teori GLC. Selain derajat ketertutupan, keramaian juga menjadi fokus dari keamanan. Keramaian pada ruang A pada hari-hari biasa ataupun hari libur terlihat seperti gambar \ref{fig:amn}.
-
-\begin{figure}[htpb]
-    \centering
-    \includegraphics[width=0.8\textwidth]{figures/amn1}
-    \caption{Keamanan}
-    \label{fig:amn}
-\end{figure}
-
-\subsection{Pemeliharaan}
-
-Pemeliharaan pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(continue)} yang ada di lapangan seperti kondisi rumput, dinding(grafiti), dan sampah. Pada kawasan waterfront Senggol, tidak banyak ditemui area yang berumput. Hampir seluruh permukaan dilapisi dengan \textit{hardscape)} sehingga pemeliharaan terhadap rumput bukan sebuah perhatian. Namun, ruang A memiliki restauran dan pengunjung yang dapat memproduksi sampah setiap hari. Sehingga ini menjadi sebuah perhatian pemeliharaan. Seperti pada gambar \ref{fig:pem}, sampah masih dapat terlihat di tempat tidak semestinya dan pojok sebuah ruang. Ada juga yang masih berserakan di tempat pembuangan sampah sementara. Dari segi vandalisme, tempat ini mempunyai grafiti yang kurang. Dinding-dinding pada kios atau restauran masih kelihatan bersih dari grafiti.
+Faktor lain dari aspek estetika adalah pemeliharaan, pada ruang publik lebih memperhatikan kondisi berlanjut \textit{(continue)} yang ada di lapangan seperti kondisi rumput, dinding(grafiti), dan sampah. Pada kawasan waterfront Senggol, tidak banyak ditemui area yang berumput. Hampir seluruh permukaan dilapisi dengan \textit{hardscape)} sehingga pemeliharaan terhadap rumput bukan sebuah perhatian. Namun, ruang A memiliki restauran dan pengunjung yang dapat memproduksi sampah setiap hari. Sehingga ini menjadi sebuah perhatian pemeliharaan. Seperti pada gambar \ref{fig:pem}, sampah masih dapat terlihat di tempat tidak semestinya dan pojok sebuah ruang. Ada juga yang masih berserakan di tempat pembuangan sampah sementara. Dari segi vandalisme, tempat ini mempunyai grafiti yang kurang. Dinding-dinding pada kios atau restauran masih kelihatan bersih dari grafiti.
 
 \begin{figure}[htbp]
 \centering
@@ -942,6 +936,18 @@ Biasanya sebelum berjualan, mereka membersihkan sampah-sampah yang berserakan di
     \caption{Sampah Ruang B}
     \label{fig:pem2}
 \end{figure}
+
+
+\subsection{Keamanan}
+Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ketertutupan sebuah ruang dapat dipengaruhi oleh karakteristik ruang dan fungsi bangunan, ketinggian dan \textit{setback} vegetasi, pagar dan bangunan. Ketertutupan pada ruang A didominasi oleh kios penjual dengan tinggi bangunan 5 meter dan lebar pedestrian sekitar 4 meter. Sehingga tempat ini hampir memenuhi proporsi 1:1 atau cukup terasa ketertutupan berdasarkan teori GLC. Selain derajat ketertutupan, keramaian juga menjadi fokus dari keamanan. Keramaian pada ruang A pada hari-hari biasa ataupun hari libur terlihat seperti gambar \ref{fig:amn}.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/amn1}
+    \caption{Keamanan}
+    \label{fig:amn}
+\end{figure}
+
 
 
 
