@@ -50,11 +50,14 @@ set_parent("thesis.Rnw")
 
 \section{Latar Belakang}
 %developmnet waterfrontis crucial
-Tepi laut menjadi sebuah ruang dari perkotaan yang harus terus berkembang \cite{shamsuddin2013}. Kawasan ini memiliki karakteristik dan perhatian khusus mengingat pentingnya air sebagai sumber kehidupan. Untuk mencapai tujuan tersebut, pengembangan tepi laut adalah sangat penting. Menurut \cite{hussein2014}, pengembangan tepi laut yang baik adalah yang mempertimbangkan keberagaman, interaksi komunitas, kenyamanan dan keamanan, lingkungan dan keberlanjutan. Pengembangan berkelanjutan\textit{(sustainable development)} kota pada waterfront mendorong kondisi yang lebih baik untuk masyarakat perkotaan \citep{brebbia2016sustainable}.
-Berdasarkan \cite{imperatives1987}, \textit{Sustainability development} adalah pengembangan yang memenuhi kebutuhan saat ini tanpa mempertaruhkan kemampuan dari generasi akan datang untuk memenuhi kebutuhannya.
+Tepi laut menjadi sebuah ruang dari perkotaan yang harus terus berkembang \citep{shamsuddin2013}.
+Kawasan ini memiliki karakteristik dan perhatian khusus mengingat pentingnya air sebagai sumber kehidupan \citep{yassin2010}. Menurut \cite{hussein2014}, pengembangan tepi laut yang baik adalah yang mempertimbangkan keberagaman, interaksi komunitas, kenyamanan dan keamanan, lingkungan dan keberlanjutan. Pengembangan tersebut memiliki tujuan untuk menarik masyarakat berada di kawasan tepi laut.
+
+%Pengembangan berkelanjutan \textit{(sustainable development)} kota pada tepi laut mendorong kondisi yang lebih baik untuk masyarakat perkotaan \citep{brebbia2016sustainable}.
+%Berdasarkan \cite{imperatives1987}, \textit{Sustainability development} adalah pengembangan yang memenuhi kebutuhan saat ini tanpa mempertaruhkan kemampuan dari generasi akan datang untuk memenuhi kebutuhannya.
 
 %pengembngn berdsrkn keberlanjutan adlh kbutuhn
-Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, Indonesia memiliki jam terbang yang panjang dalam menghadapi masalah yang rumit dari tepi laut. Pembahasan tentang pengembangan berkelanjutan tepi laut telah ramai diperbincangkan di Indonesia seperti contohnya proyek reklamasi di Makassar dan Manado \citep{andi2017,tungka2012, fhuh2017}, pengembangan ulang tepi laut tahun 1995 sepanjang 32 km di Jakarta \citep{pramesti2017} dan Desain lanskap tepi laut di Sungai Cikapundung \citep{ainy2016}. Menurut \cite{breen1994}, tekanan pada ruang kota dan infrastruktur, kebutuhan atas kualitas lingkungan, dan ketersediaan ruang tepi laut yang terbengkalai menjadi alasan pengembangan ulang kawasan tepi laut sebagai solusi yang pas. Pengembangan ulang tersebut telah di atur sedemikian rupa agar menjadi bagian dari langkah perkotaan yang keberlanjutan \citep{pramesti2017}.
+Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, Indonesia memiliki jam terbang yang panjang dalam menghadapi masalah yang rumit dari tepi laut. Pembahasan tentang pengembangan berkelanjutan tepi laut telah ramai diperbincangkan di Indonesia seperti contohnya proyek reklamasi di Makassar dan Manado \citep{andi2017,tungka2012, fhuh2017}, pengembangan ulang tepi laut tahun 1995 sepanjang 32 km di Jakarta \citep{pramesti2017} dan Desain lanskap tepi laut di Sungai Cikapundung \citep{ainy2016}. Menurut \cite{breen1994}, tekanan pada ruang kota dan infrastruktur, kebutuhan atas kualitas lingkungan, dan ketersediaan ruang tepi laut yang terbengkalai menjadi alasan pengembangan ulang kawasan tepi laut sebagai solusi yang tepat. Pengembangan ulang tersebut telah di atur sedemikian rupa agar menjadi bagian dari langkah perkotaan yang keberlanjutan \citep{pramesti2017}.
 
 %kondisi parepare
 Kota Parepare merupakan kota yang terletak di Provinsi Sulsel. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
@@ -63,33 +66,41 @@ Terdapat sejumlah area yang berada di garis pantai tersebut misalnya Tepi Sungai
 Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan konsep kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden Ketiga Republik Indonesia.
 
 %karakteristik di tepi laut senggol
-Saat ini, Kota Parepare sedang melakukan sejumlah peningkatan sarana dan prasarana perkotaan. Salah satunya adalah revitalisasi tepi laut senggol.
-Pengembangan tepi laut ini bertujuan agar mampu mendorong jumlah pengunjung pada tempat wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa masyarakat dan pengunjung untuk datang ke pesisir.
+Berdasarkan arahan rencana tata ruang wilayah kota, Parepare menetapkan kawasan strategis kota yang mendasari pembangunan infrastruktur bidang cipta karya. Kawasan pengembangan senggol termasuk dalam kawasan pengembangan PKL dengan sudut kepentingan pertumbuhan ekonomi.
+Pengembangan tepi laut ini bertujuan agar mampu mendorong jumlah pengunjung pada tempat wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa penduduk kota untuk datang ke pesisir. Dengan begitu akan meningkatkan pertumbuhan ekonomi pada kawasan tersebut.
 Tepi laut senggol telah lama menjadi daya tarik populer bagi masyarakat setempat. Tepi laut senggol memiliki pemandangan yang sangat indah. Pemandangan sebuah teluk menjadi ciri khas daerah ini. Selain itu, pengunjung juga tertarik untuk berwisata kuliner yang ditemani dengan kombinasi pemandangan elemen daratan dan air. Penyedia utama yang mendukung daya tarik tersebut adalah pedagang kaki lima yang bertahan dari dulu hingga saat ini. Setelah berwisata kuliner, banyak yang menghabiskan sisa waktunya untuk berenang di tepi laut. Menurut \cite{davidowich1998}, bagian yang terpenting dalam pengembangan tepi laut adalah kemampuan pengunjung untuk berinteraksi dengan air. Selain berenang, aktivitas rekreasi seperti memancing dan mencari kepiting membutuhkan akses ke air \citep{gordon1996}. Penggunaan beragam dapat berkontribusi terhadap kesuksessan strategi berkelanjutan \citep{eldeeb2015}.
 
 % def Preferensi ruang
 Kawasan tepi laut senggol terbentang dari Pelabuhan Nusantara hingga Pasar Senggol sepanjang sekitar 300 meter. Sepanjang garis pantai tersebut terbentuk sejumlah ruang dengan karakteristik yang berbeda. Pengembangan yang terjadi di kawasan tersebut untuk merespon konsep kota Parepare sebagai kota Pariwisata.
-Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}, dengan cara memenuhi kebutuhannya. Mencari tahu preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
-Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. Sejumlah atribut pada ruang tersebut menjadi alasan dalam pemilihan ruang di kawasan tepi laut.
+Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}, dengan cara memenuhi kebutuhannya.
+Pemahaman preferensi terhadap ruang publik yang lebih baik dapat membantu pemangku kebijakan dan perencana kota untuk mendesain ruang publik secara efektif dalam hal memenuhi kebutuhan penggunanya \citep{madureira2018}.
+%Mencari tahu preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
+
+Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. \cite{lynch1984} menjelaskannya dalam ranah ruang perkotaan sebagai citra lingkungan (kualitas fisik objek) yang membangkitkan kesan yang kuat terhadap pengamat. \citeauthor{lynch1984} menyebutkan citra lingkungan tersebut terbentuk atas identitas, struktur, dan makna.
+\cite{knox2014} melihat bahwa makna juga melekat pada elemen lingkungan perkotaan yang mana sama atau lebih penting daripada aspek struktur dan fisik.
+Atribut lingkungan, istilah lain elemen lingkungan adalah fitur atau kualitas dari lingkungan yang mana bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}. \cite{carr1992} berpendapat bahwa lingkungan dapat mengesankan atau dilupakan, disukai atau tidak disukai.
+
+% proposisi atribut
+Beberapa penelitian menemukan proposisi terkait preferensi pengunjung pada ruang publik. Pada penelitian preferensi pengunjung dalam melepas stress terhadap ruang hijau menunjukkan orang lebih menyukai tempat yang sepi (penggunaan rendah) saat ingin melepas stress. Sementara preferensi pengunjung secara umum menempatkan desain jalan setapak lebih utama \citep{arnberger2015}.
+\cite{alves2008} menunjukkan tujuh atribut yang menjadi pertimbangan dalam hal perilaku orang dalam memilih. Beberapa diantarnya adalah jarak, fasilitas, pohon, pemeliharaan, aksesibel dan beragam.
+\cite{wen2018} memfokuskan penelitiannya kepada manula, dia menyimpulkan manula umumnya memiliki preferensi terhadap fitur lanskap yang alami, estetik, komprehensif dan beragam dengan fasilitas yang aksesibel dan terpelihara.
 
 % existing research
 Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
 %state of the art
-Namun terlepas dari studi berkaitan dengan preferensi, hanya sedikit yang membahas tentang preferensi ruang yang ada di kawasan tepi laut.
-Kebanyakan penelitian hanya mendiskusikan atribut atau fitur ruang yang paling dicenderungi masyarakat \citep{dipeolu2021,madureira2018,alves2008,elmen2005}.
+Namun terlepas dari studi berkaitan dengan preferensi ruang publik, sepengetahuan penulis hanya sedikit yang membahas tentang preferensi pengunjung terhadap ruang khususnya di kawasan tepi laut.
 
+%Kebanyakan penelitian hanya mendiskusikan atribut atau fitur ruang yang paling dicenderungi masyarakat \citep{dipeolu2021,madureira2018,alves2008,elmen2005}.
 %atribut preferensi ruang & karkter pengguna
-Fitur ruang adalah bagian dari \textit{setting} ruang publik (seperti \textit{waterfront \& taman}) yang khas dan konteks lingkungan yang lebih luas \citep{alves2008}.
-Sejumlah penelitian menemukan hubungan antara fitur ruang dan preferensi ruang.
-Karakteristik fisik ruang hijau seperti taman dan desain jalan setapak mempengaruhi preferensi umum \textit{(general preference)}, sedangkan jumlah pengunjung yang sedikit lebih mempengaruhi preferensi ruang untuk menghilangkan stress \citep{arnberger2015}.
-Fitur alami juga disebutkan berperan terhadap preferensi, diantara fitur alami tersebut yaitu pohon/tumbuhan, pemandangan liar \textit{(wildlife)}, dan pohon jalan \citep{alves2008}.
-Pada studi terhadap preferensi fitur lanskap manula, fasilitas dan infrastruktur yang alami, estetik, beragam, aksesibel, komprehensif, terpelihara serta adanya interaksi diantara manusia dan alam mempengaruhi tingkat preferensi mereka \citep{wen2018}.
-Selain fitur ruang, karakter pengguna terkait dengan keadaan \textit{socio-demografi} seperti umur, ras, gender dan status pekerjaan memiliki pengaruh besar terhadap pemilihan ruang.
-Seperti contoh, pelajar sekolah dasar lebih mencenderungi ruang komersial modern sedangkan pelajar sekolah menengah lebih menyukai ruang yang alami dan ekologi \citep{zhao2020}. Dia menegaskan bahwa karakter individu, keluarga, dan profesi penduduk menjadi pengaruh terhadap preferensi.
+%Selain fitur ruang, karakter pengguna terkait dengan keadaan \textit{socio-demografi} seperti umur, ras, gender dan status pekerjaan memiliki pengaruh besar terhadap pemilihan ruang.
+%Seperti contoh, pelajar sekolah dasar lebih mencenderungi ruang komersial modern sedangkan pelajar sekolah menengah lebih menyukai ruang yang alami dan ekologi \citep{zhao2020}. Dia menegaskan bahwa karakter individu, keluarga, dan profesi penduduk menjadi pengaruh terhadap preferensi.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%ruang publik teori laut
 
 Lebih lanjut, sangat penting untuk melakukan penilaian lokal karena preferensi tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
 Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulsel.
-Selain memperhatikan preferensi ruang masyarakat, fitur ruang dan karakter pengguna akan diselidiki untuk memberikan pemahaman deskriptif dari objek penelitian.
+Selain memperhatikan preferensi pengunjung terhadap ruang, peneliti juga akan menyelidiki kepentingan relatif dari berbagai atribut yang berbeda.
 
 \section{Rumusan Masalah}
 Kawasan tepi laut merupakan kawasan yang sangat rentan dan bernilai tinggi \citep{mullin2000}. Sebagai area yang merupakan bagian yang tidak terpisahkan dari sebuah kota \citep{hussein2014}. Pengembangan tepi laut yang berhasil menarik masyarakat untuk datang ke pesisir. Keberhasilan suatu tepi laut menjadi tanda sebuah kota yang berhasil.
@@ -321,12 +332,13 @@ Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan
 Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter orang dalam kata lain pengunjung tepi laut \textit{(individual's own situation and characteristicts)}.
 
 
-\section{Elemen Ruang Publik}
+\section{Atribut}
 
 Preferensi ruang masyarakat kemungkinan besar didasari oleh faktor perseptual dan estetika \citep{vandenberg2003,england2009}. \cite{england2009} memaparkan kualitas perseptual dapat berbeda tergantung pada tipe ruang publik (lingkungan) yang digunakan.
 Hal tersebut menyangkut pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah fitur individu \citep{swanwick2009}. Ini menunjukkan adanya hubungan lingkungan dengan pengunjung.
 
-\cite{lynch1984} berpendapat bahwa manusia tidak dapat lepas dari keterikatannya dengan sekelilingnya selama hidupnya. Semua lingkungan perkotaan \textit{(urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{knox2014}. Elemen-elemen tersebut memiliki banyak kesamaan istilah seperti elemen lingkungan lingkungan binaan \citep{knox2014}, atribut lingkungan \citep{gao2019}, fitur lingkungan \citep{alves2008}, karakteristik lingkungan/lanskap \citep{dwiputra2017,wen2018} dan karakteristik ruang kota \citep{cahyaningtyas2020}. Penelitian ini sendiri menggunakan istilah elemen ruang publik (ERP) sebagaimana itu berakar pada tatanan fisik dan aktivitas pada tepi laut.
+\cite{lynch1984} berpendapat bahwa manusia tidak dapat lepas dari keterikatannya dengan sekelilingnya selama hidupnya. Semua lingkungan perkotaan \textit{(urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{knox2014}. Dalam penggunan umum, istilah atribut sangat jelas.
+Beberapa peneliti lebih menyukai menggunakan beragam istilah  dengan sebutan elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}.
 
 \cite{carmona2021} menemukan sejumlah aspek-aspek perencanaan ruang publik yang terangkum dalam beberapa dimensi. Terdapat dimensi sosial (aksesibilitas dan keselamatan dan keamanan), visual (preferensi estetika dan lanskap lembut dan keras) dan fungsi (fitur). Dengan membentuk lingkungan binaan berdasarkan aspek-aspek ini, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial.
 %variabel-variabel fitur ruang dri jurnal
@@ -334,7 +346,7 @@ Pada penelitian preferensi manula, ERP mempengaruhi preferensi manula terhadap t
 Sedangkan dalam penelitian preferensi pengunjung taman kota, aspek-aspek elemen terdiri dari kondisi ruang fisik, estetika, lokasi (kedekatan), fasilitas dan suasana ruang \citep{dwiputra2017}.
 Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas, keamanan, estetika dan pemeliharaan.
 
-\citeauthor{cahyaningtyas2020} menyebut ERP sebagai karakteristik ruang kota dalam penelitian preferensi masyarakat terhadap ruang kota sebagai tempat relaksasi. Karakteristik ruang kota tersebut terdiri atas aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang \citep{cahyaningtyas2020}.
+\citeauthor{cahyaningtyas2020} menyebut atribut sebagai karakteristik ruang kota dalam penelitian preferensi masyarakat terhadap ruang kota sebagai tempat relaksasi. Karakteristik ruang kota tersebut terdiri atas aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang \citep{cahyaningtyas2020}.
 \cite{huang1997} mendefinisikan hubungan lingkungan-orang sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika (keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine (laut), sejarah dan budaya, fasilitas rekreasi, dan danau.
 
 Semua ini menggambarkan bahwa preferensi umum masyarakat tidak hanya bergantung pada satu kriteria.
