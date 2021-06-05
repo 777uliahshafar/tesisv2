@@ -144,13 +144,14 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 %Belum muncul fitur ruang yang sebenarnya terkait preferensi ruang
 
 \section{Tujuan Penelitian}
-Penelitian ini bertujuan untuk menelusuri preferensi ruang  masyarakat di kawasan tepi laut. Preferensi ruang masyarakat juga akan dijelaskan dalam konteks atribut-atribut yang ada pada setiap ruang. Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di kalangan masyarakat dan pengunjung.
-Peneliti berharap hasil penelitian ini dapat digunakan dalam melengkapi kekurangan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya menghasilkan integrasi antara ruang dan mensukseskan kawasan tepi laut senggol secara keseluruhan tanpa melupakan sisi keberlanjutan sebuah tepi laut.
+Penelitian ini bertujuan untuk menelusuri preferensi pengunjung terhadap ruang di kawasan tepi laut.
+Preferensi masyarakat juga akan dijelaskan dalam konteks atribut-atribut lingkungan yang dapat mempengaruhi perilaku mereka.
+Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di kalangan masyarakat dan pengunjung.
+Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-
-    \item Untuk mengetahui preferensi ruang berdasarkan fitur ruang karakter pengguna tepi laut.
-    \item Untuk menyelidiki fitur-fitur terkait preferensi ruang yang ada di tepi laut Senggol.
+    \item Untuk mengetahui preferensi pengunjung terhadap ruang berdasarkan atribut ruang publik tepi laut.
+    \item Untuk menyelidiki atribut terkait preferensi masyarakat terhadap ruang di tepi laut Senggol.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -193,7 +194,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 \node (pus) [startstop, below of=tuj, yshift=0.5cm] {Studi Pustaka};
 
 \node (kaj) [startstop, below of=pus, text width=4cm, xshift= -4cm, yshift=-.2cm] {
-	\textbf{Kajian Teori}\\ -Ruang publik waterfront\\ - Preferensi ruang\\ - Fitur ruang
+	\textbf{Kajian Teori}\\ - Ruang publik waterfront\\ - Preferensi ruang\\ - Atribut ruang
 };
 
 
@@ -202,18 +203,13 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 };
 
 \node (met) [startstop, below of=pus, yshift=-4cm, text width=7cm] {
-	\textbf{Metode Peneltian}\\ Menggunakan metode penelitian kualitatif deskriptif
+	\textbf{Metode Peneltian}\\ Menggunakan metode penelitian kualitatif ekploratif. Peneliti menyusun proposisi atribut ruang terkait preferensi masyarakat terhadap ruang publik.
 
-	\textbf{Variabel}\\
-	- Fitur ruang kawasan tepi laut \\
-    - Karakter pengguna\\
-
-
-	\textbf{Sumber data}: Observasi dan kuesioner
+	\textbf{Sumber data}: Observasi, wawancara dan kuesioner
 };
 
 \node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode kualitatif deskriptif untuk mengekplorasi fitur yang ada yang terkait preferensi ruang di kawasan tepi laut dan metode statistik untuk penyebaran variabel preferensi ruang.
+		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode kualitatif eksploratif untuk menelusuri atribut yang ada yang terkait preferensi pengunjung terhadap tepi laut. Penyajian data menggunakan analisis statistik dasar untuk mengetahui frekuensi dan persentasi keseluruhan data.
 };
 
 \node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
