@@ -593,11 +593,9 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian ber
 
 \section{Jenis Penelitian}
 
-Penelitian ini menggunakan metode kualitatif deskriptif.
-Dengan menggunakan metode ini, penelitian objek dapat mendeskripsikan atau menggambarkan preferensi ruang dan fitur-fitur terkait preferensi yang membentuk suatu sekumpulan massa pada suatu ruang secara sistematis, faktual, dan akurat.
+Penelitian ini menggunakan metode kualitatif eksploratif untuk mendeskripsikan atau menggambarkan preferensi pengunjung terhadap ruang dan atribut ruang yang membentuk suatu sekumpulan massa pada suatu ruang secara sistematis, faktual, dan akurat. Metode lain yang digunakan adalah metode statistik sederhana dengan menggunakan \textit{crosstab} untuk mengetahui hubungan atribut dan preferensi masyarakat terhadap ruang.
 Penelitian dengan metode kualitatif berupaya untuk memahami kondisi tertentu dengan menginterpretasikan masalah atau dengan menyimpulkan kombinasi dari berbagai permasalahan.
-Selain itu, penelitian ini juga mendeskripsikan objek pengamatan melalui statistik sederhana. Dengan tujuan memahami distribusi kepentingan sebuah fitur-fitur ruang dan hubungan fitur yang ada dengan preferensi ruang secara deskriptif. Arti lain, teknik ini masuk dalam ranah kuantitatif yang menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Jenis statistik yang digunakan adalah \textit{crosstab} untuk mengetahui kecenderungan hasil temuan.
-
+Selain itu, penelitian ini juga menggunakan metode analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Metode ini menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}.
 
 %Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
 
@@ -647,24 +645,20 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
 
 
 \section{Metode Penentuan Sampel}
-Populasi adalah sekelompok subjek atau objek yang menjadi sasaran penelitian. Sekelompok tersebut dapat berupa manusia, hewan, tumbuhan atau objek keseluruhan \citep{bungin2005}.
-Peneliti perlu menentukan terlebih dahulu apa batasan wilayah, objek atau peristiwa yang hendak diselidiki.
-Umumnya peneliti menetapkan kualitas dan karakteristik dari objek/subjek suatu populasi untuk dipelajari dan diambil kesimpulan \citep{sugiyono2010}. Hal ini mempermudah untuk mengetahui keluasan populasi yang tercakup didalamnya \citep{sudjarwo2009}.
-Semua karakteristik atau kualitas yang ada pada individu, objek, atau peristiwa sebaiknya terwakili agar penelitian mencakup keseluruhan karakteristik pada unit tersebut \citep{prof2016}.
+%Populasi adalah sekelompok subjek atau objek yang menjadi sasaran penelitian. Sekelompok tersebut dapat berupa manusia, hewan, tumbuhan atau objek keseluruhan \citep{bungin2005}.
+%Peneliti perlu menentukan terlebih dahulu apa batasan wilayah, objek atau peristiwa yang hendak diselidiki.
 
-Populasi dalam penelitian ini berasal dari pengunjung kawasan \textit{waterfront}. Mereka adalah masyarakat kota Parepare yang tinggal dekat maupun jauh dari objek penelitian. Serta memiliki pemahaman kognisi terhadap kondisi atau karakteristik dari \textit{waterfront}. Peneliti tidak mentukan jumlah populasi dikarena kawasan yang diteliti merupakan ruang publik yang mana siapa saja dapat mengunjunginya kapanpun.
+%Umumnya peneliti menetapkan kualitas dan karakteristik dari objek/subjek suatu populasi untuk dipelajari dan diambil kesimpulan \citep{sugiyono2010}. Hal ini mempermudah untuk mengetahui keluasan populasi yang tercakup didalamnya \citep{sudjarwo2009}.
+%Semua karakteristik atau kualitas yang ada pada individu, objek, atau peristiwa sebaiknya terwakili agar penelitian mencakup keseluruhan karakteristik pada unit tersebut \citep{prof2016}.
 
-Setelah menentukan batasan populasi, peneliti meringkas lagi subjek penelitian agar penelitian berjalan lebih mudah. Membangun sampel artinya mengambil bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Dengan syarat sampel dapat mewakili populasi yang telah ditentukan. Seperti contoh apabila populasi memiliki 5 karakteristik dan kualitas, maka harus mencakup kelima karakteristik tersebut dan mengambil sebagian kecil dari masing-masing karaktersitik sesuai dengan teknik dalam menentukan besar ukuran sampel \citep{prof2016}.
+Peneliti menggunakan sampel jenis \textit{non-random/purposive} untuk mengindentifikasi dan memilih kasus yang kaya informasi untuk pemanfaatan yang paling tepat dari sumber daya yang tersedia \citep{etikan2016}.
+Jenis sampel ini mengidentifikasi dan memilih individu atau kelompok yang mampu dan mengetahui fenomena yang sedang diteliti. Pemilihan karakter utama subjek adalah orang yang berusia 18 tahun keatas dan pengunjung tepi laut senggol.
 
-Penelitian ini menggunakan sampel dengan karakteristik subjek  berumur 18 tahun keatas dan pengunjung tepi laut Senggol.
-Peneliti menggunakan sampel jenis \textit{non-random} untuk mengumpulkan data kualitatif. Menurut \cite{prof2016} jenis sampel ini sangat erat dengan penelitian kualitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
-Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian. Untuk menentukan sampel, penelitian ini menggunakan teknik \textit{accidental sampling}. Teknik ini menentukan sampel secara kebetulan, artinya peneliti/\textit{surveyor} menentukan siapa saja yang ditemui di objek penelitian asal sesuai dengan kriteria\citep{sugiyono2010}.
+Menurut \cite{prof2016} jenis sampel ini sangat erat dengan penelitian kualitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
+Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian.
 
 Penelitian ini menggunakan target jumlah besaran sampel sesuai dengan aturan yang ada.
 Berdasarkan aturan \textit{Roscoe} jumlah besaran yang layak adalah 30 hingga 500, hal ini juga berlaku pada setiap kategori jika sampel terkategorikan. Apabila penelitian melakukan analisis \textit{multivariate} (korelasi atau regresi ganda), maka jumlah variabel sampel harus dikalikan 10. Dari hasil rumusan diatas maka penelitian ini mengambil 99 orang sebagai sampel sesuai dengan kriteria yang ditetapkan.
-
-
-
 
 \section{Metode Pengumpulan Data}
 \subsection{Data Primer}
@@ -675,6 +669,7 @@ Pengamatan langsung atau observasi atau \textit{observation} adalah cara pengump
 Adapun yang menjadi perhatian adalah bagaimana kecenderungan ruang pengunjung \textit{waterfront} senggol dan aspek apa saja yang mempengaruhi kecenderungannya tersebut.
 Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
 
+Data diperoleh melalui kuesioner daring dan luring yang dibagikan kepada 100 responden.
 Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang tersusun secara sistematis untuk menjawab suatu pertanyaan penelitian. Peneliti menyajikan daftar pertanyaan untuk dijawab oleh partisipan yang memiliki kompetensi dan cocok sebagai subjek penelitian. Penelitian ini menggunakan jenis kuesioner langsung tertutup, yang menyediakan pilihan jawaban untuk setiap pertanyaan.
 
 \subsection{Data Sekunder}
