@@ -84,16 +84,22 @@
 \renewcommand{\cftchapleader}{\cftdotfill{\cftsecdotsep}}%add dots and change dots to normal
 \renewcommand\cftchappresnum{BAB }
 
-\renewcommand{\cfttabpresnum}{\tablename\enspace}
 \renewcommand{\cftfigpresnum}{\figurename\enspace}
-\newlength{\mylen}
-\settowidth{\mylen}{\cftfigpresnum\cftfigaftersnum}
-\addtolength{\cftfignumwidth}{\mylen}
-\settowidth{\mylen}{\cfttabpresnum\cfttabaftersnum}
-\addtolength{\cfttabnumwidth}{\mylen}
+\renewcommand{\cftfigaftersnum}{\enspace}
+\newlength{\mylenf}
+\settowidth{\mylenf}{\cftfigpresnum\cftfigaftersnum}
+\addtolength{\cftfignumwidth}{\mylenf}
 
-\settowidth\mylen{BAB 1\ }
-\cftsetindents{chap}{0pt}{\mylen}
+%\cftsetindents{figure}{0em}{3.5em}
+
+\renewcommand{\cfttabpresnum}{\tablename\enspace}
+\newlength{\mylent}
+\settowidth{\mylent}{\cfttabpresnum\cfttabaftersnum}
+\addtolength{\cfttabnumwidth}{\mylent}
+
+\newlength{\mylenc}
+\settowidth\mylenc{BAB 1\ }
+\cftsetindents{chap}{0pt}{\mylenc}
 
 \renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
 \renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
