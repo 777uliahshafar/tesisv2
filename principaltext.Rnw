@@ -243,31 +243,6 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
-\section{Preferensi}
-\label{sub:pref}
-Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban \textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
-\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
-
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter penunjung. Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}. Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
-
-\begin{itemize}
-\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
-\item Afektif, lingkungan mempengaruhi perasaan seseorang
-\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
-\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
-\end{itemize}
-
-Maka penelitian ini mengambil aspek perseptual sebagai variabel preferensi pengunjung yang dikaitkan dengan elemen ruang publik untuk menemukan penemuan preferensi ruang publik sebenarnya.
-Lebih lanjut, dari teori tentang presepsi didapatkan bahwa setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan dapat bergantung pada umur, gender, dan ras dan lingkungan fisik \citep{carmona2021}. Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
-Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
-
-\begin{figure}[htpb]
-    \centering
-    \includegraphics[width=0.8\textwidth]{figures/pfbox2}
-    \caption{Kerangka Konseptual Perilaku Pemilihan Kawasan Rekreasi}
-    \caption*{sumber:\cite{huang1997} }
-    \label{fig:pfbox}
-\end{figure}
 \section{Ruang Publik Waterfront}
 \subsection{Pengertian Waterfront}
 \label{sub:defwat}
@@ -330,7 +305,35 @@ Dalam pembangunan berskala besar terhadap redevolpment waterfront untuk mengunda
 \cite{carmona2021} menjelaskan pentingnya hubungan antara orang dan lingkungan sebagai bagian dari ranah publik dalam sebuah dimensi sosial. Setiap lingkungan (`ruang') menghadirkan kegiatan-kegiatan sosial, begitupun sebaliknya keberlangsungan suatu kegiatan sosial selalu melibatkan sebuah ruang.
 \citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang (masyarakat) membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
 Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan fisik \textit{(physical environment)} dapat mempengaruhi perilaku orang \citep{carmona2021}. Ini mengindikasikan bahwa interaksi lingkungan-orang hanya berjalan satu arah. Akan tetapi, sebenarnya orang juga dapat mengubah dan mempengaruhi sebuah lingkungan. Meskipun pada dasarnya perilaku orang adalah `situasional' yang tertanam pada fisik -- dan juga `sosial', `budaya' dan `perseptual' --- konteks dan settings. Terdapat dua macam cara pandang bagaimana lingkungan berdampak pada kegiatan seseorang. \textit{environmenta possibilism} yaitu ketika orang dapat memilih lingkungan yang tersedia dan \textit{environmental probabilism} adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}. Seperti misalnya tepi laut dengan fitur alami lebih mendukung interaksi sosial daripada tepi laut yang menyerupai kawasan industri.
-Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter orang dalam kata lain pengunjung tepi laut \textit{(individual's own situation and characteristicts)}.
+Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter pengunjung tepi laut \textit{(individual's own situation and characteristicts)}.
+
+
+\section{Preferensi}
+\label{sub:pref}
+Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban \textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
+\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
+
+Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter penunjung. Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}. Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
+
+\begin{itemize}
+\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
+\item Afektif, lingkungan mempengaruhi perasaan seseorang
+\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
+\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
+\end{itemize}
+
+Berdasarkan teori perseptual, penelitian ini menyelidiki \textit{settings} dan atribut pada tepi laut Senggol. Memberikan penilaian terhadap apa yang diselidiki untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan atribut lingkungan.
+Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan juga bergantung pada umur, gender, dan ras dan lingkungan fisik (karaktersitik pengunjung) \citep{carmona2021}.
+Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
+Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/pfbox2}
+    \caption{Kerangka Konseptual Perilaku Pemilihan Kawasan Rekreasi}
+    \caption*{sumber:\cite{huang1997} }
+    \label{fig:pfbox}
+\end{figure}
 
 
 \section{Atribut}
@@ -349,10 +352,10 @@ Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas,
 
 \citeauthor{cahyaningtyas2020} menyebut atribut sebagai karakteristik ruang kota dalam penelitian preferensi masyarakat terhadap ruang kota sebagai tempat relaksasi. Karakteristik ruang kota tersebut terdiri atas aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang \citep{cahyaningtyas2020}.
 \cite{huang1997} mendefinisikan hubungan lingkungan-orang sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika (keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine (laut), sejarah dan budaya, fasilitas rekreasi, dan danau.
-
 Semua ini menggambarkan bahwa preferensi umum masyarakat tidak hanya bergantung pada satu kriteria.
-Berdasarkan penemuan diatas, maka penelitian ini membagi aspek elemen ruang publik sebagai berikut aksessibilitas, keamanan dan keselamatan, estetika, dan fitur fisik. Aspek ERP ini disebut variabel yang memunculkan parameter yang mengubah tatanan fisik dan aktivitas serta mempengaruhi preferensi pengunjung.
+Berdasarkan tinjauan teori diatas, maka penelitian ini merumuskan atribut lingkungan sebagai berikut aksesibilitas, keamanan dan keselamatan, estetika, dan fasilitas. Ini meninggalkan citra yang berbeda dan kuat pada pikiran pengamat. Sehingga lingkungan dengan mudah diingat atau dilupakan, disukai atau tidak disukai.
 
+%atribut ini disebut variabel yang memunculkan parameter yang mengubah tatanan fisik dan aktivitas serta mempengaruhi preferensi pengunjung.
 %Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
 %\cite{balai2020} menjelaskan bahwa hal yang dapat mencegah pengguna menggunakan ruang publik kecil adalah kurangnya kebersihan, area yang ramai aktivitas, aspek keamanan, pemeliharan dan kurangnya fasilitas-fasilitas.
 %Fitur kualitatif dan kuantitatif dari ruang publik dan kualitas visual juga mempengaruhi rasa nyaman masyarakat pada ruang publik \citep{monta2019}.
@@ -475,11 +478,11 @@ Dari hasil tinjauan pustaka, peneliti merangkum faktor-faktor fasilitas antaral 
 
 \begin{table}[htpb]
     \centering
-    \caption{Variabel Elemen Ruang Publik}
+    \caption{Aspek Atribut}
     \label{tab:var}
     \begin{tabular}{l p{.3\textwidth} p{.5\textwidth}}
 \toprule
-        \textbf{No.} & \textbf{Variabel} & \textbf{Parameter}  \\
+        \textbf{No.} & \textbf{Atribut} & \textbf{Parameter}  \\
 \midrule
 \multirow{2}{*}{1.} & \multirow{2}{*}{Aksesibilitas} & Kemudahan dikenali\\
 & & Pencapaian melalui jalan\\
@@ -513,27 +516,31 @@ Dari hasil tinjauan pustaka, peneliti merangkum faktor-faktor fasilitas antaral 
 
 \section{Karakter Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
-Penelitian tentang taman perkotaan, variabel karakter pengguna (sosio-demografi) mempengaruhi preferensi ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
+Selain daripada atribut ruang, preferensi terhadap ruang juga bergantung pada karakter pengunjung \citep{carr1992}.
+Penelitian tentang taman perkotaan, karakter pengunjung (sosio-demografi) mempengaruhi preferensi terhadap ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 %Umur dan status
-Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian.
+Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian \citep{cahyaningtyas2020, scott2002, swanwick2009, mak20019}.
 \cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang (lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Perbedaan juga tampak pada kesukarelaan untuk mengunjungi taman pada malam hari, anak muda lebih menyukai mengunjungi taman pada malam hari ketimbang manula \citep{mak2019}.
+
+
+
 Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} menemukan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ruang dengan derajat ketenangan tertentu.
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
 Penelitian terkait preferensi ruang publik taman, mengutarakan bahwa status pendidikan setara sekolah dasar lebih memilih ruang komersial modern. Hal ini terjadi karena pemahaman terhadap ruang publik berbasis taman atau lingkungan masih kurang \citep{zhao2020}. Berbeda dengan status pendidikan yang tinggi memiliki perhatian lebih terhadap lingkungan \citep{wall1995,ewert2001}.
 
 %ras
-Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan. Perbedaan ras hitam atau putih juga memiliki preferensi ruang tersendiri. Lebih lanjut,orang hitam lebih cenderung pada ruang terbuka dengan lanskap yang terpelihara dan terawat, sedangkan orang kulit putih lebih cenderung pada ruang yang memiliki pepohonan, vegetasi yang rindang, dedaunan yang lebat dan area kayu yang padat  \citep{elmen2005}.
+Aspek lain yang dapat mempengaruhi preferensi terhadap ruang adalah ras dan budaya asal. Menurut \cite{swanwick2009} mereka yang ras minoritas menggunakan ruang publik didasarkan oleh faktor seperti pemeliharaan kurang, fasilitas yang kurang, vandalime dan ketakutan keamanan. Perbedaan ras hitam atau putih juga memiliki preferensi ruang tersendiri. Lebih lanjut,orang hitam lebih cenderung pada ruang terbuka dengan lanskap yang terpelihara dan terawat, sedangkan orang kulit putih lebih cenderung pada ruang yang memiliki pepohonan, vegetasi yang rindang, dedaunan yang lebat dan area kayu yang padat  \citep{elmen2005}.
 
-
+Berdasarkan tinjauan pustaka, aspek karakter pengunjung yang menjadi fokus penelitian adalah umur, gender, ras dan status pekerjaan.
 
 \begin{table}[htpb]
     \centering
-    \caption{Variabel Karakter Pengunjung}
+    \caption{Aspek Karakter Pengunjung}
     \label{tab:var2}
     \begin{tabular}{l p{.4\textwidth} p{.2\textwidth}}
         \toprule
-    \textbf{No.} & \textbf{Variabel} & \textbf{Indikator}  \\
+    \textbf{No.} & \textbf{Karakter Pengunjung} & \textbf{Indikator}  \\
         \midrule
     \multirow{ 3}{*}{1.} & \multirow{ 3}{*}{Umur} & 18-44 \\
     & & 45-64\\
@@ -556,19 +563,17 @@ Aspek lain yang dapat mempengaruhi preferensi ruang adalah ras dan budaya asal. 
 
 \newpage
 \section{Kerangka Penelitian}
-Dari hasil tinjauan pustaka peneliti menyusun kerangka penelitian berdasarkan variabel-variabel yang layak diteliti.
+Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian berdasarkan aspek-aspek dari referensi terkait preferensi.
 
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (fit) [startstop, text width= 6cm] {\textbf{Elemen Ruang Publik}\\\small(Aksesibilitas, Estetika, Keamanan dan Fasilitas)};
+	\node (fit) [startstop, text width= 6cm] {\textbf{Atribut ruang}\\\small(Aksesibilitas, Estetika, Keamanan dan Fasilitas)};
 
-	\node (pre) [startstop, right of=fit, text width= 5cm, xshift=4cm] {\textbf{Preferensi Pengunjung}\\ Kognisi, Afektif, Interpretatif, Evaluatif };
+	\node (pre) [startstop, right of=fit, text width= 5cm, xshift=4cm] {\textbf{Karakter pengunjung}\\ Umur, Gender, Ras, Status pekerjaan };
 
-	\node (soc) [startstop, below of=fit, text width= 8cm, xshift= 3cm, yshift=-1cm ] {\textbf{Preferensi Ruang}};
-
-
+	\node (soc) [startstop, below of=fit, text width= 8cm, xshift= 3cm, yshift=-1cm ] {\textbf{Preferensi Pengunjung terhadap Ruang}};
 
 \draw [arrow] (fit) -- (soc);
 \draw [arrow] (pre) -- (soc);
