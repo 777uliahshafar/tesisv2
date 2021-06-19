@@ -14,6 +14,7 @@ set_parent("thesis.Rnw")
 <<content1, child="stats.Rnw", cache=T>>=
 @
 %--------------------------------------------------------------------------------------
+\begin{comment}
 
 \begin{titlepage}
 	\begin{center}
@@ -45,6 +46,7 @@ set_parent("thesis.Rnw")
 \vfill\mbox{}
 
 \end{titlepage}
+\end{comment}
 
 \chapter{Pendahuluan}\label{chap:pendahuluan}
 
@@ -78,7 +80,7 @@ Pemahaman preferensi terhadap ruang publik yang lebih baik dapat membantu pemang
 
 Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. \cite{lynch1984} menjelaskannya dalam ranah ruang perkotaan sebagai citra lingkungan (kualitas fisik objek) yang membangkitkan kesan yang kuat terhadap pengamat. \citeauthor{lynch1984} menyebutkan citra lingkungan tersebut terbentuk atas identitas, struktur, dan makna.
 \cite{knox2014} melihat bahwa makna juga melekat pada elemen lingkungan perkotaan yang mana sama atau lebih penting daripada aspek struktur dan fisik.
-Atribut lingkungan, istilah lain elemen lingkungan adalah fitur atau kualitas dari lingkungan yang mana bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}. \cite{carr1992} berpendapat bahwa lingkungan dapat mengesankan atau dilupakan, disukai atau tidak disukai.
+Atribut ruang, istilah lain elemen lingkungan adalah fitur atau kualitas dari lingkungan yang mana bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}. \cite{carr1992} berpendapat bahwa lingkungan dapat mengesankan atau dilupakan, disukai atau tidak disukai.
 
 % proposisi atribut
 Beberapa penelitian menemukan proposisi terkait preferensi pengunjung pada ruang publik. Pada penelitian preferensi pengunjung dalam melepas stress terhadap ruang hijau menunjukkan orang lebih menyukai tempat yang sepi (penggunaan rendah) saat ingin melepas stress. Sementara preferensi pengunjung secara umum menempatkan desain jalan setapak lebih utama \citep{arnberger2015}.
@@ -110,9 +112,9 @@ Pengembangan tepi laut yang berhasil menarik masyarakat untuk datang ke pesisir.
 Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Potensi ini menjadi alasan perhatian khusus terhadap kawasan tepi laut di pesisir kota Parepare sebagai kota Pariwisata.
 Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini memunculkan dua ruang yang memiliki lingkungan dengan atribut yang berbeda.
 Ruang publik yang berhasil ditandai dengan kehadiran orang \citep{carr1992, hoyle2001}.
-Menurut \cite{swanwick2009}, atribut lingkungan (seperti keberagaman, kontras dan warna) mendasari presepsi dan kesukaan  orang terhadap lanskap tertentu berkaitan dengan lanskap secara keseluruhan.
+Menurut \cite{swanwick2009}, atribut ruang (seperti keberagaman, kontras dan warna) mendasari presepsi dan kesukaan  orang terhadap lanskap tertentu berkaitan dengan lanskap secara keseluruhan.
 Akan tetapi yang terjadi di tepi laut Senggol, ruang yang menunjukkan faktor perseptual yang lengkap tampaknya kurang dicenderungi oleh pengunjung. Berbeda dengan ruang yang atributnya kurang menunjukkan tingkat kecenderungan yang besar.
-Ruang yang memiliki atribut lingkungan yang lengkap disebut ruang A sedangkan ruang satunya yang memiliki atribut yang kurang disebut ruang B.
+Ruang yang memiliki atribut ruang yang lengkap disebut ruang A sedangkan ruang satunya yang memiliki atribut yang kurang disebut ruang B.
 
 %Untuk meningkatkan sebuah kawasan perlu memahami kebutuhan pengguna karena mereka adalah pengguna yang sebenarnya \citep{ozguner2011}.
 %Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
@@ -145,7 +147,7 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 \section{Tujuan Penelitian}
 Penelitian ini bertujuan untuk menelusuri preferensi pengunjung terhadap ruang di kawasan tepi laut.
-Preferensi masyarakat juga akan dijelaskan dalam konteks atribut-atribut lingkungan yang dapat mempengaruhi perilaku mereka.
+Preferensi masyarakat juga akan dijelaskan dalam konteks atribut-atribut ruang yang dapat mempengaruhi perilaku mereka.
 Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di kalangan masyarakat dan pengunjung.
 Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
@@ -199,7 +201,7 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 
 
 \node (kaj2) [startstop, below of=pus, text width=3.5cm, xshift= 4cm, yshift=-.2cm] {
-	\textbf{Gambaran Objek}\\  Kondisi ruang A dan B tepi Laut Senggol Parepare berdasarkan fitur ruang
+	\textbf{Gambaran Objek}\\  Kondisi ruang A dan B tepi Laut Senggol Parepare berdasarkan atribut ruang
 };
 
 \node (met) [startstop, below of=pus, yshift=-4cm, text width=7cm] {
@@ -208,11 +210,11 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari analisis terhadap perm
 	\textbf{Sumber data}: Observasi, wawancara dan kuesioner
 };
 
-\node (ana) [startstop, below of=met, text width=8cm, yshift=-2cm] {
+\node (ana) [startstop, below of=met, text width=8cm, yshift=-3.2cm] {
 		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode kualitatif eksploratif untuk menelusuri atribut yang ada yang terkait preferensi pengunjung terhadap tepi laut. Penyajian data menggunakan analisis statistik dasar untuk mengetahui frekuensi dan persentasi keseluruhan data.
 };
 
-\node (tem) [startstop, below of=ana, yshift=-.25cm] {Temuan Penelitian};
+\node (tem) [startstop, below of=ana, yshift=-1cm] {Temuan Penelitian};
 
 \node (kes) [startstop, below of=tem, yshift=.6cm] {Kesimpulan dan Rekomendasi};
 
@@ -322,7 +324,7 @@ Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai ti
 \item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
 \end{itemize}
 
-Berdasarkan teori perseptual, penelitian ini menyelidiki \textit{settings} dan atribut pada tepi laut Senggol. Memberikan penilaian terhadap apa yang diselidiki untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan atribut lingkungan.
+Berdasarkan teori perseptual, penelitian ini menyelidiki \textit{settings} dan atribut pada tepi laut Senggol. Memberikan penilaian terhadap apa yang diselidiki untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan atribut ruang.
 Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan juga bergantung pada umur, gender, dan ras dan lingkungan fisik (karaktersitik pengunjung) \citep{carmona2021}.
 Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
 Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
@@ -353,7 +355,7 @@ Sementara \cite{wang2021} menguraikannya sebagai berikut: kebisingan, fasilitas,
 \citeauthor{cahyaningtyas2020} menyebut atribut sebagai karakteristik ruang kota dalam penelitian preferensi masyarakat terhadap ruang kota sebagai tempat relaksasi. Karakteristik ruang kota tersebut terdiri atas aksesibilitas, \textit{nature}, fasilitas, suasana, kebisingan, dan kualitas ruang \citep{cahyaningtyas2020}.
 \cite{huang1997} mendefinisikan hubungan lingkungan-orang sebagai 8 komponen kognisi lingkungan yaitu akses, biaya travel, estetika (keindahan pemandangan), akomodasi dan makanan, serta komponen unik lainnya marine (laut), sejarah dan budaya, fasilitas rekreasi, dan danau.
 Semua ini menggambarkan bahwa preferensi umum masyarakat tidak hanya bergantung pada satu kriteria.
-Berdasarkan tinjauan teori diatas, maka penelitian ini merumuskan atribut lingkungan sebagai berikut aksesibilitas, keamanan dan keselamatan, estetika, dan fasilitas. Ini meninggalkan citra yang berbeda dan kuat pada pikiran pengamat. Sehingga lingkungan dengan mudah diingat atau dilupakan, disukai atau tidak disukai.
+Berdasarkan tinjauan teori diatas, maka penelitian ini merumuskan atribut ruang sebagai berikut aksesibilitas, keamanan dan keselamatan, estetika, dan fasilitas. Ini meninggalkan citra yang berbeda dan kuat pada pikiran pengamat. Sehingga lingkungan dengan mudah diingat atau dilupakan, disukai atau tidak disukai.
 
 %atribut ini disebut variabel yang memunculkan parameter yang mengubah tatanan fisik dan aktivitas serta mempengaruhi preferensi pengunjung.
 %Fitur ruang juga mempengaruhi beberapa aspek keberhasilan dari ruang publik seperti akses \textit{outdoor} dan rentang waktu yang dihabiskan dalam \textit{outdoor acitivities} \citep{alves2008}.
@@ -377,7 +379,7 @@ Lalu, pengecualian tersebut mengisyaratkan kemampuan untuk membuat ruang dapat t
 Kualitas yang bagus dari aksesibilitas dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Sebaliknya, kurangnya akses terhadap lingkungan dan fasilitas dapat berdampak lebih besar terhadap kesehatan dan kesejahteraan orang berpendapatan rendah dibanding yang tinggi \citep{talen1998}. Lantas faktor lain yang mempengaruhi aksesibilitas adalah penghalang \textit{external} dan \textit{internal} \textit{(crusty space)} serta kurangnya informasi adanya tempat yang aksesibel dalam penelitian terkait penyandang disabilitas \textit{(stealthy space)} \citep{brown1999}.
 
 Pada penelitian terhadap preferensi penduduk manula terhadap ruang terbuka hijau, \citep{arnberger2017} menemukan manula lebih menyukai aksesibilitas yang mudah serta menarik dan sunyi. Taman Hisaya Odori contohnya memiliki nilai yang tinggi disebabkan lokasinya yang berpusat diantara area komersial yang membuat orang mudah mencapainya.
-Contoh lain ada pada penelitian lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki elemen ruang publik seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}. Kawasan tersebut menyediakan faktor penggunaan dengan ruang dengan nyaman.
+Contoh lain ada pada penelitian lanskap liar \textit{(wild landscape)}, kawasan HDB menjadi preferensi masyarakat karena memiliki atribut lingkungan seperti trotoar yang lebih luas dan ruang publik didekatnya yang meningkatkan aksesibilitas \citep{hwang2019}. Kawasan tersebut menyediakan faktor penggunaan dengan ruang dengan nyaman.
 
 Suatu ruang publik sebaiknya didukung dengan mobilitas. Membuat desain perkotaan yang bersatu padu artinya membuat tempat dan fasilitas aksesibel dan transportasi yang layak \citep{carr1992}. Keberadaan \textit{automobile} menjadi satu diantara moda transportasi yang layak untuk perkotaan.
 
@@ -567,6 +569,43 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian ber
 
 \begin{figure}[htbp]
 \centering
+\begin{tikzpicture}[node distance=2.7cm]
+
+    \node (waf) [startstop, text width= 3cm] {Waterfront};
+
+    \node (man) [startstop, left of=waf, xshift=-3cm, yshift=-1cm, text width= 4.5cm] {Manfaat Waterfront\\ 1. Sosial \\ 2. Rekreasi \\ 3. Transportasi \\ 4. Penggunaan Industri \\ 5. Persimpangan };
+
+    \node (keb) [startstop, below of=waf, text width= 3cm] {Kebutuhan Masyarakat};
+
+    \node (rup) [startstop, below of=keb, xshift=-3cm, text width= 3cm] {Ruang publik};
+
+    \node (att) [startstop, below of=rup, text width= 4cm] {\textbf{Atribut Ruang}\\\small(aksesibilitas, fasilitas, estetika, keamanan dan pemeliharaan)};
+
+    \node (jun) [startstop, below of=keb, xshift=3cm, text width= 3cm] {Pengunjung};
+
+    \node (kar) [startstop, below of=jun, text width= 5cm] {\textbf{Karakter Pengunjung}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
+
+    \node (pre) [startstop, below of=att, xshift=3cm, yshift=-1cm, text width= 4cm] {\bfseries Preferensi pengunjung terhadap ruang publik};
+
+\draw [arrow] (waf) -- (man);
+\draw [arrow] (waf) -- (keb);
+\draw [latex'-latex'] (man) -- (keb);
+\draw [arrow] (keb) -- (rup);
+\draw [arrow] (rup) -- (att);
+\draw [arrow] (keb) -- (jun);
+\draw [arrow] (jun) -- (kar);
+
+\draw [latex'-latex'] (att) -- (kar);
+
+\draw [arrow] (att) -- (pre);
+\draw [arrow] (kar) -- (pre);
+\end{tikzpicture}
+\caption{Kerangka Konseptual}
+\end{figure}
+
+\begin{comment}
+\begin{figure}[htbp]
+\centering
 \begin{tikzpicture}[node distance=2cm]
 
 	\node (fit) [startstop, text width= 6cm] {\textbf{Atribut ruang}\\\small(Aksesibilitas, Estetika, Keamanan dan Fasilitas)};
@@ -581,6 +620,9 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian ber
 \end{tikzpicture}
 \caption{Kerangka Konseptual}
 \end{figure}
+\end{comment}
+
+\begin{comment}
 
 \begin{figure}[htpb]
     \centering
@@ -588,20 +630,24 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian ber
     \caption{Alternatif Kerangka Konseptual}
     \label{fig:kons}
 \end{figure}
-
+\end{comment}
 \chapter{Metodologi Penelitian}\label{chap:method}
 
 \section{Jenis Penelitian}
 
-Penelitian ini menggunakan metode kualitatif eksploratif untuk mendeskripsikan atau menggambarkan preferensi pengunjung terhadap ruang dan atribut ruang yang membentuk suatu sekumpulan massa pada suatu ruang secara sistematis, faktual, dan akurat. Metode lain yang digunakan adalah metode statistik sederhana dengan menggunakan \textit{crosstab} untuk mengetahui hubungan atribut dan preferensi masyarakat terhadap ruang.
-Penelitian dengan metode kualitatif berupaya untuk memahami kondisi tertentu dengan menginterpretasikan masalah atau dengan menyimpulkan kombinasi dari berbagai permasalahan.
-Selain itu, penelitian ini juga menggunakan metode analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Metode ini menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}.
+Penelitian kualitatif bersifat eksploratif adalah jenis metode  yang berguna untuk mengeksplorasi topik penelitian meskipun pemahaman terhadap fenomena masih kurang. Topik yang menjadi bahan eksplorasi penelitian ini adalah preferensi pengunjung terhadap ruang berdasarkan atribut yang dipelajari pada ruang publik tepi laut Senggol.
+Sedangkan metode kualitatif sendiri berupaya untuk memahami kondisi tertentu dengan menginterpretasikan masalah atau dengan menyimpulkan kombinasi dari berbagai permasalahan. Penelitian tersebut dilakukan melalui pengamatan preferensi masyarakat terhadap ruang yang ada di tepi laut Senggol sekaligus interaksi dengan subjek, pemahaman terhadap bahasa dan tafsir serta penjelajahan gejala atau fenomena secara lengkap dan menyeluruh. Menurut \cite{groat2013}, penelitian kualitatif menekankan  pada proses induktif, sebagaimana \citeauthor{creswell2016} menjelaskan ini dengan pemberian pertanyaan \textit{open-ended}, sementara pertanyaan tersebut dapat berkembang seiring pemahaman peneliti terhadap masalah dilapangan.
+
+
+%Metode lain yang digunakan adalah metode statistik sederhana dengan menggunakan \textit{crosstab} untuk mengetahui hubungan atribut dan preferensi masyarakat terhadap ruang.
+
+%Selain itu, penelitian ini juga menggunakan metode analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Metode ini menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}.
 
 %Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
 
 \section{Lokasi dan Waktu Penelitian}
-Kawasan waterfront senggol di Kota Parepare menjadi lokasi penelitian ini. Setelah selesainya pengembangan tepi laut senggol, kawasan ini memanjang dan membentuk beragam ruang.
-Adanya perbedaan pemilihan ruang pada lokasi mendorong peneliti untuk mengetahui alasan penyebab masyarakat memilih ruang satu diantara lainnya. Objek yang dipilih berada pada sepanjang Jalan Pinggir Laut, mulai dari Pelabuhan Nusantara hingga Pasar Senggol. Terdapat dua macam ruang publik yang menjadi titik fokus pada penelitian ini. Objek penelitian dapat dilihat pada gambar \ref{fig:lokzi}.
+Kawasan \textit{waterfront} Senggol di Kota Parepare adalah lokasi objek penelitian ini. Kawasan ini baru saja mengalami peningkatan dari segi infrastruktur walaupun belum semua ditandai berhasil dalam menarik pengunjung. Saat ini, ada beberapa titik yang mempunyai peningkatan infrastruktur yang cukup namun belum maksimal mendatangkan pengunjung. Itu yang melatarbelakangi penelitian ini.
+Objek yang dipilih berada pada sepanjang Jalan Pinggir Laut, mulai dari Pelabuhan Nusantara hingga Pasar Senggol. Terdapat dua macam ruang publik yang menjadi titik fokus pada penelitian ini. Objek penelitian dapat dilihat pada gambar \ref{fig:lokzi}.
 
 \begin{figure}[htpb]
     \centering
@@ -630,40 +676,39 @@ Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data 
 \end{itemize}
 
 \section{Langkah-langkah Penelitian}
-Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penelitiannya di Indonesia. Kondisi Indonesia sebagai negara kepulauan membuat perencanaan \textit{waterfront} menemui permintaan tinggi oleh penduduk di kota pesisir. Namun perencanaan setiap tepi laut tidak serta merta memenuhi permintaan penduduk dengan segala macam kebutuhan  dan beragam latar belakang terhadap area pesisir. Perlunya untuk mengetahui kebutuhan masyarakat melalui preferensi ruang di kawasan tepi laut menjadi tujuan penelitian ini. Penelitian mengharuskan merencanakan langkah-langkah yang dipelukan untuk mencapai hasil jelas dan optimal.
+Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penelitiannya di Indonesia. Kondisi Indonesia sebagai negara kepulauan membuat perencanaan \textit{waterfront} menemui permintaan tinggi oleh penduduk kota untuk datang ke pesisir. Namun perencanaan setiap tepi laut tidak serta merta memenuhi permintaan penduduk dengan segala macam kebutuhan  dan beragam latar belakang terhadap area pesisir. Perlunya untuk mengetahui kebutuhan masyarakat melalui eksplorasi preferensi ruang di kawasan tepi laut menjadi tujuan penelitian ini. Penelitian mengharuskan merencanakan langkah-langkah yang dipelukan untuk mencapai hasil jelas dan optimal.
  Langkah-langkah yang tersusun adalah sebagai berikut:
 
  \begin{itemize}
      \item Studi pendahuluan, mempersiapkan data-data informasi terkait preferensi ruang untuk meningkatkan pemahaman terhadap permasalahan yang diambil.
-     \item Langkah kedua adalah observasi dan penyebaran kuesioner. Observasi untuk memahami objek penelitian secara langsung berdasarkan kebenarannya, situasi, kondisi, konteks, ruang, serta maknanya dalam upaya pengumpulan data. Sebagai tambahan, melakukan penyebaran kuesioner yang telah tersusun berdasarkan literatur tentang preferensi sebagai landasan eksplorasi pada objek penelitian.
+     \item Langkah kedua adalah observasi dan wawancara. Observasi untuk memahami objek penelitian secara langsung berdasarkan kebenarannya, situasi, kondisi, konteks, ruang, serta maknanya dalam upaya pengumpulan data. Wawancara mendalam juga dilakukan dengan narasumber dengan tujuan mengumpulkan pendapat terkait preferensinya terhadap ruang dan atribut yang ada di tepi laut Senggol.
+
+%         Sebagai tambahan, melakukan penyebaran kuesioner yang telah tersusun berdasarkan literatur tentang preferensi sebagai landasan eksplorasi pada objek penelitian.
 %         Pengunjung ditanya untuk menandai pendapat mereka terhadap daftar persoalan berdasarkan skala Likert lima-poin.
-     \item Setelah memperoleh hasil dari observasi, peneliti menganalisis preferensi ruang dan fitur-fitur yang muncul dengan metode kualitatif. Data tersebut dapat berasal dari pengamatan langsung, wawancara maupun kuesioner.
+     \item Setelah memperoleh hasil dari observasi dan wawancara, peneliti menganalisis hasil preferensi ruang dan atribut pengunjung. Analisis data merupakan analisis frekuensi distribusi untuk menjabarkan persentase data. Data tersebut dapat berasal dari pengamatan langsung atau wawancara.
      \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
  \end{itemize}
 
 %% Instrumen penelitian
 
 
-\section{Metode Penentuan Sampel}
+%\section{Metode Penentuan Sampel}
 %Populasi adalah sekelompok subjek atau objek yang menjadi sasaran penelitian. Sekelompok tersebut dapat berupa manusia, hewan, tumbuhan atau objek keseluruhan \citep{bungin2005}.
 %Peneliti perlu menentukan terlebih dahulu apa batasan wilayah, objek atau peristiwa yang hendak diselidiki.
 
 %Umumnya peneliti menetapkan kualitas dan karakteristik dari objek/subjek suatu populasi untuk dipelajari dan diambil kesimpulan \citep{sugiyono2010}. Hal ini mempermudah untuk mengetahui keluasan populasi yang tercakup didalamnya \citep{sudjarwo2009}.
 %Semua karakteristik atau kualitas yang ada pada individu, objek, atau peristiwa sebaiknya terwakili agar penelitian mencakup keseluruhan karakteristik pada unit tersebut \citep{prof2016}.
 
-Peneliti menggunakan sampel jenis \textit{non-random/purposive} untuk mengindentifikasi dan memilih kasus yang kaya informasi untuk pemanfaatan yang paling tepat dari sumber daya yang tersedia \citep{etikan2016}.
-Jenis sampel ini mengidentifikasi dan memilih individu atau kelompok yang mampu dan mengetahui fenomena yang sedang diteliti. Pemilihan karakter utama subjek adalah orang yang berusia 18 tahun keatas dan pengunjung tepi laut senggol.
+%Peneliti menggunakan sampel jenis \textit{non-random/purposive} untuk mengindentifikasi dan memilih kasus yang kaya informasi untuk pemanfaatan yang paling tepat dari sumber daya yang tersedia \citep{etikan2016}. Jenis sampel ini mengidentifikasi dan memilih individu atau kelompok yang mampu dan mengetahui fenomena yang sedang diteliti. Menurut \cite{prof2016} jenis sampel ini sangat erat dengan penelitian kualitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian. Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian.
 
-Menurut \cite{prof2016} jenis sampel ini sangat erat dengan penelitian kualitatif. Jenis ini tidak memberi peluang kepada semua populasi untuk dijadikan sampel. Dalam kata lain, hanya orang yang kebetulan berkunjung mempunyai kesempatan menjadi sampel penelitian.
-Dengan alasan bahwa tidak semua penduduk kota Parepare pernah berkunjung ke objek penelitian, maka sampel yang diambil hanya yang melalui pertimbangan tertentu dan berada pada objek penelitian.
+%Penelitian ini menggunakan target jumlah besaran sampel sesuai dengan aturan yang ada. Berdasarkan aturan \textit{Roscoe} jumlah besaran yang layak adalah 30 hingga 500, hal ini juga berlaku pada setiap kategori jika sampel terkategorikan. Dari hasil rumusan diatas maka penelitian ini mengambil 40 orang
 
-Penelitian ini menggunakan target jumlah besaran sampel sesuai dengan aturan yang ada.
-Berdasarkan aturan \textit{Roscoe} jumlah besaran yang layak adalah 30 hingga 500, hal ini juga berlaku pada setiap kategori jika sampel terkategorikan. Apabila penelitian melakukan analisis \textit{multivariate} (korelasi atau regresi ganda), maka jumlah variabel sampel harus dikalikan 10. Dari hasil rumusan diatas maka penelitian ini mengambil 99 orang sebagai sampel sesuai dengan kriteria yang ditetapkan.
+%sebagai sampel sesuai dengan kriteria yang ditetapkan.
 
 \section{Metode Pengumpulan Data}
 \subsection{Data Primer}
 
-Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung, kuesioner dan wawancara. Sumber data tersebut berasal dari partisipan kawasan tepi laut Senggol, khususnya mereka yang menjawab seluruh daftar item/pertanyaan yang tersedia di kuesioner. Untuk mencapai kecukupan data, maka peneliti mengadakan wawancara juga.
+Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung dan wawancara. Sumber data tersebut berasal dari partisipan kawasan tepi laut Senggol, khususnya mereka yang menjawab seluruh daftar item/pertanyaan yang tersedia di kuesioner. Untuk mencapai kecukupan data, maka peneliti mengadakan wawancara juga.
 
 Pengamatan langsung atau observasi atau \textit{observation} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
 Adapun yang menjadi perhatian adalah bagaimana kecenderungan ruang pengunjung \textit{waterfront} senggol dan aspek apa saja yang mempengaruhi kecenderungannya tersebut.
@@ -677,7 +722,7 @@ Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain. 
 
 \section{Metode Analisis Data}
 
-Pada proses ini, peneliti melakukan identifikasi dan membaca hasil pengelolaan data untuk menganalisis dan membahas fenomena yang diteliti. Analisis ini berguna untuk membangun sebuah gambaran lengkap dan holistik terkait fitur ruang terkait preferensi yang ada serta preferensi ruang pada kawasan tepi laut Senggol. Penggambaran objek penelitian terkait preferensi ini membutuhkan alat bantu teori. Setelah itu, penulis menarik sebuah kesimpulan atau pemaknaan yang dapat menjadi bagian penting dari kontruksi pengetahuan untuk menemukan sebuah penemuan yang baru dari sebuah fenomena yang diteliti. Tahap-tahap tersebut merupakan bagian dari rangkaian jenis penelitian kualitatif yang dapat pula diuraikan sebagai berikut:
+Pada proses ini, peneliti melakukan identifikasi dan membaca hasil pengelolaan data untuk menganalisis dan membahas fenomena yang diteliti. Analisis ini berguna untuk membangun sebuah gambaran lengkap dan holistik terkait atribut terkait preferensi yang ada serta preferensi ruang pada kawasan tepi laut Senggol. Penggambaran objek penelitian terkait preferensi ini membutuhkan alat bantu teori. Setelah itu, penulis menarik sebuah kesimpulan atau pemaknaan yang dapat menjadi bagian penting dari kontruksi pengetahuan untuk menemukan sebuah penemuan yang baru dari sebuah fenomena yang diteliti. Tahap-tahap tersebut merupakan bagian dari rangkaian jenis penelitian kualitatif yang dapat pula diuraikan sebagai berikut:
 
 \begin{enumerate}
     \item Reduksi Data
@@ -690,7 +735,7 @@ Pada proses ini, peneliti melakukan identifikasi dan membaca hasil pengelolaan d
 
 \item Penarikan Kesimpulan
 
-    Penarikan kesimpulan menandakan tahap analisis hampir selesai. Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang telah didapatkan berdasarkan metode kualitatif. Berdasarkan analisis dan pembahasan data, maka hasil yang diperoleh pada tahap kesimpulan ini adalah preferensi ruang (kecenderungan pada ruang A atau ruang B) dan fitur ruang yang ada berkaitan dengan preferensi. Sedangkan analisis data yang menggunakan statistik \textit{(crosstab)}, didapatkan hubungan antara variabel (fitur ruang) dan ruang yang terpilih.
+    Penarikan kesimpulan menandakan tahap analisis hampir selesai. Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang telah didapatkan berdasarkan metode kualitatif. Berdasarkan analisis dan pembahasan data, maka hasil yang diperoleh pada tahap kesimpulan ini adalah preferensi ruang (kecenderungan pada ruang A atau ruang B) dan atribut yang ada berkaitan dengan preferensi. Sedangkan analisis data yang menggunakan statistik \textit{(crosstab)}, didapatkan hubungan antara atribut dan ruang yang terpilih.
 
 
 \end{enumerate}
@@ -824,7 +869,7 @@ Lapangan sekaligus alun-alun Parepare setiap jam-jam istirahat selalu ramai. Pen
 \end{longtable}
 
 
-\section{Elemen Ruang Publik}
+\section{Atribut Ruang}
 \subsection{Akses}
 Nilai akses ditandai dengan lebar jalan dan kedekatan fasilitas pada suatu ruang. Ruang A memiliki lebar jalan yang cukup besar. Akses ini terbilang cukup memadai dengan penambahan penerangan dan paving. Akses atau biasa disebut pedestrian ini berlokasi berpapasan langsung dengan pesisir laut. Tempatnya membuat pengunjung dapat berjalan-jalan sambil mendengar suara dan pemandangan laut. Fitur ini berbeda signifikan terhadap ruang B. Selain lebar jalan, kedekatan fasilitas merupakan indikator oleh akses. Pada ruang A, integrasi fasilitas terbilang cukup tinggi, artinya orang-orang dapat mencapai fasilitas dengan mudah. Misalnya fasilitas akses terhadap laut, ruang terbuka, lapangan basket dan kios makanan.
 

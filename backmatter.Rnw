@@ -99,6 +99,9 @@ NIM.\yourNipAdvisor & & NIM.\yourNipSecAdvisor \\
 
 
 
+
+\begin{comment}
+
 \chapter*{DATA DIRI PENULIS}
 \addcontentsline{toc}{chapter}{DATA DIRI PENULIS}
 
@@ -116,3 +119,5 @@ Saat ini tulisannya sudah ada yang terpublikasikan di jurnal nasional berkaitan 
 \begin{flushright}
     Hormat saya,\\ Muhammad Uliah Shafar
 \end{flushright}
+
+\end{comment}

@@ -1,6 +1,7 @@
 \documentclass[12pt,oneside]{udthesis}
 
 %----------------------------------------------------------------------------------------
+
 %	Atributes Settings
 %----------------------------------------------------------------------------------------
 % About your study degree programme
@@ -32,22 +33,22 @@
 
 \begin{document}
 
-%\Sexpr{knit_child("frontmatter.Rnw")}
+\Sexpr{knit_child("frontmatter.Rnw")}
 
 %----------------------------------------------------------------------------------------
 % TOC
-%\tableofcontents
-%\clearpage
-%\addcontentsline{toc}{chapter}{\listfigurename}
-%\listoffigures
-%\clearpage
-%\addcontentsline{toc}{chapter}{\listtablename}
-%\listoftables
+\tableofcontents
+\clearpage
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+\clearpage
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
 
 \clearpage
 \pagenumbering{arabic}
 \Sexpr{knit_child("principaltext.Rnw")}
-%\Sexpr{knit_child("backmatter.Rnw")}
+\Sexpr{knit_child("backmatter.Rnw")}
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY

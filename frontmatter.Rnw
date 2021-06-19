@@ -10,6 +10,7 @@ library("knitr")
 set_parent("thesis.Rnw")
 @
 %--------------------------------------------------------------------------------------
+\begin{comment}
 
 \begin{titlepage}
 	\begin{center}
@@ -42,6 +43,8 @@ set_parent("thesis.Rnw")
 \vfill\mbox{}
 
 \end{titlepage}
+
+\end{comment}
 
 \begin{titlepage}
 	\begin{center}
@@ -179,6 +182,8 @@ Yang Menyatakan
 \clearpage
 
 % Prakata -------------------------------------------------------------------------
+\begin{comment}
+
 \chapter*{\ttfamily\large PRAKATA}
 \addcontentsline{toc}{chapter}{PRAKATA}
 
@@ -187,6 +192,7 @@ Yang Menyatakan
 \lipsum[1-1]
 \end{prakata}
 
+\end{comment}
 % Abstrak -------------------------------------------------------------------------
 \begin{abstract}
 \addcontentsline{toc}{chapter}{ABSTRAK}
