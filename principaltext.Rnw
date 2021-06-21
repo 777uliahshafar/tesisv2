@@ -669,9 +669,9 @@ Sementara waktu penelitian ini terjadi pada beberapa rentang waktu yang ditentuk
 Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data terkait atribut kawasan dan pemetaan pengunjung pada ruang-ruang di tepi laut. Pendekatan kualitatif membutuhkan alat yang valid dan andal untuk mendukung pengumpulan data. Alat-alat yang dapat membantu penelitian ini sebagai berikut:
 
 \begin{itemize}
-    \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang keberadaan fitur kawasan tepi laut.
-    \item \textit{Kertas dan alat gambar}, berfungsi untuk merekam preferensi ruang masyarakat.
-    \item \textit{Kuesioner}, berfungsi untuk mengambil data dari partisipan di lapangan untuk selanjutnya diolah.
+    \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang pengaturan \textit{(setting)} dan atribut yang ada pada kawasan tepi laut.
+    \item \textit{Kertas dan alat tulis}, berfungsi untuk merekam preferensi masyarakat berkaitan atribut-atribut yang ada di lapangan.
+    \item \textit{Perekam Suara}, berfungsi sebagai \textit{backup} tulisan narasi narasumber saat wawancara berlangsung .
     \item \textit{Tabel dan matriks}, sebagai alat untuk menganalisis.
 \end{itemize}
 
@@ -680,7 +680,7 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
  Langkah-langkah yang tersusun adalah sebagai berikut:
 
  \begin{itemize}
-     \item Studi pendahuluan, mempersiapkan data-data informasi terkait preferensi ruang untuk meningkatkan pemahaman terhadap permasalahan yang diambil.
+     \item Studi pendahuluan, mempersiapkan data-data informasi terkait preferensi ruang untuk meningkatkan pemahaman terhadap permasalahan yang diambil serta membantu peneliti ketika terjun ke lapangan/ objek penelitian.
      \item Langkah kedua adalah observasi dan wawancara. Observasi untuk memahami objek penelitian secara langsung berdasarkan kebenarannya, situasi, kondisi, konteks, ruang, serta maknanya dalam upaya pengumpulan data. Wawancara mendalam juga dilakukan dengan narasumber dengan tujuan mengumpulkan pendapat terkait preferensinya terhadap ruang dan atribut yang ada di tepi laut Senggol.
 
 %         Sebagai tambahan, melakukan penyebaran kuesioner yang telah tersusun berdasarkan literatur tentang preferensi sebagai landasan eksplorasi pada objek penelitian.
@@ -708,14 +708,21 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
 \section{Metode Pengumpulan Data}
 \subsection{Data Primer}
 
-Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung dan wawancara. Sumber data tersebut berasal dari partisipan kawasan tepi laut Senggol, khususnya mereka yang menjawab seluruh daftar item/pertanyaan yang tersedia di kuesioner. Untuk mencapai kecukupan data, maka peneliti mengadakan wawancara juga.
+Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung dan wawancara. Sumber data tersebut berasal dari partisipan kawasan tepi laut Senggol, khususnya mereka yang turut berinteraksi dan bersedia menjawab pertanyaan dalam wawancara.
 
-Pengamatan langsung atau observasi atau \textit{observation} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
-Adapun yang menjadi perhatian adalah bagaimana kecenderungan ruang pengunjung \textit{waterfront} senggol dan aspek apa saja yang mempengaruhi kecenderungannya tersebut.
+Pengamatan langsung atau observasi \textit{(observation)} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
+Adapun yang menjadi perhatian adalah bagaimana kecenderungan pengunjung terhadap ruang \textit{(waterfront)} senggol dan aspek apa saja yang mempengaruhi kecenderungannya tersebut.
 Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
 
-Data diperoleh melalui kuesioner daring dan luring yang dibagikan kepada 100 responden.
-Kuesioner atau angket  atau \textit{questionere} adalah daftar pertanyaan yang tersusun secara sistematis untuk menjawab suatu pertanyaan penelitian. Peneliti menyajikan daftar pertanyaan untuk dijawab oleh partisipan yang memiliki kompetensi dan cocok sebagai subjek penelitian. Penelitian ini menggunakan jenis kuesioner langsung tertutup, yang menyediakan pilihan jawaban untuk setiap pertanyaan.
+Selain itu, peneliti juga melakukan wawancara untuk mencari data yang lebih lengkap terkait topik penelitian. Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pengambilan \textit{sampling} secara acak (random) dengan mengutamakan informan yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian. Selama sejumlah informan memberikan informasi yang memenuhi tujuan penelitian, maka berapapun jumlah informan tersebut dianggap cukup. Kemudian,  informan yang merupakan pengunjung kawasan tepi laut Senggol diharapkan memenuhi sejumlah kriteria sebagai berikut:
+\begin{enumerate}
+    \item Orang yang memiliki pemahaman terhadap tempat secara mendalam.
+    \item Orang yang terlibat dalam kegiatan sosial dan budaya pada objek penelitian.
+    \item Orang yang mempunyai waktu luang untuk diwawancarai.
+    \item Orang yang secara akal dan mandiri dalam menyampaikan informasi.
+\end{enumerate}
+
+Peneliti memberikan pertanyaan kepada informan berkaitan dengan preferensi mereka dalam pemilihan ruang berdasarkan atribut-atribut pada sebuah kawasan \textit{waterfront}. Wawancara mendalam dilakukan untuk menafsirkan atau memahami keterangan atau informasi yang didapatkan dari narasumber. Poin utama yang peneliti dapat simpulkan sementara kemudian dikembangkan berdasarkan \textit{background knowledge} dan analisis peneliti untuk mendapatkan temuan penelitian.
 
 \subsection{Data Sekunder}
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
@@ -724,30 +731,13 @@ Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain. 
 
 Pada proses ini, peneliti melakukan identifikasi dan membaca hasil pengelolaan data untuk menganalisis dan membahas fenomena yang diteliti. Analisis ini berguna untuk membangun sebuah gambaran lengkap dan holistik terkait atribut terkait preferensi yang ada serta preferensi ruang pada kawasan tepi laut Senggol. Penggambaran objek penelitian terkait preferensi ini membutuhkan alat bantu teori. Setelah itu, penulis menarik sebuah kesimpulan atau pemaknaan yang dapat menjadi bagian penting dari kontruksi pengetahuan untuk menemukan sebuah penemuan yang baru dari sebuah fenomena yang diteliti. Tahap-tahap tersebut merupakan bagian dari rangkaian jenis penelitian kualitatif yang dapat pula diuraikan sebagai berikut:
 
-\begin{enumerate}
-    \item Reduksi Data
-
-   Mereduksi data artinya melakukan pemilahan, penyederhanaan, pengabstakan dan perubahan data mentah yang muncul dari catatan yang tertulis di lapangan.
-
-   \item Penyajian data
-
-    Penyajian yang sangat populer saat ini adalah dalam bentuk deksriptif, gambar, tabel dan diagram. Peneliti menggunakan bahasa pemrograman statistika R untuk menyusun data mentah menjadi sebuah bentuk penyajian yang cocok. Penyajian ini juga memperhatikan informasi yang didapat dari data di objek penelitian agar relevan dan menjawab permasalahan fenomena yang di teliti.
-
-\item Penarikan Kesimpulan
-
-    Penarikan kesimpulan menandakan tahap analisis hampir selesai. Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang telah didapatkan berdasarkan metode kualitatif. Berdasarkan analisis dan pembahasan data, maka hasil yang diperoleh pada tahap kesimpulan ini adalah preferensi ruang (kecenderungan pada ruang A atau ruang B) dan atribut yang ada berkaitan dengan preferensi. Sedangkan analisis data yang menggunakan statistik \textit{(crosstab)}, didapatkan hubungan antara atribut dan ruang yang terpilih.
-
-
-\end{enumerate}
-
-
-
-
-
+\begin{description}
+    \item[Reduksi Data]: Mereduksi data artinya melakukan pemilahan, penyederhanaan, pengabstakan dan perubahan data mentah yang muncul dari catatan yang tertulis di lapangan.
+   \item [Penyajian data]: Penyajian yang sangat populer saat ini adalah dalam bentuk deksriptif, gambar, tabel dan diagram. Peneliti menggunakan bahasa pemrograman statistika R untuk menyusun data mentah menjadi sebuah bentuk penyajian yang cocok. Penyajian ini juga memperhatikan informasi yang didapat dari data di objek penelitian agar relevan dan menjawab permasalahan fenomena yang di teliti.
+   \item [Penarikan Kesimpulan]: Penarikan kesimpulan menandakan tahap analisis hampir selesai. Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang telah didapatkan berdasarkan metode kualitatif. Berdasarkan analisis dan pembahasan data, maka hasil yang diperoleh pada tahap kesimpulan ini adalah preferensi ruang (kecenderungan pada ruang A atau ruang B) dan atribut yang ada berkaitan dengan preferensi. Sedangkan analisis data yang menggunakan statistik \textit{(crosstab)}, didapatkan hubungan antara atribut dan ruang yang terpilih.
+\end{description}
 
 %Setelah data terkumpul, peneliti menganalisis keseluruhan data dari sejumlah kuesioner yang terisi dan valid menggunakan analisis statistik.
-
-
 
 \chapter{Objek Penelitian}\label{chap:obj}
 
