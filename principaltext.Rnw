@@ -859,6 +859,131 @@ Lapangan sekaligus alun-alun Parepare setiap jam-jam istirahat selalu ramai. Pen
 \end{longtable}
 
 
+\subsection{Kondisi Fisik Ruang A}
+Ruang ini terletak pada bagian selatan kawasan tepi laut Senggol.  Tempat ini bersampingan dengan pelabuhan besar kota Parepare. Ruang ini termasuk area yang memiliki perubahan besar setelah revitaliasi. Dampak revitalisasi tersebut dapat dirasakan pada kondisi fisik ruang ini. Jalan, penerang, lanskap, dan pengaturan yang sangat rapih menjadi keunggulan tempat ini.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/ruanga}
+    \caption{Ruang A}
+    \label{fig:raga}
+\end{figure}
+
+Jalan yang ada mendukung akses pada tempat ini. Jalan yang lebar didukung dengan \textit{street lamp} memberi kemudahan aksesibilitas pengunjung untuk berkunjung pada ruang A, meskipun jalan lokal tersebut masih perlu perbaikan. Kendaraan yang datang dapat parkir pada bahu jalan. Setelah itu, pengunjung dapat menikmati jalan pedestrian  yang tersedia di pesisir pantai dengan cara berjalan kaki. Bentuk jalan pedestrian ini merupakan lantai berukuran 50x50 centimeter dengan permukaan kasar dan  batu alam. Sementara, lebar jalan ini adalah 3 meter yang memiliki lampu jalan yang menarik.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/akses1}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/akses1(2)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Jalan Pedestrian}
+\label{fig:jln}
+\end{figure}
+
+Pengaturan \textit{hardscape} pada ruang ini tidak hanya ada pada jalan pedestrian, tetapi terdapat pula pada \textit{(square)}. Square pada tempat ini berukuran kecil, tempat ini merupakan node dari kawasan tepi laut. Ada naungan yang berdiri di \textit{square} yang berbentuk parametrik dan menyerupai daun. Naungan ini dapat sebagai objek yang menyambut pengunjung ruang A ketika masuk melalui arah utara.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/fb1(3)}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/fb1(4)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Square}
+\label{fig:sqr}
+\end{figure}
+
+Selain naungan buatan manusia, vegetasi pada ruang ini juga layak untuk diperbincangkan. Istilah vegetasi pada ruang ini mungkin hanya mencakup pepohonan dan rumput. Semak atau tanaman rias belum ada di ruang ini. Kemampuan pepohonan yang dapat menjadi naungan dari terik matahari  merupakan hal yang penting dalam ruang publik. Selain itu, itu juga dapat memberi kesejukan dan estetika. Pepohonan ini kebanyakan berada jauh dari pesisir laut, yang mana berada di median jalan. Sementara jarak pesisir laut dan median jalan berkisar 10 meter. Jarak antar pohon jenis palem itu yaitu tiga meter. Artinya, kepadatan pepohonan tersebut masih kurang untuk mendukung area dengan luas 5000 meter persegi.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/est1}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/est1(2)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Vegetasi}
+\label{fig:vgt}
+\end{figure}
+
+Keberadaan ruang A tepi laut Senggol yang berdekatan dengan pelabuhan Nusantara membuat tempat ini terkena dampak dari pelabuhan tersebut.
+Saat ini industri pengiriman dengan kapal \textit{(ship industry)} beralih ke industri truk \textit{(truck indsutry)}, akibatnya banyak lahan yang dulunya digunakan akhirnya terbengkalai. Ini merusak kesan estetik pada pelabuhan tersebut yang kebetulan menjangkau pemandangan \textit{(view)} dari ruang A.
+Selain itu, pencemaran ekosistem juga menjadi bahan pertimbangan. Menurut \cite{ramlia2018} pada penelitian pelestarian perairan Parepare tahun 2018, Pelabuhan Nusantara menghasilkan timbal hingga 0.56 mg/L. Timbal merupakan unsur logam berat yang beracun terhadap makhluk hidup. Pada konsentrasi tertentu, timbal dapat terakumulasi ke dalam air, biota dan sedimen pada perairan sehingga menimbulkan efek racun pada organisme didalamnya. Akibatnya mereka yang terkontaminasi timbal ini akan melahirkan anak dengan pertumbuhan fisik dan mental yang terganggu, selain itu, menyebabkan kerusakan fungsi otak dan kegagalan fungsi ginjal.
+
+Dengan kadar 0.56 mg/L, Pelabuhan Nusantara telah melebihi baku mutu dan kriteria kerusakan lingkungan hidup yaitu 0.05 mg/L untuk perairan pelabuhan. Ini dapat mencemari bukan hanya perairan di pelabuhan melainkan sekitar lingkungannya juga termasuk perairan tepi laut Senggol.
+Penyebab meningkatkan timbal pada perairan pelabuhan adalah aktivitas kapal-kapal yang berada di pelabuhan, kapal pembawa minyak dan pembuangan sampah penduduk. Pencemaran ini menjadi alasan ruang A tidak baik untuk interaksi dengan air.
+Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini seperti menjadikan ruang A sebagai tempat transit turis maupun pelancong lokal sehingga meningkatkan jumlah pengunjung pada tepi laut.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/kpl}
+    \caption{Pemandangan Pelabuhan Nusantara dari ruang A}
+    \label{fig:kpl}
+\end{figure}
+
+Pencemaran lain yang menarik perhatian di ruang A adalah pembuangan sampah sembarangan. Sampah merupakan topik pembahasan yang ramai pada sebuah ruang perkotaan. Aktivitas membuang sampah ini merupakan bagian dari proses hidup manusia. Sehingga sangat penting untuk menyediakan tempat sampah sementara pada titik komunal ruang publik.
+
+Ada sebuah kontainer pada seberang jalan ruang A. Lokasi kontainer tersebut berada di dekat lapangan basket Jati Diri, namun jauh dari lokasi ruang A. Sementara kriteria standar sebuah penempatan wadah komunal yaitu harus dekat dengan sumber sampah dalam hal ini adalah ruang A itu sendiri.
+Selain itu, sampah pada wadah ini sering berserakan hingga di bahu jalan raya. Hal itu mengabaikan aturan penempatan sebuah wadah komunal yaitu tidak menganggu pemakai jalan atau sarana umum lainnya.
+
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/pem1}
+    \caption{Wadah Komunal Ruang A}
+    \label{fig:kpl}
+\end{figure}
+
+Konsekuensi dari wadah komunal yang jauh adalah terbentuknya tumpukan sampah sembarangan di sekitar ruang A. Sejumlah pemilik kedai makanan membuang sampahnya pada median jalan bahkan tempat yang tidak semestinya seperti selokan atau pot bunga yang belum terisi. Adapula yang melakukan pembakaran sampah, yang mana akan merusak vegetasi atau rumput tempat pembakaran tersebut terjadi. Semua ini akan menyulitkan pengangkut sampah untuk mengangkut sampah tersebut ke TPA (tempat pembuangan akhir).
+Dengan demikian, tindakan ini memberi kesan buruk terhadap kualitas pengelolaan sampah pada sebuah ruang publik.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.6\textwidth]{figures/pem1(4)}
+    \caption{Pembakaran pada median jalan}
+    \label{fig:bkr}
+\end{figure}
+
+
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/pem1(2)}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/pem1(3)}
+\end{subfigure}\vspace{10pt}
+
+\caption{Tumpukan sampah sembarangan}
+\label{tmp}
+\end{figure}
+
+Sementara kuali
+
+Ruang publik juga harus memperhati
+
+Selain memperhatikan kualitas atau kriteria sebuah wadah komunal, kapasitas atau jumlah wadah tersebut juga perlu disepadankan. Menurut \cite{sampah2002}, wadah komunal sebaiknya adalah 30-40L sementara wadah yang tersedia pada ruang publik ini hanya 20L.
+
+100m
+tertutup
+30l
+
+
+
+%-------------------------------------------------------------------------------
+%
+%-------------------------------------------------------------------------------
+\begin{comment}
+
 \section{Atribut Ruang}
 \subsection{Akses}
 Nilai akses ditandai dengan lebar jalan dan kedekatan fasilitas pada suatu ruang. Ruang A memiliki lebar jalan yang cukup besar. Akses ini terbilang cukup memadai dengan penambahan penerangan dan paving. Akses atau biasa disebut pedestrian ini berlokasi berpapasan langsung dengan pesisir laut. Tempatnya membuat pengunjung dapat berjalan-jalan sambil mendengar suara dan pemandangan laut. Fitur ini berbeda signifikan terhadap ruang B. Selain lebar jalan, kedekatan fasilitas merupakan indikator oleh akses. Pada ruang A, integrasi fasilitas terbilang cukup tinggi, artinya orang-orang dapat mencapai fasilitas dengan mudah. Misalnya fasilitas akses terhadap laut, ruang terbuka, lapangan basket dan kios makanan.
@@ -996,9 +1121,7 @@ Peneliti meninjau ketertutupan dan tingkat keramaian sebagai ukuran keamanan. Ke
     \label{fig:amn}
 \end{figure}
 
-
-
-
+\end{comment}
 
 
 
