@@ -939,7 +939,7 @@ Selain itu, sampah pada wadah ini sering berserakan hingga di bahu jalan raya. H
     \centering
     \includegraphics[width=0.8\textwidth]{figures/pem1}
     \caption{Wadah Komunal Ruang A}
-    \label{fig:kpl}
+    \label{fig:wad}
 \end{figure}
 
 Konsekuensi dari wadah komunal yang jauh adalah terbentuknya tumpukan sampah sembarangan di sekitar ruang A. Sejumlah pemilik kedai makanan membuang sampahnya pada median jalan bahkan tempat yang tidak semestinya seperti selokan atau pot bunga yang belum terisi. Adapula yang melakukan pembakaran sampah, yang mana akan merusak vegetasi atau rumput tempat pembakaran tersebut terjadi. Semua ini akan menyulitkan pengangkut sampah untuk mengangkut sampah tersebut ke TPA (tempat pembuangan akhir).
