@@ -929,11 +929,9 @@ Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini sep
     \label{fig:kpl}
 \end{figure}
 
-Pencemaran lain yang menarik perhatian di ruang A adalah pembuangan sampah sembarangan. Sampah merupakan topik pembahasan yang ramai pada sebuah ruang perkotaan. Aktivitas membuang sampah ini merupakan bagian dari proses hidup manusia. Sehingga sangat penting untuk menyediakan tempat sampah sementara pada titik komunal ruang publik.
+Pencemaran lain yang menarik perhatian di ruang A adalah pembuangan sampah sembarangan. Sampah merupakan topik pembahasan yang ramai pada sebuah ruang perkotaan. Aktivitas membuang sampah ini merupakan bagian dari proses hidup manusia. Sehingga sangat penting untuk menyediakan tempat sampah sementara pada titik komunal ruang publik yang baik.
 
-Ada sebuah kontainer pada seberang jalan ruang A. Lokasi kontainer tersebut berada di dekat lapangan basket Jati Diri, namun jauh dari lokasi ruang A. Sementara kriteria standar sebuah penempatan wadah komunal yaitu harus dekat dengan sumber sampah dalam hal ini adalah ruang A itu sendiri.
-Selain itu, sampah pada wadah ini sering berserakan hingga di bahu jalan raya. Hal itu mengabaikan aturan penempatan sebuah wadah komunal yaitu tidak menganggu pemakai jalan atau sarana umum lainnya.
-
+Ada sebuah kontainer pada seberang jalan ruang A. Lokasi kontainer tersebut berada di dekat lapangan basket Jati Diri, namun jauh dari lokasi ruang A. Sementara kriteria standar sebuah penempatan wadah komunal yaitu harus dekat dengan sumber sampah dalam hal ini adalah ruang A itu sendiri. Aturan lain penempatan wadah komunal yaitu minimal 100 untuk pejalan kaki di sekitar taman atau ruang publik \citep{sampah2002}.
 
 \begin{figure}[htpb]
     \centering
@@ -948,7 +946,7 @@ Dengan demikian, tindakan ini memberi kesan buruk terhadap kualitas pengelolaan 
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=0.6\textwidth]{figures/pem1(4)}
-    \caption{Pembakaran pada median jalan}
+    \caption{Pembakaran sampah di median jalan}
     \label{fig:bkr}
 \end{figure}
 
@@ -967,15 +965,11 @@ Dengan demikian, tindakan ini memberi kesan buruk terhadap kualitas pengelolaan 
 \label{tmp}
 \end{figure}
 
-Sementara kuali
+Selain memperhatikan penempatan sebuah wadah komunal, kapasitas atau jumlah wadah tersebut juga perlu disepadankan. Menurut \cite{sampah2002}, wadah komunal sebaiknya adalah 30-40L sementara wadah yang tersedia pada ruang publik ini hanya 20L. Ini menyebabkan sampah pada wadah ini kadang berserakan hingga di bahu jalan raya ketika melebihi muatan. Akibat lainnya yaitu menganggu pemakai jalan atau sarana umum lainnya seperti pengguna lapangan basket Jati Diri.
 
-Ruang publik juga harus memperhati
+Tempat tempat ruang publik seperti lapangan basket, bangunan serbaguna, ruang-ruang tepi laut Senggol, pasar Seggol, perpustakaan, dll adalah objek rekreasi yang terintegrasi oleh jalan lokal primer.
 
-Selain memperhatikan kualitas atau kriteria sebuah wadah komunal, kapasitas atau jumlah wadah tersebut juga perlu disepadankan. Menurut \cite{sampah2002}, wadah komunal sebaiknya adalah 30-40L sementara wadah yang tersedia pada ruang publik ini hanya 20L.
 
-100m
-tertutup
-30l
 
 
 
