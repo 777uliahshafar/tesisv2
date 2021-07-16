@@ -10,7 +10,6 @@ library("knitr")
 set_parent("thesis.Rnw")
 @
 %--------------------------------------------------------------------------------------
-\begin{comment}
 
 \begin{titlepage}
 	\begin{center}
@@ -44,38 +43,6 @@ set_parent("thesis.Rnw")
 
 \end{titlepage}
 
-\end{comment}
-
-\begin{titlepage}
-	\begin{center}
-
-\mbox{}\vfill
-
-  {\bf \title \par}
-
-    \vspace{3\baselineskip}
-		\includegraphics[width=0.20\textwidth]{figures/logo}
-
-    \vspace{3\baselineskip}
-
-		{\large\bf\MakeUppercase \subtitle}
-
-    \vspace{3\baselineskip}
-    disusun oleh\\
-        {\bf
-           {\MakeUppercase\yourName}\\
-           \yourIdentifier
-        }
-
-    \vspace{3\baselineskip}
-		{\large\bf PROGRAM STUDI MAGISTER ARSITEKTUR DEPARTEMEN ARSITEKTUR FAKULTAS TEKNIK\\ UNIVERSITAS DIPONEGORO\\
-			SEMARANG\\
-			2021
-		}
-	\end{center}
-\vfill\mbox{}
-
-\end{titlepage}
 
 \pagenumbering{roman}
 \chapter*{HALAMAN PERNYATAAN ORIGINALITAS}
@@ -218,9 +185,20 @@ Describe in about 250 to 350 words the problem, the innovation, the method, the 
 \chapter*{KATA PENGANTAR}
 \addcontentsline{toc}{chapter}{KATA PENGANTAR}
 
-Thanks to \ldots \lipsum[2-2]
+Puji dan syukur penulis panjatkan atas kehadirat Allah SWT. Berkat rahmat dan hidayah-Nya tesis dengan judul ``Preferensi Pengunjung terhadap ruang Kawasan Tepi Laut Senggol'' dapat terselesaikan dengan baik. Banyak dukungan, bimbingan dan bantuan yang penulis terima selama penulisan tesis ini. Maka dari itu, dengan hak istimewa ini penulis menyampaikan ucapan terima kasih yang sebesar-besarnya kepada:
+\begin{enumerate}
+    \item \yourAdvisor selaku pembimbing I yang telah memberikan banyak bimbingan dan dukungan serta saran dalam keberhasilan penulisan tesis ini.
+    \item \yourSecAdvisor selaku pembimbing II yang telah memberikan banyak bimbingan dan arahan dalam penulisan tesis ini.
+    \item \ldots selaku penguji yang telah menambah masukan dan saran dalam penyempurnaan penulisan tesis ini.
+    \item Dr. Ir. Suzanna Ratih Sari, MM, MA selaku Kaprodi Magister Arsitektur FT Undip yang telah memberikan banyak pembelajaran yang berguna dalam penulisan tesis ini.
+    \item Orang tuaku tercinta Bapak Parman Parid dan Ibu Junaeda yang telah mendukung dan mendoakan penulis. Sehingga studi dan penulisan tesis ini dapat berjalan dengan lancar.
+    \item Teman satu angkatan di Magister Arsitektur UNDIP 2020 atas kebersamaan selama kuliah dan selama penulis menyelesaikan tesis ini.
+    \item Teman-teman di SAKTI yang telah memberikan dukungan moril dan material dalam penulisan tesis ini.
+\end{enumerate}
 
-\vspace{2\baselineskip}
+Rasa terima kasih ini diikuti dengan  kesadaran penulis bahwa penulisan tesis ini meskipun telah sampai pada tahap selesai, masih banyak kekurangan dari segi penulisan, pengetahuan dan pemahaman penulis. Dengan selesainya tesis ini, penulis berharap dapat memberikan manfaat dalam memperkaya khasanah keilmuan arsitektur perkotaan diluar kekurangan yang ada. Penulis juga menerima kritik dan saran  agar dapat menjadi masukan kepada penulis.
+
+%\vspace{2\baselineskip}
 \begin{flushright}
 \begin{tabular}{@{}l}
 
