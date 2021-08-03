@@ -20,17 +20,18 @@ set_parent("thesis.Rnw")
 
 \mbox{}\vfill
 
-  {\bf \title \par}
+  {\bf \Title \par}
 
-    \vspace{3\baselineskip}
+    \vspace{2\baselineskip}
 		\includegraphics[width=0.20\textwidth]{figures/logo}
 
-    \vspace{3\baselineskip}
+    \vspace{2\baselineskip}
 
 		{\large\bf\MakeUppercase \subtitle}
 
-    \vspace{3\baselineskip}
-    disusun oleh\\
+    \vspace{\baselineskip}
+    Disusun dalam rangka memenuhi persyaratan\\ Program Studi Magister Arsitektur\\
+    \vspace{\baselineskip}
         {\bf
            {\MakeUppercase\yourName}\\
            \yourIdentifier
@@ -45,6 +46,7 @@ set_parent("thesis.Rnw")
 \vfill\mbox{}
 
 \end{titlepage}
+
 
 \chapter{Pendahuluan}\label{chap:pendahuluan}
 
@@ -898,6 +900,7 @@ Lapangan sekaligus alun-alun Parepare setiap jam-jam istirahat selalu ramai. Pen
 \subsection{Kondisi Fisik Ruang A}
 Ruang ini terletak pada bagian selatan kawasan tepi laut Senggol.  Tempat ini bersampingan dengan pelabuhan besar kota Parepare. Ruang ini termasuk area yang memiliki perubahan besar setelah revitaliasi. Dampak revitalisasi tersebut dapat dirasakan pada kondisi fisik ruang ini. Jalan, penerang, lanskap, dan pengaturan yang sangat rapih menjadi keunggulan tempat ini.
 
+
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=0.8\textwidth]{figures/ruanga}
@@ -905,22 +908,107 @@ Ruang ini terletak pada bagian selatan kawasan tepi laut Senggol.  Tempat ini be
     \label{fig:raga}
 \end{figure}
 
-Jalan yang ada mendukung akses pada tempat ini. Jalan yang lebar didukung dengan \textit{street lamp} memberi kemudahan aksesibilitas pengunjung untuk berkunjung pada ruang A, meskipun jalan lokal tersebut masih perlu perbaikan. Kendaraan yang datang dapat parkir pada bahu jalan. Setelah itu, pengunjung dapat menikmati jalan pedestrian  yang tersedia di pesisir pantai dengan cara berjalan kaki. Bentuk jalan pedestrian ini merupakan lantai berukuran 50x50 centimeter dengan permukaan kasar dan  batu alam. Sementara, lebar jalan ini adalah 3 meter yang memiliki lampu jalan yang menarik.
+\begin{enumerate}[label=\alph*., leftmargin=0pt, itemindent=1cm, labelwidth=15pt, labelsep=5pt, listparindent=1cm]
+
+\item Jalan
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/jal}
+    \caption{Jalan}
+    \label{fig:jal}
+\end{figure}
+
+Jalan yang ada mendukung akses pada tempat ini. Jalan ini terbagi atas dua jalur yang diantarai dengan median jalan. Jalan masing-masing memiliki lebar 8.10 meter dan 9.50 meter. Sementara lebar median jalan adalah 2.05 meter. Jalan sebelah barat memiliki fungsi sebagai tempat parkir dan \textit{drive-in} ruang A serta berbatasan dengan tepi laut. Jalan sebelah timur merupakan jalan lokal yang terbentang dari jalan andi isa hingga jalan masjid raya yang berbatasan dengan rumah penduduk atau kios makanan. Terakhir, struktur jalan dapat dilihat pada gambar \ref{fig:potj} dan gambar \ref{fig:plnj}.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.95\textwidth]{figures/pota}
+    \caption{Potongan Jalan}
+    \label{fig:potj}
+\end{figure}
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.85\textwidth]{figures/plana}
+    \caption{Plan Jalan}
+    \label{fig:plnj}
+\end{figure}
+
+Kondisi seputar jalan juga perlu diperhatikan seperti pohon jalan, penerang, trotoar, rambu bahkan marka penyebrangan orang \textit{(zebra cross)}. Pertama, pohon jalan ada pada median jalan dan juga di sisi timur jalan pada trotoar dan lahan kosong. Kedua, penerang jalan hanya tersedia pada sisi barat jalan lebih tepatnya di median jalan. Jenis penerangan khusus dengan bola lampu berbentuk bulat memiliki jarak masing-masing 9.40 meter (lihat gambar: \ref{fig:plnj}) dengan jumlah 11 buah.
+Ketiga, trotoar memiliki permukaan yang bermotif berwarna dengan material beton. Sementara median jalan hanya mempunyai permukaan tanah dan rumput. Hanya saja, bak kontrol pada trotoar ini hampir semua kehilangan penutupnya (lihat gambar: \ref{fig:bak}). Keempat, rambu pada seputar jalan ini terhitung minim sekali. Sebagai tambahan, marka garis putus-putus dan garis marka melintang tidak ada pada jalan.
 
 \begin{figure}[htbp]
 \centering
 \begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/akses1}
+\centering\includegraphics[width=6cm]{figures/med}
 \end{subfigure}%
 \begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/akses1(2)}
+\centering\includegraphics[width=6cm]{figures/bak}
 \end{subfigure}\vspace{10pt}
 
-\caption{Jalan Pedestrian}
-\label{fig:jln}
+\caption{Kondisi Seputar Jalan}
+\label{fig:bak}
 \end{figure}
 
-Pengaturan \textit{hardscape} pada ruang ini tidak hanya ada pada jalan pedestrian, tetapi terdapat pula pada \textit{(square)}. Square pada tempat ini berukuran kecil, tempat ini merupakan node dari kawasan tepi laut. Ada naungan yang berdiri di \textit{square} yang berbentuk parametrik dan menyerupai daun. Naungan ini dapat sebagai objek yang menyambut pengunjung ruang A ketika masuk melalui arah utara.
+Selain jalan lokal, ruang A juga memiliki jalan setapak yang cukup menarik. Jalan setapak ini mengintegrasikan semua kedai makanan yang ada. Penerang atau lampu menghiasi jalan ini seakan tempat ini merupakan jantung dari ruang A, dimana menghubungkan kedai makanan dan laut. Seringkali meja makan dari kedai makanan mengisi sebagian area jalan setapak ini.
+
+Karakteristik jalan setapak memiliki lebar yang berukuran 4 meter. Jalan ini menyediakan pembatas ke laut berupa tempat duduk yang berukuran 80 x 50 cm. Itu terbentang sepanjang jalan setapak ini. Kemudian, jalan setapak memiliki bagian yang sangat menarik yaitu pola atau material yang beragam dari permukaan setapak ini. Material dari permukaannya berupa ubin persegi dengan ukuran 40 x 40 cm dan juga plesteran di area pinggirnya.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=.95\textwidth]{figures/pdestriana}
+    \caption{Gambar rencana jalan setapak}
+    \label{fig:stpk}
+\end{figure}
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/akses1(2)}
+    \caption{Pemandangan Jalan Setapak}
+    \label{fig:}
+\end{figure}
+
+Pengunjung dapat mengakses jalan setapak sekaligus panorama laut melalui sejumlah arah. Arah yang terbaik adalah melalui \textit{square} ruang A ini (lihat gambar: \ref{fig:msk}). Arah lainnya adalah melalui jalan setapak yang tersedia di selah-selah kedai makan (lihat gambar: \ref{fig:msk}). Terakhir adalah pengunjung dapat mengaksesnya melalui kedai makanan, dengan membeli makanan di kedai tertentu kemudian duduk pada meja makan yang tersedia di pinggir jalan setapak.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/sqer}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/slha}
+\end{subfigure}\vspace{10pt}
+
+\caption{Akses Masuk}
+\label{fig:msk}
+\end{figure}
+
+\item Naungan
+
+Naungan adalah salah satu upaya untuk meciptakan dan merekayasa lingkungan yang sesuai dengan kebutuhan kenyamanan termal pengguna suatu lingkungan. Naungan bisa jadi sebuah buatan manusia atau alami. Apabila ruang A ingin digunakan tanpa henti seiring perputaran matahari, maka area yang membutuhkan tempat teduh adalah tempat makan dan jalan setapak. Mengingat kedua tempat tersebut merupakan area utama dari ruang A.
+
+Jalan setapak yang memungkinkan pengguna untuk bersantai dan menikmati pemandangan laut tidak menyediakan naungan. Hanya ada sebuah overstek dari sebuah bangunan kedai makanan yang menonjol 1.5 meter. Overstek ini sebenarnya hanya mampu melindungi bangunan dari hujan dan sinar matahari bukan pengguna jalan setapak.
+Lampu dan meja makan banyak mengisi ruang jalan setapak ini tanpa menyediakan peneduh dari sinar matahari dan lain-lain.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/akses1}
+    \caption{Overstek dan Lampu}
+    \label{fig:nau}
+\end{figure}
+
+Kemampuan ruang A untuk menjadi sebuah tempat yang teduh dapat didukung oleh aspek lain. Seperti pada sore hari, jalan setapak terlihat teduh disebabkan matahari yang terik terhalang oleh bangunan kedai makanan yang mempunyai ketinggian lebih dari 400 meter (lihat gambar: \ref{fig:ted}).
+%keadaan matahari di pagi hari ??
+Meskipun tidak ada naungan pada jalan setapaknya, Ruang A menyediakan naungan yang cukup baik pada \textit{square}. Selain itu, jalan lokal pada ruang A sangat terfasilitasi peneduh oleh vegetasi atau pepohonan yang rindang (lihat gambar: \ref{fig:nau2}).
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.6\textwidth]{figures/fb1(4)}
+    \caption{Teduh}
+    \label{fig:ted}
+\end{figure}
+
 
 \begin{figure}[htbp]
 \centering
@@ -928,14 +1016,32 @@ Pengaturan \textit{hardscape} pada ruang ini tidak hanya ada pada jalan pedestri
 \centering\includegraphics[width=6cm]{figures/fb1(3)}
 \end{subfigure}%
 \begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/fb1(4)}
+\centering\includegraphics[width=6cm]{figures/jal}
 \end{subfigure}\vspace{10pt}
 
-\caption{Square}
-\label{fig:sqr}
+\caption{Naungan}
+\label{fig:nau2}
 \end{figure}
 
-Selain naungan buatan manusia, vegetasi pada ruang ini juga layak untuk diperbincangkan. Istilah vegetasi pada ruang ini mungkin hanya mencakup pepohonan dan rumput. Semak atau tanaman rias belum ada di ruang ini. Kemampuan pepohonan yang dapat menjadi naungan dari terik matahari  merupakan hal yang penting dalam ruang publik. Selain itu, itu juga dapat memberi kesejukan dan estetika. Nama pohon yang ada di tempat ini kebanyakan adalah pohon Kihujan dan Palem adapula pohon Mangga. Pepohonan ini  berada jauh dari pesisir laut, yang mana berada di median jalan. Sementara jarak pesisir laut dan median jalan berkisar 10 meter. Jarak antar pohon itu yaitu tiga meter. Artinya, kepadatan pepohonan tersebut masih kurang untuk mendukung area dengan luas 5000 meter persegi.
+Pohon peneduh jalan berperan penting dalam menjaga kenyamanan pengguna jalan maupun yang beraktivitas dibawahnya. Berdasarkan definisi Kementerian Pekerjaan Umum (PU), pohon peneduh adalah jenis pohon yang bercabang dan tingginya lebih dari dua meter. Banyak jenis pohon peneduh tumbuh di ruang A.
+Namun yang paling dominan adalah pohon palem. Berikut daftar-daftar pohon yang ada di ruang ini.
+
+\begin{longtable}{c m{4cm} m{2cm} m{2cm} }
+	\caption{Jenis Pohon} \\
+    \label{tab:jphn} \\
+    \toprule
+    Nama & Gambar & Tinggi (m) & Tajuk (cm)\\
+    \midrule
+    Pohon Palem &  \includegraphics[width=0.3\textwidth, height=2in]{figures/plewod} & 15 & 8-120\\
+
+    Pohon Pandan Bali & \includegraphics[width=0.3\textwidth,height=2in]{figures/pnbli} & 2 & 30-100\\
+
+    Pohon (Ki) Hujan & \includegraphics[width=0.3\textwidth,height=2in]{figures/tremhu} & 15-25 & >100 \\
+
+    Pohon Pulai & \includegraphics[width=0.3\textwidth,height=2in]{figures/plai} & 6-10 & 60-100 \\
+    \end{longtable}
+
+Pohon yang merupakan vegetasi sangat baik dalam memberikan naungan.Selain sebagai atap sebuah ruang, peran vegetasi juga berfungsi sebagai dinding maupun lantai. Ini termasuk dalam fungsi struktur \citep{ruli2017}.  Fungsi dinding dapat sebagai pembatas yang memisahkan jalur kendaraan dan pedestrian. Fungsi lantai dapat sebagai pembeda sebuah level permukaan atau jenis ruang. Akan tetapi, dua fungsi terakhir ini kurang tampak pada ruang A.  Meskipun terdapat pohon-pohon pada pedestrian, pohon-pohon ini tidak berperan sebagai pembatas (dinding). Rumput-rumput juga kurang memeberikan penanda sebuah level atau jenis ruang kecuali pada median jalan (lihat gambar \ref{fig:vgt}).
 
 \begin{figure}[htbp]
 \centering
@@ -950,22 +1056,55 @@ Selain naungan buatan manusia, vegetasi pada ruang ini juga layak untuk diperbin
 \label{fig:vgt}
 \end{figure}
 
-Keberadaan ruang A tepi laut Senggol yang berdekatan dengan pelabuhan Nusantara membuat tempat ini terkena dampak dari pelabuhan tersebut.
-Saat ini industri pengiriman dengan kapal \textit{(ship industry)} beralih ke industri truk \textit{(truck indsutry)}, akibatnya banyak lahan yang dulunya digunakan akhirnya terbengkalai. Ini merusak kesan estetik pada pelabuhan tersebut yang kebetulan menjangkau pemandangan \textit{(view)} dari ruang A.
-Selain itu, pencemaran ekosistem juga menjadi bahan pertimbangan. Menurut \cite{ramlia2018} pada penelitian pelestarian perairan Parepare tahun 2018, Pelabuhan Nusantara menghasilkan timbal hingga 0.56 mg/L. Timbal merupakan unsur logam berat yang beracun terhadap makhluk hidup. Pada konsentrasi tertentu, timbal dapat terakumulasi ke dalam air, biota dan sedimen pada perairan sehingga menimbulkan efek racun pada organisme didalamnya. Akibatnya mereka yang terkontaminasi timbal ini akan melahirkan anak dengan pertumbuhan fisik dan mental yang terganggu, selain itu, menyebabkan kerusakan fungsi otak dan kegagalan fungsi ginjal.
+\item Tempat Duduk
 
-Dengan kadar 0.56 mg/L, Pelabuhan Nusantara telah melebihi baku mutu dan kriteria kerusakan lingkungan hidup yaitu 0.05 mg/L untuk perairan pelabuhan. Ini dapat mencemari bukan hanya perairan di pelabuhan melainkan sekitar lingkungannya juga termasuk perairan tepi laut Senggol.
-Penyebab meningkatkan timbal pada perairan pelabuhan adalah aktivitas kapal-kapal yang berada di pelabuhan, kapal pembawa minyak dan pembuangan sampah penduduk. Pencemaran ini menjadi alasan ruang A tidak baik untuk interaksi dengan air.
-Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini seperti menjadikan ruang A sebagai tempat transit turis maupun pelancong lokal sehingga meningkatkan jumlah pengunjung pada tepi laut.
+Kedai makanan merupakan pusat kegiatan ekonomi pada tepi laut Senggol. Sehingga tempat ini merupakan sarana yang menyediakan tempat duduk atau meja makan di sekitar ruang A. Total kedai makanan yang ada adalah sebanyak lima buah. Satu kedai makanan terbilang cukup luas dengan ukuran 8m x 20.8m (lihat gambar \ref{fig:pln}).
+
+Kelima kedai makanan ini mempunyai tampak depan yang serupa seperti pada gambar \ref{fig:tmpka}. Terlihat pada gambar bukaan \textit{(opening)} masing-masing kedai sangat lebar. Ini mengakibatkan sirkulasi udara menjadi sangat baik dan pemandangan keluar kedai bebas halangan.
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/kpl}
-    \caption{Pemandangan Pelabuhan Nusantara dari ruang A}
-    \label{fig:kpl}
+    \includegraphics[width=\textwidth]{figures/kedaia}
+    \caption{Denah Kedai A}
+    \label{fig:pln}
 \end{figure}
 
-Pencemaran lain yang menarik perhatian di ruang A adalah pembuangan sampah sembarangan. Sampah merupakan topik pembahasan yang ramai pada sebuah ruang perkotaan. Aktivitas membuang sampah ini merupakan bagian dari proses hidup manusia. Sehingga sangat penting untuk menyediakan tempat sampah sementara pada titik komunal ruang publik yang baik.
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.98\textwidth]{figures/tmpka}
+    \caption{Tampak Kedai A}
+    \label{fig:tmpka}
+\end{figure}
+
+Kedai makanan menyediakan dua pilihan tempat duduk atau meja makan. Orang dapat bersantai di dalam dan di luar kedai makanan.
+Luas ruangan yang tersedia di dalam kedai makanan untuk meja makan adalah 64 meter persegi. Itu cukup luas untuk menampung belasan meja makan. Diluar dari itu, terdapat ruang kasir dan dapur didalam kedai tersebut. Sementara luas ruangan yang ada di diluar kedai hanya sebaris meja makan agar tidak mengganggu pengguna setapak.
+
+Meja makan kedai makanan ini disusun dengan empat kursi yang saling berhadap-hadapan. Bentuk mejanya mempunyai dua jenis yaitu persegi dan lingkaran. Ukuran kedua jenis meja tersebut adalah 80 cm x 80 cm. Karena meja makan ini ringan, banyak pengunjung yang sering memindahkannya lebih dekat ke laut (lihat gambar \ref{fig:amn1}). Sedangkan jenis kursi yang digunakan adalah kursi plastik berwarna hijau.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.6\textwidth]{figures/amn1}
+    \caption{Meja makan/ tempat duduk}
+    \label{fig:amn1}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+%% Lebih lanjut, pembatas antara jalan setapak dan air seringkali dijadikan meja makan. Lebar pembatas ini adalah kurang lebih 82 cm, hampir sama dengan ukuran meja. untuk ruang B
+
+\item Sampah
+
+Sampah merupakan topik pembahasan yang ramai pada sebuah ruang perkotaan. Aktivitas membuang sampah ini merupakan bagian dari proses hidup manusia. Sehingga sangat penting untuk menyediakan tempat sampah sementara pada titik komunal ruang publik yang baik.
 
 Ada sebuah kontainer pada seberang jalan ruang A. Lokasi kontainer tersebut berada di dekat lapangan basket Jati Diri, namun jauh dari lokasi ruang A. Sementara kriteria standar sebuah penempatan wadah komunal yaitu harus dekat dengan sumber sampah dalam hal ini adalah ruang A itu sendiri. Aturan lain penempatan wadah komunal yaitu minimal 100 untuk pejalan kaki di sekitar taman atau ruang publik \citep{sampah2002}.
 
@@ -1003,28 +1142,27 @@ Dengan demikian, tindakan ini memberi kesan buruk terhadap kualitas pengelolaan 
 
 Selain memperhatikan penempatan sebuah wadah komunal, kapasitas atau jumlah wadah tersebut juga perlu disepadankan. Menurut \cite{sampah2002}, wadah komunal sebaiknya adalah 30-40L sementara wadah yang tersedia pada ruang publik ini hanya 20L. Ini menyebabkan sampah pada wadah ini kadang berserakan hingga di bahu jalan raya ketika melebihi muatan. Akibat lainnya yaitu menganggu pemakai jalan atau sarana umum lainnya seperti pengguna lapangan basket Jati Diri.
 
-Tempat tempat ruang publik seperti lapangan basket, bangunan serbaguna, ruang-ruang tepi laut Senggol, pasar Seggol, perpustakaan, dll  terintegrasi oleh jalan lokal primer.
-Jalan yang berada di depan ruang ini terbilang cukup teduh dengan pohon jalan yang rindang. Jenis pohon yang ada pada jalan tersebut adalah ki hujan dan palem. Hanya ada satu trotoar pada sisi timur jalan ini yang dapat digunakan oleh pedestrian. Sebelah barat jalan ini, dibuat sebuah jalan yang menjorok ke ruang A. Jalan tersebut memiliki ruang yang cukup luas untuk kantong parkir. Semua penggunaan sisi jalan ini memberi ruang untuk vegetasi. Dimana sisi barat tertanam pada median jalan sementara sisi timur tertanam pada trotoar.
+\item Drainase dan Sanitasi
+
+
+\item Air
+
+Keberadaan ruang A tepi laut Senggol yang berdekatan dengan pelabuhan Nusantara membuat tempat ini terkena dampak dari pelabuhan tersebut.
+Saat ini industri pengiriman dengan kapal \textit{(ship industry)} beralih ke industri truk \textit{(truck indsutry)}, akibatnya banyak lahan yang dulunya digunakan akhirnya terbengkalai. Ini merusak kesan estetik pada pelabuhan tersebut yang kebetulan menjangkau pemandangan \textit{(view)} dari ruang A.
+Selain itu, pencemaran ekosistem juga menjadi bahan pertimbangan. Menurut \cite{ramlia2018} pada penelitian pelestarian perairan Parepare tahun 2018, Pelabuhan Nusantara menghasilkan timbal hingga 0.56 mg/L. Timbal merupakan unsur logam berat yang beracun terhadap makhluk hidup. Pada konsentrasi tertentu, timbal dapat terakumulasi ke dalam air, biota dan sedimen pada perairan sehingga menimbulkan efek racun pada organisme didalamnya. Akibatnya mereka yang terkontaminasi timbal ini akan melahirkan anak dengan pertumbuhan fisik dan mental yang terganggu, selain itu, menyebabkan kerusakan fungsi otak dan kegagalan fungsi ginjal.
+
+Dengan kadar 0.56 mg/L, Pelabuhan Nusantara telah melebihi baku mutu dan kriteria kerusakan lingkungan hidup yaitu 0.05 mg/L untuk perairan pelabuhan. Ini dapat mencemari bukan hanya perairan di pelabuhan melainkan sekitar lingkungannya juga termasuk perairan tepi laut Senggol.
+Penyebab meningkatkan timbal pada perairan pelabuhan adalah aktivitas kapal-kapal yang berada di pelabuhan, kapal pembawa minyak dan pembuangan sampah penduduk. Pencemaran ini menjadi alasan ruang A tidak baik untuk interaksi dengan air.
+Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini seperti menjadikan ruang A sebagai tempat transit turis maupun pelancong lokal sehingga meningkatkan jumlah pengunjung pada tepi laut.
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/jal}
-    \caption{Jalan}
-    \label{fig:jal}
+    \includegraphics[width=0.8\textwidth]{figures/kpl}
+    \caption{Pemandangan Pelabuhan Nusantara dari ruang A}
+    \label{fig:kpl}
 \end{figure}
 
-Berbicara tentang pedestrian, ruang ini mempunyai jalan setapak pada pesisir laut. Setapak ini terhubung mulai dari \textit{square} ruang A dan berakhir pada dinding pembatas antara waterfront dan pelabuhan nusantara. Panjang jalan setapak tersebut adalah xx meter. Dimana setiap xx meter ada sebuah lampu jalan yang menarik. Jalan setapak ini memiliki \textit{hardscape} lantai keramik motif batu alam dan be
-
-
-
-Hardscape pada jalan setapak ini adalah berupa lantai kasar.
-
-
-
-
-
-
-
+\end{enumerate}
 
 
 
