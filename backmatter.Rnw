@@ -98,10 +98,6 @@ NIM.\yourNipAdvisor & & NIM.\yourNipSecAdvisor \\
 \end{center}
 
 
-
-
-\begin{comment}
-
 \chapter*{DATA DIRI PENULIS}
 \addcontentsline{toc}{chapter}{DATA DIRI PENULIS}
 
@@ -110,14 +106,15 @@ NIM.\yourNipAdvisor & & NIM.\yourNipSecAdvisor \\
     \includegraphics[width=2.8cm,trim=60 40 60 140,clip]{saya.jpg}
 \end{wrapfigure}
 
-\noindent Muhammad Uliah Shafar, pria kelahiran Parepare, 26 Juni 1996, sebagai putra sulung dari Parman Farid dan Junaeda. Lulus pendidikan S2 di Magister Arsitektur DAFT Undip, dengan alur konsentrasi Arsitektur Kota. Uliah menjalani pendidikan S2 sejak 2019 sesaat setelah menempuh pendididkan S1nya di UTY Yogyakarta.
-Uliah mulai tertarik dengan bidang perkotaan sejak dia menonton film Spiderman sewaktu remaja. Ia melihat scene dimana spiderman berada di bawah jalan raya yang teknisnya disebut sistem pembuangan air kotor kota dan berpikir bahwa tempat tersebut tidak ada di kotanya dan mungkin itu memiliki kegunaan yang besar untuk seisi kota tersebut. Rasa keingintahuan terhadap bagaimana kota terbentuk menjadi latar belakang ia sangat bersemangat dalam menulis dan merancang hal-hal baru berkaitan sebuah kota yang terpelihara dan terorganisir dengan baik.
+\noindent Muhammad Uliah Shafar, pria kelahiran Parepare, 26 Juni 1996, sebagai putra sulung dari Parman Farid dan Junaeda. Lulus pendidikan S2 di Magister Arsitektur DAFT UNDIP, dengan alur konsentrasi Arsitektur Kota. Penulis menjalani pendidikan S2 sejak 2020 sesaat setelah menempuh pendidikan S1-nya di UTY Yogyakarta.
 
-Saat ini tulisannya sudah ada yang terpublikasikan di jurnal nasional berkaitan dengan ruang publik. Ketekunannya dalam menulis membuatnya ingin merencanakan penulisan artikel-artikel di kemudian hari, bahkan dalam bahasa internasional. Uliah sangat tertarik dengan buku-buku perkotaan terutama dengan judul Making Place. Buku tersebut menurutnya sangat menarik karena dipadukan dengan ilmu sains dan seni praktis dalam menggambarkan realitas sebuah kota.
+Penulis memiliki ketertarikan Arsitektur sejak duduk di bangku SMK. Saat itu, penulis memilih jurusan teknik gambar. Banyak pelajaran maupun pengalaman yang dia rasakan selama menempuh sekolah kejuruan seperti contoh, magang di salah satu perusahaan semen terbesar di Sulawesi Selatan. Hal itu membuatnya meneruskan bidang ini ke jenjang yang lebih tinggi.
+
+Ruang publik menjadi fokus tema penulisan karya ilmiah penulis.
+Saat ini penulis telah mempublikasikan artikel di jurnal nasional dan menyelesaikan tesis dengan tema ruang publik. Penulis tertarik terhadap tema ruang publik karena suatu saat nanti penulis berniat untuk merancang suatu kota dengan lebih baik dan memberikan ilmu bermanfaat terhadap bidang arsitektur perkotaan.
+
 
 \vspace{2\baselineskip}
 \begin{flushright}
     Hormat saya,\\ Muhammad Uliah Shafar
 \end{flushright}
-
-\end{comment}
