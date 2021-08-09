@@ -1144,6 +1144,38 @@ Selain memperhatikan penempatan sebuah wadah komunal, kapasitas atau jumlah wada
 
 \item Drainase dan Sanitasi
 
+Penyaluran air bersih pada ruang ini menggunakan PAM milik PDAM. Air PAM ini tersalurkan ke setiap-setiap kedai makanan melalui pipa yang tampak diatas permukaan tanah. Sejumlah kedai makanan menampung air tersebut menggunakan bak penampung (tandon) dan diletakkan dengan ketinggian kurang dari 4 meter(lihat gambar \ref{fig:pipb} ).
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/pipb}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/tan}
+\end{subfigure}\vspace{10pt}
+
+\caption{Drainase dan Sanitasi}
+\label{fig:pipb}
+\end{figure}
+
+Kedai makanan yang menghasilkan limbah makanan setiap hari membutuhkan sistem jaringan drainase yang baik. Jaringan drainase pada masing-masing kedai makanan ini saling terhubung dan berakhir di satu septitank komunal yang sama. Sitem drainase ini menggunakan pipa paralon tiga inci yang sebagian tampak diatas tanah. Adapun gambaran sistem pembuangan limbah kotor kedai tersebut seperti gambar \ref{fig:pipk}. Sementara jalan lokal juga memiliki sistem drainase dengan mengalirkan air dari jalan melalui pipa menuju ke saluran kota. Saluran kota ini terletak dibawah trotoar jalan. Kekurangan dari saluran ini adalah penutupnya hilang sehingga banyak sampah organik dan non-organik menumpuk disitu (lihat gambar \ref{fig:pipk2}).
+
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/airktr}
+    \caption{Gambaran Jaringan Drainase}
+    \label{fig:pipk}
+\end{figure}
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.65\textwidth]{figures/pipk2}
+    \caption{Saluran kota}
+    \label{fig:pipk2}
+\end{figure}
+
 
 \item Air
 
@@ -1165,7 +1197,33 @@ Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini sep
 \end{enumerate}
 
 
+\subsection{Kondisi Fisik Ruang B}
 
+Ruang ini terletak pada bagian utara tepi laut Senggol. Tempat ini bersampingan dengan pasar senggol yang terbuka hanya pada sore hingga malam hari. Ruang ini mengalami perubahan pada segi atap dan lantai saja. Meskipun demikian, panjang ruang ini melebih panjang ruang A.
+
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/rb}
+    \caption{Ruang B}
+    \label{fig:rbb}
+\end{figure}
+
+
+\begin{enumerate}[label=\alph*., leftmargin=0pt, itemindent=1cm, labelwidth=15pt, labelsep=5pt, listparindent=1cm]
+
+    \item Jalan
+
+Secara umum, jalan lokal ruang b merupakan terusan dari jalan lokal A. Sehingga kondisi fisiknya seperti lebar jalan dan trotoarnya hampir sama. Hanya saja ruang ini tidak memiliki jalan sekunder (kedua).
+
+
+    \item Naungan
+    \item Tempat Duduk
+    \item Sampah
+    \item Drainase dan Sanitasi
+    \item Air
+
+\end{enumerate}
 
 
 %-------------------------------------------------------------------------------
