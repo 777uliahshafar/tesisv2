@@ -64,7 +64,7 @@ Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, In
 %kondisi parepare
 Kota Parepare merupakan kota yang terletak di Provinsi Sulsel. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
 Parepare memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti Kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, Kabupaten Pangkep sepanjang 58.87 km dan Kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}. Meskipun demikian, Kota Parepare adalah kota adminsitratif dari tiga kota di Sulsel yang mana mendorong kemajuan kota ini.
-Terdapat sejumlah area yang berada di garis pantai tersebut misalnya Tepi Sungai Tonrangeng, Taman Mattirotasi, Pantai Bibir dan Tepi Laut Senggol.
+Terdapat sejumlah area yang berada di garis pantai tersebut misalnya Tepi Sungai Tonrangeng, Taman Mattirotasi, Pantai Bibir dan Pantai Senggol (baca: Tepi Laut Senggol).
 Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan konsep kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden Ketiga Republik Indonesia.
 
 %karakteristik di tepi laut senggol
@@ -1199,8 +1199,31 @@ Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini sep
 
 \subsection{Kondisi Fisik Ruang B}
 
-Ruang ini terletak pada bagian utara tepi laut Senggol. Tempat ini bersampingan dengan pasar senggol yang terbuka hanya pada sore hingga malam hari. Ruang ini mengalami perubahan pada segi atap dan lantai saja. Meskipun demikian, panjang ruang ini melebih panjang ruang A.
+Keistimewaan yang dimiliki ruang B adalah keberadaan Pedagang Kaki Lima (PKL) yang dari tempo dulu tidak pernah hilang. Pedagang kaki lima adalah istilah penyedia barang yang memanfaatkan jalan pedestrian atau trotoar selebar 5 \textit{feet}/kaki \citep{wijayaningsih2007}. PKL di pesisir pantai senggol juga menjadi aktivitas yang paling menonjol setelah sekian lama.
+Mereka menawarkan berbagai macam makanan seperti nasi kuning, bubur kacang hijau, mie ayam dan olahan hewan laut. Waktu operasinya adalah pada pagi hingga malam hari kecuali di siang hari.
 
+Berdasarkan segi operasional, definisi pkl terdapat dua macam yaitu: PKL tertata dan PKL Binaan. PKL tertata adalah mereka yang menempati tempat yang tersedia oleh pemerintah serta mendapatkan ijin dari pemerintah daerah serta mengikuti aturan yang berlaku. Sementara PKL binaan adalah mereka yang menempati tempat terlarang atau tidak diijinkan oleh pemerintah daerah dan bebas biaya retribusi \citep{wijayaningsih2007}. PKL di pantai senggol saat ini telah tertata dan bukan binaan lagi seperti dulu.
+Dulu, mereka bebas untuk berjualan dimana saja di pesisir laut.
+Namun, setelah adanya revitalisasi pemerintah merelokasinya pada suatu tempat dan jangkuan yang terbatas.
+Tempat dan jangkauan tersebut penulis menamakannya sebagai ruang B.
+Lebih lanjut, akibat dari relokasi tersebut adalah berkurangnya sejumlah PKL.
+
+Pada awal adanya tempat ini, tampak fisik secara keseluruhan adalah sederhana. Lantai dari tempat ini adalah permukaan tanah walaupun ada yang \textit{paving block}. Dulu, atap dari tempat ini belum terencana, hanya naungan yang dibuat sendiri oleh masing-masing pedagang. Sementara, dinding yang berlaku sebagai tempat duduk dan pembatas berlapisan lantai keramik dengan corak air bewarna hijau dan kuning. Gambaran karakteristik pantai senggol tempo dulu dapat dilihat pada gambar \ref{fig:pkldl}.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/pkldl1}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/pkldl2}
+\end{subfigure}\vspace{10pt}
+
+\caption{Pantai Senggol Tempo Dulu}
+\label{fig:pkldl}
+\end{figure}
+
+Perkembangan ekonomi dan bisnis kota Parepare yang meningkat memicu perubahan pada tempat yang berpotensi komersial. Salah satunya adalah pantai Senggol. Ini menyebabkan tampak fisik dari ruang B ikut berubah. Perubahan fisik yang terjadi di ruang B diantaranya adalah perubahan lantai, atap dan dinding (batas sebuah ruang). Alhasil tampak fisik ruang B saat ini dapat dilihat pada gambar \ref{fig:rbb}.
 
 \begin{figure}[htpb]
     \centering
@@ -1229,7 +1252,7 @@ Saat ruang B sedang ramai, jalan ini cukup dipadati dengan kendaraaan yang parki
 
 Pengunjung yang besar memiliki potensi untuk menimbulkan tumpukan sampah pada suatu tempat. Apalagi apabila tempat sampah tidak tersedia dengan baik maka kebersihan suatu tempat dapat terganggu. Seperti contoh pada ruang B, ruang ini memiliki banyak pengunjung dan kurang tempat sampah. Sebagai tambahan, ruang ini juga tidak memiliki tempat sampah komunal.
 
-Berbeda dengan ruang A yang mempunyai lahan yang cukup luas untuk membuang sampah di sembarang tempat. Ruang B tidak menyediakan lahan yang cukup luas untuk sampah tersebut. Akibatnya pengunjung tidak segan untuk membuangnya ke laut (lihat gambar \ref{fig:smpl}). Apabila ditimbang-timbang, ini dapat menganggu pengunjung yang mempunyai intensi untuk berenang di ruang tersebut. Pilihan lainnya pengunjung dapat membuangnya di lokasi pkl yang mana akan berakhir berserakan di jalan. Pilihan terakhir ini dapat ditanggulangi dengan adanya petugas kebersihan, berbeda dengan pilihan pertama yang hanya akan mencemari ekosistem maritim.
+Berbeda dengan ruang A yang mempunyai lahan yang cukup luas untuk membuang sampah di sembarang tempat. Ruang B tidak menyediakan lahan yang cukup luas untuk sampah tersebut. Akibatnya pengunjung tidak segan untuk membuangnya ke laut (lihat gambar \ref{fig:smpl}). Apabila ditimbang-timbang, ini dapat menganggu pengunjung yang mempunyai intensi untuk berenang di ruang tersebut. Pilihan lainnya pengunjung dapat membuangnya di lokasi pkl yang mana akan berakhir berserakan di jalan. Pilihan terakhir ini dapat ditanggulangi dengan adanya petugas kebersihan, berbeda dengan pilihan pertama yang hanya akan mencemari ekosistem maritim. Kecuali apabila pihak berwenang serius untuk menanggulangi pencemaran laut tersebut.
 
 \begin{figure}[htbp]
 \centering
@@ -1244,27 +1267,13 @@ Berbeda dengan ruang A yang mempunyai lahan yang cukup luas untuk membuang sampa
 \label{fig:smpl}
 \end{figure}
 
-
-
-
-
-
-
-
 %Namun pada intinya pengelolaan sampah pada tempat ini masih kurang.
-
-
-
-
-
-
 
 Lebih parahnya lagi tempat ini tidak memiliki tempat sampah komunal.
 
-
-
-
     \item Drainase dan Sanitasi
+Tidak dipungkiri lagi PKL merupakan jenis kegiatan komersial yang mencangkup berbagai macam .
+
 
 
 
