@@ -1024,11 +1024,11 @@ Meskipun tidak ada naungan pada jalan setapaknya, Ruang A menyediakan naungan ya
 \end{figure}
 
 Pohon peneduh jalan berperan penting dalam menjaga kenyamanan pengguna jalan maupun yang beraktivitas dibawahnya. Berdasarkan definisi Kementerian Pekerjaan Umum (PU), pohon peneduh adalah jenis pohon yang bercabang dan tingginya lebih dari dua meter. Banyak jenis pohon peneduh tumbuh di ruang A.
-Namun yang paling dominan adalah pohon palem. Berikut daftar-daftar pohon yang ada di ruang ini.
+Namun yang paling dominan adalah pohon palem. Berikut daftar-daftar pohon yang ada di ruang ini (lihat tabel \ref{tab:jphna}).
 
 \begin{longtable}{c m{4cm} m{2cm} m{2cm} }
 	\caption{Jenis Pohon} \\
-    \label{tab:jphn} \\
+    \label{tab:jphna} \\
     \toprule
     Nama & Gambar & Tinggi (m) & Tajuk (cm)\\
     \midrule
@@ -1220,6 +1220,7 @@ Pada awal adanya tempat ini, tampak fisik secara keseluruhan adalah sederhana. L
 \end{subfigure}\vspace{10pt}
 
 \caption{Pantai Senggol Tempo Dulu}
+\caption*{sumber: id.foursquare.com }
 \label{fig:pkldl}
 \end{figure}
 
@@ -1239,14 +1240,66 @@ Perkembangan ekonomi dan bisnis kota Parepare yang meningkat memicu perubahan pa
 
 Secara umum, jalan lokal ruang B merupakan terusan dari jalan lokal A. Sehingga kondisi fisiknya seperti lebar jalan dan trotoarnya hampir sama. Hanya saja ruang ini hanya memiliki satu bagian jalan saja (tanpa disertai median). Kedua sisi dari jalan ini memiliki fungsi yang berbeda, sisi sebelah timur untuk trotoar satunya lagi untuk gerobak PKL (pedagang kaki lima). Adapun gambaran struktur jalan lokal ruang B seperti gambar \ref{fig:jlb}.
 
-Trotoar yang ada dijalan ini memiliki karakteristik yang sama dengan trotoar pada ruang A.
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/potob}
+    \caption{Potongan Jalan}
+    \label{fig:jlb}
+\end{figure}
 
+Banyak pengunjung yang menggunakan jalan ini sebagai tempat parkir (lihat gambar \ref{fig:pkr}). Tidak hanya untuk pengunjung ruang B tetapi pengunjung pasar Senggol juga turut memarkirkan kendaraan pada bahu jalan ini.
+Keadaan ini mengganggu ketertiban lalu lintas serta pejalan kaki yang mana ruangnya juga telah diambil oleh PKL. Terbatasnya lahan parkir untuk kantong parkir menjadi penyebab utama pengunjung parkir sembarangan.
+Sisi timur yang berpeluang sebagai lahan parkir merupakan tanah warga dan sebagian diisi oleh bangunan rumah dll.
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/prkb}
+    \caption{Parkir di Bahu Jalan}
+    \label{fig:pkr}
+\end{figure}
 
+Kondisi seputar jalan di ruang B cukup berbeda dengan yang ada di ruang A. Pertama, jalan ini memiliki penerangan yang terbatas. Hanya terdapat tiga lampu jalan yang memiliki radius 40 meter. Meskipun begitu, bohlam lampu dari tiap-tiap PKL membantu penerangan hingga ke jalan pada malam hari. Kedua, pada siang hari jalan ini kurang teduh karena sedikitnya pohon rindang. Sisi barat jalan hanya ada beberapa sejenis pohon palem, sedangkan sisi lainnya terdapat beberapa jenis pohon rindang namun tidak begitu banyak. Pohon-pohon tersebut beridiri di tengah trotoar.
+Ketiga, trotoar sisi timur jalan ini memiliki motif dan material beton berwarna. Terdapat pula bak kontrol dengan penutup yang masih lengkap.
 
-Saat ruang B sedang ramai, jalan ini cukup dipadati dengan kendaraaan yang parkir di bahu jalan. Tidak adanya lahan untuk kantong parkir menjadi penyebab pengunjung parkir di jalan.
 
     \item Naungan
+
+Kondisi ruang B yang memanjang dan tidak begitu lebar memungkinkan pembuatan naungan yang mudah. Naungan pada ruang B merupakan atap seng galvalum yang berdiri diantara kolom besi berukuran 25 cm (lihat gambar \ref{fig:ter}).
+Naungan tersebut menutupi seluruh area PKL dengan panjang sekitar 100 meter dan lebar 6.20 meter. Sedangkan, tinggi naungan ini diambil dari yang paling atas adalah 3.50 meter. Lebih lanjut, sejumlah PKL juga memasang `kain terpal' di sebelah barat untuk menghalangi sinar matahari dan angin dari samping (lihat gambar \ref{fig:ter}).
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/naub}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/terpl}
+\end{subfigure}\vspace{10pt}
+
+\caption{Naungan Ruang B}
+\label{fig:ter}
+\end{figure}
+
+Selain naungan buatan tadi, pohon-pohon juga turut membantu untuk meneduhkan area di sepanjang ruang B ini. Pohon-pohon tersebut tumbuh di pinggir jalan. Sebelah barat jalan, pohon-pohon ini memiliki jarak yang cukup jauh sekitar 3-5 meter. Ini memastikan pengunjung dengan mudah masuk ke area PKL. Sedangkan sebelah timur jalan, pohon-pohon adalah rindang tetapi jarang. Adapun jenis pohon-pohon teruraikan pada tabel \ref{tab:jphnb}.
+
+
+\begin{longtable}{c m{4cm} m{2cm} m{2cm} }
+	\caption{Jenis Pohon} \\
+    \label{tab:jphnb} \\
+    \toprule
+    Nama & Gambar & Tinggi (m) & Tajuk (cm)\\
+    \midrule
+    Pohon Palem &  \includegraphics[width=0.3\textwidth, height=2in]{figures/plewod} & 15 & 8-120\\
+
+    Pohon Ketapang & \includegraphics[width=0.3\textwidth,height=2in]{figures/pnbli} & 2 & 30-100\\
+
+    Pohon Hujan Abadi & \includegraphics[width=0.3\textwidth,height=2in]{figures/tremhu} & 15-25 & >100 \\
+
+    Pohon Kelapa & \includegraphics[width=0.3\textwidth,height=2in]{figures/plai} & 6-10 & 60-100 \\
+
+    Pohon Mangga & \includegraphics[width=0.3\textwidth,height=2in]{figures/plai} & 6-10 & 60-100 \\
+    \end{longtable}
+
     \item Tempat Duduk
     \item Sampah
 
