@@ -1319,17 +1319,20 @@ Tiap-tiap PKL menggunakan tempat tersebut ada yang 1 hingga 3 bidang. Adapun ben
 Setelah pemerintah membangun fasilitas permanen dan menata lokasi, PKL tinggal menyediakan tempat duduk dan membawa gerobak beserta isinya.
 Karakteristik tempat duduk PKL ini adalah meja panjang dan kursi-kursi plastik. Panjang meja tersebut dapat memuat 3-4 kursi. Selanjutnya, jarak antara meja satu dan lainnya itu cukup kecil, sekecil-kecilnya dapat memuat satu orang berjalan.
 
+Fasilitas lain yang ada di ruang B adalah ruang terbuka publik (RTP) (lihat gambar \ref{fig:rtpb}). RTP ini berada di ujung ruang yang berbatasan dengan Pasar Senggol.
+Monumen piala Adipura adalah sesuatu yang menonjol pada tempat ini.
+Sehingga pengunjung dapat dengan mudah mengenali RTP tersebut. Selain itu, RTP ini menyediakan tempat duduk dan toilet untuk pengunjung.
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/rtpba}
+    \caption{Ruang Terbuka Publik}
+    \label{fig:rtpb}
+\end{figure}
 
-Selain di
-tempat duduk di ruang terbuka
+Ukuran RTP tersebut cukup luas yaitu 18 m x 15 m. RTP ini bertingkat dua. Semua fasilitas utama diletakkan di tingkat dua sementara tingkat dasar hanya untuk ruang bebas saja dan dua toilet. Pada tingkat dua, ada dua bangku panjang \textit{(benches)}, monumen piala, dan dinding pembatas bertuliskan Parepare.
 
-
-
-
-
-
-
+Pada umumnya, material yang ada di RTP ini merupakan \textit{`hardscape'}. Pada tingkat dasar, material yang digunakan adalah plesteran dengan motif bata beton. Sedangkan pada tingkat dua, lantainya menggunakan keramik abu-abu berukuran 40 cm x 40 cm. Hampir semua permukaan pada RTP ini menggunakan plesteran, termasuk pada \textit{benches}.
 
 
     \item Sampah
