@@ -1079,7 +1079,7 @@ Kelima kedai makanan ini mempunyai tampak depan yang serupa seperti pada gambar 
 Kedai makanan menyediakan dua pilihan tempat duduk atau meja makan. Orang dapat bersantai di dalam dan di luar kedai makanan.
 Luas ruangan yang tersedia di dalam kedai makanan untuk meja makan adalah 64 meter persegi. Itu cukup luas untuk menampung belasan meja makan. Diluar dari itu, terdapat ruang kasir dan dapur didalam kedai tersebut. Sementara luas ruangan yang ada di diluar kedai hanya sebaris meja makan agar tidak mengganggu pengguna setapak.
 
-Meja makan kedai makanan ini disusun dengan empat kursi yang saling berhadap-hadapan. Bentuk mejanya mempunyai dua jenis yaitu persegi dan lingkaran. Ukuran kedua jenis meja tersebut adalah 80 cm x 80 cm. Karena meja makan ini ringan, banyak pengunjung yang sering memindahkannya lebih dekat ke laut (lihat gambar \ref{fig:amn1}). Sedangkan jenis kursi yang digunakan adalah kursi plastik berwarna hijau.
+Meja makan kedai makanan ini disusun dengan empat kursi yang saling berhadap-hadapan. Bentuk mejanya mempunyai dua jenis yaitu persegi dan lingkaran. Ukuran kedua jenis meja tersebut adalah 80 cm x 80 cm. Sejumlah meja ini sering berpindah tempat khususnya di tempat yang terbuka dan dekat laut (lihat gambar \ref{fig:amn1}). Sedangkan jenis kursi yang digunakan adalah kursi plastik berwarna hijau.
 
 \begin{figure}[htpb]
     \centering
@@ -1087,18 +1087,6 @@ Meja makan kedai makanan ini disusun dengan empat kursi yang saling berhadap-had
     \caption{Meja makan/ tempat duduk}
     \label{fig:amn1}
 \end{figure}
-
-
-
-
-
-
-
-
-
-
-
-
 
 %% Lebih lanjut, pembatas antara jalan setapak dan air seringkali dijadikan meja makan. Lebar pembatas ini adalah kurang lebih 82 cm, hampir sama dengan ukuran meja. untuk ruang B
 
@@ -1248,8 +1236,7 @@ Secara umum, jalan lokal ruang B merupakan terusan dari jalan lokal A. Sehingga 
 \end{figure}
 
 Banyak pengunjung yang menggunakan jalan ini sebagai tempat parkir (lihat gambar \ref{fig:pkr}). Tidak hanya untuk pengunjung ruang B tetapi pengunjung pasar Senggol juga turut memarkirkan kendaraan pada bahu jalan ini.
-Keadaan ini mengganggu ketertiban lalu lintas serta pejalan kaki yang mana ruangnya juga telah diambil oleh PKL. Terbatasnya lahan parkir untuk kantong parkir menjadi penyebab utama pengunjung parkir sembarangan.
-Sisi timur yang berpeluang sebagai lahan parkir merupakan tanah warga dan sebagian diisi oleh bangunan rumah dll.
+Kondisi ini mengganggu ketertiban lalu lintas dan pejalan kaki yang mana ruangnya telah diambil oleh PKL. Terbatasnya lahan parkir untuk kantong parkir menjadi penyebab utama pengunjung parkir sembarangan. Terakhir, sisi timur yang berpeluang sebagai lahan parkir merupakan tanah warga dan sebagian diisi oleh bangunan rumah dll.
 
 \begin{figure}[htpb]
     \centering
@@ -1260,6 +1247,20 @@ Sisi timur yang berpeluang sebagai lahan parkir merupakan tanah warga dan sebagi
 
 Kondisi seputar jalan di ruang B cukup berbeda dengan yang ada di ruang A. Pertama, jalan ini memiliki penerangan yang terbatas. Hanya terdapat tiga lampu jalan yang memiliki radius 40 meter. Meskipun begitu, bohlam lampu dari tiap-tiap PKL membantu penerangan hingga ke jalan pada malam hari. Kedua, pada siang hari jalan ini kurang teduh karena sedikitnya pohon rindang. Sisi barat jalan hanya ada beberapa sejenis pohon palem, sedangkan sisi lainnya terdapat beberapa jenis pohon rindang namun tidak begitu banyak. Pohon-pohon tersebut beridiri di tengah trotoar.
 Ketiga, trotoar sisi timur jalan ini memiliki motif dan material beton berwarna. Terdapat pula bak kontrol dengan penutup yang masih lengkap.
+
+Munculnya potensi di sektor ekonomi dan bisnis mengharuskan pegalihan fungsi pada jalan setapak. Jalan setapak (trotoar) merupakan jenis ruang yang tersedia oleh pemerintah untuk kepentingan khalayak \citep{rasdiana2013}. Namun, pemerintah kota Parepare mengalokasikan tempat ini khusus untuk PKL dengan alasan kepentingan pertumbuhan ekonomi.
+Alhasil, tumbuhlah konflik kepentingan dimana pihak-pihak lain juga berhak untuk menggunakan ruang umum tersebut untuk kepentingan lain.
+
+Salah satu pihak yang terimbas dampaknya adalah pejalan kaki. Dimana kondisi ini hanya meninggalkan satu opsi bagi pejalan kaki yaitu menggunakan bahu jalan atau trotoar sebelah. Tempat yang sebaiknya diperuntukkan untuk pejalan kaki akhirnya diisi dengan perlengkapan PKL. Gerobak-gerobak PKL tersebut menempati ruang b seperti gambar \ref{fig:pklb}. Ruang yang memiliki lebar 4.8 m tersebut merupakan ruang untuk aktivitas makan dan melihat-lihat pemandangan laut.
+
+Sementara itu, pemerintah tidak hanya meninggalkan tempat untuk pedagang tanpa perancangan. Lantai pada ruang ini memiliki pola desain yang menarik. Mereka menggunakan kombinasi lantai keramik abu-abu dan lantai koral sikat. Keduanya lantai tersebut disusun seperti gambar \ref{fig:pklb}.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.9\textwidth]{figures/pdstrnb}
+    \caption{Gambar rencana tempat PKL}
+    \label{fig:pklb}
+\end{figure}
 
 
     \item Naungan
@@ -1301,6 +1302,36 @@ Selain naungan buatan tadi, pohon-pohon juga turut membantu untuk meneduhkan are
     \end{longtable}
 
     \item Tempat Duduk
+
+PKL merupakan bagian dari ekonomi marginal (kecil-kecilan) yang termasuk dalam sektor informal \citep{rasdiana2013}. \citeauthor{rasdiana2013} menuturkan kemunculan PKL ini dipicu oleh keberhasilan pasar Senggol dalam menarik pengunjung.
+Seiring perkembangan kawasan di Pasar Senggol, pemerintah turut membantu PKL dalam menjalankan usaha. Salah satunya adalah dengan memperbaiki lantai, atap dan dinding (pembatas laut).
+
+Perbaikan pada tempat PKL ini menghadirkan bidang dengan jumlah 26 buah. Masing-masing bidangnya berukuran 3 m x 4.50 m. Jadi panjang keseluruhan bidang tersebut adalah 117 meter.
+Tiap-tiap PKL menggunakan tempat tersebut ada yang 1 hingga 3 bidang. Adapun bentuk pembatas dan penyangga tempat ini seperti pada gambar \ref{fig:tmpb}.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/tmpkb}
+    \caption{Fasilitas PKL}
+    \label{fig:tmpb}
+\end{figure}
+
+Setelah pemerintah membangun fasilitas permanen dan menata lokasi, PKL tinggal menyediakan tempat duduk dan membawa gerobak beserta isinya.
+Karakteristik tempat duduk PKL ini adalah meja panjang dan kursi-kursi plastik. Panjang meja tersebut dapat memuat 3-4 kursi. Selanjutnya, jarak antara meja satu dan lainnya itu cukup kecil, sekecil-kecilnya dapat memuat satu orang berjalan.
+
+
+
+Selain di
+tempat duduk di ruang terbuka
+
+
+
+
+
+
+
+
+
     \item Sampah
 
 Pengunjung yang besar memiliki potensi untuk menimbulkan tumpukan sampah pada suatu tempat. Apalagi apabila tempat sampah tidak tersedia dengan baik maka kebersihan suatu tempat dapat terganggu. Seperti contoh pada ruang B, ruang ini memiliki banyak pengunjung dan kurang tempat sampah. Sebagai tambahan, ruang ini juga tidak memiliki tempat sampah komunal.
