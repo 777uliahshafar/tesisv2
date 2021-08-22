@@ -1337,9 +1337,13 @@ Pada umumnya, material yang ada di RTP ini merupakan \textit{`hardscape'}. Pada 
 
     \item Sampah
 
-Pengunjung yang besar memiliki potensi untuk menimbulkan tumpukan sampah pada suatu tempat. Apalagi apabila tempat sampah tidak tersedia dengan baik maka kebersihan suatu tempat dapat terganggu. Seperti contoh pada ruang B, ruang ini memiliki banyak pengunjung dan kurang tempat sampah. Sebagai tambahan, ruang ini juga tidak memiliki tempat sampah komunal.
+Pengunjung yang banyak memiliki potensi untuk menimbulkan tumpukan sampah pada suatu tempat. Apalagi apabila tempat sampah tidak tersedia membuat kebersihan suatu tempat dapat terganggu. Seperti contoh pada ruang B, ruang ini memiliki banyak pengunjung dan kurang tempat sampah. Selain itu, ruang ini juga tidak memiliki tempat sampah komunal.
 
-Berbeda dengan ruang A yang mempunyai lahan yang cukup luas untuk membuang sampah di sembarang tempat. Ruang B tidak menyediakan lahan yang cukup luas untuk sampah tersebut. Akibatnya pengunjung tidak segan untuk membuangnya ke laut (lihat gambar \ref{fig:smpl}). Apabila ditimbang-timbang, ini dapat menganggu pengunjung yang mempunyai intensi untuk berenang di ruang tersebut. Pilihan lainnya pengunjung dapat membuangnya di lokasi pkl yang mana akan berakhir berserakan di jalan. Pilihan terakhir ini dapat ditanggulangi dengan adanya petugas kebersihan, berbeda dengan pilihan pertama yang hanya akan mencemari ekosistem maritim. Kecuali apabila pihak berwenang serius untuk menanggulangi pencemaran laut tersebut.
+Ruang aktivitas yang sangat berdekatan dengan laut membuat pengunjung pada ruang B membuang sampahnya di laut (lihat gambar \ref{fig:smpl}). Meskipun begitu, banyak juga pengunjung yang membuang sampahnya sembarangan di sekitar tempatnya makan. Tidak hanya di tempat PKL, RTP juga mengalami sampah yang berserakan (lihat gambar \ref{fig:rtpsmph}). Sampah tersebut berutumpukan di bawah bangku panjang tempat ini.
+
+Menurut \cite{adha2016} sampah merupakan sumber penyakit secara langsung maupun tidak langsung. Secara langsung sampah mendukung perkembangan berbagai macam parasit, bakteri dan patogen. Secara tidak langsung, sampah menopang serangga-serangga pembawa penyakit.Maka dari itu, meskipun sampah tersembunyi atau jauh dari jangkauan, sampah dapat menimbulkan kerugian di sekitarnya.
+
+Kondisi yang mempertaruhkan kebersihan ruang B memerlukan solusi yang tepat. Penanganan yang ada berupa petugas kebersihan membersihkan secara rutin tempat ini setelah digunakan. Dimana pemilik PKL juga bertanggung jawab atas pengumpulan sampah. Meskipun demikian, perlu adanya tempat sampah untuk pengujung mengumpulkan sampahnya secara mandiri. Sementara, pencemaran laut memerlukan tindakan khusus dan penanganan tersendiri oleh pihak yang tertentu.
 
 \begin{figure}[htbp]
 \centering
@@ -1353,20 +1357,77 @@ Berbeda dengan ruang A yang mempunyai lahan yang cukup luas untuk membuang sampa
 \caption{Sampah Ruang B}
 \label{fig:smpl}
 \end{figure}
-
-%Namun pada intinya pengelolaan sampah pada tempat ini masih kurang.
-
-Lebih parahnya lagi tempat ini tidak memiliki tempat sampah komunal.
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=6cm]{figures/smphbb}
+    \caption{Sampah di RTP}
+    \label{fig:rtpsmph}
+\end{figure}
 
     \item Drainase dan Sanitasi
-Tidak dipungkiri lagi PKL merupakan jenis kegiatan komersial yang mencangkup berbagai macam .
+
+Aspek ruang publik yang kurang perhatian dalam ruang B adalah sistem drainase dan sanitasi. Kendala aspek ini telah umum dalam sektor informal. Seperti tidak tersedianya fasilitas air bersih dan saluran pembuangan. Ini menimbulkan ketidaknyamanan yang dapat terlihat oleh pengunjung dan masyarakat.
+
+Kegiatan PKL yang berjualan makanan akan selalu berurusan dengan kebutuhan air bersih, kebersihan peralatan dan pembuangan air limbah. Untuk memenuhi kebutuhan air bersih, pedagang harus membawa air galon isi ulang untuk air minum. Serta air PAM dari rumah masing-masing untuk pencucian piring. Air bersih menjadi elemen penting untuk menjaga aspek sanitasi yang baik.
+
+Sanitasi juga mempertimbangkan kebersihan peralatan. Menurut \cite{adha2016} pada penelitian PKL di kota Payakumbuh, diatas setengah persen pengunjung menilai buruk kondisi tempat pencucian dan peralatan makan pada PKL. Kondisi tersebut telah menjadi stereotip kebanyakan PKL di Indonesia. Maka perhatian terhadap sanitasi untuk PKL pantai Senggol adalah perlu. Perhatian ini dapat mengikuti Peraturan Menteri Kesehatan RI No. 1096 Tahun 2011 tentang higiene sanitasi jasaboga lampiran bab II persyaratan teknis higiene dan sanitasi \citep{risan2011}.
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/sanits}
+    \caption{Kebersihan Peralatan Dapur}
+    \label{fig:its}
+\end{figure}
+
+Pembahasan tentang pembuangan air limbah mencakup air limbah kamar mandi dan dapur. WC umum pada ruang B telah memenuhi standar lokasi sanitasi. WC tersebut terletak di RTP jauh dari lokasi PKL. Sedangkan penanganan air limbah dapur pada ruang B kurang memenuhi standar. Air limbah dapur tersebut tergenang di bahu jalan lokal (lihat gambar \ref{fig:its}). Tambahan, air limbah ini tidak memiliki saluran menuju ke pembuangan tersendiri ataupun ke got kota. Seorang pemilik PKL membuang limbah air tersebut ke laut, sementara sisa makanan dia simpan untuk pakan ayam.
 
 
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/sanits}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/akses2}
+\end{subfigure}\vspace{10pt}
 
+\caption{Sanitasi PKL}
+\label{fig:its}
+\end{figure}
 
     \item Air
 
-        Diluar dari sampah yang ada di laut, pengunjung menjadikan tempat ini sebagai tempat permandian .
+Berdasarkan kenyataan yang tampak dilapangan, interaksi dengan air pada ruang B sangat besar. Banyak pengunjung dari berbagai kalangan berenang di tempat ini khususnya pada pagi hari.
+Aktivitas berenang sudah sejak lama di ruang yang memiliki PKL ini.
+PKL adalah salah satu pendukung aktivitas tersebut.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/fb2(5)}
+\end{subfigure}%
+\begin{subfigure}{7cm}
+\centering\includegraphics[width=6cm]{figures/tngg}
+\end{subfigure}\vspace{10pt}
+
+\caption{Interaksi Air}
+\label{fig:its}
+\end{figure}
+
+
+Interaksi air adalah penting pada sebuah kawasan tepi laut. Salah satu upaya ruang B untuk mendukung itu adalah dengan menyediakan akses yaitu tangga pada titik permandian. Titik permandian tersebut terbilang bersih, meskipun di beberapa tempat sekitarnya masih ada sejumlah sampah terlihat.
+
+Air juga dapat terukur melalui kualitas ekosistemnya. Pada ruang B, masih terdapat sejumlah orang yang memancing.
+Ikan-ikan masih dapat bertahan hidup di pesisir laut ini. Pada suatu waktu, penulis melihat ikan-ikan naik ke permukaan laut.
+Hal tersebut mengindikasikan ekosistem yang baik.
+Jarak antara ruang B dan pelabuhan yang jauh menjadi alasan kualitas air disini tidak terkontaminasi, berbeda dengan ruang A.
+
+
+
+
+
+
+
 
 \end{enumerate}
 
