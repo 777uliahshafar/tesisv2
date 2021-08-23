@@ -602,8 +602,62 @@ Berdasarkan tinjauan pustaka, aspek karakter pengunjung yang menjadi fokus penel
 \end{table}
 
 \newpage
-\section{Kerangka Penelitian}
-Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian berdasarkan aspek-aspek dari referensi terkait preferensi.
+\section{Proposisi Penelitian}
+
+Berdasarkan dari tinjauan pustaka, penulis merumuskan proposisi terkait dengan preferensi pengunjung terhadap ruang (lihat tabel \ref{tab:props}).
+Proposisi ini merupakan pedoman dalam pelaksanaan penelitian seperti dalam pengumpulan dan pengamatan data di lapangan.
+Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdasarkan atribut-atribut ruang dan karakter pengunjung. Sehingga pemilihan akhir dapat memenuhi kebutuhan pengunjung.
+
+Selanjutnya penulis menguraikannya menjadi kerangka konseptual yang berguna untuk memberi gambaran besar pembahasan penelitian ini. Kerangka ini menunjukkan teori tepi laut hingga teori preferensi untuk menjawab rumusan masalah
+Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konseptual penelitian seperti gambar \ref{fig:conc}.
+\newpage
+
+\begin{longtable}{l l l l p{.1\textwidth}}
+	\caption{Proposisi Penelitian} \\
+	\label{tab:props} \\
+    \toprule
+        \multicolumn{2}{c}{Karakter Pengguna} & \multicolumn{2}{c}{Atribut} & Preferensi Ruang \\
+        \midrule
+\multirow{5}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Umur}}} & 18-44 &
+\multirow{7}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Aksesibilitas}}} & Kemudahan dikenali &  \\
+
+& 45-64 & & Pencapaian melalui jalan & \\
+& $\ge$ 65  & & Bebas hambatan & \\
+& & & Penggunaan yang nyaman & \\
+& & & Pengawasan & \\
+\multirow{4}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Gender}}} & Laki-laki & & Ketersediaan parkir & \\
+& Perempuan & & & \\
+
+&  &
+\multirow{6}{*}{\rotatebox[origin=b]{90}{\parbox[t]{2mm}{ Keselamatan \mbox{dan keamanan}}}} & Derajat ketertutupan & \\
+
+&  & & Keramaian & \\
+\multirow{4}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Ras}}} &  Bugis & & Gangguan fisik dan sosial & \\
+& Bukan bugis & & Privatisasi & \\
+&  & & Pencahayaan & \\
+& & &  &  \\
+
+\multirow{7}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Status \mbox{pekerjaan}}}} & Karyawan &
+\multirow{6}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Estetika}}} & Derajat ketertutupan & \multirow{3}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{\mbox{Ruang A / Ruang B }}}} \\
+
+& Wiraswasta  & & Susunan (order) &  \\
+& Tidak bekerja& & Pola material & \\
+& Pelajar & & Kualitas dan tatanan furnitur & \\
+& Pensiun & & Pemeliharaan & \\
+& & &  & \\
+
+& &
+\multirow{5}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Fasilitas}}} & Memberi rasa nyaman & \\
+
+& & & Memberi relaksasi & \\
+& & & Mendukung interaksi sosial & \\
+& & & Mendukung privasi & \\
+& & & Keragaman penggunaan & \\
+
+\bottomrule
+\end{longtable}
+
+
 
 \begin{figure}[htbp]
 \centering
@@ -639,6 +693,7 @@ Dari hasil tinjauan pustaka peneliti menyusun kerangka konseptual penelitian ber
 \draw [arrow] (kar) -- (pre);
 \end{tikzpicture}
 \caption{Kerangka Konseptual}
+\label{fig:conc}
 \end{figure}
 
 \begin{comment}
@@ -1414,19 +1469,12 @@ PKL adalah salah satu pendukung aktivitas tersebut.
 \label{fig:its}
 \end{figure}
 
-
 Interaksi air adalah penting pada sebuah kawasan tepi laut. Salah satu upaya ruang B untuk mendukung itu adalah dengan menyediakan akses yaitu tangga pada titik permandian. Titik permandian tersebut terbilang bersih, meskipun di beberapa tempat sekitarnya masih ada sejumlah sampah terlihat.
 
-Air juga dapat terukur melalui kualitas ekosistemnya. Pada ruang B, masih terdapat sejumlah orang yang memancing.
-Ikan-ikan masih dapat bertahan hidup di pesisir laut ini. Pada suatu waktu, penulis melihat ikan-ikan naik ke permukaan laut.
-Hal tersebut mengindikasikan ekosistem yang baik.
+Air juga dapat terukur melalui kualitas ekosistemnya. Pada ruang B, sejumlah orang dapat  memancing.
+Ikan-ikan bertahan hidup di pesisir laut ini. Pada suatu waktu, penulis melihat ikan-ikan naik ke permukaan laut.
+Hal tersebut mengindikasikan ekosistem air disini masih terjaga.
 Jarak antara ruang B dan pelabuhan yang jauh menjadi alasan kualitas air disini tidak terkontaminasi, berbeda dengan ruang A.
-
-
-
-
-
-
 
 
 \end{enumerate}
