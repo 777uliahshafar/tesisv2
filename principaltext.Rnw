@@ -560,7 +560,7 @@ Selain daripada atribut ruang, preferensi terhadap ruang juga bergantung pada ka
 Penelitian tentang taman perkotaan, karakter pengunjung (sosio-demografi) mempengaruhi preferensi terhadap ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 %Umur dan status
-Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian \citep{cahyaningtyas2020, scott2002, swanwick2009, mak20019}.
+Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian \citep{cahyaningtyas2020, scott2002, swanwick2009, mak2019}.
 \cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang (lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Perbedaan juga tampak pada kesukarelaan untuk mengunjungi taman pada malam hari, anak muda lebih menyukai mengunjungi taman pada malam hari ketimbang manula \citep{mak2019}.
 
 
@@ -1431,7 +1431,7 @@ Sanitasi juga mempertimbangkan kebersihan peralatan. Menurut \cite{adha2016} pad
     \centering
     \includegraphics[width=0.8\textwidth]{figures/sanits}
     \caption{Kebersihan Peralatan Dapur}
-    \label{fig:its}
+    \label{fig:dra}
 \end{figure}
 
 Pembahasan tentang pembuangan air limbah mencakup air limbah kamar mandi dan dapur. WC umum pada ruang B telah memenuhi standar lokasi sanitasi. WC tersebut terletak di RTP jauh dari lokasi PKL. Sedangkan penanganan air limbah dapur pada ruang B kurang memenuhi standar. Air limbah dapur tersebut tergenang di bahu jalan lokal (lihat gambar \ref{fig:its}). Tambahan, air limbah ini tidak memiliki saluran menuju ke pembuangan tersendiri ataupun ke got kota. Seorang pemilik PKL membuang limbah air tersebut ke laut, sementara sisa makanan dia simpan untuk pakan ayam.
@@ -1447,7 +1447,7 @@ Pembahasan tentang pembuangan air limbah mencakup air limbah kamar mandi dan dap
 \end{subfigure}\vspace{10pt}
 
 \caption{Sanitasi PKL}
-\label{fig:its}
+\label{fig:san}
 \end{figure}
 
     \item Air
