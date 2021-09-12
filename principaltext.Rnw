@@ -152,8 +152,8 @@ Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di ka
 Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-    \item Untuk mengetahui preferensi pengunjung terhadap ruang berdasarkan atribut ruang publik tepi laut.
-    \item Untuk menyelidiki atribut terkait preferensi masyarakat terhadap ruang di tepi laut Senggol.
+    \item Untuk mengetahui preferensi pengunjung terhadap ruang berdasarkan atribut ruang publik.
+    \item Untuk menyelidiki kepentingan dari atribut terkait preferensi pengunjung terhadap ruang di tepi laut Senggol.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -456,7 +456,7 @@ Aspek lain yang menarik perhatian visual-estetika adalah integrasi bangunan. \ci
 
 Ketika berbicara tentang lanskap, hal yang penting berkaitan dengan aspek estetika adalah material lantai dasar \textit{floorscape} itu sendiri. Material lantai itu dapat menggambarkan banyak hal seperti perubahan material lantai mengindikasikan kepemilikan yang berbeda, beban lalu lintas (aspal untuk mobil dan batu bata atau batu untuk pejalan kaki), potensi bahaya dan memberi peringatan \citep{carr1992}. \citeauthor{carr1992} juga menambahkan aspek selain material lantai dalam lingkup lanskap keras. Kualitas dan tatanan sebuah furnitur jalan adalah indikator penting terhadap kualitas ruang perkotaan.
 
-Pola visual lanskap lembut (seperti pohon, tanaman, semak-semak) memberikan rasa kebaragaman untuk bekerja secara harmoni \citep{carr1992}. Penempatan pohon sebaiknya berdasarkan konteks kawasan, \citeauthor{heritage2000} menjelaskan strategi desain untuk pohon jalan dalam gambar berikut:
+Pola visual lanskap lembut (seperti pohon, tanaman, semak-semak) memberikan rasa kebaragaman untuk bekerja secara harmoni \citep{carr1992}. Penempatan pohon sebaiknya berdasarkan konteks kawasan, \citeauthor{heritage2000} menjelaskan strategi desain untuk pohon jalan dalam gambar \ref{fig:tre}.
 
 \begin{figure}[htpb]
     \centering
@@ -486,7 +486,7 @@ Penghindaran juga biasanya menjadi tanda ketakutan terhadap bentuk lingkungan te
 Selain itu, privatisasi atau menarik diri dari ranah publik dapat mendukung keamanan melalui pemisahan ruang \textit{(segregation)} seperti jaga jarak, pagar, dinding, gerbang, dan penghalang \citep{carr1992}. Dengan begitu, presepsi terkait ancaman dan tantangan dapat dihilangkan. Berdasarkan hasil temuan teori, penelitian ini mengambil parameter dari aspek keamanan dan keselamatan sebagai berikut: \begin{inparaenum} \item Derajat Ketertutupan \item Keramaian \item Gangguan fisik dan sosial \item Privatisasi \item Pencahayaan \end{inparaenum}.
 
 
-\subsection{Fasilitas}
+\subsection{Vitality/Fasilitas}
 
 \cite{carr1992} memberi perhatian terhadap ruang publik yang sukses dapat mendukung dan memfasilitasi aktivitas. Ini mengindikasikan hubungan antara ruang dan aktivitas dimana \textit{Project for Public Space} (PPS) menegaskan bahwa ketika seseorang mengamati ruang mereka memahami bagaimana itu dapat digunakan daripada bagaimana pendapat mereka itu digunakan.
 Pengguna cenderung pada aktivitas yang didasarkan oleh sumber daya yang disediakan oleh ruang publik, seperti fasilitas meja, kursi, olahraga dan pegangan \citep{lin2011}.
@@ -545,7 +545,7 @@ Dari hasil tinjauan pustaka, peneliti merangkum faktor-faktor fasilitas antaral 
 & & Kualitas dan tatanan furnitur jalan\\
 & & Pemeliharaan\\
 \midrule
-\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Fasilitas} & Memberi rasa nyaman \\
+\multirow{ 3}{*}{4.} & \multirow{ 3}{*}{Vitalitas / Fasilitas} & Memberi rasa nyaman \\
 & & Memberi relaksasi \\
 & & Mendukung interaksi sosial\\
 & & Mendukung privasi \\ % teori belum di masukkan
@@ -647,7 +647,7 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
 & & &  & \\
 
 & &
-\multirow{5}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Fasilitas}}} & Memberi rasa nyaman & \\
+\multirow{5}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Vitalitas \mbox{/Fasilitas}}}} & Memberi rasa nyaman & \\
 
 & & & Memberi relaksasi & \\
 & & & Mendukung interaksi sosial & \\
@@ -1478,7 +1478,6 @@ Jarak antara ruang B dan pelabuhan yang jauh menjadi alasan kualitas air disini 
 
 
 \end{enumerate}
-
 
 %-------------------------------------------------------------------------------
 %
