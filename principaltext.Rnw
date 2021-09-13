@@ -210,19 +210,21 @@ Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebua
 	\textbf{Gambaran Objek}\\  Kondisi ruang A dan B tepi Laut Senggol Parepare berdasarkan atribut ruang
 };
 
-\node (met) [startstop, below of=pus, yshift=-4cm, text width=7cm] {
-	\textbf{Metode Peneltian}\\ Menggunakan metode penelitian kualitatif ekploratif. Peneliti menyusun proposisi atribut ruang terkait preferensi masyarakat terhadap ruang publik.
+\node (met) [startstop, below of=pus, yshift=-5cm, text width=7cm] {
+	\textbf{Metode Peneltian}.\\
+Penelitian ini bersifat eksploratif untuk menelusuri atribut yang ada yang terkait preferensi pengunjung terhadap tepi laut. Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
 
-	\textbf{Sumber data}: Observasi, wawancara dan kuesioner
+	Sumber data: Observasi dan kuesioner survei dengan metodologi campuran.
 };
 
-\node (ana) [startstop, below of=met, text width=8cm, yshift=-3.2cm] {
-		\textbf{Analisis Data Statistik}\\ Penelitian ini menggunakan metode kualitatif eksploratif untuk menelusuri atribut yang ada yang terkait preferensi pengunjung terhadap tepi laut. Penyajian data menggunakan analisis statistik dasar untuk mengetahui frekuensi dan persentasi keseluruhan data.
-};
+\node (ana) [startstop, below of=met, yshift=-2cm, text width=8cm ] {
+		\textbf{Analisis data}
 
-\node (tem) [startstop, below of=ana, yshift=-1cm] {Temuan Penelitian};
+         };
 
-\node (kes) [startstop, below of=tem, yshift=.6cm] {Kesimpulan dan Rekomendasi};
+\node (tem) [startstop, below of=ana] {\textbf{Temuan Penelitian}};
+
+\node (kes) [startstop, below of=tem, yshift=.6cm, text width=6cm] {Kesimpulan, keterbatasan dan rekomendasi};
 
 \draw [arrow] (ltr) -- (rum);
 \draw [arrow] (rum) -- (tuj);
@@ -603,12 +605,11 @@ Berdasarkan tinjauan pustaka, aspek karakter pengunjung yang menjadi fokus penel
 
 \newpage
 \section{Proposisi Penelitian}
-
-Berdasarkan dari tinjauan pustaka, penulis merumuskan proposisi terkait dengan preferensi pengunjung terhadap ruang (lihat tabel \ref{tab:props}).
+Berdasarkan dari tinjauan pustaka dan observasi lapangan mengindikasikan perlunya membentuk proposisi untuk ruang publik yang mana memperhatikan kebutuhan pengunjung dan atribut unik dari objek penelitian (lihat tabel \ref{tab:props}).
 Proposisi ini merupakan pedoman dalam pelaksanaan penelitian seperti dalam pengumpulan dan pengamatan data di lapangan.
 Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdasarkan atribut-atribut ruang dan karakter pengunjung. Sehingga pemilihan akhir dapat memenuhi kebutuhan pengunjung.
 
-Selanjutnya penulis menguraikannya menjadi kerangka konseptual yang berguna untuk memberi gambaran besar pembahasan penelitian ini. Kerangka ini menunjukkan teori tepi laut hingga teori preferensi untuk menjawab rumusan masalah
+Selanjutnya kerangka konseptual dibangun yang terdiri atas empat tema yang meliputi fokus untuk penelitian. Kerangka merupakan alat untuk mengartikan variabel yang saling berhubungan yang menjelaskan ruang publik tepi laut. Kerangka konseptual atribut dan temanya merupakan dasar untuk membentuk kuesioner survei dan mengelola kode dari respon kuesioner.
 Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konseptual penelitian seperti gambar \ref{fig:conc}.
 \newpage
 
@@ -728,15 +729,21 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
 
 \section{Jenis Penelitian}
 
-Penelitian kualitatif bersifat eksploratif adalah jenis metode  yang berguna untuk mengeksplorasi topik penelitian meskipun pemahaman terhadap fenomena masih kurang. Topik yang menjadi bahan eksplorasi penelitian ini adalah preferensi pengunjung terhadap ruang berdasarkan atribut yang dipelajari pada ruang publik tepi laut Senggol.
-Sedangkan metode kualitatif sendiri berupaya untuk memahami kondisi tertentu dengan menginterpretasikan masalah atau dengan menyimpulkan kombinasi dari berbagai permasalahan. Penelitian tersebut dilakukan melalui pengamatan preferensi masyarakat terhadap ruang yang ada di tepi laut Senggol sekaligus interaksi dengan subjek, pemahaman terhadap bahasa dan tafsir serta penjelajahan gejala atau fenomena secara lengkap dan menyeluruh. Menurut \cite{groat2013}, penelitian kualitatif menekankan  pada proses induktif, sebagaimana \citeauthor{creswell2016} menjelaskan ini dengan pemberian pertanyaan \textit{open-ended}, sementara pertanyaan tersebut dapat berkembang seiring pemahaman peneliti terhadap masalah dilapangan.
+Penelitian ini bersifat ekploratif yang merupakan jenis metode  yang berguna untuk mengeksplorasi topik penelitian meskipun pemahaman terhadap fenomena masih kurang.
+Serta menggunakan kuesioner survei metodologi campuran dan proses \textit{grounded theory}.
+Proses \textit{grounded theory} adalah pendekatan untuk memahami secara konteksual pengguna dan objek penelitian \citep{culp2006}. \cite{culp2006} menegaskan pendekatan itu menghasilkan klarifikasi makna dan kepentingan relatif dari desain tema atribut ruang publik.
+
+\textit{Grounded thoery} memiliki kekuatan untuk menghasilkan suatu teori, suatu skema analitis abstrak dari suatu fenomena yang berhubungan dengan prespektif awam atau rakyat \citep{cresswell1998}.
+Melalui metode analisis, teori tersebut tergabung dalam penelitian exploratif ini \citep{culp2006}. Dimana pengunjung lebih berperan aktif mempertimbangkan hasil persektif dalam pemilihan ruang dan atribut-atribut ruang publik. Penelitian terlaksana melalui pengamatan preferensi masyarakat terhadap ruang yang ada di tepi laut Senggol sekaligus pengumpulan respon survei \textit{(mixed-methedology)}, pemahaman terhadap bahasa dan tafsir serta explorasi gejala atau fenomena secara lengkap dan menyeluruh.
+
+Penelitian ini menyediakan kerangka konseptual untuk atribut ruang publik yang teradaptasi terhadap ruang. Pembahasan penelitian  meliputi pertama, analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Analisis ini menekankan pada data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Pengujian statistik mendukung menentukan apakah teori yang tersedia kebenarannya ada \citep{bungin2005}. Kedua, penilaian kualitatif dari respon pendapat untuk memperkaya pemahaman.
+
+
+%Menurut \cite{groat2013}, penelitian kualitatif menekankan  pada proses induktif, sebagaimana \citeauthor{creswell2016} menjelaskan ini dengan pemberian pertanyaan \textit{open-ended}, sementara pertanyaan tersebut dapat berkembang seiring pemahaman peneliti terhadap masalah dilapangan.
 
 
 %Metode lain yang digunakan adalah metode statistik sederhana dengan menggunakan \textit{crosstab} untuk mengetahui hubungan atribut dan preferensi masyarakat terhadap ruang.
 
-%Selain itu, penelitian ini juga menggunakan metode analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Metode ini menekankan pada analisis data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}.
-
-%Melalui pendekatan ini, alasan preferensi dibangun berdasarkan teori yang terdiri dari beberapa variabel, kemudian diuji melalui analisis statistik untuk menentukan apakah teori yang tersedia kebenerannya ada \citep{bungin2005}. \cite{muhadjir1996} menambahkan rasionalistik sebagai pemahaman manusia, yang terbentuk atas kemampuan argumentasi secara logik, bukan sekedar pengalaman emperi melainkan pemahaman emperi.
 
 \section{Lokasi dan Waktu Penelitian}
 Kawasan \textit{waterfront} Senggol di Kota Parepare adalah lokasi objek penelitian ini. Kawasan ini baru saja mengalami peningkatan dari segi infrastruktur walaupun belum semua ditandai berhasil dalam menarik pengunjung. Saat ini, ada beberapa titik yang mempunyai peningkatan infrastruktur yang cukup namun belum maksimal mendatangkan pengunjung. Itu yang melatarbelakangi penelitian ini.
@@ -764,8 +771,8 @@ Alat rekam adalah peralatan yang digunakan untuk merekam atau mengumpulkan data 
 \begin{itemize}
     \item \textit{Kamera gawai}, berfungsi untuk merekam data tentang pengaturan \textit{(setting)} dan atribut yang ada pada kawasan tepi laut.
     \item \textit{Kertas dan alat tulis}, berfungsi untuk merekam preferensi masyarakat berkaitan atribut-atribut yang ada di lapangan.
-    \item \textit{Perekam Suara}, berfungsi sebagai \textit{backup} tulisan narasi narasumber saat wawancara berlangsung .
-    \item \textit{Tabel dan matriks}, sebagai alat untuk menganalisis.
+    \item \textit{Kuesioner survei}, berfungsi sebagai alat pengumpulan data dari pengunjung di objek penelitian.
+    \item \textit{Tabel dan Diagram}, sebagai alat untuk menganalisis.
 \end{itemize}
 
 \section{Langkah-langkah Penelitian}
@@ -774,11 +781,10 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
 
  \begin{itemize}
      \item Studi pendahuluan, mempersiapkan data-data informasi terkait preferensi ruang untuk meningkatkan pemahaman terhadap permasalahan yang diambil serta membantu peneliti ketika terjun ke lapangan/ objek penelitian.
-     \item Langkah kedua adalah observasi dan wawancara. Observasi untuk memahami objek penelitian secara langsung berdasarkan kebenarannya, situasi, kondisi, konteks, ruang, serta maknanya dalam upaya pengumpulan data. Wawancara mendalam juga dilakukan dengan narasumber dengan tujuan mengumpulkan pendapat terkait preferensinya terhadap ruang dan atribut yang ada di tepi laut Senggol.
-
+     \item Langkah kedua adalah observasi dan survei kuesioner. Observasi untuk memahami objek penelitian secara langsung berdasarkan kebenarannya, situasi, kondisi, konteks, ruang, serta maknanya dalam upaya pengumpulan data. Pengisian survei kuesioner  juga dilakukan dengan responden dengan tujuan mengumpulkan pendapat terkait preferensinya terhadap ruang dan atribut yang ada di tepi laut Senggol.
 %         Sebagai tambahan, melakukan penyebaran kuesioner yang telah tersusun berdasarkan literatur tentang preferensi sebagai landasan eksplorasi pada objek penelitian.
 %         Pengunjung ditanya untuk menandai pendapat mereka terhadap daftar persoalan berdasarkan skala Likert lima-poin.
-     \item Setelah memperoleh hasil dari observasi dan wawancara, peneliti menganalisis hasil preferensi ruang dan atribut pengunjung. Analisis data merupakan analisis frekuensi distribusi untuk menjabarkan persentase data. Data tersebut dapat berasal dari pengamatan langsung atau wawancara.
+     \item Setelah memperoleh hasil dari observasi dan survei, peneliti menganalisis hasil preferensi ruang dan atribut pengunjung. Analisis data merupakan analisis frekuensi distribusi untuk menjabarkan persentase data dan penilaian kualitatif terhadap respon pendapat. Data tersebut dapat berasal dari pengamatan langsung atau respon survei dengan pertanyaan tertutup maupun terbuka \textit{(open-ended)}.
      \item Langkah terakhir adalah mengungkap fenomena yang dijumpai dan memaknainya sesuai dengan tujuan penelitian. Dengan begitu, penelitian dapat menghasilkan temuan yang baru untuk dijadikan sebagai acuan dalam menarik kesimpulan dan rekomendasi dari penelitian ini.
  \end{itemize}
 
@@ -801,21 +807,24 @@ Penelitian preferensi ruang pada kawasan \textit{waterfront} masih sedikit penel
 \section{Metode Pengumpulan Data}
 \subsection{Data Primer}
 
-Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung dan wawancara. Sumber data tersebut berasal dari partisipan kawasan tepi laut Senggol, khususnya mereka yang turut berinteraksi dan bersedia menjawab pertanyaan dalam wawancara.
+Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung dan kuesioner survei. Sumber data tersebut berasal dari responden kawasan tepi laut Senggol, khususnya mereka yang turut berinteraksi dan bersedia menjawab pertanyaan dalam kuesioner secara utuh.
 
 Pengamatan langsung atau observasi \textit{(observation)} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
-Adapun yang menjadi perhatian adalah bagaimana kecenderungan pengunjung terhadap ruang \textit{(waterfront)} senggol dan aspek apa saja yang mempengaruhi kecenderungannya tersebut.
+Adapun yang menjadi perhatian adalah bagaimana pola kecenderungan pengunjung terhadap ruang \textit{(waterfront)} senggol dan atribut apa saja yang muncul dalam memilih sebuah ruang.
 Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
+Sedangkan kuesioer survei akan mengumpulkan, menganalisis, dan menerjemahkan hubungan dan pola pada preferensi dan pendapat pengguna. Dengan demikian, menghasilkan pemahaman terhadap prioritas pengguna terhadap ruang publik.
 
-Selain itu, peneliti juga melakukan wawancara untuk mencari data yang lebih lengkap terkait topik penelitian. Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pengambilan \textit{sampling} secara acak (random) dengan mengutamakan informan yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian. Selama sejumlah informan memberikan informasi yang memenuhi tujuan penelitian, maka berapapun jumlah informan tersebut dianggap cukup. Kemudian,  informan yang merupakan pengunjung kawasan tepi laut Senggol diharapkan memenuhi sejumlah kriteria sebagai berikut:
+Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pengambilan \textit{sampling} secara acak (random) dengan mengutamakan responden yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian.
+Setiap yang akan menjadi responden dielu-elukan dan diberikan informasi \textit{background} terhadap penelitian, serta diberitahukan kriteria yang dibutuhkan untuk menyelesaikan kuesioner.
+Penelitian ini menargetkan setidaknya 65 respon survei, namun berdasarkan teknik pengambilan sampling berapapun jumlah responden diterima asal  memberikan informasi yang memenuhi tujuan penelitian.
+Terakhir,  responden yang merupakan pengunjung kawasan tepi laut Senggol diharapkan memenuhi sejumlah kriteria sebagai berikut:
 \begin{enumerate}
     \item Orang yang memiliki pemahaman terhadap tempat secara mendalam.
     \item Orang yang terlibat dalam kegiatan sosial dan budaya pada objek penelitian.
-    \item Orang yang mempunyai waktu luang untuk diwawancarai.
+    \item Orang yang mempunyai waktu luang untuk menjawab kuesioner.
     \item Orang yang secara akal dan mandiri dalam menyampaikan informasi.
 \end{enumerate}
 
-Peneliti memberikan pertanyaan kepada informan berkaitan dengan preferensi mereka dalam pemilihan ruang berdasarkan atribut-atribut pada sebuah kawasan \textit{waterfront}. Wawancara mendalam dilakukan untuk menafsirkan atau memahami keterangan atau informasi yang didapatkan dari narasumber. Poin utama yang peneliti dapat simpulkan sementara kemudian dikembangkan berdasarkan \textit{background knowledge} dan analisis peneliti untuk mendapatkan temuan penelitian.
 
 \subsection{Data Sekunder}
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
