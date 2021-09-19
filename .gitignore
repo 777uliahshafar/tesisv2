@@ -24,6 +24,7 @@
 *.mtc1
 *.out
 *.synctex.gz
+notes/
 *.run.xml
 .DS_Store
 *.fls
