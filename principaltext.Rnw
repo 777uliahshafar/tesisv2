@@ -291,6 +291,9 @@ Maka penulis mengumpulkan data-data dari penelitian itu dalam bentuk sebuah tabe
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
+
+
+\section{Ruang Publik Waterfront}
 \subsection{Pengertian Waterfront}
 \label{sub:defwat}
 
@@ -355,7 +358,6 @@ Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan
 Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter pengunjung tepi laut \textit{(individual's own situation and characteristicts)}.
 
 
-\section{Ruang Publik Waterfront}
 \section{Preferensi}
 \label{sub:pref}
 Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban \textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
@@ -384,7 +386,7 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
 \end{figure}
 
 
-\section{Elemen Ruang Publik}
+\section{Preferensi Ruang dan Elemen Ruang Publik}
 
 %definisi elemen
 Menurut \cite{carmona2021}, ranah publik terdiri atas dimensi `fisik' (ruang) dan `social' (aktivitas). Dia mengartikan ranah publik \textit{fisik} sebagai ruang dan tatanannya atau disebut sebagai elemen. Sehingga elemen merupakan pembentuk suatu lingkungan berupa lanskap yang lembut, bangku, air mancur dll pada suatu ranah publik. Istilah ruang dan tatanan dan elemen secara bersamaan akan digunakan pada penelitian ini.
@@ -394,7 +396,7 @@ Sejumlah peneliti  lebih menyukai menggunakan sebutan lain dari suatu elemen seb
 
 %elemen sebagai perseptual
 \cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang hidupnya \citep{lynch1984}. Meskipun demikian \citeauthor{lynch1984} lebih cenderung terhadap informasi perseptual terhadap suatu bentuk fisik (elemen), bukan terhadap `makna' lingkungan itu sendiri seperti apakah lingkungan itu disukai atau tidak \citep{knox2014}.
-Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah elemen individu.
+Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah elemen individu. Keragaman tersebut menimbulkan perilaku dan preferensi yang berbeda-beda baik itu menarik atau menjauhkan seseorang dari sebuah lingkungan \citep{manyani2021}.
 \cite{knox2014} menambahkan, semua elemen lingkungan perkotaan \textit{(element of urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang.
 
 Meskipun faktor fisik menentukan tindakan dan perilaku seseorang, peluang lingkungan lebih jelas mempengaruhi apa yang orang yang bisa dan yang tidak bisa dilakukan \citep{carmona2021}.
@@ -403,11 +405,15 @@ Demikian menunjukkan bahwa perilaku orang menjelma pada konteks dan tatanan fisi
 Selain menentukan perilaku dan tindakan orang, mengubah kemungkinan tindakan dan perilaku tertentu yang terjadi merupakan bagian dari desain perkotaan \citep{carmona2021}. Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja.
 Pilihan yang terjadi dapat dipengaruhui oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}. \citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Kasus studinya yaitu ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari tetapi seseorang harus meninggalkan ruang publik.
 
-Untuk meningkatkan penggunaan sebuah ruang publik, pemeliharaan dan kualitas harus ditingkatkan. Perhatian desain perkotaan menitik beratkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Ini menunjukkan adanya hubungan elemen \textit{(physical public space)} dan kehidupan publik.
-Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll. Terakhir, sejumlah penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)}.
+Untuk meningkatkan penggunaan sebuah ruang publik, pemeliharaan dan kualitas harus ditingkatkan.
+Penelitian telah lama mengasosiasikan elemen \textit{(physical public space)} dan kehidupan publik.
+Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik).
+Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll.
+%Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
+%Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
 
+\section{Elemen-elemen yang mempengaruhi preferensi}
 
-\subsection{Elemen Carrmonak}
 
 
 
