@@ -195,6 +195,8 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{lscape}
 \usepackage{longtable} % Enable table cross multiple page
 \usepackage{array} %Mostly formatting columns and spacing
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}} %centering elemen in table
+
 \usepackage{enumitem} % Required for list customisation
 
 \setlist{noitemsep} % No spacing between list items
@@ -226,6 +228,9 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 % CONFIGURATION OF TIKZ
 \usepackage{tikz}
 \usetikzlibrary{shapes.geometric, arrows}
+
+% Create checkmark symbol
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
 
 % Configuration of Tikz FlowChart
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black]

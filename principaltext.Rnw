@@ -80,11 +80,11 @@ Pemahaman preferensi terhadap ruang publik yang lebih baik dapat membantu pemang
 
 Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. \cite{lynch1984} menjelaskannya dalam ranah ruang perkotaan sebagai citra lingkungan (kualitas fisik objek) yang membangkitkan kesan yang kuat terhadap pengamat. \citeauthor{lynch1984} menyebutkan citra lingkungan tersebut terbentuk atas identitas, struktur, dan makna.
 \cite{knox2014} melihat bahwa makna juga melekat pada elemen lingkungan perkotaan yang mana sama atau lebih penting daripada aspek struktur dan fisik.
-Atribut ruang, istilah lain elemen lingkungan adalah fitur atau kualitas dari lingkungan yang mana bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}. \cite{carr1992} berpendapat bahwa lingkungan dapat mengesankan atau dilupakan, disukai atau tidak disukai.
+Elemen lingkungan adalah fitur atau kualitas dari lingkungan yang mana bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}. \cite{carr1992} berpendapat bahwa lingkungan dapat mengesankan atau dilupakan, disukai atau tidak disukai.
 
 % proposisi atribut
 Beberapa penelitian menemukan proposisi terkait preferensi pengunjung pada ruang publik. Pada penelitian preferensi pengunjung dalam melepas stress terhadap ruang hijau menunjukkan orang lebih menyukai tempat yang sepi (penggunaan rendah) saat ingin melepas stress. Sementara preferensi pengunjung secara umum menempatkan desain jalan setapak lebih utama \citep{arnberger2015}.
-\cite{alves2008} menunjukkan tujuh atribut yang menjadi pertimbangan dalam hal perilaku orang dalam memilih. Beberapa diantarnya adalah jarak, fasilitas, pohon, pemeliharaan, aksesibel dan beragam.
+\cite{alves2008} menunjukkan tujuh atribut yang menjadi pertimbangan dalam hal perilaku orang dalam memilih. Beberapa diantaranya adalah jarak, fasilitas, pohon, pemeliharaan, aksesibel dan beragam.
 \cite{wen2018} memfokuskan penelitiannya kepada manula, dia menyimpulkan manula umumnya memiliki preferensi terhadap fitur lanskap yang alami, estetik, komprehensif dan beragam dengan fasilitas yang aksesibel dan terpelihara.
 
 % existing research
@@ -102,19 +102,17 @@ Namun terlepas dari studi berkaitan dengan preferensi ruang publik, sepengetahua
 
 Lebih lanjut, sangat penting untuk melakukan penilaian lokal karena preferensi tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
 Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulsel.
-Selain memperhatikan preferensi pengunjung terhadap ruang, peneliti juga akan menyelidiki kepentingan relatif dari berbagai atribut yang berbeda.
+Selain memperhatikan preferensi pengunjung terhadap ruang, peneliti juga akan menyelidiki kepentingan relatif dari berbagai elemen yang berbeda.
 
 \section{Rumusan Masalah}
 Kawasan tepi laut merupakan kawasan yang sangat rentan dan bernilai tinggi \citep{mullin2000}. Sebagai area yang merupakan bagian yang tidak terpisahkan dari sebuah kota \citep{hussein2014}.
 
 Pengembangan tepi laut yang berhasil menarik masyarakat untuk datang ke pesisir. Keberhasilan suatu tepi laut menjadi tanda sebuah kota yang berhasil.
 
-Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Potensi ini menjadi alasan perhatian khusus terhadap kawasan tepi laut di pesisir kota Parepare sebagai kota Pariwisata.
-Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini memunculkan dua ruang yang memiliki lingkungan dengan atribut yang berbeda.
-Ruang publik yang berhasil ditandai dengan kehadiran orang \citep{carr1992, hoyle2001}.
-Menurut \cite{swanwick2009}, atribut ruang (seperti keberagaman, kontras dan warna) mendasari presepsi dan kesukaan  orang terhadap lanskap tertentu berkaitan dengan lanskap secara keseluruhan.
-Akan tetapi yang terjadi di tepi laut Senggol, ruang yang menunjukkan faktor perseptual yang lengkap tampaknya kurang dicenderungi oleh pengunjung. Berbeda dengan ruang yang atributnya kurang menunjukkan tingkat kecenderungan yang besar.
-Ruang yang memiliki atribut ruang yang lengkap disebut ruang A sedangkan ruang satunya yang memiliki atribut yang kurang disebut ruang B.
+Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Salah satu objek pariwisata yang menonjol di kota Parepare adalah tepi laut Senggol. \cite{vayona2011} menyatakan bahwa tanda keberhasilan kota dapat dilihat dari pembangunan yang berada di pesisir laut.
+Potensi ini menjadi alasan perhatian khusus terhadap kawasan tepi laut di pesisir kota Parepare.
+
+Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini memunculkan dua ruang dengan tatanan (elemen) yang berbeda. Elemen menjadi faktor keberhasilan sebuah ruang publik yang ditandai dengan kehadiran orang \citep{carr1992, hoyle2001}. Orang menilai elemen tersebut berdasarkan pemaknaan atau informasi perseptual apakah mereka menyukai atau tidak. \cite{swanwick2009} menyimpulkan faktor presepsi dan estetika mendasari kesukaan terhadap ruang tertentu yang meliputi lanskap secara keseluruhan antara lain keberagaman, kontras, warna, jumlah elemen. Beberapa penelitian menunjukkan bahwa orang lebih suka pada elemen alami daripada elemen atau lahan yang diberkembangkan \cite{swanwick2009}. Pada penelitian ini, berfokus pada dua ruang yang memiliki karakteristik yang berbeda. Satu ruang (ruang A) yang terlihat seperti lebih dikembangkan dan satu lainnya (ruang B) terlihat kurang dikembangkan. Ruang kedua lebih menunjukkan kepemilikan elemen alami yang lebih. Meskipun terdapat kesamaan secara empiris pada penelitian terdahulu, penelitian ini lebih merujuk pada kondisi tepi laut \textit{(waterfront)} serta elemen-elemen yang disukai.
 
 %Untuk meningkatkan sebuah kawasan perlu memahami kebutuhan pengguna karena mereka adalah pengguna yang sebenarnya \citep{ozguner2011}.
 %Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
@@ -125,13 +123,13 @@ Ruang yang memiliki atribut ruang yang lengkap disebut ruang A sedangkan ruang s
 %Untuk meningkatkan keberhasilan tersebut perlu mementingkan kebutuhan pengguna taman sebagai pengguna yang sebenarnya \citep{ozguner2011}.
 %Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
 
-Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi pengunjung yang sebenarnya terhadap ruang dan atribut di kawasan tepi laut senggol.
+Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi pengunjung yang sebenarnya terhadap ruang dan elemen di kawasan tepi laut senggol.
 Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 
 \begin{enumerate}
-    \item Apa preferensi ruang masyarakat di kawasan tepi laut Senggol?
-    \item Apa atribut yang paling penting terhadap pemilihan ruang? Apakah kepentingannya bervariasi diantara ruang-ruang?
+    \item Bagaimana preferensi pengunjung terhadap ruang di ruang-ruang tepi laut?
+    \item Bagaimana hubungan keseluruhan elemen dan preferensi ruang?
         % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
 \end{enumerate}
 
@@ -146,14 +144,14 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 %Belum muncul fitur ruang yang sebenarnya terkait preferensi ruang
 
 \section{Tujuan Penelitian}
-Penelitian ini bertujuan untuk menelusuri preferensi pengunjung terhadap ruang di kawasan tepi laut.
-Preferensi masyarakat juga akan dijelaskan dalam konteks atribut-atribut ruang yang dapat mempengaruhi perilaku mereka.
+Penelitian ini bertujuan untuk mengetahui preferensi pengunjung terhadap ruang di kawasan tepi laut.
+Preferensi masyarakat juga akan dijelaskan dalam konteks elemen ruang yang dapat mempengaruhi perilaku orang.
 Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di kalangan masyarakat dan pengunjung.
-Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan atribut pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
+Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan elemen-elemen pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-    \item Untuk mengetahui preferensi pengunjung terhadap ruang berdasarkan atribut ruang publik.
-    \item Untuk menyelidiki kepentingan dari atribut terkait preferensi pengunjung terhadap ruang di tepi laut Senggol.
+    \item Untuk mengetahui jenis ruang yang paling dicenderungi di kawasan tepi laut.
+    \item Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -204,17 +202,17 @@ Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebua
 \node (pus) [startstop, below of=tuj, yshift=0.5cm] {Studi Pustaka};
 
 \node (kaj) [startstop, below of=pus, text width=4cm, xshift= -4cm, yshift=-.2cm] {
-	\textbf{Kajian Teori}\\ - Ruang publik waterfront\\ - Preferensi ruang\\ - Atribut ruang
+	\textbf{Kajian Teori}\\ - Ruang publik waterfront\\ - Preferensi ruang\\ - Elemen ruang
 };
 
 
 \node (kaj2) [startstop, below of=pus, text width=3.5cm, xshift= 4cm, yshift=-.2cm] {
-	\textbf{Gambaran Objek}\\  Kondisi ruang A dan B tepi Laut Senggol Parepare berdasarkan atribut ruang
+	\textbf{Gambaran Objek}\\  Kondisi ruang A dan B tepi Laut Senggol Parepare berdasarkan elemen ruang
 };
 
 \node (met) [startstop, below of=pus, yshift=-5cm, text width=7cm] {
 	\textbf{Metode Peneltian}.\\
-Penelitian ini bersifat eksploratif untuk menelusuri atribut yang ada yang terkait preferensi pengunjung terhadap tepi laut. Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
+Penelitian ini bersifat eksploratif untuk menelusuri elemen yang ada yang terkait preferensi pengunjung terhadap tepi laut. Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
 
 	Sumber data: Observasi dan kuesioner survei dengan metodologi campuran.
 };
@@ -290,8 +288,6 @@ Maka penulis mengumpulkan data-data dari penelitian itu dalam bentuk sebuah tabe
 \end{comment}
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
-
-
 
 \section{Ruang Publik Waterfront}
 \subsection{Pengertian Waterfront}
@@ -386,7 +382,7 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
 \end{figure}
 
 
-\section{Preferensi Ruang dan Elemen Ruang Publik}
+\section{Elemen sebagai Pembentuk Preferensi}
 
 %definisi elemen
 Menurut \cite{carmona2021}, ranah publik terdiri atas dimensi `fisik' (ruang) dan `social' (aktivitas). Dia mengartikan ranah publik \textit{fisik} sebagai ruang dan tatanannya atau disebut sebagai elemen. Sehingga elemen merupakan pembentuk suatu lingkungan berupa lanskap yang lembut, bangku, air mancur dll pada suatu ranah publik. Istilah ruang dan tatanan dan elemen secara bersamaan akan digunakan pada penelitian ini.
@@ -403,7 +399,7 @@ Meskipun faktor fisik menentukan tindakan dan perilaku seseorang, peluang lingku
 Suatu tepi laut yang terbuka menuju pesisir laut akan mendukung interaksi alam (laut), sementara yang memiliki pembatas tidak mungkin menyediakan peluang tersebut.
 Demikian menunjukkan bahwa perilaku orang menjelma pada konteks dan tatanan fisik dan bahkan sosial, budaya, dan persepsi \citep{carmona2021}.
 Selain menentukan perilaku dan tindakan orang, mengubah kemungkinan tindakan dan perilaku tertentu yang terjadi merupakan bagian dari desain perkotaan \citep{carmona2021}. Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja.
-Pilihan yang terjadi dapat dipengaruhui oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}. \citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Kasus studinya yaitu ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari tetapi seseorang harus meninggalkan ruang publik.
+Pilihan yang terjadi dapat dipengaruhui oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}. \citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Kasus studinya yaitu ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari tetapi seseorang membutuhkan toilet.
 
 Untuk meningkatkan penggunaan sebuah ruang publik, pemeliharaan dan kualitas harus ditingkatkan.
 Penelitian telah lama mengasosiasikan elemen \textit{(physical public space)} dan kehidupan publik.
@@ -414,19 +410,49 @@ Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pi
 
 \section{Elemen-elemen yang mempengaruhi preferensi}
 
+Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
+Akan tetapi terdapat elemen yang pengunjung paling sukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
 
+Elemen menjadi tempat tinggal untuk pemaknaan dan keindahan.
+Meskipun keindahan setidaknya tinggal sebagian pada sebuah elemen dan pemaknaan masih dalam perdebatan, apakah tinggal pada objek atau pikiran pengamat \citep{carmona2021}.
+Maka penting untuk mengetahui elemen atau lingkungan seperti apa yang menjadi kesukaan secara umum.
+\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
+\begin{inparaenum}
+\item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
+\item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga hari demi hari.
+\item \textit{Ruang yang terbuka dan jelas}, yaitu lingkungan yang terbentuk serta memiliki pemandangan dan elemen yang menarik.
+\item \textit{Berkas sejarah}, yaitu lingkungan yang menciptakan hubungan yang terasa.
+\item \textit{Susunan}, yaitu lingkungan yang mempedulikan pengaturan, kejelasan,
+\end{inparaenum}
 
+Elemen bukan hanya mengesankan atau dilupakan, tetapi disukai atau tidak. Sehingga elemen dapat mempengaruhi perilaku atau preferensi terhadap suatu ruang apabila elemen tersebut memenuhi kebutuhan penggunaanya \citep{balling1982}. \cite{maslow2013} mengkategorikan kebutuhan manusia secara psikologi antara lain
+\begin{inparaenum}
+\item kebutuhan psikiologi, seperti kenyamanan dan kehangatan.
+\item keamanan dan keselamatan, bagaimana mereka merasakan aman dari bahaya.
+\item keterhubungan, rasa terhubung kepada orang lain atau suatu komunitas.
+\item aktualisasi diri, bagaimana mereka mencapai suaut kepuasan atau ekpressi seni.
+\end{inparaenum}
+
+Satu diantara elemen yang sangat menarik perhatian para pakar adalah elemen alami (pohon, tanaman, bunga, semak-semak, dan rumput). Elemen alami \textit{(nature)} dianggap signifikan atau setidaknya diatas penilaian rata-rata daripada elemen-elemen lain pada sejumlah penelitian preferensi elemen \citep{manyani2021,lo2003}. \cite{manyani2021} mendapatkan pohon, taman, bunga, dan semak-semak disebut dengan total sebanyak  74 kali  oleh pengunjung ruang terbuka hijau. Beberapa golongan usia dapat menghiraukan elemen alami, seperti \citeauthor{kim2012} menemukan orang dewasa lebih sadar terhadap elemen alami daripada anak-anak.
+
+Pada penelitian terkait preferensi terhadap tipe ruang hijau, menemukan bahwa ruang hijau yang intensitas elemen alami cukup \textit{(moderate)} / \textit{(semi-open)} lebih dicenderungi. Alasannya berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
+Pohon menjadi preferensi seseorang ketika mereka menyediakan tempat yang teduh pada ruang terbuka \citep{zhang2006}. Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
+
+Elemen lain yang menjadi preferensi banyak orang setelah elemen alami adalah amenities rekreasi seperti, alat bermain, tempat duduk, dan pagar. \cite{ozguner2011} menemukan orang turki sangat menikmati alam selagi melakukan aktivitas rekreasi.
+\cite{kim2012} mengindikasikan ketersediaan elemen ini, membuat para orang tua mengizinkan anaknya untuk bermain di sebuah ruang publik dalam konteks ruang formal. Dia juga menemukan bahwa elemen yang paling banyak disebutkan adalah ayunan dan alat bermain yang berhubungan elemen rekreasi lainnya (seperti tempat duduk, bunga, dan pagar.) Hubungan area bermain untuk anak-anak membuat ruang publik harus tertutup dan satpam (masing-masing mempunyai preferensi tinggi) \citep{manyani2021}.
+
+\cite{manyani2021} mengenalkan banyak elemen yang termasuk buatan yang memiliki preferensi tinggi seperti ayunan, alat bermain, bangku, bunga, dan pagar. Dia juga menyebut elemen yang kurang dari lima kali sebutan (preferensi rendah) seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung. Kehadiran elemen rekreasi meningkatkan ketertarikan sebuah ruang \citep{zhang2020}. Dimana menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
+
+Elemen ruang publik telah lama menjadi fokus penelitian terdahulu. \cite{carmona2021} menyusun elemen-elemen yang dapat mendukung ruang publik berhasil. Dalam literaturnya, dia menekankan bahwa kenyamanan fisik \textit{(physical comfort)} memastikan kebutuhan kenyamanan terpenuhi pada ruang publik. Seperti contoh kenyamanan dan ketersediaan bangku, yang mana masih bergantung pada karakter dan suasana ruang \citep{carmona2021}.
 
 \section{Karakter Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
-Selain daripada atribut ruang, preferensi terhadap ruang juga bergantung pada karakter pengunjung \citep{carr1992}.
+Selain daripada elemen, preferensi terhadap ruang juga bergantung pada karakter pengunjung \citep{carr1992}.
 Penelitian tentang taman perkotaan, karakter pengunjung (sosio-demografi) mempengaruhi preferensi terhadap ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 %Umur dan status
 Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian \citep{cahyaningtyas2020, scott2002, swanwick2009, mak2019}.
 \cite{scott2002} menjelaskan kondisi umur bahwa anak-anak dan manula memiliki kecenderungan ruang (lanskap) tertentu. Secara rinci, mereka yang berumur 25-44 cenderung memilih ruang terbuka hijau sedangkan umur diatas 45 lebih memilih untuk mengunjungi tempat atau taman bersejarah \citep{swanwick2009}. Perbedaan juga tampak pada kesukarelaan untuk mengunjungi taman pada malam hari, anak muda lebih menyukai mengunjungi taman pada malam hari ketimbang manula \citep{mak2019}.
-
-
 
 Meskipun masih sedikit bukti pengaruh socioeconomic dalam preferensi ruang/lanskap, survei BMRB dalam \citep{swanwick2009} menemukan status sosial yang tinggi lebih sering mengunjungi pedesaan ketimbang status sosial yang rendah. Dalam kata lain, mereka dengan status sosial tinggi lebih membutuhkan ruang dengan derajat ketenangan tertentu.
 Namun terbalik pada ruang publik kecil, orang dengan berpendapatan rendah lebih sering menggunakan ruang publik \citep{wang2021}.
@@ -466,63 +492,40 @@ Berdasarkan tinjauan pustaka, aspek karakter pengunjung yang menjadi fokus penel
 
 \newpage
 \section{Proposisi Penelitian}
-Berdasarkan dari tinjauan pustaka dan observasi lapangan mengindikasikan perlunya membentuk proposisi untuk ruang publik yang mana memperhatikan kebutuhan pengunjung dan atribut unik dari objek penelitian (lihat tabel \ref{tab:props}).
+Berdasarkan dari tinjauan pustaka dan observasi lapangan mengindikasikan perlunya membentuk proposisi untuk ruang publik yang mana memperhatikan kebutuhan pengunjung dan elemen-elemen dari objek penelitian (lihat tabel \ref{tab:props}).
 Proposisi ini merupakan pedoman dalam pelaksanaan penelitian seperti dalam pengumpulan dan pengamatan data di lapangan.
-Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdasarkan atribut-atribut ruang dan karakter pengunjung. Sehingga pemilihan akhir dapat memenuhi kebutuhan pengunjung.
+Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdasarkan elemen-elemen ruang dan karakter pengunjung. Sehingga pemilihan akhir dapat memenuhi kebutuhan pengunjung.
 
-Selanjutnya kerangka konseptual dibangun yang terdiri atas empat tema yang meliputi fokus untuk penelitian. Kerangka merupakan alat untuk mengartikan variabel yang saling berhubungan yang menjelaskan ruang publik tepi laut. Kerangka konseptual atribut dan temanya merupakan dasar untuk membentuk kuesioner survei dan mengelola kode dari respon kuesioner.
-Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konseptual penelitian seperti gambar \ref{fig:conc}.
-\newpage
-
-\begin{comment}
-
-
-\begin{longtable}{l l l l p{.1\textwidth}}
+\begin{longtable}{ p{.50\textwidth}  P{.25\textwidth} P{.25\textwidth}  }
 	\caption{Proposisi Penelitian} \\
 	\label{tab:props} \\
-    \toprule
-        \multicolumn{2}{c}{Karakter Pengguna} & \multicolumn{2}{c}{Atribut} & Preferensi Ruang \\
-        \midrule
-\multirow{5}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Umur}}} & 18-44 &
-\multirow{7}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Aksesibilitas}}} & Kemudahan dikenali &  \\
+\toprule
+ {\bfseries Elemen yang disukai}  & {\bfseries Ruang A} & {\bfseries Ruang B} \\
+ \midrule
+ Laut & \checkmark & \checkmark \\
+ Pohon/ tanaman & \checkmark & \checkmark \\
+ Kedai makanan & \checkmark & \checkmark \\
+ Toilet & & \checkmark \\
+ Perumahan & & \checkmark\\
+ Pelabuhan &\checkmark &\\
+ Tempat duduk &\checkmark &\checkmark\\
+ Tempat berkumpul & &\checkmark\\
+ Lampu &\checkmark &\checkmark\\
+ Paving blok &\checkmark &\checkmark\\
+ &&\\
+ Umur  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Jenis kelamin  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Suku  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Pekerjaan  & \multicolumn{2}{c}{Mempengaruhi}   \\
 
-& 45-64 & & Pencapaian melalui jalan & \\
-& $\ge$ 65  & & Bebas hambatan & \\
-& & & Penggunaan yang nyaman & \\
-& & & Pengawasan & \\
-\multirow{4}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Gender}}} & Laki-laki & & Ketersediaan parkir & \\
-& Perempuan & & & \\
+ \bottomrule
 
-&  &
-\multirow{6}{*}{\rotatebox[origin=b]{90}{\parbox[t]{2mm}{ Keselamatan \mbox{dan keamanan}}}} & Derajat ketertutupan & \\
-
-&  & & Keramaian & \\
-\multirow{4}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Ras}}} &  Bugis & & Gangguan fisik dan sosial & \\
-& Bukan bugis & & Privatisasi & \\
-&  & & Pencahayaan & \\
-& & &  &  \\
-
-\multirow{7}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Status \mbox{pekerjaan}}}} & Karyawan &
-\multirow{6}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Estetika}}} & Derajat ketertutupan & \multirow{3}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{\mbox{Ruang A / Ruang B }}}} \\
-
-& Wiraswasta  & & Susunan (order) &  \\
-& Tidak bekerja& & Pola material & \\
-& Pelajar & & Kualitas dan tatanan furnitur & \\
-& Pensiun & & Pemeliharaan & \\
-& & &  & \\
-
-& &
-\multirow{5}{*}{\rotatebox[origin=c]{90}{\parbox[t]{2mm}{Daya hidup }}} & Memberi rasa nyaman & \\
-
-& & & Memberi relaksasi & \\
-& & & Mendukung interaksi sosial & \\
-& & & Mendukung privasi & \\
-& & & Keragaman penggunaan & \\
-
-\bottomrule
 \end{longtable}
 
 
+Selanjutnya kerangka konseptual dibangun yang terdiri atas empat tema yang meliputi fokus untuk penelitian. Kerangka merupakan alat untuk mengartikan variabel yang saling berhubungan yang menjelaskan ruang publik tepi laut. Kerangka konseptual elemen dan temanya merupakan dasar untuk membentuk kuesioner survei dan mengelola kode dari respon kuesioner.
+Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konseptual penelitian seperti gambar \ref{fig:conc}.
+\newpage
 
 \begin{figure}[htbp]
 \centering
@@ -536,7 +539,7 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
 
     \node (rup) [startstop, below of=keb, xshift=-3cm, text width= 3cm] {Ruang publik};
 
-    \node (att) [startstop, below of=rup, text width= 4cm] {\textbf{Atribut Ruang}\\\small(aksesibilitas, fasilitas, estetika, keamanan dan pemeliharaan)};
+\node (att) [startstop, below of=rup, text width= 4cm] {\textbf{Elemen}\\{\small laut, pohon, kedai,toilet, dll}};
 
     \node (jun) [startstop, below of=keb, xshift=3cm, text width= 3cm] {Pengunjung};
 
@@ -561,11 +564,13 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
 \label{fig:conc}
 \end{figure}
 
+
+\begin{comment}
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-	\node (fit) [startstop, text width= 6cm] {\textbf{Atribut ruang}\\\small(Aksesibilitas, Estetika, Keamanan dan Fasilitas)};
+	\node (fit) [startstop, text width= 6cm] {\textbf{Elemen Ruang}};
 
 	\node (pre) [startstop, right of=fit, text width= 5cm, xshift=4cm] {\textbf{Karakter pengunjung}\\ Umur, Gender, Ras, Status pekerjaan };
 
@@ -585,7 +590,10 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
     \caption{Alternatif Kerangka Konseptual}
     \label{fig:kons}
 \end{figure}
+
 \end{comment}
+
+
 
 
 %-------------------------------------------------------------------------------
