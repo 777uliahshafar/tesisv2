@@ -187,8 +187,6 @@ Bab terakhir terdiri dari kesimpulan yang didapatkan dari hasil analisis terhada
 
 \section{Kerangka Pemikiran}
 Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebuah penelitian secara keseluruhan melalui suatu gambaran singkat mulai dari masalah awal hingga hasil akhir. Gambaran singkat tersebut dapat dilihat pada gambar \ref{fig:pik}.
-\begin{comment}
-
 
 \begin{figure}[hp]
 \centering
@@ -249,7 +247,6 @@ Penelitian ini bersifat eksploratif untuk menelusuri elemen yang ada yang terkai
 \label{fig:pik}
 \end{figure}
 
-\end{comment}
 
 \section{Keaslian Penelitian}
 
@@ -257,7 +254,6 @@ Penelitian dengan tema yang sama telah banyak dilakukan oleh penelitian sebelumn
 Dengan mempelajari penelitian yang telah ada, penelitian ini dapat menciptakan kebaruan pada ilmu pengetahuan di bidang arsitektur dan mengisi kekurangan pada penelitian sebelumnya. Adapun yang membedakan penelitian satu dan lainnya secara garis besar adalah metode, variabel, objek penelitian, dan tujuan penelitian.
 Maka penulis mengumpulkan data-data dari penelitian itu dalam bentuk sebuah tabel yang dapat dilihat pada tabel \ref{tab:asli}.
 
-\begin{comment}
 
 \begin{landscape}
 \begin{singlespace}
@@ -285,7 +281,6 @@ Maka penulis mengumpulkan data-data dari penelitian itu dalam bentuk sebuah tabe
 \end{longtable}
 \end{singlespace}
 \end{landscape}
-\end{comment}
 
 \chapter{Tinjauan Pustaka}\label{chap:pstk}
 
@@ -373,6 +368,7 @@ Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi ya
 Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
 Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik (elemen) dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
 
+\begin{comment}
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=0.8\textwidth]{figures/pfbox2}
@@ -380,6 +376,7 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
     \caption*{sumber:\cite{huang1997} }
     \label{fig:pfbox}
 \end{figure}
+\end{comment}
 
 
 \section{Elemen sebagai Pembentuk Preferensi}
@@ -391,7 +388,7 @@ Elemen itu berfungsi untuk mengakomodasi sebuah aktivitas, menarik masyarakat, d
 Sejumlah peneliti  lebih menyukai menggunakan sebutan lain dari suatu elemen sebagai elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}. Walaupun demikian, semuanya merujuk pada elemen yang ada pada ruang publik yang digunakan masyarakat untuk memenuhi kebutuhannya.
 
 %elemen sebagai perseptual
-\cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang hidupnya \citep{lynch1984}. Meskipun demikian \citeauthor{lynch1984} lebih cenderung terhadap informasi perseptual terhadap suatu bentuk fisik (elemen), bukan terhadap `makna' lingkungan itu sendiri seperti apakah lingkungan itu disukai atau tidak \citep{knox2014}.
+\cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang hidupnya \citep{lynch1984}. Keterikatan itu \citeauthor{lynch1984} deskripsikan sebagai informasi perseptual terhadap suatu bentuk fisik (elemen), bukan terhadap `makna' lingkungan itu sendiri seperti apakah lingkungan itu disukai atau tidak \citep{knox2014}.
 Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah elemen individu. Keragaman tersebut menimbulkan perilaku dan preferensi yang berbeda-beda baik itu menarik atau menjauhkan seseorang dari sebuah lingkungan \citep{manyani2021}.
 \cite{knox2014} menambahkan, semua elemen lingkungan perkotaan \textit{(element of urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang.
 
@@ -410,6 +407,7 @@ Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pi
 
 \section{Elemen-elemen yang mempengaruhi preferensi}
 
+%how each elemen affect prefrence
 Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
 Akan tetapi terdapat elemen yang pengunjung paling sukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
 
@@ -433,17 +431,23 @@ Elemen bukan hanya mengesankan atau dilupakan, tetapi disukai atau tidak. Sehing
 \item aktualisasi diri, bagaimana mereka mencapai suaut kepuasan atau ekpressi seni.
 \end{inparaenum}
 
+%elemen alami
 Satu diantara elemen yang sangat menarik perhatian para pakar adalah elemen alami (pohon, tanaman, bunga, semak-semak, dan rumput). Elemen alami \textit{(nature)} dianggap signifikan atau setidaknya diatas penilaian rata-rata daripada elemen-elemen lain pada sejumlah penelitian preferensi elemen \citep{manyani2021,lo2003}. \cite{manyani2021} mendapatkan pohon, taman, bunga, dan semak-semak disebut dengan total sebanyak  74 kali  oleh pengunjung ruang terbuka hijau. Beberapa golongan usia dapat menghiraukan elemen alami, seperti \citeauthor{kim2012} menemukan orang dewasa lebih sadar terhadap elemen alami daripada anak-anak.
 
 Pada penelitian terkait preferensi terhadap tipe ruang hijau, menemukan bahwa ruang hijau yang intensitas elemen alami cukup \textit{(moderate)} / \textit{(semi-open)} lebih dicenderungi. Alasannya berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
 Pohon menjadi preferensi seseorang ketika mereka menyediakan tempat yang teduh pada ruang terbuka \citep{zhang2006}. Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
 
+%elemen artificial
 Elemen lain yang menjadi preferensi banyak orang setelah elemen alami adalah amenities rekreasi seperti, alat bermain, tempat duduk, dan pagar. \cite{ozguner2011} menemukan orang turki sangat menikmati alam selagi melakukan aktivitas rekreasi.
 \cite{kim2012} mengindikasikan ketersediaan elemen ini, membuat para orang tua mengizinkan anaknya untuk bermain di sebuah ruang publik dalam konteks ruang formal. Dia juga menemukan bahwa elemen yang paling banyak disebutkan adalah ayunan dan alat bermain yang berhubungan elemen rekreasi lainnya (seperti tempat duduk, bunga, dan pagar.) Hubungan area bermain untuk anak-anak membuat ruang publik harus tertutup dan satpam (masing-masing mempunyai preferensi tinggi) \citep{manyani2021}.
 
 \cite{manyani2021} mengenalkan banyak elemen yang termasuk buatan yang memiliki preferensi tinggi seperti ayunan, alat bermain, bangku, bunga, dan pagar. Dia juga menyebut elemen yang kurang dari lima kali sebutan (preferensi rendah) seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung. Kehadiran elemen rekreasi meningkatkan ketertarikan sebuah ruang \citep{zhang2020}. Dimana menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
 Elemen ruang publik telah lama menjadi fokus penelitian terdahulu. \cite{carmona2021} menyusun elemen-elemen yang dapat mendukung ruang publik berhasil. Dalam literaturnya, dia menekankan bahwa kenyamanan fisik \textit{(physical comfort)} memastikan kebutuhan kenyamanan terpenuhi pada ruang publik. Seperti contoh kenyamanan dan ketersediaan bangku, yang mana masih bergantung pada karakter dan suasana ruang \citep{carmona2021}.
+
+%How elemen fulfil need for prefrence
+
+
 
 \section{Karakter Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
@@ -523,10 +527,63 @@ Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdas
 \end{longtable}
 
 
-Selanjutnya kerangka konseptual dibangun yang terdiri atas empat tema yang meliputi fokus untuk penelitian. Kerangka merupakan alat untuk mengartikan variabel yang saling berhubungan yang menjelaskan ruang publik tepi laut. Kerangka konseptual elemen dan temanya merupakan dasar untuk membentuk kuesioner survei dan mengelola kode dari respon kuesioner.
+Selanjutnya kerangka konseptual dibangun yang terdiri atas empat tema yang meliputi fokus untuk penelitian. Kerangka merupakan alat untuk mengartikan variabel yang saling berhubungan yang menjelaskan ruang publik tepi laut. Kerangka konseptual elemen merupakan dasar untuk membentuk kuesioner survei dan mengelola kode dari respon kuesioner.
+
 Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konseptual penelitian seperti gambar \ref{fig:conc}.
 \newpage
 
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[node distance=2cm]
+
+
+    \node (fit) [startstop, text width=\textwidth] {\textbf{Permalahan penelitian}\\ 1. Bagaimana preferensi pengunjung terhadap ruang di ruang­ruang tepi laut?  \\ 2. Bagaimana hubungan keseluruhan elemen dan preferensi ruang? };
+
+	\node (soc) [startstop, below of=fit, text width=\textwidth, yshift=-1cm] {\textbf{Tujuan penelitian}\\ 1.Untuk mengetahui jenis ruang yang paling dicenderungi di kawasan tepi laut.
+    \\ 2. Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang. };
+
+	\node (met) [startstop, below of=soc, text width=\textwidth, yshift=-1cm] {\textbf{Metode penelitian}\\ Penelitian eksploratif yang menggunakan kuesioner survei \textit{mixed-methodology} dan pendekatan \textit{grounded theory}. Teori dari hasil pendekatan tersebut tergabung dalam eksplorasi.};
+
+    \node (pro) [startstop, below of=met, text width=\textwidth, yshift=-1cm] {\textbf{Proposisi}\\ Penyusunan proposisi penelitian berdasarkan tinjauan teory terkait yang disesuaikan dengan objek dan tujuan penelitian untuk dijadikan pedoman dalam pengumpulan dan analisis data.
+    };
+
+    \node (ker) [startstop, below of=pro, text width=8cm, yshift=-.5cm] {\textbf{Kerangka indikator penelitian}\\ Waterfront    };
+
+    \node (keb) [startstop, below of=ker, text width=6cm, yshift=.5cm] {Kebutuhan masyarakat};
+
+    \node (rup) [startstop, below of=keb, xshift=-3cm, text width= 3cm] {Ruang publik};
+
+    \node (att) [startstop, below of=rup, text width= 4cm] {\textbf{Elemen}\\\small(laut, pohon, kedai, toilet, dll)};
+
+    \node (jun) [startstop, below of=keb, xshift=3cm, text width= 3cm] {Pengunjung};
+
+    \node (kar) [startstop, below of=jun, text width= 5cm] {\textbf{Karakter Pengunjung}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
+
+    \node (pre) [startstop, below of=att, xshift=3cm, yshift=-1cm, text width= 4cm] {\bfseries Preferensi pengunjung terhadap ruang publik};
+
+
+
+
+\draw [arrow] (fit) -- (soc);
+\draw [arrow] (soc) -- (met);
+\draw [arrow] (met) -- (pro);
+\draw [arrow] (pro) -- (ker);
+\draw [arrow] (keb) -- (rup);
+\draw [arrow] (rup) -- (att);
+\draw [arrow] (keb) -- (jun);
+\draw [arrow] (jun) -- (kar);
+
+\draw [latex'-latex'] (att) -- (kar);
+
+\draw [arrow] (att) -- (pre);
+\draw [arrow] (kar) -- (pre);
+\end{tikzpicture}
+\caption{Kerangka Konseptual}
+\label{fig:conc}
+\end{figure}
+
+
+\begin{comment}
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[node distance=2.7cm]
@@ -543,7 +600,7 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
 
     \node (jun) [startstop, below of=keb, xshift=3cm, text width= 3cm] {Pengunjung};
 
-    \node (kar) [startstop, below of=jun, text width= 5cm] {\textbf{Karakter Pengunjung}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
+    \node (kar) [startstop, below of=jun, text width= 5cm] {\textbf{Karakter Pengunjung}\\\small(umur,gender,suku dan status kegiatan ekonomi)};
 
     \node (pre) [startstop, below of=att, xshift=3cm, yshift=-1cm, text width= 4cm] {\bfseries Preferensi pengunjung terhadap ruang publik};
 
@@ -565,7 +622,6 @@ Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konse
 \end{figure}
 
 
-\begin{comment}
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[node distance=2cm]
