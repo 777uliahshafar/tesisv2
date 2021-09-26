@@ -388,32 +388,42 @@ Elemen itu berfungsi untuk mengakomodasi sebuah aktivitas, menarik masyarakat, d
 Sejumlah peneliti  lebih menyukai menggunakan sebutan lain dari suatu elemen sebagai elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}. Walaupun demikian, semuanya merujuk pada elemen yang ada pada ruang publik yang digunakan masyarakat untuk memenuhi kebutuhannya.
 
 %elemen sebagai perseptual
-\cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang hidupnya \citep{lynch1984}. Keterikatan itu \citeauthor{lynch1984} deskripsikan sebagai informasi perseptual terhadap suatu bentuk fisik (elemen), bukan terhadap `makna' lingkungan itu sendiri seperti apakah lingkungan itu disukai atau tidak \citep{knox2014}.
-Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah elemen individu. Keragaman tersebut menimbulkan perilaku dan preferensi yang berbeda-beda baik itu menarik atau menjauhkan seseorang dari sebuah lingkungan \citep{manyani2021}.
+\cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang sisa hidupnya \citep{lynch1984}.
+\cite{carmona2021} mendeskripsikan dengan jelas bahwa elemen bukan hanya memberikan kesan struktur atau fisik dari presepsi seseorang, tetapi pemaknaan dari lingkungan, apakah disukai atau tidak. \cite{knox2014} menambahkan bahwa pemaknaan tersebut terlampir dan dimunculkan oleh elemen dari ruang perkotaan.
+
+Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah elemen individu. Pemaknaan tersebut menimbulkan perilaku dan preferensi yang berbeda-beda baik itu menarik atau menjauhkan seseorang dari sebuah lingkungan \citep{manyani2021}.
 \cite{knox2014} menambahkan, semua elemen lingkungan perkotaan \textit{(element of urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang.
 
-Meskipun faktor fisik menentukan tindakan dan perilaku seseorang, peluang lingkungan lebih jelas mempengaruhi apa yang orang yang bisa dan yang tidak bisa dilakukan \citep{carmona2021}.
-Suatu tepi laut yang terbuka menuju pesisir laut akan mendukung interaksi alam (laut), sementara yang memiliki pembatas tidak mungkin menyediakan peluang tersebut.
-Demikian menunjukkan bahwa perilaku orang menjelma pada konteks dan tatanan fisik dan bahkan sosial, budaya, dan persepsi \citep{carmona2021}.
-Selain menentukan perilaku dan tindakan orang, mengubah kemungkinan tindakan dan perilaku tertentu yang terjadi merupakan bagian dari desain perkotaan \citep{carmona2021}. Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja.
-Pilihan yang terjadi dapat dipengaruhui oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}. \citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Kasus studinya yaitu ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari tetapi seseorang membutuhkan toilet.
+%Meskipun faktor fisik dapat menentukan tindakan dan perilaku seseorang, peluang lingkungan mempengaruhi apa yang orang yang bisa dan yang tidak bisa dilakukan \citep{carmona2021}.
 
-Untuk meningkatkan penggunaan sebuah ruang publik, pemeliharaan dan kualitas harus ditingkatkan.
-Penelitian telah lama mengasosiasikan elemen \textit{(physical public space)} dan kehidupan publik.
-Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik).
-Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll.
+Walaupun fisik elemen bukan faktor dominan dalam mempengaruhi tindakan atau perilaku, peluang lingkungan tentu mempengaruhi apa yang orang bisa lakukan \citep{carmona2021}.
+Suatu tepi laut yang terbuka menuju pesisir laut akan mendukung interaksi alam (laut), sementara yang memiliki pembatas (penghalang) tidak mungkin menyediakan peluang tersebut.
+Daripada menentukan tindakan atau perilaku orang, rancangan perkotaan dapat merekayasa tindakan yang mungkin terjadi pada suatu tatanan tertentu.
+Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja.
+Kedua pola pengaruh lingkungan terhadap tindakan orang itu menguatkan istilah \textit{environment possibilism} (orang memilih diantara peluang lingkunga yang tersedia) dan \textit{environmental probalbilism} (beberapa pilihan lebih mungkin daripada yang lain di suatu tatanan tertentu) \citep{carmona2021} .
+
+Pilihan yang terjadi sebagian juga dipengaruhi oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}.
+Penelitian telah lama mengasosiasikan elemen fisik dan kehidupan publik.
+Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Fokus tersebut turut menunjang kebutuhan-kebutuhan orang secara bersamaan.
+
+Untuk meningkatkan penggunaan sebuah ruang publik, maka pemeliharaan dan kualitas harus ditingkatkan.
+\citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Kasus studinya yaitu ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari tetapi seseorang membutuhkan toilet.
+Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll saat menggunakan tatanan tersebut.
 %Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
 %Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
 
 \section{Elemen-elemen yang mempengaruhi preferensi}
 
-%how each elemen affect prefrence
+%theory element affect prefrence
 Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
 Akan tetapi terdapat elemen yang pengunjung paling sukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
 
-Elemen menjadi tempat tinggal untuk pemaknaan dan keindahan.
-Meskipun keindahan setidaknya tinggal sebagian pada sebuah elemen dan pemaknaan masih dalam perdebatan, apakah tinggal pada objek atau pikiran pengamat \citep{carmona2021}.
-Maka penting untuk mengetahui elemen atau lingkungan seperti apa yang menjadi kesukaan secara umum.
+Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terdapat perdebatan apakah benar-benar tinggal di objeknya atau di pikiran pengamatnya. Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
+
+%Elemen menjadi tempat tinggal untuk pemaknaan dan keindahan.
+%Meskipun keindahan setidaknya tinggal sebagian pada sebuah elemen dan pemaknaan masih dalam perdebatan, apakah tinggal pada objek atau pikiran pengamat \citep{carmona2021}.
+%Maka penting untuk mengetahui elemen atau lingkungan seperti apa yang menjadi kesukaan secara umum.
+
 \cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
 \begin{inparaenum}
 \item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
@@ -446,7 +456,7 @@ Elemen lain yang menjadi preferensi banyak orang setelah elemen alami adalah ame
 Elemen ruang publik telah lama menjadi fokus penelitian terdahulu. \cite{carmona2021} menyusun elemen-elemen yang dapat mendukung ruang publik berhasil. Dalam literaturnya, dia menekankan bahwa kenyamanan fisik \textit{(physical comfort)} memastikan kebutuhan kenyamanan terpenuhi pada ruang publik. Seperti contoh kenyamanan dan ketersediaan bangku, yang mana masih bergantung pada karakter dan suasana ruang \citep{carmona2021}.
 
 %How elemen fulfil need for prefrence
-
+Elemen membantu ruang publik untuk menarik pengunjung dengan memenuhi kebutuhan orang. Kebutuhan yang mendasari seseorang menikmati ruang publik adalah kebutuhan psikologis.
 
 
 \section{Karakter Pengunjung}
