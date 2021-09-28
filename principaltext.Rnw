@@ -403,11 +403,12 @@ Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kond
 Kedua pola pengaruh lingkungan terhadap tindakan orang itu menguatkan istilah \textit{environment possibilism} (orang memilih diantara peluang lingkunga yang tersedia) dan \textit{environmental probalbilism} (beberapa pilihan lebih mungkin daripada yang lain di suatu tatanan tertentu) \citep{carmona2021} .
 
 Pilihan yang terjadi sebagian juga dipengaruhi oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}.
-Penelitian telah lama mengasosiasikan elemen fisik dan kehidupan publik.
-Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Fokus tersebut turut menunjang kebutuhan-kebutuhan orang secara bersamaan.
+Elemen fisik dan kehidupan publik mempunyai keterikatan.
+Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Demikian menjelaskan elemen-elemen menunjang kebutuhan-kebutuhan orang secara bersamaan.
 
 Untuk meningkatkan penggunaan sebuah ruang publik, maka pemeliharaan dan kualitas harus ditingkatkan.
-\citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Kasus studinya yaitu ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari tetapi seseorang membutuhkan toilet.
+\citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskpun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
+Ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari dan tidak disediakan, akan tetapi orang akan buang air dimana.
 Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll saat menggunakan tatanan tersebut.
 %Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
 %Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
@@ -416,48 +417,56 @@ Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pi
 
 %theory element affect prefrence
 Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
-Akan tetapi terdapat elemen yang pengunjung paling sukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
+Akan tetapi terdapat elemen yang pengunjung paling disukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
 
-Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terdapat perdebatan apakah benar-benar tinggal di objeknya atau di pikiran pengamatnya. Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
-
-%Elemen menjadi tempat tinggal untuk pemaknaan dan keindahan.
-%Meskipun keindahan setidaknya tinggal sebagian pada sebuah elemen dan pemaknaan masih dalam perdebatan, apakah tinggal pada objek atau pikiran pengamat \citep{carmona2021}.
-%Maka penting untuk mengetahui elemen atau lingkungan seperti apa yang menjadi kesukaan secara umum.
-
+Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terdapat perdebatan apakah benar-benar tinggal di objeknya atau di pikiran pengamatnya \citep{carmona2021}. Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
 \cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
 \begin{inparaenum}
 \item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
-\item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga hari demi hari.
+\item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga secara berkelanjutan.
 \item \textit{Ruang yang terbuka dan jelas}, yaitu lingkungan yang terbentuk serta memiliki pemandangan dan elemen yang menarik.
 \item \textit{Berkas sejarah}, yaitu lingkungan yang menciptakan hubungan yang terasa.
-\item \textit{Susunan}, yaitu lingkungan yang mempedulikan pengaturan, kejelasan,
-\end{inparaenum}
-
-Elemen bukan hanya mengesankan atau dilupakan, tetapi disukai atau tidak. Sehingga elemen dapat mempengaruhi perilaku atau preferensi terhadap suatu ruang apabila elemen tersebut memenuhi kebutuhan penggunaanya \citep{balling1982}. \cite{maslow2013} mengkategorikan kebutuhan manusia secara psikologi antara lain
-\begin{inparaenum}
-\item kebutuhan psikiologi, seperti kenyamanan dan kehangatan.
-\item keamanan dan keselamatan, bagaimana mereka merasakan aman dari bahaya.
-\item keterhubungan, rasa terhubung kepada orang lain atau suatu komunitas.
-\item aktualisasi diri, bagaimana mereka mencapai suaut kepuasan atau ekpressi seni.
+\item \textit{Susunan}, yaitu lingkungan yang memperhatikan pengaturan dan kejelasan.
 \end{inparaenum}
 
 %elemen alami
 Satu diantara elemen yang sangat menarik perhatian para pakar adalah elemen alami (pohon, tanaman, bunga, semak-semak, dan rumput). Elemen alami \textit{(nature)} dianggap signifikan atau setidaknya diatas penilaian rata-rata daripada elemen-elemen lain pada sejumlah penelitian preferensi elemen \citep{manyani2021,lo2003}. \cite{manyani2021} mendapatkan pohon, taman, bunga, dan semak-semak disebut dengan total sebanyak  74 kali  oleh pengunjung ruang terbuka hijau. Beberapa golongan usia dapat menghiraukan elemen alami, seperti \citeauthor{kim2012} menemukan orang dewasa lebih sadar terhadap elemen alami daripada anak-anak.
 
-Pada penelitian terkait preferensi terhadap tipe ruang hijau, menemukan bahwa ruang hijau yang intensitas elemen alami cukup \textit{(moderate)} / \textit{(semi-open)} lebih dicenderungi. Alasannya berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
-Pohon menjadi preferensi seseorang ketika mereka menyediakan tempat yang teduh pada ruang terbuka \citep{zhang2006}. Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
+Seseorang menyukai elemen alami dengan intensitas sedang. Sejumlah penelitian menyebut ruang dengan intensitas tersebut sebagai \textit{semi-open}.
+Pohon menjadi elemen yang paling melandasi pengaturan tersebut, selain itu terdapat rumput, semak-semak, bunga dan tanaman.
 
 %elemen artificial
-Elemen lain yang menjadi preferensi banyak orang setelah elemen alami adalah amenities rekreasi seperti, alat bermain, tempat duduk, dan pagar. \cite{ozguner2011} menemukan orang turki sangat menikmati alam selagi melakukan aktivitas rekreasi.
+Elemen lain yang menjadi preferensi setelah elemen alami adalah amenities rekreasi seperti, alat bermain, tempat duduk, dan pagar. \cite{ozguner2011} menemukan orang turki sangat menikmati alam selagi melakukan aktivitas rekreasi.
 \cite{kim2012} mengindikasikan ketersediaan elemen ini, membuat para orang tua mengizinkan anaknya untuk bermain di sebuah ruang publik dalam konteks ruang formal. Dia juga menemukan bahwa elemen yang paling banyak disebutkan adalah ayunan dan alat bermain yang berhubungan elemen rekreasi lainnya (seperti tempat duduk, bunga, dan pagar.) Hubungan area bermain untuk anak-anak membuat ruang publik harus tertutup dan satpam (masing-masing mempunyai preferensi tinggi) \citep{manyani2021}.
 
-\cite{manyani2021} mengenalkan banyak elemen yang termasuk buatan yang memiliki preferensi tinggi seperti ayunan, alat bermain, bangku, bunga, dan pagar. Dia juga menyebut elemen yang kurang dari lima kali sebutan (preferensi rendah) seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung. Kehadiran elemen rekreasi meningkatkan ketertarikan sebuah ruang \citep{zhang2020}. Dimana menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
-
-Elemen ruang publik telah lama menjadi fokus penelitian terdahulu. \cite{carmona2021} menyusun elemen-elemen yang dapat mendukung ruang publik berhasil. Dalam literaturnya, dia menekankan bahwa kenyamanan fisik \textit{(physical comfort)} memastikan kebutuhan kenyamanan terpenuhi pada ruang publik. Seperti contoh kenyamanan dan ketersediaan bangku, yang mana masih bergantung pada karakter dan suasana ruang \citep{carmona2021}.
+\cite{manyani2021} mengenalkan banyak elemen buatan yang memiliki preferensi tinggi seperti ayunan, alat bermain, bangku, bunga, dan pagar. Dia juga menambahkan elemen dengan preferensi rendah seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung. Kehadiran elemen rekreasi ini meningkatkan ketertarikan sebuah ruang \citep{zhang2020}.
 
 %How elemen fulfil need for prefrence
-Elemen membantu ruang publik untuk menarik pengunjung dengan memenuhi kebutuhan orang. Kebutuhan yang mendasari seseorang menikmati ruang publik adalah kebutuhan psikologis.
+Elemen fisik dapat mempengaruhi perilaku atau preferensi apabila elemen tersebut memenuhi kebutuhan penggunanya \citep{balling1982}. \citeauthor{carmona2021} menggolongkan kebutuhan manusia sebagai karakter atau situasi individu. Hubungan antara elemen fisik dan kebutuhan manusia menjelaskan bagaimana lingkugan dipresepsikan.Bukan hanya sekedar informasi perseptual, tetapi informasi atas kemungkinan apa saja sepanjang memperhatikan tujuan orang \cite{kaplan1987}.
+Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat memenuhi kebutuhan kenyamanan pada ruang publik \citep{carmona2021}.
 
+\cite{maslow2013} mengkategorikan kebutuhan manusia secara psikologi antara lain
+\begin{inparaenum}
+\item kebutuhan psikiologi, seperti kenyamanan dan kehangatan.
+\item keamanan dan keselamatan, bagaimana mereka merasakan aman dari bahaya.
+\item keterhubungan, rasa terhubung kepada orang lain atau suatu komunitas.
+\item penghargaan, bagaiamana orang dinilai oleh lainnya.
+\item aktualisasi diri, bagaimana mereka mencapai suatu kepuasan atau ekpresi seni.
+\end{inparaenum}
+Dua teori lainnya yang menggambarkan kebutuhan manusia, tetapi ini lebih menjelaskan hubungan presepsi lingkungan dan preferensi lingkungan adalah \textit{``prospect-refuge"} \citep{appleton1996} dan \textit{``information processing model"} \citep{kaplan1977}. Teori ini membutuhkan penjelasan lebih lanjut.
+
+\subsection{Prospect-Refuge}
+
+
+\subsection{Information Processing Model}
+
+
+alasan semi open dicenderungi berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
+%Pohon menjadi preferensi seseorang ketika mereka menyediakan tempat yang teduh pada ruang terbuka \citep{zhang2006}.
+%Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
+
+
+elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
 \section{Karakter Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
