@@ -453,20 +453,51 @@ Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat memenuhi kebutuha
 \item penghargaan, bagaiamana orang dinilai oleh lainnya.
 \item aktualisasi diri, bagaimana mereka mencapai suatu kepuasan atau ekpresi seni.
 \end{inparaenum}
+
+%%elemen apa yang merangsang kenyamanan, keamanan, keterhubungn. dll
+
 Dua teori lainnya yang menggambarkan kebutuhan manusia, tetapi ini lebih menjelaskan hubungan presepsi lingkungan dan preferensi lingkungan adalah \textit{``prospect-refuge"} \citep{appleton1996} dan \textit{``information processing model"} \citep{kaplan1977}. Teori ini membutuhkan penjelasan lebih lanjut.
 
 \subsection{Prospect-Refuge}
 
+\textit{prospect-refuge} (prospek-tempat berlindung) terdiri atas istilah prospek yang artinya kemampuan mengumpulkan kemudian mengevaluasi informasi, sedangkan tempat berlindung artinya kemampuan lingkungan menyediakan keamanan untuk orang supaya dapat menjelajahi dan mengumpulkan informasi \citep{zhang2006}. Secara garis besar, teori ini menggambarkan situasi dimana orang dapat melihat tanpa dilihat. Derajat penglihatan ini menginterpretasikan kebutuhan untuk bertahan hidup pada suatu lingkungan. Ketika seseorang dapat melihat predatornya (musuh) tanpa dilihat oleh mereka, maka meningkatkan peluang untuk bertahan hidup \citep{mumcu2010}.
+
+Teori ini telah lama menjadi bahan diskusi pada penelitian presepsi lingkungan. Berdasarkan penelitian terkait teori ini, \textit{prospect-refuge} mempengaruhi preferensi dan telah diklarifikasi oleh sejumlah penelitian  \citep{suppakittpaisarn2019,nasar1998,mumcu2010}. \cite{zhang2006} menggambarkan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Oleh karena itu, orang lebih menyukai vegetasi dengan kepadatan sedang dalam hal ini adalah pohon. Karena orang dapat melihat dengan leluasa sehingga mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
 
 \subsection{Information Processing Model}
+\cite{kaplan1979} merumuskan teori model pemrosessan informasi \textit{(information processing model)} untuk memahami preferensi orang. Teori ini didasari oleh pemahaman terhadap tujuan individu oleh karena reaksi terhadap sesuatu bergantung pada tujuannya \citep{kaplan1979}.
+Dia mengusulkan ``pemahaman" dan ``eksplorasi" sebagai tujuan dasar individu dalam menentukan preferensi. Pemahaman yaitu kesempatan yang diberikan untuk memahami sekeliling pada waktu itu juga . Sedangkan eksplorasi yaitu kesempatan yang diberikan untuk mencari tahu, mempalajari dan mendorong \citep{kaplan1979}.
+
+Istilah pemahaman dan ekplorasi merupakan bahan diskusi dalam penelitian  preferensi, meskipun demikian mereka telah tertanaman dalam kepribadian yang berdasar informasi \citep{kaplan1979}. Teori ini tidak selalu tersedia oleh lingkungan, namun saat lingkungan dipahami memberi tahu apakah lingkungan itu dapat dieksplorasi atau tidak.
+\cite{kaplan1979} menemukan bahwa seseorang menyukai lingkungan yang mudah dipahami serta mendorong ekplorasi yang mana disebut sebagai kebutuhan dasar.
+Agar dapat memenuhi kebutuhan tersebut, maka perlu untuk mengorganisasi tata letak elemen dan isinya \citep{kaplan1998}. \cite{kaplan1998} menemukan bahwa orang menyukai ruang yang terorganisasi dengan baik didukung elemen buatan daripada ruang yang menghalangi pandangan dan pohon yang padat.
+
+Terdapat dua bentuk bagaimana individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam informasi visual yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan misteri dan keterbacaan. Pada teori sebelumnya, misteri mendapat pengertian yang sama dengan prospek \citep{kaplan1998}.
+
+Keempat macam informasi ini (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi.
+
+\begin{table}[htpb]
+\setlength{\tabcolsep}{10pt} % Default value: 6pt
+\renewcommand{\arraystretch}{1.5}
+    \centering
+    \caption{Model pemrosessan informasi}
+    \caption*{sumber: \citep{kaplan1998}}
+    \label{tab:mpi}
+    \begin{tabular}{p{.4\textwidth} l l}
+        \toprule
+        \textbf{Tingkat tanggapan} & \textbf{Pemahaman} & \textbf{Eksplorasi} \\
+        \midrule
+    Susunan visual (dua dimensi) & Koherensi & Kompleksitas \\
+    Ruang tiga dimensi & Keterbacaan & Misteri \\
+    \bottomrule
+    \end{tabular}
+\end{table}
 
 
-alasan semi open dicenderungi berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
+%alasan semi open dicenderungi berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
 %Pohon menjadi preferensi seseorang ketika mereka menyediakan tempat yang teduh pada ruang terbuka \citep{zhang2006}.
 %Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
-
-
-elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
+%elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
 \section{Karakter Pengunjung}
 %%tak ea look on a landscape prference study of campus hal 74
