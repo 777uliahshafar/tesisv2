@@ -349,24 +349,36 @@ Pemahaman terkait arsitektur atau lingkungan yang muncul adalah suatu lingkungan
 Selain itu, \citeauthor{carmona2021} menambahkan pilihan pada tatanan tertentu \textit{(setting)} bergantung sebagian pada karakter pengunjung tepi laut \textit{(individual's own situation and characteristicts)}.
 
 
-\section{Preferensi}
+\section{Preferensi Ruang}
 \label{sub:pref}
-Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Jadi preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban \textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
-\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
+Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Ini mencerminkan defenisi sederhana preferensi yaitu kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Preferensi ruang menjadi fokus penelitian ini yang mana mengukur presepsi orang atau pengamat. Terangnya mengungkap rasa suka atau tidak suka terhadap suatu ruang \citep{zhang2006}.
 
-Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}. Menurut \cite{kaplan1987}, preferensi sebagai proses kognisi dimana seseorang memilih ruang satu daripada lainnya. \cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter penunjung. Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}. Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
+Preferensi ruang sebagai mekanisme presepsi orang yang dihubungkan dengan lingkungan sekitarnya dimana seseorang menilai lingkungan tersebut \citep{vandenberg2003,england2009,zhang2006}. Penilaian ini mengindikasikan bagaimana orang merespon lingkungan, Sheppard dalam \citep{zhang2006}. Penelitian terkait preferensi biasanya mencangkup klasifikasi elemen lanskap, elemen atau ruang dan foto yang dicenderungi. Ini tidak hanya berasal dari elemen lingkungan tetapi berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, karakter pengunjung \citep{wen2018, zhang2006}.
 
-\begin{itemize}
+Berdasarkan penelitian \textit{Environmental Preference from an Evolutionary Perspective} dari \citep{kaplan1987} terdapat empat aspek perseptual yang disalahartikan sebagai `kognisi' antara lain:
+\begin{inparaenum}
 \item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
 \item Afektif, lingkungan mempengaruhi perasaan seseorang
 \item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
 \item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
-\end{itemize}
+\end{inparaenum}
+Disini kaplan menyebut prefrensi merupakan proses kognisi dimana seseorang dapat memilih ruang satu dari yang lainnya \citep{kaplan1987}.
 
-Berdasarkan teori perseptual, penelitian ini menganalisis elemen pada tepi laut Senggol yang mempengaruhi preferensi seseorang. Memberikan penilaian terhadap apa yang dianalisis untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan sebuah elemen ruang.
-Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan juga bergantung pada umur, gender, dan ras dan lingkungan fisik (karaktersitik pengunjung) \citep{carmona2021}.
+Berdasarkan teori diatas, penelitian ini menganalisis elemen pada tepi laut Senggol yang mempengaruhi preferensi seseorang. Memberikan penilaian terhadap apa yang dianalisis untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan sebuah elemen ruang.
+Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan juga bergantung pada umur, gender, dan ras dan lingkungan fisik (karakter pengunjung) \citep{carmona2021}.
 Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
-Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik (elemen) dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
+Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. Lebih lanjut, \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik (elemen) dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
+
+
+%Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban \textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
+%\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
+%Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}.
+
+%\cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter penunjung.
+%Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}.
+%Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
+
+
 
 \begin{comment}
 \begin{figure}[htpb]
@@ -379,7 +391,7 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
 \end{comment}
 
 
-\section{Elemen sebagai Pembentuk Preferensi}
+\section{Definisi elemen terkait preferensi terhadap ruang}
 
 %definisi elemen
 Menurut \cite{carmona2021}, ranah publik terdiri atas dimensi `fisik' (ruang) dan `social' (aktivitas). Dia mengartikan ranah publik \textit{fisik} sebagai ruang dan tatanannya atau disebut sebagai elemen. Sehingga elemen merupakan pembentuk suatu lingkungan berupa lanskap yang lembut, bangku, air mancur dll pada suatu ranah publik. Istilah ruang dan tatanan dan elemen secara bersamaan akan digunakan pada penelitian ini.
@@ -472,9 +484,9 @@ Istilah pemahaman dan ekplorasi merupakan bahan diskusi dalam penelitian  prefer
 \cite{kaplan1979} menemukan bahwa seseorang menyukai lingkungan yang mudah dipahami serta mendorong ekplorasi yang mana disebut sebagai kebutuhan dasar.
 Agar dapat memenuhi kebutuhan tersebut, maka perlu untuk mengorganisasi tata letak elemen dan isinya \citep{kaplan1998}. \cite{kaplan1998} menemukan bahwa orang menyukai ruang yang terorganisasi dengan baik didukung elemen buatan daripada ruang yang menghalangi pandangan dan pohon yang padat.
 
-Terdapat dua bentuk bagaimana individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam informasi visual yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan misteri dan keterbacaan. Pada teori sebelumnya, misteri mendapat pengertian yang sama dengan prospek \citep{kaplan1998}.
+Terdapat dua bentuk bagaimana individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam penerka \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan penerka preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan prospek \citep{kaplan1998}.
 
-Keempat macam informasi ini (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi.
+Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi. Terakhir, penerka-penerka ini menyediakan informasi untuk memahami mengapa orang menyukai suatu lingkungan tertentu dan bagaiamana kenyamanannya \citep{zhang2006}.
 
 \begin{table}[htpb]
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
