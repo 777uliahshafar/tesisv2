@@ -391,7 +391,7 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
 \end{comment}
 
 
-\section{Definisi elemen terkait preferensi terhadap ruang}
+\section{Elemen dalam ranah publik}
 
 %definisi elemen
 Menurut \cite{carmona2021}, ranah publik terdiri atas dimensi `fisik' (ruang) dan `social' (aktivitas). Dia mengartikan ranah publik \textit{fisik} sebagai ruang dan tatanannya atau disebut sebagai elemen. Sehingga elemen merupakan pembentuk suatu lingkungan berupa lanskap yang lembut, bangku, air mancur dll pada suatu ranah publik. Istilah ruang dan tatanan dan elemen secara bersamaan akan digunakan pada penelitian ini.
@@ -419,13 +419,13 @@ Elemen fisik dan kehidupan publik mempunyai keterikatan.
 Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Demikian menjelaskan elemen-elemen menunjang kebutuhan-kebutuhan orang secara bersamaan.
 
 Untuk meningkatkan penggunaan sebuah ruang publik, maka pemeliharaan dan kualitas harus ditingkatkan.
-\citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskpun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
+\citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
 Ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari dan tidak disediakan, akan tetapi orang akan buang air dimana.
 Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll saat menggunakan tatanan tersebut.
 %Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
 %Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
 
-\section{Elemen-elemen yang mempengaruhi preferensi}
+\section{Elemen mempengaruhi preferensi}
 
 %theory element affect prefrence
 Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
@@ -444,7 +444,7 @@ Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terda
 %elemen alami
 Satu diantara elemen yang sangat menarik perhatian para pakar adalah elemen alami (pohon, tanaman, bunga, semak-semak, dan rumput). Elemen alami \textit{(nature)} dianggap signifikan atau setidaknya diatas penilaian rata-rata daripada elemen-elemen lain pada sejumlah penelitian preferensi elemen \citep{manyani2021,lo2003}. \cite{manyani2021} mendapatkan pohon, taman, bunga, dan semak-semak disebut dengan total sebanyak  74 kali  oleh pengunjung ruang terbuka hijau. Beberapa golongan usia dapat menghiraukan elemen alami, seperti \citeauthor{kim2012} menemukan orang dewasa lebih sadar terhadap elemen alami daripada anak-anak.
 
-Seseorang menyukai elemen alami dengan intensitas sedang. Sejumlah penelitian menyebut ruang dengan intensitas tersebut sebagai \textit{semi-open}.
+Seseorang menyukai elemen alami dengan intensitas sedang. Sejumlah penelitian menyebut ruang dengan intensitas tersebut sebagai ruang \textit{semi-open}.
 Pohon menjadi elemen yang paling melandasi pengaturan tersebut, selain itu terdapat rumput, semak-semak, bunga dan tanaman.
 
 %elemen artificial
@@ -454,10 +454,13 @@ Elemen lain yang menjadi preferensi setelah elemen alami adalah amenities rekrea
 \cite{manyani2021} mengenalkan banyak elemen buatan yang memiliki preferensi tinggi seperti ayunan, alat bermain, bangku, bunga, dan pagar. Dia juga menambahkan elemen dengan preferensi rendah seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung. Kehadiran elemen rekreasi ini meningkatkan ketertarikan sebuah ruang \citep{zhang2020}.
 
 %How elemen fulfil need for prefrence
-Elemen fisik dapat mempengaruhi perilaku atau preferensi apabila elemen tersebut memenuhi kebutuhan penggunanya \citep{balling1982}. \citeauthor{carmona2021} menggolongkan kebutuhan manusia sebagai karakter atau situasi individu. Hubungan antara elemen fisik dan kebutuhan manusia menjelaskan bagaimana lingkugan dipresepsikan.Bukan hanya sekedar informasi perseptual, tetapi informasi atas kemungkinan apa saja sepanjang memperhatikan tujuan orang \cite{kaplan1987}.
-Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat memenuhi kebutuhan kenyamanan pada ruang publik \citep{carmona2021}.
+Elemen fisik dapat mempengaruhi perilaku atau preferensi apabila elemen tersebut memenuhi kebutuhan penggunanya \citep{balling1982}.  \cite{zhang2006} menyatakan bahwa preferensi seseorang dari presepsi ruang berdasarkan pula pada fungsi. Pernyataan itu  mengklarifikasikan bahwa ada kebutuhan yang dapat dipenuhi oleh ruang \citep{mumcu2010}.
+Itu berakar pada teori presepsi dimana tidak hanya menjelaskan bagaimana lingkungan dipresepsikan tetapi informasi mengenai apa saja kemungkinannya dengan mempertimbangkan tujuan seseorang \citep{kaplan1979}.
 
-\cite{maslow2013} mengkategorikan kebutuhan manusia secara psikologi antara lain
+Dua teori presepsi ruang \textit{``prospect and refuge"} \citep{appleton1996} dan ``model pemrosessan informasi" \citep{kaplan1979} mengklarifikasi apa saja kemungkinan yang ruang harus miliki. Teori tersebut mengindikasikan satu diantara kemungkinan-kemungkinan ruang dicenderungi \citep{mumcu2010}. Demikian mengantarkan pada pertanyaan: apa jenis elemen yang menampilkan kemungkinan tersebut \citep{mumcu2010}.
+Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat menampilkan kemungkinan `kenyamanan' pada ruang publik \citep{carmona2021}.
+
+\cite{maslow2013} mengkategorikan kebutuhan manusia secara singkat dan jelas disamping permintaan nilai dan tujuan seseorang yang rumit dan individualis. Kebutuhan tersebut terindentifikasi lima tahapan hierarki kebutuhan dasar manusia sebagai berikut:
 \begin{inparaenum}
 \item kebutuhan psikiologi, seperti kenyamanan dan kehangatan.
 \item keamanan dan keselamatan, bagaimana mereka merasakan aman dari bahaya.
@@ -465,24 +468,21 @@ Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat memenuhi kebutuha
 \item penghargaan, bagaiamana orang dinilai oleh lainnya.
 \item aktualisasi diri, bagaimana mereka mencapai suatu kepuasan atau ekpresi seni.
 \end{inparaenum}
-
-%%elemen apa yang merangsang kenyamanan, keamanan, keterhubungn. dll
-
-Dua teori lainnya yang menggambarkan kebutuhan manusia, tetapi ini lebih menjelaskan hubungan presepsi lingkungan dan preferensi lingkungan adalah \textit{``prospect-refuge"} \citep{appleton1996} dan \textit{``information processing model"} \citep{kaplan1977}. Teori ini membutuhkan penjelasan lebih lanjut.
+Oleh karena kebutuhan dasar tidak cukup untuk memahami hubungan presepsi lingkungan dan preferensi ruang maka kedua teori presepsi tadi membutuhkan penjelasan lebih lanjut.
 
 \subsection{Prospect-Refuge}
 
 \textit{prospect-refuge} (prospek-tempat berlindung) terdiri atas istilah prospek yang artinya kemampuan mengumpulkan kemudian mengevaluasi informasi, sedangkan tempat berlindung artinya kemampuan lingkungan menyediakan keamanan untuk orang supaya dapat menjelajahi dan mengumpulkan informasi \citep{zhang2006}. Secara garis besar, teori ini menggambarkan situasi dimana orang dapat melihat tanpa dilihat. Derajat penglihatan ini menginterpretasikan kebutuhan untuk bertahan hidup pada suatu lingkungan. Ketika seseorang dapat melihat predatornya (musuh) tanpa dilihat oleh mereka, maka meningkatkan peluang untuk bertahan hidup \citep{mumcu2010}.
 
-Teori ini telah lama menjadi bahan diskusi pada penelitian presepsi lingkungan. Berdasarkan penelitian terkait teori ini, \textit{prospect-refuge} mempengaruhi preferensi dan telah diklarifikasi oleh sejumlah penelitian  \citep{suppakittpaisarn2019,nasar1998,mumcu2010}. \cite{zhang2006} menggambarkan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Oleh karena itu, orang lebih menyukai vegetasi dengan kepadatan sedang dalam hal ini adalah pohon. Karena orang dapat melihat dengan leluasa sehingga mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
+Teori ini telah lama menjadi bahan diskusi pada penelitian presepsi lingkungan. Berdasarkan penelitian terkait teori ini, \textit{prospect-refuge} mempengaruhi preferensi dan telah diklarifikasi oleh sejumlah penelitian  \citep{suppakittpaisarn2019,nasar1998,mumcu2010}. \cite{zhang2006} menggambarkan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Orang menyukai jenis ruang seperti itu, yang didukung kepadatan vegetasi sedang dalam hal ini adalah pohon. Sehingga orang dapat melihat dengan leluasa sehingga mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
 
 \subsection{Information Processing Model}
 \cite{kaplan1979} merumuskan teori model pemrosessan informasi \textit{(information processing model)} untuk memahami preferensi orang. Teori ini didasari oleh pemahaman terhadap tujuan individu oleh karena reaksi terhadap sesuatu bergantung pada tujuannya \citep{kaplan1979}.
 Dia mengusulkan ``pemahaman" dan ``eksplorasi" sebagai tujuan dasar individu dalam menentukan preferensi. Pemahaman yaitu kesempatan yang diberikan untuk memahami sekeliling pada waktu itu juga . Sedangkan eksplorasi yaitu kesempatan yang diberikan untuk mencari tahu, mempalajari dan mendorong \citep{kaplan1979}.
 
-Istilah pemahaman dan ekplorasi merupakan bahan diskusi dalam penelitian  preferensi, meskipun demikian mereka telah tertanaman dalam kepribadian yang berdasar informasi \citep{kaplan1979}. Teori ini tidak selalu tersedia oleh lingkungan, namun saat lingkungan dipahami memberi tahu apakah lingkungan itu dapat dieksplorasi atau tidak.
+Istilah pemahaman dan ekplorasi adalah pusat perhatian dalam penelitian  preferensi, meskipun demikian mereka telah tertanaman dalam kepribadian yang berdasar informasi \citep{kaplan1979}. Teori ini tidak selalu tersedia oleh lingkungan, namun saat lingkungan dipahami memberi tahu apakah lingkungan itu dapat dieksplorasi atau tidak.
 \cite{kaplan1979} menemukan bahwa seseorang menyukai lingkungan yang mudah dipahami serta mendorong ekplorasi yang mana disebut sebagai kebutuhan dasar.
-Agar dapat memenuhi kebutuhan tersebut, maka perlu untuk mengorganisasi tata letak elemen dan isinya \citep{kaplan1998}. \cite{kaplan1998} menemukan bahwa orang menyukai ruang yang terorganisasi dengan baik didukung elemen buatan daripada ruang yang menghalangi pandangan dan pohon yang padat.
+Agar dapat memenuhi kebutuhan tersebut, maka perlu untuk mengorganisasi tata letak elemen dan isinya \citep{kaplan1998}. \cite{kaplan1998} menemukan bahwa orang menyukai ruang yang terorganisasi dengan baik didukung elemen buatan daripada ruang dengan pohon yang padat dan menghalangi pandangan.
 
 Terdapat dua bentuk bagaimana individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam penerka \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan penerka preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan prospek \citep{kaplan1998}.
 
