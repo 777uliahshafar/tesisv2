@@ -425,7 +425,7 @@ Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pi
 %Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
 %Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
 
-\section{Elemen mempengaruhi preferensi}
+\section{Elemen berhubungan preferensi}
 
 %theory element affect prefrence
 Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
@@ -512,9 +512,19 @@ Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keter
 %elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
 \section{Karakter Pengunjung}
+
+Karakter individu mampu menentukan preferensi terhadap ruang \citep{carr1992}. Diluar karakter individu yang tersusun atas nilai, tujuan dan aspirasi yang rumit, faktor seperti umur \citep{scott2002,swanwick2009,mak2019}, jenis kelamin \citep{azagew2020}, suku \citep{elmen2005,swanwick2009} dan tingkat keakraban \citep{zhang2006,kaplan1987} dengan lebih eksplisit menunjukkan preferensi ruang yang berbeda.
+
+Diantara faktor karakter individu, faktor umur paling sering muncul dalam diskusi penelitian preferensi. \cite{ma2016} menemukan umur memiliki perbedaan preferensi. Dalam penelitian penilaian presepsi terhadap ruang tepi laut, dia menemukan kebanyakan anak muda melihat air, jalan setapak, vegetasi dan margasatwa sebagai preferensi. Preferensi orang dewasa hampir sama dengan anak muda, akan tetapi orang dewasa juga menambahkan kesukaan terhadap bentuk perkotaan \textit{(urban form)}. Hal itu disebabkan karena bentuk perkotaan mendorong kemungkinan berolahraga bagi mereka. Sedangkan manula kebanyakan hanya fokus pada pergerakan air sebagai preferensinya \citep{ma2016}. Deskripsi tadi mengklarifikasi hasil penelitian \citep{scott2002} bahwa perbedaan umur mempunyai kecenderungan ruang (lanskap) tertentu.
+
+Perbedaan preferensi sepertinya tidak hanya ditunjukkan oleh beragam usia, perbedaan jenis kelamin jelas menyukai elemen berdasarkan kemungkinan atau kebutuhan yang mau dipenuhi yang beragam \citep{ma2016}. Menurut \cite{ma2016}, perempuan menaruh preferensinya pada elemen yang memungkinkan untuk merasakan secara visual, dan mampu bersembunyi. Seperti elemen air, bentuk perkotaan, vegetasi dan margasatwa. Sedangkan laki-laki menaruh preferensi yang memungkinkan merasakan secara visual, mendengar, dan penggunaan elemen-elemen. Berdasarkan diskusi yang dilaksanakan oleh \citeauthor{ma2016} mereka sepakat mencenderungi elemen air, jalan setapak, dan pergerakan air. Perbedaan preferensi diantara jenis kelamin muncul pula pada penelitian \textit{``Gender and Ethnic Variations in Urban Park Preferences, Visitation, and perceived Benefits"} \citep{ho2005}. Dia mengatakan bahwa perempuan menunjukkan pentingnya lanskap taman tradisional (jalan beraspal, pohon rimbun \& rumput), logistik (tempat parkir, tempat sampah \& penanda atau marka), unsur suku ( kehadiran suku lain, ketersediaan bahasa, dll.) \citep{ho2005}.
+
+
+
+
 %%tak ea look on a landscape prference study of campus hal 74
-Selain daripada elemen, preferensi terhadap ruang juga bergantung pada karakter pengunjung \citep{carr1992}.
-Penelitian tentang taman perkotaan, karakter pengunjung (sosio-demografi) mempengaruhi preferensi terhadap ruang \textit{(spatial preference)} \citep{zhao2020}. \cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
+Penelitian tentang taman perkotaan, karakter pengunjung (sosio-demografi) mempengaruhi preferensi terhadap ruang \textit{(spatial preference)} \citep{zhao2020}.
+\cite{wang2021} menekankan pengaruh karakter pengunjung lebih besar terjadi di ruang yang lebih kecil. Asosiasi tersebut menerangkan bahwa lajang, laki-laki, dan berpendapatan tinggi lebih sering menggunakan ruang publik \citep{azagew2020}. Terbalik dengan penelitian lain menyatakan bahwa aspek gender dan latar belakang profesi tidak memiliki pengaruh dalam preferensi ruang/lanskap kecuali apabila dihubungkan dengan umur \citep{gao2019,lyons1983}.
 
 %Umur dan status
 Berbicara karakter pengunjung, aspek umur dan status sosial lebih sering muncul pada penelitian \citep{cahyaningtyas2020, scott2002, swanwick2009, mak2019}.
