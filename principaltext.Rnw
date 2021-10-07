@@ -128,8 +128,8 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 
 \begin{enumerate}
-    \item Bagaimana preferensi pengunjung terhadap ruang di ruang-ruang tepi laut?
-    \item Bagaimana hubungan keseluruhan elemen dan preferensi ruang?
+    \item Bagaimana preferensi pengunjung terhadap ruang di kawasan tepi laut?
+    \item Bagaimana hubungan elemen ruang dan preferensi ruang?
         % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
 \end{enumerate}
 
@@ -151,7 +151,7 @@ Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan m
 
 \begin{enumerate}
     \item Untuk mengetahui jenis ruang yang paling dicenderungi di kawasan tepi laut.
-    \item Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang.
+    \item Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang di kawasan tepi laut.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -546,9 +546,9 @@ Perbedaan preferensi sepertinya tidak hanya ditunjukkan oleh beragam usia, perbe
 
 \newpage
 \section{Proposisi Penelitian}
-Berdasarkan dari tinjauan pustaka dan observasi lapangan mengindikasikan perlunya membentuk proposisi untuk ruang publik yang mana memperhatikan kebutuhan pengunjung dan elemen-elemen dari objek penelitian (lihat tabel \ref{tab:props}).
-Proposisi ini merupakan pedoman dalam pelaksanaan penelitian seperti dalam pengumpulan dan pengamatan data di lapangan.
-Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdasarkan elemen-elemen ruang dan karakter pengunjung. Sehingga pemilihan akhir dapat memenuhi kebutuhan pengunjung.
+
+Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Tinjauan pustaka tersebut memberikan latar belakang penelitian-penelitian preferensi serta penemuan berkaitan penilaian ruang. Penemuan penilaian ruang membangun sejumlah teori dan teknik preferensi ruang. Dimana membantu merumuskan proposisi untuk keperluan tahap penelitian selanjutnya (lihat tabel \ref{tab:props}).
+
 
 \begin{longtable}{ p{.50\textwidth}  P{.25\textwidth} P{.25\textwidth}  }
 	\caption{Proposisi Penelitian} \\
@@ -576,18 +576,13 @@ Selain itu, proposisi ini memberikan pengetahuan terhadap pemilihan ruang berdas
 
 \end{longtable}
 
-
-Selanjutnya kerangka konseptual dibangun yang terdiri atas empat tema yang meliputi fokus untuk penelitian. Kerangka merupakan alat untuk mengartikan variabel yang saling berhubungan yang menjelaskan ruang publik tepi laut. Kerangka konseptual elemen merupakan dasar untuk membentuk kuesioner survei dan mengelola kode dari respon kuesioner.
-
-Berdasarkan tabel \ref{tab:props}, maka penulis merumuskan sebuah kerangka konseptual penelitian seperti gambar \ref{fig:conc}.
-\newpage
+Proposisi ini, selain membantu proses penelitian selanjutnya, menjelaskan faktor-faktor yang mempengaruhi preferensi sebuah ruang. Dengan demikian, melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
 
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-
-    \node (fit) [startstop, text width=\textwidth] {\textbf{Permalahan penelitian}\\ 1. Bagaimana preferensi pengunjung terhadap ruang di ruang­ruang tepi laut?  \\ 2. Bagaimana hubungan keseluruhan elemen dan preferensi ruang? };
+    \node (fit) [startstop, text width=\textwidth] {\textbf{Permalahan penelitian}\\ 1. Bagaimana preferensi pengunjung terhadap ruang di  kawasan tepi laut?  \\ 2. Bagaimana hubungan  elemen dan preferensi ruang? };
 
 	\node (soc) [startstop, below of=fit, text width=\textwidth, yshift=-1cm] {\textbf{Tujuan penelitian}\\ 1.Untuk mengetahui jenis ruang yang paling dicenderungi di kawasan tepi laut.
     \\ 2. Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang. };
