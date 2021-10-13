@@ -509,6 +509,48 @@ Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keter
 %Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
 %elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
+\section{ga tau}
+
+\begin{landscape}
+\begin{singlespace}
+\small
+\begin{longtable}{l p{.3\textheight} c c c c c}
+	\caption{Elemen yang dicenderungi untuk ruang publik tepi laut} \\
+    \label{tab:elcn} \\
+& & \cite{alves2008} & \cite{grilli2020} &  \cite{stino1983} & \cite{edwards2015} & \cite{lo2003} \\
+1 & Kehadiran paving blok & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+& \quad Semua dipaving &  &  &  & & \\
+& \quad Sebagian dipaving &  &  &  & & \\
+& \quad Tidak dipaving &  &  &  & & \\
+
+2 & Pohon dan tanaman & \checkmark & \checkmark & \checkmark & & \checkmark \\
+& \quad Banyak pohon &  &  &  & & \\
+& \quad Beberapa pohon &  &  &  & & \\
+& \quad Sedikit pohon &  &  &  & & \\
+
+3 & Fitur air & \checkmark & \checkmark & \checkmark & & \checkmark \\
+& \quad Beberapa fitur air (laut,air mancur dll) &  &  &  & & \\
+& \quad Tidak ada fitur air &  &  &  & & \\
+
+
+4 & Fasilitas & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+& \quad Toilet &  &  &  & & \\
+& \quad Kedai makanan &  &  &  & & \\
+& \quad Alat bugar &  &  &  & & \\
+
+5 & Ukuran \textit{(size)}  &  & \checkmark & \checkmark & & \checkmark \\
+& \quad Luas &  &  &  & & \\
+& \quad Sempit &  &  &  & & \\
+
+6 & Lalu lintas \textit{(Traffic)}  & \checkmark  &  &  & \checkmark &  \\
+& \quad Padat &  &  &  & & \\
+& \quad Ringan &  &  &  & & \\
+
+
+\end{longtable}
+\end{singlespace}
+\end{landscape}
+
 \section{Karakter Pengunjung}
 
 Karakter individu mampu menentukan preferensi terhadap ruang \citep{carr1992}. Diluar karakter individu yang tersusun atas nilai, tujuan dan aspirasi yang rumit, faktor seperti umur \citep{scott2002,swanwick2009,mak2019}, jenis kelamin \citep{azagew2020}, suku \citep{elmen2005,swanwick2009} dan tingkat keakraban \citep{zhang2006,kaplan1987} dengan lebih eksplisit menunjukkan preferensi ruang yang berbeda.
@@ -554,27 +596,36 @@ Perbedaan preferensi sepertinya tidak hanya ditunjukkan oleh beragam usia, perbe
 Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Tinjauan pustaka tersebut memberikan latar belakang penelitian-penelitian preferensi serta penemuan berkaitan penilaian ruang. Penemuan penilaian ruang membangun sejumlah teori dan teknik preferensi ruang. Dimana membantu merumuskan proposisi untuk keperluan tahap penelitian selanjutnya (lihat tabel \ref{tab:props}).
 
 
-\begin{longtable}{ p{.50\textwidth}  P{.25\textwidth} P{.25\textwidth}  }
+\begin{longtable}{ p{.33\textwidth} l  P{.15\textwidth} P{.15\textwidth}  }
 	\caption{Proposisi Penelitian} \\
 	\label{tab:props} \\
 \toprule
- {\bfseries Elemen yang disukai}  & {\bfseries Ruang A} & {\bfseries Ruang B} \\
+{\bfseries Elemen yang disukai} & \textbf{Tingkatan} & {\bfseries Ruang A} & {\bfseries Ruang B} \\
  \midrule
- Laut & \checkmark & \checkmark \\
- Pohon/ tanaman & \checkmark & \checkmark \\
- Kedai makanan & \checkmark & \checkmark \\
- Toilet & & \checkmark \\
- Perumahan & & \checkmark\\
- Pelabuhan &\checkmark &\\
- Tempat duduk &\checkmark &\checkmark\\
- Tempat berkumpul & &\checkmark\\
- Lampu &\checkmark &\checkmark\\
- Paving blok &\checkmark &\checkmark\\
+ Kehadiran Jalan dipaving & Semua dipaving & \checkmark &  \\
+  & Sebagian dipaving &  &  \\
+  & Tidak dipaving &  &  \\
+
+ Pohon dan tanaman & Banyak pohon & \checkmark & \checkmark \\
+  & Beberapa pohon &  &  \\
+  & Sedikit pohon &  &  \\
+
+ Fitur air & Beberapa fitur air & \checkmark & \checkmark \\
+  & Tidak ada fitur air &  &  \\
+
+ Fasilitas & Toilet & \checkmark & \checkmark \\
+  & Kedai makanan &  &  \\
+  & Alat kebugaran &  &  \\
+ Ukuran & Luas & \checkmark & \checkmark \\
+  & Sempit &  &  \\
+ Lalu lintas & Padat & \checkmark & \checkmark \\
+  & Ringan &  &  \\
+
  &&\\
- Umur  & \multicolumn{2}{c}{Mempengaruhi}   \\
- Jenis kelamin  & \multicolumn{2}{c}{Mempengaruhi}   \\
- Suku  & \multicolumn{2}{c}{Mempengaruhi}   \\
- Pekerjaan  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Jenis kelamin &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Suku &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+ Pekerjaan &  & \multicolumn{2}{c}{Mempengaruhi}   \\
 
  \bottomrule
 
