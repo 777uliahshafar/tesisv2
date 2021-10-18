@@ -128,8 +128,8 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 
 \begin{enumerate}
-    \item Bagaimana preferensi pengunjung terhadap ruang di kawasan tepi laut?
-    \item Bagaimana hubungan elemen ruang dan preferensi ruang?
+    \item Apa saja ruang yang dicenderungi pengunjung pada ruang publik?
+    \item Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut?
         % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
 \end{enumerate}
 
@@ -150,8 +150,8 @@ Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di ka
 Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan elemen-elemen pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-    \item Untuk mengetahui jenis ruang yang paling dicenderungi di kawasan tepi laut.
-    \item Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang di kawasan tepi laut.
+    \item Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
+    \item Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -1514,17 +1514,14 @@ Jarak antara ruang B dan pelabuhan yang jauh menjadi alasan kualitas air disini 
 \end{enumerate}
 
 
-%-------------------------------------------------------------------------------
-%
-%-------------------------------------------------------------------------------
 
-\begin{comment}
-\section{ Knitr child Documents}
-You should note that using knitr package you can easily incorporate difference kinds of files into a project.
+\chapter{Hasil dan Pembahasan}
+\section{ }
 
 \tabRegresi
 \pieChartFig
 
+\begin{comment}
 
 \chapter{Kesimpulan}\label{chap:kesimp}
 
