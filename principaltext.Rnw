@@ -299,18 +299,31 @@ Terakhir, \cite{sari2015} menyimpulkan tepi laut adalah kawasan dinamis yang ber
 \label{sub:subsectionlabel}
 
 Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menguatkan pernyataan tadi bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan atau tidak. Akses ini dapat berupa gratis masuk atau dengan biaya murah (seperti tiket) imbuhnya.
-Berdasarkan penelitian terkait ruang publik, \cite{carr1992} mengindikasikan ruang publik berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain. Lebih lanjut, \cite{nur2006} mengartikan ruang publik adalah suatu area yang terakses oleh publik setiap saat.
+Berdasarkan penelitian terkait ruang publik, \cite{carr1992} mengindikasikan ruang publik berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain. Ruang itu terakses oleh publik setiap saat \citep{nur2006}.
 
-Ruang publik terbagi atas dua macam yaitu ruang publik eksternal(terbuka) dan internal.
+Menurut \cite{carr1992}, ruang publik memiliki dimensi `fisik' (ruang) dan `sosial' (aktivitas).
+Elemen ruang adalah bagian fisik dari ruang publik --- dimengerti sebagai ruang dan tatatan --- yang mengakomodasi interaksi sosial dan kehidupan publik \citep{carr1992,lynch1984}. Sedangkan sosial budaya ruang publik merupakan aktivitas dan kegiatan yang terjadi pada elemen ruang tertentu \citep{carr1992}. Elemen ruang memiliki sebutan lain pada beberapa penelitian seperti, elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}.
+
+Berdasarkan jenisnya, ruang publik terbagi atas dua jenis yaitu ruang publik eksternal (terbuka) dan internal.
 Ruang publik eksternal: Ruang publik di area perkotaan antara lain tepi laut \textit{(waterfront)}, taman, alun-alun, jalan, tol, parkir,  dll dan ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang publik internal: Ruang publik institusi seperti perpustakaan, musium, balai kota, fasilitas transportasi, dll \citep{carmona2021,carr1992}.
 
+Kemunculan ruang publik tepi laut merupakan hasil dari pengembangan yang dulu, perilaku, dan kondisi kejiwaan masyarakat \citep{hradilova2013}. Menurut \cite{hradilova2013}, tepi laut membuktikan tentang karakter masyarakat, adanya sistem ekonomi dan era pemikiran kontemporer. Dimana saat ini masyarakat menginginkan akses yang lebih baik ke perairan dengan adanya ruang publik tepi laut. Ini mendorong terjadinya pengembangan tepi laut untuk menggunakan kembali tepi laut yang tersentralisasi, yang sebelumnya digunakan untuk kepentingan aktivitas industri, pelabuhan, jalur kereta api \citep{luan2018}.
 
-Tepi laut memiliki nilai visual yang sangat menarik \citep{nur2006}.
-Pengaruhnya terhadap ruang publik bervariasi dengan ukuran dan lebar badan air, karakter tepi laut, dan pengaturan arsitektur pinggir laut \citep{hradilova2013}. Ini mencerminkan tepi laut membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota, menampilkan karakter dari masyarakat, sistem ekonomi sekarang, dan pemikiran dari era kontemporer \citep{hradilova2013}. Pengembangan tepi laut tersebut awalnya didasari atas permintaan oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \citep{luan2018}.
+%Tepi laut sebagai ruang terbuka publik memiliki nilai visual yang sangat menarik \citep{nur2006}.
+%Keragaman ukuran dan lebar badan air, karakter tepi laut, dan pengaturan arsitektur pinggir laut berpengaruh terhadap ruang publik  \citep{hradilova2013}.
+
+%Oleh karena itu, tepi laut membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota, menampilkan karakter dari masyarakat, sistem ekonomi sekarang, dan pemikiran dari era kontemporer \citep{hradilova2013}.
+%Selain itu, permintaan publik terhadap akses ke perairan melalui kepemilikan ruang publik di pesisir mendorong pengembangan tepi laut \citep{larosa2018}.
+
+%Pengembangan tepi laut tersebut awalnya didasari atas permintaan oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \citep{luan2018}.
 
 Pengembangan tepi laut sebagai ruang terbuka publik biasanya mengubah tepi laut dari area industri dan komersial menjadi area untuk rekreasi, fasilitas publik dan kantor \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}. Contoh perkotaan yang telah mengalami pengembangan tepi laut tersebut adalah Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}. Ditambah lagi kota-kota besar di Eropa, Amerika Serikat dan Cina yang telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}. Pengembangan tepi laut yang terdekat pada objek penelitian adalah Pantai Losari \citep{nur2006}. Dia menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar.
 
-Dalam penelitian dengan judul pengaruh penampakan tepi laut perkotaaan terhadap fungsi ruang publik, \cite{hradilova2013} menjelaskan ruang publik terbentuk atas tiga fitur perkotaan yaitu fungsi, operasi dan pengaturan spasial \citep{hradilova2013}.
+Dulu, ekonomi kota sukses mendorong kualitas suatu tepi laut, namun sekarang sebaliknya, kualitas tepi laut menjadi batu loncatan untuk sebuah pengembangan ekonomi kota.
+Kenyamanan yang dirasakan di tepi laut bukan hanya menentukan kualitas hidup seseorang \citep{li2020}, akan tetapi menjadi tolak ukur keberhasilan sebuah kota.
+Oleh sebab itu, kualitas lingkungan memiliki peran penting terhadap pengembangan tepi laut.
+
+Dalam penelitian dengan judul pengaruh penampakan tepi laut perkotaaan terhadap fungsi ruang publik, \cite{hradilova2013} menjelaskan tepi laut sebagai ruang publik terbentuk atas tiga fitur perkotaan yaitu fungsi, operasi dan pengaturan spasial \citep{hradilova2013}.
 Fitur tersebut menjadi evaluasi terhadap kualitas ruang publik dan acuan dalam memuaskan kebutuhan masyarakat. Lebih detailnya, fungsi, menurut \cite{gehl2000}, adalah upaya dalam memenuhi aktivitas sosial dalam ruang publik.
 Aktivitas yang tumpang tindih termasuk rekreasi, budaya dan peninggalan, perumahan, pekerjaan, dan industri \citep{norcliffe1996}.
 Operasi menggambarkan transportasi perkotaan dan infrastruktur teknis. Terakhir, pengaturan spasial membentuk keseluruhan komposisi perkotaan. \cite{wittmann2008} secara khusus mengungkapkan kawasan tepi laut tersusun atas fungsi dasar sebagai berikut:
@@ -325,33 +338,28 @@ Operasi menggambarkan transportasi perkotaan dan infrastruktur teknis. Terakhir,
     \item persimpangan sosial tertentu
 \end{itemize}
 
-Tempo dulu ekonomi kota sukses mendorong kualitas suatu tepi laut, namun sekarang sebaliknya, kualitas tepi laut menjadi batu loncatan untuk sebuah pengembangan ekonomi kota; prospek pengembangan kota.
-Kenyamanan yang dirasakan di tepi laut bukan hanya menentukan kualitas hidup seseorang \citep{li2020}, akan tetapi menjadi tolak ukur keberhasilan sebuah kota.
-Perubahan kenyataan ini mendasari pentingnya kualitas lingkungan hadir pada ruang terbuka publik tepi laut.
 
 %ENVIRONMENT QUAALITY and  QUALITY OF LIFE PEOPLE
 %BAGIAN-BAGIAN KUALITAS LINGKUNGAN WATERFRONT
 %quality 0
-Beberapa tahun terakhir, kualitas lingkungan perkotaan menjadi perbincangan dalam banyak penelitian tentang perkotaan. Itu melibatkan beberapa aspek dalam mendefinisikan sebuah kualitas lingkungan perkotaan yang baik.
-\cite{smith1997} menyebut \textit{liveability}, karakter, penghubung, \textit{mobility}, kebebesan diri, dan keberagaman adalah aspek kualitas dan kebutuhan yang perlu ada. Ditambah lagi, \cite{richarda.lehmann1966} merincikan dalam konteks kualitas visual yang terdiri atas akses fisik, akses visual, pelestarian sejarah, dan rasa tempat \textit{(sense of place)} dan kontiunitas.
+%Beberapa tahun terakhir, kualitas lingkungan perkotaan menjadi perbincangan dalam banyak penelitian tentang perkotaan. Itu melibatkan beberapa aspek dalam mendefinisikan sebuah kualitas lingkungan perkotaan yang baik.
+%\cite{smith1997} menyebut \textit{liveability}, karakter, penghubung, \textit{mobility}, kebebesan diri, dan keberagaman adalah aspek kualitas dan kebutuhan yang perlu ada. Ditambah lagi, \cite{richarda.lehmann1966} merincikan dalam konteks kualitas visual yang terdiri atas akses fisik, akses visual, pelestarian sejarah, dan rasa tempat \textit{(sense of place)} dan kontiunitas.
 
 %quality 1
-Kualitas lingkungan yang bersifat umum tadi mengantarkan pada aspek kualitas yang terdapat pada tepi laut.
 Menurut \cite{tunbridge1992}, kunci utama keberhasilan pengembangan tepi laut adalah mixed-use dan aktivitas bersantai. \cite{gospodini2001} menyorot aspek mixed-use atau dimensi ganda mampu memberikan potensi pengembangan dan integrasi dengan pusat kota serta ruang publik terdekat.
 Dia juga berargumentasi bahwa tepi laut yang menyenangkan menempatkan karakteristik dimensi ganda, agar orang-orang menjadikannya sebagai tempat untuk menyeimbangkan pekerjaan, rekreasi dan kehidupan. Keberagaman dimensi pada tepi laut menambah aktivitas-aktivitas yang mungkin bisa dilakukan \citep{gospodini2001}. Sedangkan \cite{mostafa2017} menerangkan kualitas tepi laut didasarkan atas kebutuhan yang didominasi oleh \begin{inparaenum} \item Pelayanan \item Taman \item Aktivitas \item Keteduhan \item Parkir \item Kafe dan rekreasi. \end{inparaenum}
 
-Setelah menganalisis \textit{post-industrial} ekonomi perkotaan dan dampak spasialnya, \cite{gospodini2009} merangkum jenis ruang perkotaan baru (baca: \textit{epicenter}) yang dapat diterapkan pada pengembangan tepi laut.
-\begin{inparaenum}
-\item  Aktivitas bersantai, olahraga, dan laut bertujuan untuk mengembangkan tepi pantai ke area rekreasi \citep{breen1994}. \cite{gospodini2009} menyebutnya sebagai \textit{`Popular leisure epicentres'}.
-\item Jalur pejalan kaki, akuarium, ekologi, dan lahan parkir untuk mengubah tepi laut sebagai area lingkungan(\textit{environment areas}) \citep{costa1990}.
-\item Aktivitas perusahaan, bisnis, rumah sakit, dan tepi laut yang mengubah tepi pantai menjadi lokasi finansial \citep{hoyle1999} \citep{hoyle2000}. \cite{gospodini2009} sering menyebutnya \textit{`entrepreneurial epicentres'}
-\item Rumah mewah, bertujuan untuk menjadikan tepi pantai sebagai area perumahan \citep{dong2004}.
-\item Bangunan-bangunan pelestarian sejarah meliputi hotel, restaurant, teater bahkan sungai untuk menjadikan tepi pantai sebagai kawasan \textit{heritage} \citep{macleod1999}. Atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}\end{inparaenum}.
+%Setelah menganalisis \textit{post-industrial} ekonomi perkotaan dan dampak spasialnya, \cite{gospodini2009} merangkum jenis ruang perkotaan baru (baca: \textit{epicenter}) yang dapat diterapkan pada pengembangan tepi laut.
+%\begin{inparaenum}
+%\item  Aktivitas bersantai, olahraga, dan laut bertujuan untuk mengembangkan tepi pantai ke area rekreasi \citep{breen1994}. \cite{gospodini2009} menyebutnya sebagai \textit{`Popular leisure epicentres'}.
+%\item Jalur pejalan kaki, akuarium, ekologi, dan lahan parkir untuk mengubah tepi laut sebagai area lingkungan(\textit{environment areas}) \citep{costa1990}.
+%\item Aktivitas perusahaan, bisnis, rumah sakit, dan tepi laut yang mengubah tepi pantai menjadi lokasi finansial \citep{hoyle1999} \citep{hoyle2000}. \cite{gospodini2009} sering menyebutnya \textit{`entrepreneurial epicentres'}
+%\item Rumah mewah, bertujuan untuk menjadikan tepi pantai sebagai area perumahan \citep{dong2004}.
+%\item Bangunan-bangunan pelestarian sejarah meliputi hotel, restaurant, teater bahkan sungai untuk menjadikan tepi pantai sebagai kawasan \textit{heritage} \citep{macleod1999}. Atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}\end{inparaenum}.
 
-Kualitas tepi laut juga tergambarkan melalui konsep pengembangan tepi laut kota Toronto dalam pelaksanaan Olimpiade. Konsep pengembangan tersebut yaitu: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item Akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item Menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk acara \textit{Olympic Games} 2008 \end{inparaenum} \citep{white2016}.
+%Kualitas tepi laut juga tergambarkan melalui konsep pengembangan tepi laut kota Toronto dalam pelaksanaan Olimpiade. Konsep pengembangan tersebut yaitu: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item Akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item Menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk acara \textit{Olympic Games} 2008 \end{inparaenum} \citep{white2016}.
 
-Lingkungan yang berkualitas menyampaikan rasa kesejahteraan dan kepuasan kepada penduduk melalui karakteristik fisik lingkungan \citep{lansing1969}, akan tetapi kualitas lingkungan juga mempertimbangkan preferensi pengguna terhadap lingkungan tersebut \citep{macleod1999}. Karakteristik fisik selanjutnya diartikan sebagai elemen ruang.
-\citep{hubbard1996} menjelaskan kualitas elemen sangat penting dalam hubungan emosional antara manusia dan lingkungan, yang mana dimediasi oleh rasa dan persepsi seorang.
+Lingkungan yang berkualitas menyampaikan rasa kesejahteraan dan kepuasan kepada masyarakat melalui elemen ruang \citep{lansing1969}, lebih dari itu, kualitas lingkungan juga mempertimbangkan preferensi individu terhadap lingkungan tersebut \citep{macleod1999}. \citep{hubbard1996} menjelaskan kualitas lingkungan sangat penting dalam hubungan emosional antara manusia dan lingkungan, yang mana dimediasi oleh rasa dan persepsi seorang.
 
 \subsection{Manusia dan ruang}
 
@@ -361,9 +369,14 @@ Demikian mengasumsikan bahwa interaksi ruang-masyarakat hanya berjalan satu arah
 
 Terdapat dua macam tingkatan bagaimana lingkungan mempengaruhi perilaku dan kegiatan seseorang.
 \textit{Environmental possibilism} yaitu ketika orang dapat memilih peluang lingkungan yang tersedia dan
-\textit{environmental probabilism} adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}. Hubungan antara masyarakat dan ruang selanjutnya akan dibahas dalam konteks preferensi pengunjung terhadap ruang tepi laut.
+\textit{environmental probabilism} adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}. Dua macam tingkatan ini jelas mengindikasikan bahwa elemen ruang bukan faktor dominan dalam mempengaruhi tindakan atau perilaku, melainkan peluang lingkungan yang menentukan apa yang orang bisa lakukan \citep{carmona2021}.
+Contoh peluang lingkungan adalah suatu tepi laut yang terbuka menuju pesisir laut akan mendukung interaksi dengan laut, sementara yang terhalang oleh pembatas tidak mungkin menyediakan peluang tersebut \citep{carmona2021}.
+Daripada menentukan tindakan atau perilaku orang, desain perkotaan dapat merekayasa tindakan yang mungkin terjadi pada suatu tatanan tertentu.
+Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja \citep{carmona2021}.
+Dia menekankan ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
+Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihindari dan apabila mereka tidak disediakan, masalah dihindari namun orang tidak dapat menikmati laut.
 
-
+Pemahaman terhadap hubungan ruang dan masyarakat berkontribusi dalam menjawab bagaimana suatu lanskap dirasakan \textit{(perceived)} oleh masyarakat atau individu \citep{zube1982}. Konvensi lanskap eropa yang mengartikan lanskap sebagai kombinasi antara `ruang' dan `tempat', pengertian tempat adalah rumit dalam perencanaan lanskap. Demi fokus penelitian ini, lanskap dipertimbangkan sebagai ruang. Fungsi dari interaksi antara masyarakat dan ruang membentuk presepsi lanskap \citep{zube1982}.
 
 
 \section{Preferensi Ruang}
@@ -411,10 +424,10 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
 \section{Elemen dalam ranah publik}
 
 %definisi elemen
+%hal. 109 carr
 Menurut \cite{carmona2021}, ranah publik terdiri atas dimensi `fisik' (ruang) dan `social' (aktivitas). Dia mengartikan ranah publik \textit{fisik} sebagai ruang dan tatanannya atau disebut sebagai elemen. Sehingga elemen merupakan pembentuk suatu lingkungan berupa lanskap yang lembut, bangku, air mancur dll pada suatu ranah publik. Istilah ruang dan tatanan dan elemen secara bersamaan akan digunakan pada penelitian ini.
 Elemen itu berfungsi untuk mengakomodasi sebuah aktivitas, menarik masyarakat, dan kehidupan publik lainnya \citep{lynch1984}. Sementara aktivitas dan kegiatan yang terjadi dalam ruang atau tatanan tersebut disebut ranah publik \textit{sosial budaya} \citep{carmona2021}.
 
-Sejumlah peneliti  lebih menyukai menggunakan sebutan lain dari suatu elemen sebagai elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}. Walaupun demikian, semuanya merujuk pada elemen yang ada pada ruang publik yang digunakan masyarakat untuk memenuhi kebutuhannya.
 
 %elemen sebagai perseptual
 \cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang sisa hidupnya \citep{lynch1984}.
@@ -425,20 +438,11 @@ Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  p
 
 %Meskipun faktor fisik dapat menentukan tindakan dan perilaku seseorang, peluang lingkungan mempengaruhi apa yang orang yang bisa dan yang tidak bisa dilakukan \citep{carmona2021}.
 
-Walaupun fisik elemen bukan faktor dominan dalam mempengaruhi tindakan atau perilaku, peluang lingkungan tentu mempengaruhi apa yang orang bisa lakukan \citep{carmona2021}.
-Suatu tepi laut yang terbuka menuju pesisir laut akan mendukung interaksi alam (laut), sementara yang memiliki pembatas (penghalang) tidak mungkin menyediakan peluang tersebut.
-Daripada menentukan tindakan atau perilaku orang, rancangan perkotaan dapat merekayasa tindakan yang mungkin terjadi pada suatu tatanan tertentu.
-Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja.
-Kedua pola pengaruh lingkungan terhadap tindakan orang itu menguatkan istilah \textit{environment possibilism} (orang memilih diantara peluang lingkunga yang tersedia) dan \textit{environmental probalbilism} (beberapa pilihan lebih mungkin daripada yang lain di suatu tatanan tertentu) \citep{carmona2021} .
 
 Pilihan yang terjadi sebagian juga dipengaruhi oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}.
 Elemen fisik dan kehidupan publik mempunyai keterikatan.
 Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Demikian menjelaskan elemen-elemen menunjang kebutuhan-kebutuhan orang secara bersamaan.
 
-Untuk meningkatkan penggunaan sebuah ruang publik, maka pemeliharaan dan kualitas harus ditingkatkan.
-\citeauthor{carmona2021} menggarisbawahi ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
-Ketika elemen toilet disediakan, vandalisme mungkin terjadi. Vandalisme tersebut dapat dihindari dan tidak disediakan, akan tetapi orang akan buang air dimana.
-Banyak ruang publik menawarkan orang pilihan untuk menggunakannya atau tidak, pilihan tersebut berhubungan dengan dasar kenyamanan, keamanan, ketertarikan, dll saat menggunakan tatanan tersebut.
 %Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
 %Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
 
