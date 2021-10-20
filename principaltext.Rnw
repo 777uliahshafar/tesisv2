@@ -376,8 +376,12 @@ Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kond
 Dia menekankan ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
 Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihindari dan apabila mereka tidak disediakan, masalah dihindari namun orang tidak dapat menikmati laut.
 
-Pemahaman terhadap hubungan ruang dan masyarakat berkontribusi dalam menjawab bagaimana suatu lanskap dirasakan \textit{(perceived)} oleh masyarakat atau individu \citep{zube1982}. Konvensi lanskap eropa yang mengartikan lanskap sebagai kombinasi antara `ruang' dan `tempat', pengertian tempat adalah rumit dalam perencanaan lanskap. Demi fokus penelitian ini, lanskap dipertimbangkan sebagai ruang. Fungsi dari interaksi antara masyarakat dan ruang membentuk presepsi lanskap \citep{zube1982}.
+\subsection{Kerangka Teori Presepsi Lanskap}
 
+Pemahaman terhadap interaksi antara ruang dan manusia serta akibat \textit{(outcome)} berkontribusi dalam menjawab bagaimana suatu lanskap dirasakan \textit{(perceived)} oleh masyarakat atau individu \citep{zube1982}. Konvensi lanskap eropa mengartikan lanskap sebagai kombinasi antara `ruang' dan `tempat', pengertian tempat adalah rumit dalam perencanaan lanskap. Demi fokus penelitian ini, lanskap dipertimbangkan sebagai ruang.
+\cite{zube1982} mengakui bahwa mempelajari interaksi tadi adalah penting yang akan berguna dalam mengembangkan kerangka teori tentang presepsi lanskap, seperti gambar berikut:
+
+Kerangka tersebut menjelaskan proses interaksi dan menunjukkan beragam elemen yang menjelaskan komponen (orang, lanskap, dan akibat) \citep{zube1982}. \cite{zhang2006} berpendapat bahwa kerangka presepsi lanskap itu menunjukkan interaksi antara manusia dan lanskap serta akibat dari interaksi. Secara garis besar, presepsi lanskap adalah fungsi dari interaksi antara manusia dan lingkungan sekitarnya \citep{zube1982}.
 
 \section{Preferensi Ruang}
 \label{sub:pref}
