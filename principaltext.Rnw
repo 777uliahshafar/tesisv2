@@ -302,7 +302,7 @@ Berdasarkan kamus Amerika Oxford ruang adalah area yang kontinu atau terbentang 
 Berdasarkan penelitian terkait ruang publik, \cite{carr1992} mengindikasikan ruang publik berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain. Ruang itu terakses oleh publik setiap saat \citep{nur2006}.
 
 Menurut \cite{carr1992}, ruang publik memiliki dimensi `fisik' (ruang) dan `sosial' (aktivitas).
-Elemen ruang adalah bagian fisik dari ruang publik --- dimengerti sebagai ruang dan tatatan --- yang mengakomodasi interaksi sosial dan kehidupan publik \citep{carr1992,lynch1984}. Sedangkan sosial budaya ruang publik merupakan aktivitas dan kegiatan yang terjadi pada elemen ruang tertentu \citep{carr1992}. Elemen ruang memiliki sebutan lain pada beberapa penelitian seperti, elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}.
+Elemen ruang disini mengartikan fisik dari ruang publik --- dimengerti sebagai ruang dan tatatan --- yang mengakomodasi interaksi sosial dan kehidupan publik \citep{carr1992,lynch1984}. Sedangkan sosial budaya ruang publik mengartikan aktivitas dan kegiatan yang terjadi pada elemen ruang tertentu \citep{carr1992}. Elemen ruang memiliki sebutan lain pada penelitian sebelumnya seperti, elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}.
 
 Berdasarkan jenisnya, ruang publik terbagi atas dua jenis yaitu ruang publik eksternal (terbuka) dan internal.
 Ruang publik eksternal: Ruang publik di area perkotaan antara lain tepi laut \textit{(waterfront)}, taman, alun-alun, jalan, tol, parkir,  dll dan ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang publik internal: Ruang publik institusi seperti perpustakaan, musium, balai kota, fasilitas transportasi, dll \citep{carmona2021,carr1992}.
@@ -364,7 +364,7 @@ Lingkungan yang berkualitas menyampaikan rasa kesejahteraan dan kepuasan kepada 
 \subsection{Manusia dan ruang}
 
 \cite{carmona2021} mengatakan pentingnya hubungan antara orang (`masyarakat') dan lingkungan (`ruang') pada desain perkotaan. Setiap ruang menghadirkan kegiatan-kegiatan sosial, begitupun sebaliknya keberlangsungan suatu kegiatan sosial selalu melibatkan sebuah ruang \citep{carmona2021}. Dalam hubungan ruang-masyarakat terdapat klaim determinisme lingkungan, yang menyatakan bahwa suatu ruang (lingkungan fisik) dapat mempengaruhi perilaku masyarakat \citep{carmona2021}.
-Demikian mengasumsikan bahwa interaksi ruang-masyarakat hanya berjalan satu arah. Akan tetapi, sebenarnya orang juga dapat mengubah dan mempengaruhi sebuah ruang \citep{carmona2021}.
+Itu berarti interaksi ruang-masyarakat hanya berjalan satu arah. Akan tetapi, sebenarnya orang juga dapat mengubah dan mempengaruhi sebuah ruang \citep{carmona2021}.
 \citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
 
 Terdapat dua macam tingkatan bagaimana lingkungan mempengaruhi perilaku dan kegiatan seseorang.
@@ -379,24 +379,58 @@ Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihinda
 \subsection{Kerangka Teori Presepsi Lanskap}
 
 Pemahaman terhadap interaksi antara ruang dan manusia serta akibat \textit{(outcome)} berkontribusi dalam menjawab bagaimana suatu lanskap dirasakan \textit{(perceived)} oleh masyarakat atau individu \citep{zube1982}. Konvensi lanskap eropa mengartikan lanskap sebagai kombinasi antara `ruang' dan `tempat', pengertian tempat adalah rumit dalam perencanaan lanskap. Demi fokus penelitian ini, lanskap dipertimbangkan sebagai ruang.
-\cite{zube1982} mengakui bahwa mempelajari interaksi tadi adalah penting yang akan berguna dalam mengembangkan kerangka teori tentang presepsi lanskap, seperti gambar berikut:
+\cite{zube1982} mengakui bahwa mempelajari interaksi tadi adalah penting yang akan berguna dalam mengembangkan kerangka teori tentang presepsi lanskap (lihat gambar \ref{fig:per}).
 
-Kerangka tersebut menjelaskan proses interaksi dan menunjukkan beragam elemen yang menjelaskan komponen (orang, lanskap, dan akibat) \citep{zube1982}. \cite{zhang2006} berpendapat bahwa kerangka presepsi lanskap itu menunjukkan interaksi antara manusia dan lanskap serta akibat dari interaksi. Secara garis besar, presepsi lanskap adalah fungsi dari interaksi antara manusia dan lingkungan sekitarnya \citep{zube1982}.
+\begin{figure}[hp]
+\centering
+\begin{tikzpicture}[node distance=1cm]
+
+
+\node (man) [startstop, text width=6cm] {\textbf{Manusia} \\ 1. Harapan \quad 5 Pendidikan\\ 2. Pengalaman \quad 6. Budaya\\ 3.Konteks sosial \quad 7. Motivasi \\ 4. Informasi \quad 8. Personaliti};
+
+\node (lan) [startstop, right of=man, text width=6cm, xshift=5.5cm] {
+	\textbf{Lanskap}\\ 1. Elemen fisik  2. Kontruksi komposisi  3. Konteks lokasi  4. Kealamian  5. Fitur buatan  6. Suara  7. Bau  8. Orang  9. Gestalt};
+
+\node (int) [startstop, below of=man, text width=12cm, xshift=3cm, yshift=-2cm] {
+		\textbf{Interaksi} \\ 1. Orang-orang-lanskap 2. orang-kelompok-lanskap 3. orang-lanskap 4. aktif 5. pasif 6. Sengaja 7. Kebetulan 8. Unik 9. Biasa
+
+         };
+
+\node (out) [startstop, below of=int, text width = 12cm, yshift=-2cm] {\textbf{Akibat} \\ 1. Informasi 2. Kepuasan 3. Kesejahteraan 4. Aktifitas fisik 5. Stimulasi 6. Tempat berlindung 7. Kesempatan 8. Nilai 9. Persamaan prediktif 10. Elemen lanskap yang menonjol 11. Perilaku kebiasaan 12. Ketakutan};
+
+
+\draw [doublearrow] (man) -- (int);
+
+\draw [doublearrow] (lan) -- (int);
+
+\draw [doublearrow] (int) -- (out);
+
+\end{tikzpicture}
+\caption{Kerangka Teori Presepsi Lanskap}
+\label{fig:per}
+\end{figure}
+
+Kerangka tersebut menjelaskan proses interaksi dan menunjukkan beragam elemen yang menjelaskan komponen (orang, lanskap, dan akibat) \citep{zube1982}. \cite{zhang2006} berpendapat bahwa kerangka presepsi lanskap itu menunjukkan interaksi antara manusia dan lanskap serta akibat dari interaksi. Oleh karena itu, presepsi lanskap sebagai fungsi dari interaksi antara manusia dan lingkungan sekitarnya \citep{zube1982}.
 
 \section{Preferensi Ruang}
 \label{sub:pref}
-Menurut Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Ini mencerminkan definisi sederhana preferensi yaitu kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain yang disertai alasan tertentu \citep{jamila2016,devysandra2012}. Preferensi ruang menjadi fokus penelitian ini yang mana mengukur presepsi orang atau pengamat. Terangnya mengungkap rasa suka atau tidak suka terhadap suatu ruang \citep{zhang2006}.
+Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Menurut \cite{devysandra2012}, preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. Lebih jelasnya, preferensi ruang (lingkungan) mengungkapkan rasa orang terhadap ruang, seperti perasaan suka atau tidak suka \citep{zhang2006}. \cite{carmona2021} merujuk penjelasan tadi sebagai makna ruang, dimana ruang tidak hanya memberi pengetahuan presepsi dari bentuk fisik, melainkan sebuah makna dari ruang dan apakah disukai atau tidak.
 
-Preferensi ruang sebagai mekanisme presepsi orang yang dihubungkan dengan lingkungan sekitarnya dimana seseorang menilai lingkungan tersebut \citep{vandenberg2003,england2009,zhang2006}. Penilaian ini mengindikasikan bagaimana orang merespon lingkungan, Sheppard dalam \citep{zhang2006}. Penelitian terkait preferensi biasanya mencangkup klasifikasi elemen lanskap, elemen atau ruang dan foto yang dicenderungi. Ini tidak hanya berasal dari elemen lingkungan tetapi berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, karakter pengunjung \citep{wen2018, zhang2006}.
+Makna ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}. Ditambah lagi, \cite{knox2014} menjelaskan bahwa makna emosional dan sosial melekat dan dikuatkan oleh elemen lingkungan perkotaan. \cite{carmona2021} mengklarifikasikan bahwa elemen ruang mempunyai simbol, nilai, dan makna. Sedangkan makna elemen menyangkut pada keberagaman, kontras, dan warna serta kemungkinan kehadiran atau jumlah dari sebuah elemen individu \citep{swanwick2009}. Hal yang bersangkutan tersebut dapat memunculkan beragam preferensi dan perilaku seseorang terhadap ruang publik, apakah itu menjauhkan atau mendekatkan seseorang \citep{manyani2021}.
 
-Berdasarkan penelitian \textit{Environmental Preference from an Evolutionary Perspective} dari \citep{kaplan1987} terdapat empat aspek perseptual yang disalahartikan sebagai `kognisi' antara lain:
-\begin{inparaenum}
-\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
-\item Afektif, lingkungan mempengaruhi perasaan seseorang
-\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
-\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
-\end{inparaenum}
-Disini kaplan menyebut prefrensi merupakan proses kognisi dimana seseorang dapat memilih ruang satu dari yang lainnya \citep{kaplan1987}.
+Banyak penelitian telah menyebutkan bahwa preferensi ruang mengukur presepsi orang --- sebagai mekanisme presepsi --- yang dihubungkan dengan lingkungan sekitar \citep{vandenberg2003, england2009, zhang2006}. Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief}, dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
+Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018, zhang2006}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
+
+
+
+%Berdasarkan penelitian \textit{Environmental Preference from an Evolutionary Perspective} dari \citep{kaplan1987} terdapat empat aspek perseptual yang disalahartikan sebagai `kognisi' antara lain:
+%\begin{inparaenum}
+%\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
+%\item Afektif, lingkungan mempengaruhi perasaan seseorang
+%\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
+%\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
+%\end{inparaenum}
+%Disini kaplan menyebut prefrensi merupakan proses kognisi dimana seseorang dapat memilih ruang satu dari yang lainnya \citep{kaplan1987}.
 
 Berdasarkan teori diatas, penelitian ini menganalisis elemen pada tepi laut Senggol yang mempengaruhi preferensi seseorang. Memberikan penilaian terhadap apa yang dianalisis untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan sebuah elemen ruang.
 Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan juga bergantung pada umur, gender, dan ras dan lingkungan fisik (karakter pengunjung) \citep{carmona2021}.

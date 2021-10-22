@@ -236,7 +236,7 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black]
 
 \tikzstyle{arrow} = [thick,->,>=stealth]
-\tikzstyle{doublearrow} = [densely dotted,<->,>=stealth]
+\tikzstyle{doublearrow} = [thick,<->,>=stealth, line width=1.5pt]
 \tikzstyle{dotted} = [loosely dotted,>=stealth]
 
 %----------------------------------------------------------------------------------------
