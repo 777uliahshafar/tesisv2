@@ -363,7 +363,9 @@ Lingkungan yang berkualitas menyampaikan rasa kesejahteraan dan kepuasan kepada 
 
 \subsection{Manusia dan ruang}
 
-\cite{carmona2021} mengatakan pentingnya hubungan antara orang (`masyarakat') dan lingkungan (`ruang') pada desain perkotaan. Setiap ruang menghadirkan kegiatan-kegiatan sosial, begitupun sebaliknya keberlangsungan suatu kegiatan sosial selalu melibatkan sebuah ruang \citep{carmona2021}. Dalam hubungan ruang-masyarakat terdapat klaim determinisme lingkungan, yang menyatakan bahwa suatu ruang (lingkungan fisik) dapat mempengaruhi perilaku masyarakat \citep{carmona2021}.
+\cite{carmona2021} mengatakan pentingnya hubungan antara orang (`masyarakat') dan lingkungan (`ruang') pada desain perkotaan. Keseimbangan antara masyarakat dan ruang tersebut terjalin melalui kesatuan antara elemen alami dan buatan, arsitektur, lanskap, dan desain perkotaan \citep{force1999}. Selagi masyarakat merespon suatu ruang, ruang merangsang individu melalui pilihan material, bentuk arsitektur, dan lanskap \citep{force1999}. \cite{carmona2021} menjelaskan bahwa setiap ruang menghadirkan kegiatan-kegiatan sosial, begitupun sebaliknya keberlangsungan suatu kegiatan sosial selalu melibatkan sebuah ruang \citep{carmona2021}. Kesimpulannya, orang tidak dapat melepas keterikatan ruang dengan sisa hidupnya.
+
+Dalam hubungan ruang-masyarakat terdapat klaim determinisme lingkungan, yang menyatakan bahwa suatu ruang (lingkungan fisik) dapat mempengaruhi perilaku masyarakat \citep{carmona2021}.
 Itu berarti interaksi ruang-masyarakat hanya berjalan satu arah. Akan tetapi, sebenarnya orang juga dapat mengubah dan mempengaruhi sebuah ruang \citep{carmona2021}.
 \citeauthor{carmona2021} menyebutnya sebagai proses dua arah \textit{(two-way)} yang mana orang membuat dan memodifikasi ruang disaat bersamaan dipengaruhi juga olehnya.
 
@@ -414,39 +416,27 @@ Kerangka tersebut menjelaskan proses interaksi dan menunjukkan beragam elemen ya
 
 \section{Preferensi Ruang}
 \label{sub:pref}
-Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan. Menurut \cite{devysandra2012}, preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. Lebih jelasnya, preferensi ruang (lingkungan) mengungkapkan rasa orang terhadap ruang, seperti perasaan suka atau tidak suka \citep{zhang2006}. \cite{carmona2021} merujuk penjelasan tadi sebagai makna ruang, dimana ruang tidak hanya memberi pengetahuan presepsi dari bentuk fisik, melainkan sebuah makna dari ruang dan apakah disukai atau tidak.
+Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
+Kecenderungan terhadap sesuatu biasanya timbul dari tatanan (gaya) yang paling akrab \citep{hammitt1979}.
+Meskipun demikian, kecenderungan itu dapat berubah apabila terjadi keakraban. Biasanya itu ditimbulkan akibat berapa lama individu berinteraksi dengan suatu tempat \citep{balling1982}. Lebih lanjut, \cite{devysandra2012} menerangkan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain.
 
-Makna ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}. Ditambah lagi, \cite{knox2014} menjelaskan bahwa makna emosional dan sosial melekat dan dikuatkan oleh elemen lingkungan perkotaan. \cite{carmona2021} mengklarifikasikan bahwa elemen ruang mempunyai simbol, nilai, dan makna. Sedangkan makna elemen menyangkut pada keberagaman, kontras, dan warna serta kemungkinan kehadiran atau jumlah dari sebuah elemen individu \citep{swanwick2009}. Hal yang bersangkutan tersebut dapat memunculkan beragam preferensi dan perilaku seseorang terhadap ruang publik, apakah itu menjauhkan atau mendekatkan seseorang \citep{manyani2021}.
+Preferensi ruang (lingkungan) mengungkapkan rasa orang terhadap ruang, seperti perasaan suka atau tidak suka \citep{zhang2006}. \cite{carmona2021} merujuk penjelasan tadi sebagai makna ruang, dimana ruang tidak hanya memberi pengetahuan presepsi dari bentuk fisik, melainkan sebuah makna dari ruang dan apakah disukai atau tidak.
 
-Banyak penelitian telah menyebutkan bahwa preferensi ruang mengukur presepsi orang --- sebagai mekanisme presepsi --- yang dihubungkan dengan lingkungan sekitar \citep{vandenberg2003, england2009, zhang2006}. Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief}, dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
-Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018, zhang2006}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
+Makna ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}.
+\cite{knox2014} menerangkan semua elemen lingkungan perkotaan  mempunyai simbol, makna dan nilai. Dia berpendapat, makna yang berupa emosional dan sosial itu melekat dan dikuatkan oleh elemen lingkungan perkotaan. Jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{carmona2021}.
+Lebih lanjut, makna elemen menyangkut pada keberagaman, kontras, dan warna serta kemungkinan kehadiran atau jumlah dari sebuah elemen individu \citep{swanwick2009}. Elemen tersebut memunculkan beragam preferensi dan perilaku seseorang terhadap ruang publik, apakah itu menjauhkan atau mendekatkan seseorang \citep{manyani2021}.
 
+Banyak penelitian telah menyebutkan bahwa preferensi ruang mengukur presepsi orang --- sebagai mekanisme presepsi --- yang dihubungkan dengan lingkungan sekitar \citep{vandenberg2003, england2009, zhang2006}. Presepsi termasuk mengumpulkan, mengorganisasi dan memahami informasi tentang suatu ruang \citep{carmona2021}. Oleh karena adanya hubungan timbal balik antara orang- ruang, maka orang harus mempresepsikan, yaitu dirangsang oleh penglihatan, suara, bau, atau sentuhan untuk mendapatkan informasi ruang disekitar \citep{carmona2021}.
+\cite{ittelson1978} mengidentifikasikan empat komponen presepsi diluar rangasangan sederhana terhadap ruang, berikut ini:
+\begin{inparaenum}
+\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
+\item Afektif, lingkungan mempengaruhi perasaan seseorang
+\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
+\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk'.
+\end{inparaenum} Komponen ini kadang disalahartikan sebagai `koginisi' imbuh \citep{carmona2021}.
 
-
-%Berdasarkan penelitian \textit{Environmental Preference from an Evolutionary Perspective} dari \citep{kaplan1987} terdapat empat aspek perseptual yang disalahartikan sebagai `kognisi' antara lain:
-%\begin{inparaenum}
-%\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
-%\item Afektif, lingkungan mempengaruhi perasaan seseorang
-%\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
-%\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk' \citep{ittelson1978}.
-%\end{inparaenum}
-%Disini kaplan menyebut prefrensi merupakan proses kognisi dimana seseorang dapat memilih ruang satu dari yang lainnya \citep{kaplan1987}.
-
-Berdasarkan teori diatas, penelitian ini menganalisis elemen pada tepi laut Senggol yang mempengaruhi preferensi seseorang. Memberikan penilaian terhadap apa yang dianalisis untuk mengetahui preferensi terhadap ruang dan kemungkinan tingkat kepentingan sebuah elemen ruang.
-Selain itu, teori itu juga menggambarkan setiap orang dapat memiliki presepsi yang berbeda. Perbedaan pada presepsi lingkungan juga bergantung pada umur, gender, dan ras dan lingkungan fisik (karakter pengunjung) \citep{carmona2021}.
-Sementara lingkungan dapat dijelaskan sebagai kontruksi mental, gambaran lingkungan \textit{(environmental image)} yang tercipta dan ternilai secara berbeda oleh setiap orang.
-Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi sangat penting untuk mengetahui apa arti lingkungan dan bagaimana orang merasakannya. Dia mengungkapkan pemaknaan sosial dan emosional menempel dan dikuatkan oleh elemen dari lingkungan perkotaan. Lebih lanjut, \cite{relph1976} menegaskan pemaknaan tempat \textit{(meaning of places)} berakar pada tatanan fisik (elemen) dan aktivitas yang merupakan `niat dan pengalaman seseorang`.
-
-
-%Lebih lanjut, kecenderungan terhadap sesuatu biasanya timbul dari gaya \textit{(settings)} yang paling akrab \citep{hammitt1979}. Meskipun demikian, preferensi awal dapat berubah secara progresif jika terjadi keakraban \textit{(familiarity)} yang muncul dari bertumbuh, hidup dan bekerja di suatu tempat \citep{balling1982}.
-%\cite{pacific1978} menambahkan adanya fitur pembeda juga dapat mempengaruhi keakraban suatu tempat.
-%Penelitian pada kawasan rekreasi mendefinisikan preferensi lingkungan sebagai tingkat kesukaan yang dimiliki seseorang dalam memilih tempat rekreasi untuk memenuhi kebetuhan rekreasi tanpa batasan \citep{huang1997}, seperti kebutuhan untuk memahami dan mengeksplorasi sekitarnya \citep{brown1999}.
-
-%\cite{wen2018} menyimpulkan bahwa preferensi ruang terkadang berhubungan tidak hanya pada elemen lingkungan, tetapi cara orang berinteraksi dengannya, tatanan \textit{(setting)} tertentu dari interaksi dan karakter penunjung.
-%Beberapa penelitian tentang lingkungan menganggap preferensi sebagai mekanisme presepsi dimana seseorang dapat menilainya \citep{vandenberg2003,england2009}.
-%Sementara terdapat empat aspek perseptual yang sering disalahartikan sebagai `kognisi' antara lain:
-
-
+Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief} (keyakinan perilaku), dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
+Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
 
 \begin{comment}
 \begin{figure}[htpb]
@@ -458,40 +448,21 @@ Oleh karena itu, menurut \cite{lynch1984}, pemaknaan \textit{`meaning'} menjadi 
 \end{figure}
 \end{comment}
 
-
-\section{Elemen dalam ranah publik}
-
-%definisi elemen
-%hal. 109 carr
-Menurut \cite{carmona2021}, ranah publik terdiri atas dimensi `fisik' (ruang) dan `social' (aktivitas). Dia mengartikan ranah publik \textit{fisik} sebagai ruang dan tatanannya atau disebut sebagai elemen. Sehingga elemen merupakan pembentuk suatu lingkungan berupa lanskap yang lembut, bangku, air mancur dll pada suatu ranah publik. Istilah ruang dan tatanan dan elemen secara bersamaan akan digunakan pada penelitian ini.
-Elemen itu berfungsi untuk mengakomodasi sebuah aktivitas, menarik masyarakat, dan kehidupan publik lainnya \citep{lynch1984}. Sementara aktivitas dan kegiatan yang terjadi dalam ruang atau tatanan tersebut disebut ranah publik \textit{sosial budaya} \citep{carmona2021}.
-
-
-%elemen sebagai perseptual
-\cite{force1999} menyorot ruang dan tatanan tidak hanya menyediakan area untuk bersantai, jalan-jalan, dan menimkati suasana perkotaan tetapi membangun keseimbangan antara masyarakat dan lingkungannya. Ruang dan tatanan memiliki peran penting terhadap masyarakat, dimana manusia tidak dapat lepas dari keterikatannya dengan lingkungan sekelilingnya sepanjang sisa hidupnya \citep{lynch1984}.
-\cite{carmona2021} mendeskripsikan dengan jelas bahwa elemen bukan hanya memberikan kesan struktur atau fisik dari presepsi seseorang, tetapi pemaknaan dari lingkungan, apakah disukai atau tidak. \cite{knox2014} menambahkan bahwa pemaknaan tersebut terlampir dan dimunculkan oleh elemen dari ruang perkotaan.
-
-Menurut \cite{swanwick2009}, pemaknaan elemen lingkungan perkotaan menyangkut  pada keberagaman, kontras dan warna serta kemungkinan kecil kehadiran atau jumlah dari sebuah elemen individu. Pemaknaan tersebut menimbulkan perilaku dan preferensi yang berbeda-beda baik itu menarik atau menjauhkan seseorang dari sebuah lingkungan \citep{manyani2021}.
-\cite{knox2014} menambahkan, semua elemen lingkungan perkotaan \textit{(element of urban environment)} mempunyai simbol, makna dan nilai. Semua ini merupakan hasil dari interpretasi dan penciptaan, sangat jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang.
-
 %Meskipun faktor fisik dapat menentukan tindakan dan perilaku seseorang, peluang lingkungan mempengaruhi apa yang orang yang bisa dan yang tidak bisa dilakukan \citep{carmona2021}.
-
-
-Pilihan yang terjadi sebagian juga dipengaruhi oleh masyarakat dan budaya termasuk karakteristik yang dipelajari serta karakter individu ( ego, personaliti, tujuan dan nilai) \citep{carmona2021}.
-Elemen fisik dan kehidupan publik mempunyai keterikatan.
-Sehingga, perhatian desain perkotaan biasanya menitikberatkan pada `ruang sosial' ( ruang yang mendukung, mengizinkan dan memfasilitasi interaksi sosial dan budaya dan kehidupan publik). Demikian menjelaskan elemen-elemen menunjang kebutuhan-kebutuhan orang secara bersamaan.
 
 %Beberapa penelitian merumuskan elemen-elemen yang menjadi perhatian desain perkotaan \textit{(urban design)} demi menyediakan apa yang masyarakat butuhkan.
 %Beberapa penelitian merumuskan elemen-elemen yang akan membantu ruang publik menyediakan pilihan dalam sebuah desain perkotaan yang terangkum dalam literatur-literatur berikut ini.
 
+
+
+\begin{comment}
+
 \section{Elemen mempengaruhi preferensi}
 
-%theory element affect prefrence
-Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung.
-Akan tetapi terdapat elemen yang pengunjung paling disukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
+theory element affect prefrence
+Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung. Akan tetapi terdapat elemen yang pengunjung paling disukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
 
-Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terdapat perdebatan apakah benar-benar tinggal di objeknya atau di pikiran pengamatnya \citep{carmona2021}. Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
-\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
+Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terdapat perdebatan apakah benar-benar tinggal di objeknya atau di pikiran pengamatnya \citep{carmona2021}. Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
 \begin{inparaenum}
 \item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
 \item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga secara berkelanjutan.
@@ -509,13 +480,33 @@ Meskipun penelitian utamanya berurusan dengan elemen alami, dia juga menyebut pe
 \cite{manyani2021} menemukan spesifik elemen yang dicenderungi kebanyakan orang pada ruang publik. Elemen tersebut adalah ayunan, alat bermain, bangku, bunga, dan pagar.
 Dalam kasus ini, orang lebih mencenderungi elemen buatan daripada elemen alami. Salah satu faktor penyebabnya adalah kebanyakan orang menganggap ruang publik sebagai tempat bermain anak. \cite{zhao2020} menyebut kehadiran elemen rekreasi meningkatkan ketertarikan pada ruang tertentu.
 \citeauthor{manyani2021} juga menerangkan elemen yang kurang dicenderungi seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung.
+\end{comment}
+
+
+\subsection{Teori Preferensi Ruang}
+
+Teori presepsi lingkungan (ruang) telah berkembang pesat pada bidang penelitian preferensi seperti lanskap alami, pedesaan, dan perkotaan. Teori itu menawarkan pemahaman preferensi orang terhadap ruang yang dipresepsikan \citep{zhang2006}. \cite{zube1982} menerangkan lebih lanjut bahwa pengembangan teori selanjutnya dapat berdasar pada:
+\begin{enumerate}
+    \item Menyediakan kerangka untuk menghubungkan beragam disiplin, membantu penilaian ruang dan memahami interaksi orang-ruang.
+    \item Memperhatikan hubungan antara informasi kualitatif dan kuatitatif.
+    \item Melirik lanskap alami dan perkotaan baik dalam lingkup situs maupun regional.
+\end{enumerate}
+
+\cite{gibson2014} menawarkan teori \textit{affordance} yang berkembang dalam penelitian presepsi ruang berkaitan dengan fungsi.
+Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek adalah \textit{``affordance"}-nya, bukan pada kualitasnya. Kemudian dia mengartikan affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)}.
+Menurut \cite{gibson2014}, kata \textit{afford} berarti memberikan (menyediakan), kata affordance adalah kata buatan yang tidak termuat oleh kamus bahasa. Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
+
+Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti pohon rindang memberi manfaat teduh untuk manusia. Rindang sebagai kemanfaatan teduh, harus diukur relatif terhadap orang. Rindang untuk orang dewasa dan manula tentunya berbeda. Artinya kemanfaatan atau affordance adalah relatif terhadap usia \citep{gibson2014}.
+
 
 %How elemen fulfil need for prefrence
-Elemen fisik dapat mempengaruhi perilaku atau preferensi apabila elemen tersebut memenuhi kebutuhan penggunanya \citep{balling1982}.  \cite{zhang2006} menyatakan bahwa preferensi seseorang dari presepsi ruang berdasarkan pula pada fungsi. Pernyataan itu  mengklarifikasikan bahwa ada kebutuhan yang dapat dipenuhi oleh ruang \citep{mumcu2010}.
-Itu berakar pada teori presepsi dimana tidak hanya menjelaskan bagaimana lingkungan dipresepsikan tetapi informasi mengenai apa saja kemungkinannya dengan mempertimbangkan tujuan seseorang \citep{kaplan1979}.
+%Elemen fisik dapat mempengaruhi perilaku atau preferensi apabila elemen tersebut memenuhi kebutuhan penggunanya \citep{balling1982}.  \cite{zhang2006} menyatakan bahwa preferensi seseorang dari presepsi ruang berdasarkan pula pada fungsi. Pernyataan itu  mengklarifikasikan bahwa ada kebutuhan yang dapat dipenuhi oleh ruang \citep{mumcu2010}.
+%Itu berakar pada teori presepsi dimana tidak hanya menjelaskan bagaimana lingkungan dipresepsikan tetapi informasi mengenai apa saja kemungkinannya dengan mempertimbangkan tujuan seseorang \citep{kaplan1979}.
 
-Dua teori presepsi ruang \textit{``prospect and refuge"} \citep{appleton1996} dan ``model pemrosessan informasi" \citep{kaplan1979} mengklarifikasi apa saja kemungkinan yang ruang harus miliki. Teori tersebut mengindikasikan satu diantara kemungkinan-kemungkinan ruang dicenderungi \citep{mumcu2010}. Demikian mengantarkan pada pertanyaan: apa jenis elemen yang menampilkan kemungkinan tersebut \citep{mumcu2010}.
-Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat menampilkan kemungkinan `kenyamanan' pada ruang publik \citep{carmona2021}.
+%Ada dua teori presepsi ruang yang \textit{``prospect and refuge"} \citep{appleton1996} dan ``model pemrosessan informasi" \citep{kaplan1979} mengklarifikasi apa saja kemanfaatan yang ruang harus miliki. Teori tersebut mengindikasikan satu diantara kemanfaaatan ruang dicenderungi \citep{mumcu2010}. Demikian mengantarkan pada pertanyaan: apa jenis elemen yang menampilkan kemanfaatan tersebut \citep{mumcu2010}.
+%Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat menampilkan kemungkinan `kenyamanan' pada ruang publik \citep{carmona2021}.
+
+\begin{comment}
 
 \cite{maslow2013} mengkategorikan kebutuhan manusia secara singkat dan jelas disamping permintaan nilai dan tujuan seseorang yang rumit dan individualis. Kebutuhan tersebut terindentifikasi lima tahapan hierarki kebutuhan dasar manusia sebagai berikut:
 \begin{inparaenum}
@@ -526,12 +517,23 @@ Seperti contoh, ketercukupan dan kenyamanan tempat duduk dapat menampilkan kemun
 \item aktualisasi diri, bagaimana mereka mencapai suatu kepuasan atau ekpresi seni.
 \end{inparaenum}
 Oleh karena kebutuhan dasar tidak cukup untuk memahami hubungan presepsi lingkungan dan preferensi ruang maka kedua teori presepsi tadi membutuhkan penjelasan lebih lanjut.
+\end{comment}
+
+Menurut \cite{zhang2006}, ada dua teori yang evolusioner yang sangat dekat dengan penelitian preferensi ruang. Teori tersebut menunjukkan kemanfaatan apa saja yang ruang harus miliki \citep{mumcu2010} yang disebut \textit{``prospect and refuge"} \citep{appleton1996} dan ``model pemrosessan informasi" \citep{kaplan1979}. Pada pembahasan selanjutnya berfokus pada dua teori ini.
 
 \subsection{Prospect-Refuge}
 
-\textit{prospect-refuge} (prospek-tempat berlindung) terdiri atas istilah prospek yang artinya kemampuan mengumpulkan kemudian mengevaluasi informasi, sedangkan tempat berlindung artinya kemampuan lingkungan menyediakan keamanan untuk orang supaya dapat menjelajahi dan mengumpulkan informasi \citep{zhang2006}. Secara garis besar, teori ini menggambarkan situasi dimana orang dapat melihat tanpa dilihat. Derajat penglihatan ini menginterpretasikan kebutuhan untuk bertahan hidup pada suatu lingkungan. Ketika seseorang dapat melihat predatornya (musuh) tanpa dilihat oleh mereka, maka meningkatkan peluang untuk bertahan hidup \citep{mumcu2010}.
+Prospek \textit{(prospect)} memiliki arti yaitu kemampuan manusia untuk mengumpulkan kemudian mengevaluasi informasi, sedangkan tempat berlindung \textit{(refuge)} artinya sejauh mana lingkungan menyediakan keamanan untuk orang menjelajahi dan mengumpulkan informasi \citep{zhang2006}.
+Teori ini pertama kali muncul dalam \textit{"The Experience of Landscape"} \citep{appleton1996}.
+\textit{Prospect-refuge} menjelaskan jenis kemanfaatan yang muncul berupa akses informasi ruang serta elemen ruang seperti apa yang menampilkan kemanfaatan tersebut \citep{mumcu2010}.
+\cite{appleton1996} menerangkan bahwa orang mempresepsikan sedemikian rupa sekitarnya agar dapat memperoleh informasi dan menyimpan untuk digunakan suatu ketika dibutuhkan untuk memastikan kelangsungan hidup.
+Salah satu cara terpenting adalah kesempatan untuk membiarkan ruang terbuka agar informasi mudah diterima dan kesempatan untuk mencapai persembunyian \citep{mumcu2010}. Dengan demikian, konsep dari \textit{prospect} dan \textit{refuge} terbentuk.
 
-Teori ini telah lama menjadi bahan diskusi pada penelitian presepsi lingkungan. Berdasarkan penelitian terkait teori ini, \textit{prospect-refuge} mempengaruhi preferensi dan telah diklarifikasi oleh sejumlah penelitian  \citep{suppakittpaisarn2019,nasar1998,mumcu2010}. \cite{zhang2006} menggambarkan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Orang menyukai jenis ruang seperti itu, yang didukung kepadatan vegetasi sedang dalam hal ini adalah pohon. Sehingga orang dapat melihat dengan leluasa sehingga mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
+Pengembangan evolusioner dari manusia membuat orang selalu memilih ruang yang memenuhi kebutuhan, mereka membutuhkan melihat dan juga bersembunyi \citep{appleton1996}. Preferensi terhadap ruang seperti itu memberikan kepuasan estetika. Selain itu, mendukung kelangsungan hidup dengan memberikan tempat yang aman untuk melihat, menduga, dan beraktivitas menyangkut potensi bahaya seperti pemangsa, dll dan juga tempat mengamati yang aman \citep{mumcu2010}.
+
+Berdasarkan penelitian preferensi ruang, \textit{prospect-refuge} mempengaruhi preferensi dan telah diklarifikasi oleh sejumlah penelitian  \citep{suppakittpaisarn2019,nasar1998,mumcu2010}.
+\cite{zhang2006} mendeskripsikan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Orang menyukai jenis ruang seperti itu, yang didukung kepadatan vegetasi sedang dalam hal ini adalah pohon. Sehingga orang dapat melihat dengan leluasa sehingga mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
+
 
 \subsection{Information Processing Model}
 \cite{kaplan1979} merumuskan teori model pemrosessan informasi \textit{(information processing model)} untuk memahami preferensi orang. Teori ini didasari oleh pemahaman terhadap tujuan individu oleh karena reaksi terhadap sesuatu bergantung pada tujuannya \citep{kaplan1979}.
