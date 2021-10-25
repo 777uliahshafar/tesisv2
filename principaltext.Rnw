@@ -462,25 +462,8 @@ Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata
 theory element affect prefrence
 Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan aminties rekreasi yang tersedia \citep{manyani2021}. Khususnya pada ruang  di tepi laut yang memberian nuansa tambahan seperti keindahan laut, suara alami ombak, dan angin yang bertiup sepoi-sepoi. Elemen-elemen tersebut setidaknya berkontribusi terhadap aktivitas dan kenyamanan pengunjung. Akan tetapi terdapat elemen yang pengunjung paling disukai sebagai alasan pemilihan ruang tertentu pada kawasan tepi laut.
 
-Elemen merupakan tempat tinggal sebuah pemaknaan serta keindahan. Meskipun terdapat perdebatan apakah benar-benar tinggal di objeknya atau di pikiran pengamatnya \citep{carmona2021}. Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
-\begin{inparaenum}
-\item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
-\item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga secara berkelanjutan.
-\item \textit{Ruang yang terbuka dan jelas}, yaitu lingkungan yang terbentuk serta memiliki pemandangan dan elemen yang menarik.
-\item \textit{Berkas sejarah}, yaitu lingkungan yang menciptakan hubungan yang terasa.
-\item \textit{Susunan}, yaitu lingkungan yang memperhatikan pengaturan dan kejelasan.
-\end{inparaenum}
-
-%elemen alami
-Sejumlah penelitian preferensi menaruh perhatian pada presepsi lingkungan alami. Lingkungan alami termasuk hutan dan lanskap pedesaan \citep{zhang2006}. Penelitian tersebut menemukan elemen-elemen alami yang mempengaruhi preferensi. Beberapa diantaranya adalah pohon, tanaman, bunga, semak, dan rumput \citep{manyani2021}.
-
-Dalam penelitian preferensi terhadap konteks ruang hijau dan kompleksitas vegetasi menjelaskan empat variasi preferensi \citep{harris2018}. Keempat variasi tersebut yang dijelaskan oleh elemen-elemen alami diberi nama lanskap inggris, taman pedesaan, terbuka, dan padat. \cite{harris2018} mengindikasikan variasi yang menghadirkan pohon banyak dicenderungi daripada hanya lapangan rumut datar \textit{(lawn)}.
-%elemen artificial
-Meskipun penelitian utamanya berurusan dengan elemen alami, dia juga menyebut pengaruh elemen buatan. Kedua elemen tersebut memungkinkan orang untuk menikmati alam selagi melakukan aktivitas rekreasi \citep{ozguner2011}. Ini masuk akal ketika elemen buatan  termasuk elemen air, pohon jalan, dan \textit{streetscape} menerima banyak perhatian dari sejumlah penelitian. Pembahasan meliputi analisis preferensi lanskap dari elemen-elemen tersebut dan apakah mereka meningkatkan kualitas visual \citep{zhang2006}. \cite{zhang2006} menjelaskan bahwa kualitas visual memang penting bagi lingkungan hidup \textit{(living environment)}. \cite{nasar1998} mengklarifikasi bahwa kualitas visual dari elemen buatan adalah sangat penting.
-\cite{manyani2021} menemukan spesifik elemen yang dicenderungi kebanyakan orang pada ruang publik. Elemen tersebut adalah ayunan, alat bermain, bangku, bunga, dan pagar.
-Dalam kasus ini, orang lebih mencenderungi elemen buatan daripada elemen alami. Salah satu faktor penyebabnya adalah kebanyakan orang menganggap ruang publik sebagai tempat bermain anak. \cite{zhao2020} menyebut kehadiran elemen rekreasi meningkatkan ketertarikan pada ruang tertentu.
-\citeauthor{manyani2021} juga menerangkan elemen yang kurang dicenderungi seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung.
 \end{comment}
+
 
 
 \subsection{Teori Preferensi Ruang}
@@ -492,8 +475,8 @@ Teori presepsi lingkungan (ruang) telah berkembang pesat pada bidang penelitian 
     \item Melirik lanskap alami dan perkotaan baik dalam lingkup situs maupun regional.
 \end{enumerate}
 
-\cite{gibson2014} menawarkan teori \textit{affordance} yang berkembang dalam penelitian presepsi ruang berkaitan dengan fungsi.
-Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek adalah \textit{``affordance"}-nya, bukan pada kualitasnya. Kemudian dia mengartikan affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)}.
+\cite{gibson2014} menawarkan teori \textit{affordance} yang berkembang dalam penelitian presepsi ruang.
+Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}. Jadi, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}.
 Menurut \cite{gibson2014}, kata \textit{afford} berarti memberikan (menyediakan), kata affordance adalah kata buatan yang tidak termuat oleh kamus bahasa. Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
 
 Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti pohon rindang memberi manfaat teduh untuk manusia. Rindang sebagai kemanfaatan teduh, harus diukur relatif terhadap orang. Rindang untuk orang dewasa dan manula tentunya berbeda. Artinya kemanfaatan atau affordance adalah relatif terhadap usia \citep{gibson2014}.
@@ -532,31 +515,35 @@ Salah satu cara terpenting adalah kesempatan untuk membiarkan ruang terbuka agar
 Pengembangan evolusioner dari manusia membuat orang selalu memilih ruang yang memenuhi kebutuhan, mereka membutuhkan melihat dan juga bersembunyi \citep{appleton1996}. Preferensi terhadap ruang seperti itu memberikan kepuasan estetika. Selain itu, mendukung kelangsungan hidup dengan memberikan tempat yang aman untuk melihat, menduga, dan beraktivitas menyangkut potensi bahaya seperti pemangsa, dll dan juga tempat mengamati yang aman \citep{mumcu2010}.
 
 Berdasarkan penelitian preferensi ruang, \textit{prospect-refuge} mempengaruhi preferensi dan telah diklarifikasi oleh sejumlah penelitian  \citep{suppakittpaisarn2019,nasar1998,mumcu2010}.
-\cite{zhang2006} mendeskripsikan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Orang menyukai jenis ruang seperti itu, yang didukung kepadatan vegetasi sedang dalam hal ini adalah pohon. Sehingga orang dapat melihat dengan leluasa sehingga mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
+\cite{zhang2006} mendeskripsikan teori ini seperti savana, dimana menyediakan ``prospek" (padang rumput terbuka) dan ``tempat berlindung" (pepohonan dan tepi hutan). Orang menyukai jenis ruang seperti itu, yang didukung kepadatan vegetasi sedang dalam hal ini adalah pohon. Sehingga orang dapat melihat dengan leluasa yang akan mengurangi ketakutan dan menghilangkan stress. Sementara, vegetasi yang padat dirasa kurang aman \citep{campagnaro2020}.
 
 
 \subsection{Information Processing Model}
-\cite{kaplan1979} merumuskan teori model pemrosessan informasi \textit{(information processing model)} untuk memahami preferensi orang. Teori ini didasari oleh pemahaman terhadap tujuan individu oleh karena reaksi terhadap sesuatu bergantung pada tujuannya \citep{kaplan1979}.
-Dia mengusulkan ``pemahaman" dan ``eksplorasi" sebagai tujuan dasar individu dalam menentukan preferensi. Pemahaman yaitu kesempatan yang diberikan untuk memahami sekeliling pada waktu itu juga . Sedangkan eksplorasi yaitu kesempatan yang diberikan untuk mencari tahu, mempalajari dan mendorong \citep{kaplan1979}.
+\cite{kaplan1979} merumuskan teori kerangka pemrosessan informasi \textit{(information processing model)} pada tahun 1979. Kerangka tersebut menjelaskan prefernsi orang terhadap ruang dengan cara memahami tujuan orang \citep{zhang2006}. Saat ini, penelitian telah berulangkali mengacu dua tujuan mendasar yang orang pertimbangkan ketika siang hari. Tujuan tersebut adalah masuk akal \textit{(making sense)} dan  keterlibatan \textit{(involvement)}.
+Masuk akal memperhatikan kebutuhan untuk memahami ruang terdekat. Sedangkan keterlibatan memperhatikan kebutuhan untuk mencari tahu, mempelajari dan terangsang \citep{united1977}.
+\cite{united1977} menjelaskan ruang yang memberi kemanfaatan agar tujuan tersebut tercapai akan disukai orang.
+Masuk akal menjelaskan kemanfaatan ruang yang memudahkan untuk diidentifikasi, disimpulkan oleh individu. Ruang yang melibatkan kemanfaatan tersebut meningkatkan pemahaman seseorang \citep{united1977}. Disisi lain, keterlibatan menjelaskan kemanfaatan ruang yang kaya akan kemungkinan \citep{united1977}. Sehingga, \cite{united1977} menyimpulkan ruang yang sederhana atau jelas tentunya tidak dapat memberi kemanfaatan untuk keterlibatan.
 
-Istilah pemahaman dan ekplorasi adalah pusat perhatian dalam penelitian  preferensi, meskipun demikian mereka telah tertanaman dalam kepribadian yang berdasar informasi \citep{kaplan1979}. Teori ini tidak selalu tersedia oleh lingkungan, namun saat lingkungan dipahami memberi tahu apakah lingkungan itu dapat dieksplorasi atau tidak.
-\cite{kaplan1979} menemukan bahwa seseorang menyukai lingkungan yang mudah dipahami serta mendorong ekplorasi yang mana disebut sebagai kebutuhan dasar.
-Agar dapat memenuhi kebutuhan tersebut, maka perlu untuk mengorganisasi tata letak elemen dan isinya \citep{kaplan1998}. \cite{kaplan1998} menemukan bahwa orang menyukai ruang yang terorganisasi dengan baik didukung elemen buatan daripada ruang dengan pohon yang padat dan menghalangi pandangan.
+%\cite{united1977} menjelaskan orang menyukai kemanfataan ruang yang mendukung tujuan ini agar dapat tercapai.
+%Istilah memahami dan ekplorasi adalah pusat perhatian dalam penelitian  preferensi, meskipun demikian mereka telah tertanaman dalam kepribadian yang berdasar informasi \citep{kaplan1979}. Teori ini tidak selalu tersedia oleh lingkungan, namun saat lingkungan dipahami memberi tahu apakah lingkungan itu dapat dieksplorasi atau tidak.
 
-Terdapat dua bentuk bagaimana individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam penerka \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan penerka preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan prospek \citep{kaplan1998}.
+Dalam buku \textit{``With People in Mind"}, \cite{kaplan1998} menamakan dua kebutuhan informasi sebagai pemahaman \textit{(understanding)} dan eksplorasi \textit{(exploration)}. Dia mengindikasikan bahwa orang menyukai ruang dan elemennya yang memenuhi kebutuhan tersebut \citep{kaplan1998}.
+Salah satu cara adalah kesempatan untuk membuat ruang terorganisasi dengan titik fokus daripada hamaparan yang luas atau lahan yang menghalangi pandangan \citep{zhang2006}.
 
-Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi. Terakhir, penerka-penerka ini menyediakan informasi untuk memahami mengapa orang menyukai suatu lingkungan tertentu dan bagaiamana kenyamanannya \citep{zhang2006}.
+Terdapat dua cara individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam penerka \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan penerka preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan \textit{prospect} \citep{kaplan1998}.
+
+Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi. Terakhir, penerka-penerka ini menyediakan informasi untuk memahami mengapa orang menyukai suatu ruang tertentu dan bagaiamana kenyamanannya pada satu ruang \citep{zhang2006}.
 
 \begin{table}[htpb]
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
 \renewcommand{\arraystretch}{1.5}
     \centering
-    \caption{Model pemrosessan informasi}
+    \caption{Kerangka pemrosessan informasi}
     \caption*{sumber: \citep{kaplan1998}}
     \label{tab:mpi}
-    \begin{tabular}{p{.4\textwidth} l l}
+    \begin{tabular}{p{.4\textwidth} p{.2\textwidth} p{.2\textwidth} }
         \toprule
-        \textbf{Tingkat tanggapan} & \textbf{Pemahaman} & \textbf{Eksplorasi} \\
+        \textbf{Tingkat tanggapan} & \textbf{Masuk akal} (pemahaman) & \textbf{Keterlibatan} (eksplorasi) \\
         \midrule
     Susunan visual (dua dimensi) & Koherensi & Kompleksitas \\
     Ruang tiga dimensi & Keterbacaan & Misteri \\
@@ -570,7 +557,27 @@ Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keter
 %Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
 %elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
-\section{ga tau}
+\section{Elemen yang mempengaruhi preferensi}
+
+Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
+\begin{inparaenum}
+\item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
+\item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga secara berkelanjutan.
+\item \textit{Ruang yang terbuka dan jelas}, yaitu lingkungan yang terbentuk serta memiliki pemandangan dan elemen yang menarik.
+\item \textit{Berkas sejarah}, yaitu lingkungan yang menciptakan hubungan yang terasa.
+\item \textit{Susunan}, yaitu lingkungan yang memperhatikan pengaturan dan kejelasan.
+\end{inparaenum}
+
+%elemen alami
+Sejumlah penelitian preferensi menaruh perhatian pada presepsi lingkungan alami. Lingkungan alami termasuk hutan dan lanskap pedesaan \citep{zhang2006}. Penelitian tersebut menemukan elemen-elemen alami yang mempengaruhi preferensi. Beberapa diantaranya adalah pohon, tanaman, bunga, semak, dan rumput \citep{manyani2021}.
+
+Dalam penelitian preferensi terhadap konteks ruang hijau dan kompleksitas vegetasi menjelaskan empat variasi preferensi \citep{harris2018}. Keempat variasi tersebut yang dijelaskan oleh elemen-elemen alami diberi nama lanskap inggris, taman pedesaan, terbuka, dan padat. \cite{harris2018} mengindikasikan variasi yang menghadirkan pohon banyak dicenderungi daripada hanya lapangan rumut datar \textit{(lawn)}.
+%elemen artificial
+Meskipun penelitian utamanya berurusan dengan elemen alami, dia juga menyebut pengaruh elemen buatan. Kedua elemen tersebut memungkinkan orang untuk menikmati alam selagi melakukan aktivitas rekreasi \citep{ozguner2011}. Ini masuk akal ketika elemen buatan  termasuk elemen air, pohon jalan, dan \textit{streetscape} menerima banyak perhatian dari sejumlah penelitian. Pembahasan meliputi analisis preferensi lanskap dari elemen-elemen tersebut dan apakah mereka meningkatkan kualitas visual \citep{zhang2006}. \cite{zhang2006} menjelaskan bahwa kualitas visual memang penting bagi lingkungan hidup \textit{(living environment)}. \cite{nasar1998} mengklarifikasi bahwa kualitas visual dari elemen buatan adalah sangat penting.
+\cite{manyani2021} menemukan spesifik elemen yang dicenderungi kebanyakan orang pada ruang publik. Elemen tersebut adalah ayunan, alat bermain, bangku, bunga, dan pagar.
+Dalam kasus ini, orang lebih mencenderungi elemen buatan daripada elemen alami. Salah satu faktor penyebabnya adalah kebanyakan orang menganggap ruang publik sebagai tempat bermain anak. \cite{zhao2020} menyebut kehadiran elemen rekreasi meningkatkan ketertarikan pada ruang tertentu.
+\citeauthor{manyani2021} juga menerangkan elemen yang kurang dicenderungi seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung.
+
 
 \begin{landscape}
 \begin{singlespace}
