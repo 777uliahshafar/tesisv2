@@ -479,8 +479,13 @@ Teori presepsi lingkungan (ruang) telah berkembang pesat pada bidang penelitian 
 Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}. Jadi, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}.
 Menurut \cite{gibson2014}, kata \textit{afford} berarti memberikan (menyediakan), kata affordance adalah kata buatan yang tidak termuat oleh kamus bahasa. Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
 
-Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti pohon rindang memberi manfaat teduh untuk manusia. Rindang sebagai kemanfaatan teduh, harus diukur relatif terhadap orang. Rindang untuk orang dewasa dan manula tentunya berbeda. Artinya kemanfaatan atau affordance adalah relatif terhadap usia \citep{gibson2014}.
+Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti pohon yang rindang memberi manfaat keteduhan untuk manusia.
+Sebagai kemanfaatan keteduhan, rindang harus diukur relatif terhadap orang. Rindang untuk orang bertubuh besar dan kecil tentunya berbeda.
+Sehingga kemanfaatan itu adalah relatif terhadap ukuran seseorang \citep{gibson2014}.
+Kemudian, ruang dan tatanan yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
+\cite{kaplan1988}, dalam karyanya menjelaskan ruang yang memberi manfaat tertentu seharusnya disukai orang. Sebagaimana, teori ini menawarkan pemahaman preferensi seseorang dari lingkungan yang dipresepsikan dan respon dari potensi kemanfatan \citep{zhang2006,kaplan1988}.
 
+%Selanjutnya, \cite{gibson2014} menyimpulkan kemanfaatan dari ruang dan tatanan tertentu dipresepsikan apabila ruang dan tanatan dipresepsikan.
 
 %How elemen fulfil need for prefrence
 %Elemen fisik dapat mempengaruhi perilaku atau preferensi apabila elemen tersebut memenuhi kebutuhan penggunanya \citep{balling1982}.  \cite{zhang2006} menyatakan bahwa preferensi seseorang dari presepsi ruang berdasarkan pula pada fungsi. Pernyataan itu  mengklarifikasikan bahwa ada kebutuhan yang dapat dipenuhi oleh ruang \citep{mumcu2010}.
@@ -502,13 +507,14 @@ Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \ci
 Oleh karena kebutuhan dasar tidak cukup untuk memahami hubungan presepsi lingkungan dan preferensi ruang maka kedua teori presepsi tadi membutuhkan penjelasan lebih lanjut.
 \end{comment}
 
-Menurut \cite{zhang2006}, ada dua teori yang evolusioner yang sangat dekat dengan penelitian preferensi ruang. Teori tersebut menunjukkan kemanfaatan apa saja yang ruang harus miliki \citep{mumcu2010} yang disebut \textit{``prospect and refuge"} \citep{appleton1996} dan ``model pemrosessan informasi" \citep{kaplan1979}. Pada pembahasan selanjutnya berfokus pada dua teori ini.
+Menurut \cite{zhang2006}, ada dua teori yang evolusioner yang sangat dekat hubungannya dengan penelitian preferensi ruang. Teori tersebut menunjukkan kemanfaatan apa saja yang ruang harus miliki \citep{mumcu2010} yang disebut \textit{``prospect and refuge"} \citep{appleton1996} dan ``model pemrosessan informasi" \citep{kaplan1979}. Pada pembahasan selanjutnya berfokus pada dua teori ini.
+
 
 \subsection{Prospect-Refuge}
 
 Prospek \textit{(prospect)} memiliki arti yaitu kemampuan manusia untuk mengumpulkan kemudian mengevaluasi informasi, sedangkan tempat berlindung \textit{(refuge)} artinya sejauh mana lingkungan menyediakan keamanan untuk orang menjelajahi dan mengumpulkan informasi \citep{zhang2006}.
 Teori ini pertama kali muncul dalam \textit{"The Experience of Landscape"} \citep{appleton1996}.
-\textit{Prospect-refuge} menjelaskan jenis kemanfaatan yang muncul berupa akses informasi ruang serta elemen ruang seperti apa yang menampilkan kemanfaatan tersebut \citep{mumcu2010}.
+\textit{Prospect-refuge} menjelaskan jenis kemanfaatan yang muncul berupa akses informasi ruang dan elemen ruang seperti apa yang menampilkan kemanfaatan tersebut \citep{mumcu2010}.
 \cite{appleton1996} menerangkan bahwa orang mempresepsikan sedemikian rupa sekitarnya agar dapat memperoleh informasi dan menyimpan untuk digunakan suatu ketika dibutuhkan untuk memastikan kelangsungan hidup.
 Salah satu cara terpenting adalah kesempatan untuk membiarkan ruang terbuka agar informasi mudah diterima dan kesempatan untuk mencapai persembunyian \citep{mumcu2010}. Dengan demikian, konsep dari \textit{prospect} dan \textit{refuge} terbentuk.
 
@@ -557,9 +563,26 @@ Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keter
 %Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
 %elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
-\section{Elemen yang mempengaruhi preferensi}
+%\section{Preferensi terhadap ruang alami dan buatan}
+%\section{Sifat Elemen yang dipreferensikan}
+\section{Preferensi Elemen Ruang}
 
-Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
+Ruang memiliki elemen yang disama artikan dengan ruang dan tatananya. Umumnya, elemen pada ruang terbagi atas dua jenis yaitu elemen alami dan buatan. Elemen tersebut merupakan objek yang memiliki sifat \textit{(properties)} atau kualitas: ukuran, bentuk, tekstur, warna, berat, elstisitas dll \citep{gibson2014}. Sifat elemen mempunyai kemanfaatan seperti semua hal yang positif dan negatif, bermanfaat dan merugikan, aman dan berbahaya yang diambil dengan mengacu pada pengamat. Presepsi terhadap kemanfaatan tersebut memunculkan preferensi orang. Sejumlah penelitian termasuk \cite{kaplan1988} menerangkan konsep kemanfaatan untuk ruang mempengaruhi preferensi, bahkan meningkatkannya \citep{mumcu2010}. Sejumlah penelitian menemukan sifat elemen --- yang mereka sebut atribut --- mendeskripsikan preferensi individu terhadap ruang. Beberapa diantaranya dirangkum sebagai berikut.
+
+\subsubsection{Pohon rindang}
+
+Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}. Selain itu, memiliki beragam sifat seperti warna, bentuk, ukuran dan tekstur daun yang dapat mempengaruhi preferensi seseorang \citep{harris2018}. Sifat yang paling populer dari pohon adalah kerindangan. Sejumlah penelitian menemukan derajat kerindangan suatu pohon membentuk beragam preferensi \citep{harris2018,suppakittpaisarn2019}.
+\cite{suppakittpaisarn2019} menemukan orang menyukai pohon yang rindang, sementara  \citeauthor{appleton1996} dalam teori \textit{prospect-refuge} menjelaskan sebaliknya dimana orang menyukai ruang terbuka dengan sedikit pohon rindang.
+Pohon rindang, menurut \cite{appleton1996}, dapat dilihat sebagai tempat bersembunyi pengintai yang dapat mengurangi rasa aman. Meskipun demikian, pohon rindang memiliki kemanfaatan fungsi kesehatan seperti relaksasi dan mengurangi stress \citep{vandenberg2003}. Kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap pohon rindang \citep{suppakittpaisarn2019}.
+
+
+\subsubsection{Pohon rindang}
+
+
+%Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
+\begin{comment}
+
+\cite{nasar1998} merangkum lima elemen dari lingkungan yang biasanya `disukai' . Sementara lingkungan yang tidak disukai bisa kebalikan dari ini.
 \begin{inparaenum}
 \item \textit{Kealamian}, yaitu lingkungan yang memiliki banyak elemen alami, seperti pohon, bunga, rumput dan semak-semak.
 \item \textit{Pemeliharaan}, yaitu lingkungan yang terjaga secara berkelanjutan.
@@ -578,6 +601,7 @@ Meskipun penelitian utamanya berurusan dengan elemen alami, dia juga menyebut pe
 Dalam kasus ini, orang lebih mencenderungi elemen buatan daripada elemen alami. Salah satu faktor penyebabnya adalah kebanyakan orang menganggap ruang publik sebagai tempat bermain anak. \cite{zhao2020} menyebut kehadiran elemen rekreasi meningkatkan ketertarikan pada ruang tertentu.
 \citeauthor{manyani2021} juga menerangkan elemen yang kurang dicenderungi seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung.
 
+\end{comment}
 
 \begin{landscape}
 \begin{singlespace}
