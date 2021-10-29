@@ -571,12 +571,30 @@ Ruang memiliki elemen yang disama artikan dengan ruang dan tatananya. Umumnya, e
 
 \subsubsection{Pohon rindang}
 
-Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}. Selain itu, memiliki beragam sifat seperti warna, bentuk, ukuran dan tekstur daun yang dapat mempengaruhi preferensi seseorang \citep{harris2018}. Sifat yang paling populer dari pohon adalah kerindangan. Sejumlah penelitian menemukan derajat kerindangan suatu pohon membentuk beragam preferensi \citep{harris2018,suppakittpaisarn2019}.
+Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}. Selain itu, memiliki beragam sifat seperti warna, bentuk, ukuran dan tekstur daun yang dapat mempengaruhi preferensi seseorang \citep{harris2018}. Sifat yang paling populer dari pohon adalah kerindangan. Sejumlah penelitian menemukan derajat kerindangan suatu pohon membentuk beragam preferensi \citep{harris2018,suppakittpaisarn2019}. Itu mengindikasikan orang menyukai ruang publik dengan penambahan jumlah pohon \citep{grilli2020}.
+
 \cite{suppakittpaisarn2019} menemukan orang menyukai pohon yang rindang, sementara  \citeauthor{appleton1996} dalam teori \textit{prospect-refuge} menjelaskan sebaliknya dimana orang menyukai ruang terbuka dengan sedikit pohon rindang.
 Pohon rindang, menurut \cite{appleton1996}, dapat dilihat sebagai tempat bersembunyi pengintai yang dapat mengurangi rasa aman. Meskipun demikian, pohon rindang memiliki kemanfaatan fungsi kesehatan seperti relaksasi dan mengurangi stress \citep{vandenberg2003}. Kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap pohon rindang \citep{suppakittpaisarn2019}.
 
 
-\subsubsection{Pohon rindang}
+
+\subsubsection{Tekstur Jalan}
+Satu elemen pada ruang tepi laut yang penting adalah jalan. Pengertian jalan merujuk pada kata bahasa inggris yaitu \textit{path}, atau \textit{walkway}. Dalam beberapa kasus, jalan juga dapat berarti trotoar.
+Jalan merupakan elemen yang sering disebutkan dalam penelitian preferensi. Menurut \cite{campagnaro2020}, elemen buatan seperti jalan berperan penting terhadap pemilihan ruang publik.
+Elemen ini memiliki sifat seperti lebar, panjang, dan tekstur \citep{campagnaro2020,grilli2020,manyani2021}.  Masih belum diketahui lebar jalan seperti apa yang mempengaruhi preferensi. Tetapi jalan yang lebih panjang tampaknya meningkatkan preferensi orang \citep{grilli2020}.
+
+Pada penelitian preferensi, kebanyakan mereka menyebut tekstur diantara sifat lainnya  menjelaskan preferensi terhadap elemen jalan \citep{campagnaro2020}. \cite{campagnaro2020} menjelaskan bahwa tekstur kerikil dari jalan lebih disukai daripada tekstur aspal. Penemuan ini juga mengindikasikan preferensi terhadap elemen alami. Penemuan lainnya menggunakan penilaian pada foto untuk menjelaskan preferensi terhadap ruang \textit{(scene)}. \cite{stino1983} menemukan orang menyukai ruang yang memiliki jalan yang beraspal dan terletak di bagian depan. Kemudian, dia menerangkan ruang yang luas disertai jalan beraspal dipresepsikan menciptkan kedalaman dan kesatuan diantara elemen-elemen yang vertikal pada ruang tersebut. \cite{campagnaro2020} menambahkan jalan dipresepsikan aman oleh banyak orang.
+
+
+\subsubsection{Bentuk air}
+Air berperan penting sebagai elemen alami pada tepi laut. Itu menarik bagi anak-anak dan juga orang dewasa.
+Eliovson, dalam penelitian preferensi ruang publik, menerangkan elemen taman seperti air dapat memenuhi kebutuhan orang dengan menyediakan kenikmatan pandangan dan perenungan \citep{stino1983}.
+Sehingga keberadaan elemen air pada tepi laut adalah rekomendasi kecuali pemeliharannya tidak tersedia.
+Seperti kran air, sebagai satu bentuk elemen ini, diketahui menciptakan area titik fokus yang hidup, walaupun bentuk elemen seperti itu membutuhkan biaya yang mahal beserta pemeliharannya \citep{stino1983}. Ini menjelaskan nilai elemen air sangat tinggi pada sebuah ruang publik.
+
+Penelitian yang menggunakan penilaian foto menunjukkan foto yang melibatkan elemen air atau alami sejenisnya lebih dipreferensi. Meskipun keberadaan elemen tersebut pada foto tidak selalu meningkatkan preferensi \citep{stino1983}. Bentuk air yang sering muncul dalam penelitian preferensi adalah badan air, aliran air dan kran air. \cite{grilli2020} menjelaskan penggunaan individu yang besar terhadap keberadaan bentuk elemen air tersebut.
+Menurut \cite{grilli2020}, terdapat sedikit perbedaan nilai preferensi terhadap bentuk air yang mengalir dan badan air (danau atau kolam). Walaupun demikian, kedua bentuk air tersebut menunjukkan preferensi yang kuat \citep{grilli2020}. Berbeda dengan \cite{stino1983} yang menunjukkan preferensi terhadap kran air dengan menggunakan penilaian foto yang melibatkan bentuk air tersebut. Dia mendasari penemuan tersebut bahwa orang di mesir menyukai berinteraksi dengan air di ruang publik.
+
 
 
 %Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
