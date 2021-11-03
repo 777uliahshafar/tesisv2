@@ -323,9 +323,8 @@ Dulu, ekonomi kota sukses mendorong kualitas suatu tepi laut, namun sekarang seb
 Kenyamanan yang dirasakan di tepi laut bukan hanya menentukan kualitas hidup seseorang \citep{li2020}, akan tetapi menjadi tolak ukur keberhasilan sebuah kota.
 Oleh sebab itu, kualitas lingkungan memiliki peran penting terhadap pengembangan tepi laut.
 
-Dalam penelitian dengan judul pengaruh penampakan tepi laut perkotaaan terhadap fungsi ruang publik, \cite{hradilova2013} menjelaskan tepi laut sebagai ruang publik terbentuk atas tiga fitur perkotaan yaitu fungsi, operasi dan pengaturan spasial \citep{hradilova2013}.
-Fitur tersebut menjadi evaluasi terhadap kualitas ruang publik dan acuan dalam memuaskan kebutuhan masyarakat. Lebih detailnya, fungsi, menurut \cite{gehl2000}, adalah upaya dalam memenuhi aktivitas sosial dalam ruang publik.
-Aktivitas yang tumpang tindih termasuk rekreasi, budaya dan peninggalan, perumahan, pekerjaan, dan industri \citep{norcliffe1996}.
+Dalam penelitian dengan judul pengaruh penampakan tepi laut perkotaaan terhadap fungsi ruang publik, \cite{hradilova2013} menjelaskan tepi laut sebagai ruang publik terbentuk atas tiga aspek (fitur) perkotaan yaitu fungsi, operasi dan pengaturan spasial \citep{hradilova2013}.
+Fitur tersebut menjadi evaluasi terhadap kualitas ruang publik dan acuan dalam memenuhi kebutuhan masyarakat. Lebih jelasnya, fungsi, menurut \cite{gehl1987}, adalah upaya dalam memenuhi aktivitas sosial dalam ruang publik. Efek fitur ini tergambarkan dari kebutuhan suatu kota dan proyek yang baru terhadap jalan dan \textit{squares} tergantikan oleh jalan raya, jalan setapak \textit{path}, dan hamparan rumput luas.
 Operasi menggambarkan transportasi perkotaan dan infrastruktur teknis. Terakhir, pengaturan spasial membentuk keseluruhan komposisi perkotaan. \cite{wittmann2008} secara khusus mengungkapkan kawasan tepi laut tersusun atas fungsi dasar sebagai berikut:
 
 \begin{itemize}
@@ -483,7 +482,8 @@ Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \ci
 Sebagai kemanfaatan keteduhan, rindang harus diukur relatif terhadap orang. Rindang untuk orang bertubuh besar dan kecil tentunya berbeda.
 Sehingga kemanfaatan itu adalah relatif terhadap ukuran seseorang \citep{gibson2014}.
 Kemudian, ruang dan tatanan yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
-\cite{kaplan1988}, dalam karyanya menjelaskan ruang yang memberi manfaat tertentu seharusnya disukai orang. Sebagaimana, teori ini menawarkan pemahaman preferensi seseorang dari lingkungan yang dipresepsikan dan respon dari potensi kemanfatan \citep{zhang2006,kaplan1988}.
+\cite{kaplan1988}, dalam karyanya menjelaskan ruang yang memberi manfaat tertentu seharusnya disukai orang. \cite{harris2018} mendukung konsep bahwa kemanfaatan selaras dengan preferensi.
+Sebagaimana, teori ini menawarkan pemahaman preferensi individu dari lingkungan yang dipresepsikan dan respon dari potensi kemanfaatan \citep{zhang2006,kaplan1988}.
 
 %Selanjutnya, \cite{gibson2014} menyimpulkan kemanfaatan dari ruang dan tatanan tertentu dipresepsikan apabila ruang dan tanatan dipresepsikan.
 
@@ -569,12 +569,6 @@ Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keter
 
 Ruang memiliki elemen yang disama artikan dengan ruang dan tatananya. Umumnya, elemen pada ruang terbagi atas dua jenis yaitu elemen alami dan buatan. Elemen tersebut merupakan objek yang memiliki sifat \textit{(properties)} atau kualitas: ukuran, bentuk, tekstur, warna, berat, elstisitas dll \citep{gibson2014}. Sifat elemen mempunyai kemanfaatan seperti semua hal yang positif dan negatif, bermanfaat dan merugikan, aman dan berbahaya yang diambil dengan mengacu pada pengamat. Presepsi terhadap kemanfaatan tersebut memunculkan preferensi orang. Sejumlah penelitian termasuk \cite{kaplan1988} menerangkan konsep kemanfaatan untuk ruang mempengaruhi preferensi, bahkan meningkatkannya \citep{mumcu2010}. Sejumlah penelitian menemukan sifat elemen --- yang mereka sebut atribut --- mendeskripsikan preferensi individu terhadap ruang. Beberapa diantaranya dirangkum sebagai berikut.
 
-\subsubsection{Pohon rindang}
-
-Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}. Selain itu, memiliki beragam sifat seperti warna, bentuk, ukuran dan tekstur daun yang dapat mempengaruhi preferensi seseorang \citep{harris2018}. Sifat yang paling populer dari pohon adalah kerindangan. Sejumlah penelitian menemukan derajat kerindangan suatu pohon membentuk beragam preferensi \citep{harris2018,suppakittpaisarn2019}. Itu mengindikasikan orang menyukai ruang publik dengan penambahan jumlah pohon \citep{grilli2020}.
-
-\cite{suppakittpaisarn2019} menemukan orang menyukai pohon yang rindang, sementara  \citeauthor{appleton1996} dalam teori \textit{prospect-refuge} menjelaskan sebaliknya dimana orang menyukai ruang terbuka dengan sedikit pohon rindang.
-Pohon rindang, menurut \cite{appleton1996}, dapat dilihat sebagai tempat bersembunyi pengintai yang dapat mengurangi rasa aman. Meskipun demikian, pohon rindang memiliki kemanfaatan fungsi kesehatan seperti relaksasi dan mengurangi stress \citep{vandenberg2003}. Kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap pohon rindang \citep{suppakittpaisarn2019}.
 
 
 
@@ -589,13 +583,31 @@ Pada penelitian preferensi, kebanyakan mereka menyebut tekstur diantara sifat la
 \subsubsection{Bentuk air}
 Air berperan penting sebagai elemen alami pada tepi laut. Itu menarik bagi anak-anak dan juga orang dewasa.
 Eliovson, dalam penelitian preferensi ruang publik, menerangkan elemen taman seperti air dapat memenuhi kebutuhan orang dengan menyediakan kenikmatan pandangan dan perenungan \citep{stino1983}.
-Sehingga keberadaan elemen air pada tepi laut adalah rekomendasi kecuali pemeliharannya tidak tersedia.
-Seperti kran air, sebagai satu bentuk elemen ini, diketahui menciptakan area titik fokus yang hidup, walaupun bentuk elemen seperti itu membutuhkan biaya yang mahal beserta pemeliharannya \citep{stino1983}. Ini menjelaskan nilai elemen air sangat tinggi pada sebuah ruang publik.
+Sehingga keberadaan elemen air adalah rekomendasi kecuali pemeliharannya tidak tersedia.
+Seperti air mancur minum, sebagai satu bentuk air, diketahui menciptakan area titik fokus yang hidup, walaupun membutuhkan biaya yang mahal beserta pemeliharannya \citep{stino1983}.
 
-Penelitian yang menggunakan penilaian foto menunjukkan foto yang melibatkan elemen air atau alami sejenisnya lebih dipreferensi. Meskipun keberadaan elemen tersebut pada foto tidak selalu meningkatkan preferensi \citep{stino1983}. Bentuk air yang sering muncul dalam penelitian preferensi adalah badan air, aliran air dan kran air. \cite{grilli2020} menjelaskan penggunaan individu yang besar terhadap keberadaan bentuk elemen air tersebut.
-Menurut \cite{grilli2020}, terdapat sedikit perbedaan nilai preferensi terhadap bentuk air yang mengalir dan badan air (danau atau kolam). Walaupun demikian, kedua bentuk air tersebut menunjukkan preferensi yang kuat \citep{grilli2020}. Berbeda dengan \cite{stino1983} yang menunjukkan preferensi terhadap kran air dengan menggunakan penilaian foto yang melibatkan bentuk air tersebut. Dia mendasari penemuan tersebut bahwa orang di mesir menyukai berinteraksi dengan air di ruang publik.
+Penelitian yang menggunakan penilaian foto menunjukkan foto yang melibatkan elemen air atau alami sejenisnya lebih dipreferensi. Meskipun keberadaan elemen tersebut pada foto tidak selalu meningkatkan preferensi \cite{stino1983}. Bentuk air yang sering muncul dalam penelitian preferensi adalah badan air, air mengalir dan air mancur minum. \cite{grilli2020} menjelaskan penggunaan individu yang besar terhadap keberadaan bentuk elemen air tersebut. Menurut \cite{grilli2020}, terdapat sedikit perbedaan nilai preferensi terhadap bentuk air yang mengalir dan badan air (laut atau danau). Walaupun demikian, kedua bentuk air tersebut menunjukkan preferensi yang kuat \cite{grilli2020}. Berbeda dengan \cite{stino1983} yang menunjukkan preferensi terhadap air mancur minum dengan menggunakan penilaian foto yang melibatkan bentuk air tersebut. Dia mendasari penemuan tersebut bahwa orang di mesir menyukai berinteraksi dengan air di ruang publik.
+
+\subsubsection{Jenis tempat duduk}
+
+Sejumlah penelitian menekankan kepentingan tempat duduk pada ruang publik. \cite{gehl1987} bahkan secara khusus menekankan apa arti dari tempat duduk yang baik terhadap semua jenis ruang publik. Dia menerangkan keberadaan tempat duduk menentukan suatu ruang publik untuk dapat disinggahi atau hanya dilewati. Selain itu akan mendorong beragam aktivitas luar ruangan dan yang menarik \citep{gehl1987}. Ini menempatkan tempat duduk yang sesuai sebagai bagian yang vital terhadap kualitas suatu ruang publik.
+
+\cite{devlin1996} menyebut beragam lokasi tempat duduk, susunan, orientasi dan jenis tempat duduk dapat memenuhi kebutuhan orang yang beragam.
+Sifat tempat duduk ini jelasnya dapat diatur untuk menjelaskan beragam preferensi orang \citep{devlin1996}. Orang dapat duduk disembarang tempat seperti di lantai, jalan, tangga, dan samping air mancur, namun sejumlah orang menuntut jenis tempat duduk \citep{gehl1987}. Menurut \cite{devlin1996}, jenis tempat duduk dapat menjelaskan preferensi dan kebutuhan individu. Banyak penelitian menemukan orang lebih mempreferensikan bangku atau kursi \citep{gehl1987, devlin1996, manyani2021}. Lebih lanjut, \citeauthor{gehl1987} menunjukkan bangku kayu paling disukai karena tingkat kenyamananya \citep{gehl1987}. Dia menjelaskan orang dewasa lebih memperhatikan kemanfaatan kenyamanan dari kursi.
+Kursi dinding juga menjadi preferensi banyak orang \citep{devlin1996}. Kebanyakan mereka adalah kelompok keluarga dan remaja. Jenis tempat duduk lainnya seperti kursi dinding pot, dinding air mancur, atau dinding di sekitar objek menjelaskan preferensi rendah hingga sedang terhadap jenis tempat duduk \citep{devlin1996}.
 
 
+\subsubsection{Struktur pohon}
+
+Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}. Selain itu, memiliki beragam sifat seperti warna, bentuk, ukuran, tekstur daun dan struktur yang dapat mempengaruhi preferensi seseorang \citep{harris2018}.
+
+Sifat yang paling populer dari pohon adalah kerindangan.
+
+
+Sejumlah penelitian menemukan derajat kerindangan suatu pohon membentuk beragam preferensi \citep{harris2018,suppakittpaisarn2019}. Itu juga mengindikasikan orang menyukai ruang publik dengan penambahan jumlah pohon \citep{grilli2020}.
+
+\cite{suppakittpaisarn2019} menemukan orang menyukai pohon yang rindang, sementara  \citeauthor{appleton1996} dalam teori \textit{prospect-refuge} menjelaskan sebaliknya dimana orang menyukai ruang terbuka dengan sedikit pohon rindang.
+Pohon rindang, menurut \cite{appleton1996}, dapat dilihat sebagai tempat bersembunyi pengintai yang dapat mengurangi rasa aman. Meskipun demikian, pohon rindang memiliki kemanfaatan fungsi kesehatan seperti relaksasi dan mengurangi stress \citep{vandenberg2003}. Kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap pohon rindang \citep{suppakittpaisarn2019}.
 
 %Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
 \begin{comment}
@@ -712,20 +724,22 @@ Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai prefere
 \toprule
 {\bfseries Elemen yang disukai} & \textbf{Tingkatan} & {\bfseries Ruang A} & {\bfseries Ruang B} \\
  \midrule
- Kehadiran Jalan dipaving & Semua dipaving & \checkmark &  \\
-  & Sebagian dipaving &  &  \\
-  & Tidak dipaving &  &  \\
+ Tekstur Jalan & Lantai kerikil & \checkmark &  \\
+  & Aspal &  &  \\
+  & Paving blok &  &  \\
 
- Pohon dan tanaman & Banyak pohon & \checkmark & \checkmark \\
-  & Beberapa pohon &  &  \\
-  & Sedikit pohon &  &  \\
+ Bentuk Air & Badan air (laut) & \checkmark & \checkmark \\
+  & Air mengalir &  &  \\
+  & Air mancur minum &  &  \\
 
- Fitur air & Beberapa fitur air & \checkmark & \checkmark \\
-  & Tidak ada fitur air &  &  \\
+ Jenis tempat duduk & Bangku atau kursi & \checkmark & \checkmark \\
+  & Kursi dinding &  &  \\
+  & Kursi dinding pot &  &  \\
 
- Fasilitas & Toilet & \checkmark & \checkmark \\
-  & Kedai makanan &  &  \\
-  & Alat kebugaran &  &  \\
+ Struktur Pohon  & Rindang & \checkmark & \checkmark \\
+  & Kurang rindang &  &  \\
+  & Tinggi &  &  \\
+
  Ukuran & Luas & \checkmark & \checkmark \\
   & Sempit &  &  \\
  Lalu lintas & Padat & \checkmark & \checkmark \\
