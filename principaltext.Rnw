@@ -382,10 +382,9 @@ Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihinda
 Pemahaman terhadap interaksi antara ruang dan manusia serta akibat \textit{(outcome)} berkontribusi dalam menjawab bagaimana suatu lanskap dirasakan \textit{(perceived)} oleh masyarakat atau individu \citep{zube1982}. Konvensi lanskap eropa mengartikan lanskap sebagai kombinasi antara `ruang' dan `tempat', pengertian tempat adalah rumit dalam perencanaan lanskap. Demi fokus penelitian ini, lanskap dipertimbangkan sebagai ruang.
 \cite{zube1982} mengakui bahwa mempelajari interaksi tadi adalah penting yang akan berguna dalam mengembangkan kerangka teori tentang presepsi lanskap (lihat gambar \ref{fig:per}).
 
-\begin{figure}[hp]
+\begin{figure}[hptb]
 \centering
 \begin{tikzpicture}[node distance=1cm]
-
 
 \node (man) [startstop, text width=6cm] {\textbf{Manusia} \\ 1. Harapan \quad 5 Pendidikan\\ 2. Pengalaman \quad 6. Budaya\\ 3.Konteks sosial \quad 7. Motivasi \\ 4. Informasi \quad 8. Personaliti};
 
@@ -408,11 +407,13 @@ Pemahaman terhadap interaksi antara ruang dan manusia serta akibat \textit{(outc
 
 \end{tikzpicture}
 \caption{Kerangka Teori Presepsi Lanskap}
+\caption*{sumber:\cite{zube1982} }
 \label{fig:per}
 \end{figure}
 
 Kerangka tersebut menjelaskan proses interaksi dan menunjukkan beragam elemen yang menjelaskan komponen (orang, lanskap, dan akibat) \citep{zube1982}. \cite{zhang2006} berpendapat bahwa kerangka presepsi lanskap itu menunjukkan interaksi antara manusia dan lanskap serta akibat dari interaksi. Oleh karena itu, presepsi lanskap sebagai fungsi dari interaksi antara manusia dan lingkungan sekitarnya \citep{zube1982}.
 
+\newpage
 \section{Preferensi Ruang}
 \label{sub:pref}
 Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
@@ -569,9 +570,6 @@ Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keter
 
 Ruang memiliki elemen yang disama artikan dengan ruang dan tatananya. Umumnya, elemen pada ruang terbagi atas dua jenis yaitu elemen alami dan buatan. Elemen tersebut merupakan objek yang memiliki sifat \textit{(properties)} atau kualitas: ukuran, bentuk, tekstur, warna, berat, elstisitas dll \citep{gibson2014}. Sifat elemen mempunyai kemanfaatan seperti semua hal yang positif dan negatif, bermanfaat dan merugikan, aman dan berbahaya yang diambil dengan mengacu pada pengamat. Presepsi terhadap kemanfaatan tersebut memunculkan preferensi orang. Sejumlah penelitian termasuk \cite{kaplan1988} menerangkan konsep kemanfaatan untuk ruang mempengaruhi preferensi, bahkan meningkatkannya \citep{mumcu2010}. Sejumlah penelitian menemukan sifat elemen --- yang mereka sebut atribut --- mendeskripsikan preferensi individu terhadap ruang. Beberapa diantaranya dirangkum sebagai berikut.
 
-
-
-
 \subsubsection{Tekstur Jalan}
 Satu elemen pada ruang tepi laut yang penting adalah jalan. Pengertian jalan merujuk pada kata bahasa inggris yaitu \textit{path}, atau \textit{walkway}. Dalam beberapa kasus, jalan juga dapat berarti trotoar.
 Jalan merupakan elemen yang sering disebutkan dalam penelitian preferensi. Menurut \cite{campagnaro2020}, elemen buatan seperti jalan berperan penting terhadap pemilihan ruang publik.
@@ -588,26 +586,36 @@ Seperti air mancur minum, sebagai satu bentuk air, diketahui menciptakan area ti
 
 Penelitian yang menggunakan penilaian foto menunjukkan foto yang melibatkan elemen air atau alami sejenisnya lebih dipreferensi. Meskipun keberadaan elemen tersebut pada foto tidak selalu meningkatkan preferensi \cite{stino1983}. Bentuk air yang sering muncul dalam penelitian preferensi adalah badan air, air mengalir dan air mancur minum. \cite{grilli2020} menjelaskan penggunaan individu yang besar terhadap keberadaan bentuk elemen air tersebut. Menurut \cite{grilli2020}, terdapat sedikit perbedaan nilai preferensi terhadap bentuk air yang mengalir dan badan air (laut atau danau). Walaupun demikian, kedua bentuk air tersebut menunjukkan preferensi yang kuat \cite{grilli2020}. Berbeda dengan \cite{stino1983} yang menunjukkan preferensi terhadap air mancur minum dengan menggunakan penilaian foto yang melibatkan bentuk air tersebut. Dia mendasari penemuan tersebut bahwa orang di mesir menyukai berinteraksi dengan air di ruang publik.
 
-\subsubsection{Jenis tempat duduk}
+\subsubsection{Jenis dan lokasi tempat duduk}
 
-Sejumlah penelitian menekankan kepentingan tempat duduk pada ruang publik. \cite{gehl1987} bahkan secara khusus menekankan apa arti dari tempat duduk yang baik terhadap semua jenis ruang publik. Dia menerangkan keberadaan tempat duduk menentukan suatu ruang publik untuk dapat disinggahi atau hanya dilewati. Selain itu akan mendorong beragam aktivitas luar ruangan dan yang menarik \citep{gehl1987}. Ini menempatkan tempat duduk yang sesuai sebagai bagian yang vital terhadap kualitas suatu ruang publik.
+Sejumlah penelitian menekankan kepentingan tempat duduk pada ruang publik. \cite{gehl1987} bahkan secara khusus menekankan apa arti dari tempat duduk yang baik terhadap semua jenis ruang publik. Dia menerangkan keberadaan tempat duduk menentukan suatu ruang publik untuk dapat disinggahi atau hanya dilewati. Selain itu, akan mendorong beragam aktivitas luar ruangan dan yang menarik, khususnya bersosialiasi \citep{gehl1987, mumcu2016}.
+Ini menempatkan tempat duduk yang sesuai sebagai bagian yang vital terhadap kualitas suatu ruang publik.
 
 \cite{devlin1996} menyebut beragam lokasi tempat duduk, susunan, orientasi dan jenis tempat duduk dapat memenuhi kebutuhan orang yang beragam.
-Sifat tempat duduk ini jelasnya dapat diatur untuk menjelaskan beragam preferensi orang \citep{devlin1996}. Orang dapat duduk disembarang tempat seperti di lantai, jalan, tangga, dan samping air mancur, namun sejumlah orang menuntut jenis tempat duduk \citep{gehl1987}. Menurut \cite{devlin1996}, jenis tempat duduk dapat menjelaskan preferensi dan kebutuhan individu. Banyak penelitian menemukan orang lebih mempreferensikan bangku atau kursi \citep{gehl1987, devlin1996, manyani2021}. Lebih lanjut, \citeauthor{gehl1987} menunjukkan bangku kayu paling disukai karena tingkat kenyamananya \citep{gehl1987}. Dia menjelaskan orang dewasa lebih memperhatikan kemanfaatan kenyamanan dari kursi.
+Sifat tempat duduk ini jelasnya dapat diatur untuk menjelaskan beragam preferensi orang \citep{devlin1996}. Orang dapat duduk disembarang tempat seperti di lantai, jalan, tangga, dan samping air mancur, namun sejumlah orang menuntut jenis tempat duduk \citep{gehl1987}. \cite{devlin1996} menjelaskan dalam hal desain, jenis tempat duduk adalah penting.
+Menurut \cite{devlin1996}, jenis tempat duduk dapat menjelaskan preferensi dan kebutuhan individu. Banyak penelitian menemukan orang lebih mempreferensikan bangku atau kursi \citep{gehl1987, devlin1996, manyani2021}. Lebih lanjut, \citeauthor{gehl1987} menunjukkan bangku kayu paling disukai karena tingkat kenyamananya \citep{gehl1987}. Dia menjelaskan orang dewasa lebih memperhatikan kemanfaatan kenyamanan dari kursi.
 Kursi dinding juga menjadi preferensi banyak orang \citep{devlin1996}. Kebanyakan mereka adalah kelompok keluarga dan remaja. Jenis tempat duduk lainnya seperti kursi dinding pot, dinding air mancur, atau dinding di sekitar objek menjelaskan preferensi rendah hingga sedang terhadap jenis tempat duduk \citep{devlin1996}.
 
+Selain jenis tempat duduk, lokasi tempat duduk juga penting dalam memenuhi beragam kebutuhan orang. \cite{gehl1987} dan \cite{devlin1996} menemukan lokasi berperan dalam menentukan dimana orang duduk serta mempengaruhi penggunaannya.
+Sejumlah penelitian mengindikasikan lokasi tempat duduk menjelaskan preferensi individu \citep{devlin1996, gehl1987, mumcu2010}.
+Lokasi tempat duduk ada beragam macam sehubungan: tempat yang terbuka/tertutup, di dalam/luar ruangan, iklim mikro berupa paparan matahari/bayangan \citep{devlin1996}.
+%sebuah sudut, tempat dengan kemanfaatan keamananan dan intim, area kecil dalam suatu ruang, dan iklim mikro yang bagus (paparan sinar/ bayangan).
 
-\subsubsection{Struktur pohon}
+\cite{devlin1996} mengindikasikan paparan lokasi tempat duduk dengan paparan matahari/bayangan paling mempengaruhi preferensi orang.
+%Preferensi yang dominan terhadap lokasi tempat duduk adalah area paparan matahari/bayangan \cite{devlin1996}.
+Banyaknya paparan matahari atau bayangan ditentukan oleh apakah tempat duduk yang terpilih berada di tempat teduh atau dibawah matahari.
+Pada penelitian preferensi tempat duduk menunjukkan orang lebih menyukai tempat yang teduh \citep{mumcu2016, devlin1996, gehl1987}. Meskipun demikian, tempat dengan paparan matahari sebagian kecil juga dipreferensi \citep{devlin1996}. \cite{gehl1987} menambahkan bahwa tempat yang teduh pada tempat duduk memberikan manfaat untuk beristirahat yang mendorong ruang publik lebih baik dan lebih ramah. \cite{devlin1996} juga menemukan perbedaan preferensi terhadap ruang terbuka/tertutup dan luar/dalam ruangan. Dia menemukan beragam preferensi diantara beragam kelompok orang. Preferensi dimana mereka mencari tempat yang dapat mengawasi orang dan bersembunyi mendukung teori \textit{prospect refuge} \citep{mumcu2010}. Terakhir, ini mengindikasi preferensi juga berdasarkan pada ketersediaan kemanfaatan \textit{(affordances)} pada lokasi, jenis tempat duduk.
 
-Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}. Selain itu, memiliki beragam sifat seperti warna, bentuk, ukuran, tekstur daun dan struktur yang dapat mempengaruhi preferensi seseorang \citep{harris2018}.
+%Tempat duduk yang berada dibawah pohon (matahari tersaring) termasuk berada di tempat teduh. Tempat tersebut lebih meningkatkan preferensi seseorang \citep{devlin1996, mumcu2016}. Orang juga menyukai tempat yang terbuka
 
-Sifat yang paling populer dari pohon adalah kerindangan.
+\subsubsection{Ukuran pohon}
 
+Pohon sebagai vegetasi perkotaan menyediakan beragam manfaat kepada orang. Satu manfaat yang terpenting adalah kesejahteraan psikologis \citep{vandenberg2003}.
+Pohon memiliki beragam sifat seperti warna, bentuk, ukuran, dan tekstur daun yang dapat mempengaruhi preferensi seseorang \citep{harris2018}. Pada penelitian hubungan ruang hijau dan preferensi, ukuran pohon yang besar memiliki kemanfaatan naungan sekaligus menjelaskan preferensi seseorang \citep{harris2018}. Pohon yang besar atau pohon peneduh (rindang) menjadi perhatian khusus pada penelitian preferensi.
 
-Sejumlah penelitian menemukan derajat kerindangan suatu pohon membentuk beragam preferensi \citep{harris2018,suppakittpaisarn2019}. Itu juga mengindikasikan orang menyukai ruang publik dengan penambahan jumlah pohon \citep{grilli2020}.
-
-\cite{suppakittpaisarn2019} menemukan orang menyukai pohon yang rindang, sementara  \citeauthor{appleton1996} dalam teori \textit{prospect-refuge} menjelaskan sebaliknya dimana orang menyukai ruang terbuka dengan sedikit pohon rindang.
+Banyak orang yang mempreferensikan pohon rindang dengan vegetasi tumbuh-tumbuhan \citep{suppakittpaisarn2019}. \cite{grilli2020} menambahkan orang juga menyukai pohon dengan jumlah yang banyak. Sementara  \citeauthor{appleton1996} dalam teori \textit{prospect-refuge} menjelaskan orang menyukai area terbuka lebar dengan tingkat kepadatan pohon yang sedang. Itu menjelaskan preferensi terhadap pohon kurang rindang.
 Pohon rindang, menurut \cite{appleton1996}, dapat dilihat sebagai tempat bersembunyi pengintai yang dapat mengurangi rasa aman. Meskipun demikian, pohon rindang memiliki kemanfaatan fungsi kesehatan seperti relaksasi dan mengurangi stress \citep{vandenberg2003}. Kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap pohon rindang \citep{suppakittpaisarn2019}.
+
 
 %Lepas dari itu, maka penting untuk mengetahui bagaimana elemen tersebut penting, seperti apa maknanya atau apakah disukai atau tidak.
 \begin{comment}
@@ -631,7 +639,6 @@ Meskipun penelitian utamanya berurusan dengan elemen alami, dia juga menyebut pe
 Dalam kasus ini, orang lebih mencenderungi elemen buatan daripada elemen alami. Salah satu faktor penyebabnya adalah kebanyakan orang menganggap ruang publik sebagai tempat bermain anak. \cite{zhao2020} menyebut kehadiran elemen rekreasi meningkatkan ketertarikan pada ruang tertentu.
 \citeauthor{manyani2021} juga menerangkan elemen yang kurang dicenderungi seperti pencahayaan, setapak beton, kantong parkir, papan informasi dan burung.
 
-\end{comment}
 
 \begin{landscape}
 \begin{singlespace}
@@ -672,6 +679,8 @@ Dalam kasus ini, orang lebih mencenderungi elemen buatan daripada elemen alami. 
 \end{longtable}
 \end{singlespace}
 \end{landscape}
+
+\end{comment}
 
 \section{Karakter Pengunjung}
 
@@ -724,26 +733,28 @@ Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai prefere
 \toprule
 {\bfseries Elemen yang disukai} & \textbf{Tingkatan} & {\bfseries Ruang A} & {\bfseries Ruang B} \\
  \midrule
- Tekstur Jalan & Lantai kerikil & \checkmark &  \\
-  & Aspal &  &  \\
-  & Paving blok &  &  \\
+ Tekstur Jalan & Lantai kerikil & \checkmark & \checkmark \\
+  & Aspal &  & \checkmark \\
+  & Paving blok & \checkmark & \checkmark \\
 
  Bentuk Air & Badan air (laut) & \checkmark & \checkmark \\
   & Air mengalir &  &  \\
   & Air mancur minum &  &  \\
 
  Jenis tempat duduk & Bangku atau kursi & \checkmark & \checkmark \\
-  & Kursi dinding &  &  \\
-  & Kursi dinding pot &  &  \\
+  & Kursi dinding & \checkmark & \checkmark \\
+  & Kursi dinding pot &  & \checkmark \\
 
- Struktur Pohon  & Rindang & \checkmark & \checkmark \\
-  & Kurang rindang &  &  \\
-  & Tinggi &  &  \\
+ Lokasi tempat duduk & terbuka/tertutup & \checkmark & \checkmark \\
 
- Ukuran & Luas & \checkmark & \checkmark \\
-  & Sempit &  &  \\
- Lalu lintas & Padat & \checkmark & \checkmark \\
-  & Ringan &  &  \\
+
+ Ukuran Pohon  & Besar (rindang) & \checkmark &  \\
+  & Sedang (kurang rindang) & \checkmark & \checkmark \\
+
+% Ukuran & Luas & \checkmark & \checkmark \\
+%  & Sempit &  &  \\
+% Lalu lintas & Padat & \checkmark & \checkmark \\
+%  & Ringan &  &  \\
 
  &&\\
  Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
