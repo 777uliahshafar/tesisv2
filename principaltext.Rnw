@@ -150,8 +150,12 @@ Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di ka
 Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan elemen-elemen pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-    \item Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
-    \item Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu.
+%    \item Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
+%    \item Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu.
+    \item Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung.
+        %pada ruang A dan B.
+    \item Untuk menganalisis elemen-elemen apa saja pada ruang yang menjadi preferensi.
+    \item Untuk menganalisis mengapa orang memiliki preferensi pada ruang tersebut.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -210,14 +214,16 @@ Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebua
 
 \node (met) [startstop, below of=pus, yshift=-5cm, text width=7cm] {
 	\textbf{Metode Peneltian}.\\
-Penelitian ini bersifat eksploratif untuk menelusuri elemen yang ada yang terkait preferensi pengunjung terhadap tepi laut. Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
+Penelitian ini bersifat eksploratif untuk menganalisis preferensi terkait ruang dan elemennya. Penelitian campuran digunakan untuk mengu...
+% tidak perlu menggunakan istilah asing sperti grounded theory dll.
+% 11:15
+%Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
 
 	Sumber data: Observasi dan kuesioner survei dengan metodologi campuran.
 };
 
 \node (ana) [startstop, below of=met, yshift=-2cm, text width=8cm ] {
 		\textbf{Analisis data}
-
          };
 
 \node (tem) [startstop, below of=ana] {\textbf{Temuan Penelitian}};
@@ -250,30 +256,33 @@ Penelitian ini bersifat eksploratif untuk menelusuri elemen yang ada yang terkai
 
 \section{Keaslian Penelitian}
 
-Penelitian dengan tema yang sama telah banyak dilakukan oleh penelitian sebelumnya. Tema dari penelitian tersebut tidak jauh dari penelitian terkait preferensi masyarakat terhadap suatu lingkungan, desain, atau karakteristik.
-Dengan mempelajari penelitian yang telah ada, penelitian ini dapat menciptakan kebaruan pada ilmu pengetahuan di bidang arsitektur dan mengisi kekurangan pada penelitian sebelumnya. Adapun yang membedakan penelitian satu dan lainnya secara garis besar adalah metode, variabel, objek penelitian, dan tujuan penelitian.
-Maka penulis mengumpulkan data-data dari penelitian itu dalam bentuk sebuah tabel yang dapat dilihat pada tabel \ref{tab:asli}.
-
+Penelitian dengan tema yang sama telah banyak dilakukan oleh penelitian sebelumnya. Tema dari penelitian tersebut menyangkut preferensi orang terhadap suatu ruang, elemen, atau sifat elemen yang mendasari preferensi.
+Dengan mempelajari penelitian yang telah ada, penelitian ini dapat menciptakan kebaruan pada ilmu pengetahuan di bidang arsitektur dan mengisi kekurangan pada penelitian sebelumnya. Adapun yang membedakan penelitian satu dan lainnya secara garis besar adalah metode, variabel, objek penelitian, dan tujuan penelitian. Berdasarkan temuan data penelitian sebelumnya, penulis menyimpulkan bahwa pada umumnya penelitian preferensi bertempat di ruang publik berupa taman, sepanjang pengetahuan penulis belum menemukan penelitian yang bertempat di ruang publik tepi laut. Kebanyakan penelitian menggunakan metode dengan istilah asing seperti RUM \textit{(random utility model)}, CBC \textit{(choice-based conjoint analysis)}, dan VEP \textit{(visitor employed photography)} dalam hal menjelaskan preferensi orang. Meskipun metode-metode itu muncul, metode campuran \textit{(mixed-method)} dipahami dapat menjelaskan preferensi orang dengan sederhana dan jelas. Melalui beragam metode itu, sebagian besar mereka menemukan keberadaan elemen-elemen bukan sifat atau elemen tertentu seperti apa yang dapat menjelaskan preferensi orang terhadap ruang dan elemen pada ruang. Lebih lanjut, penelitian-penelitian ini mengindikasikan adanya alasan dalam preferensi ruang seperti keamanan, kesehatan fisik, relaksasi, dan rekreasi.
+Data-data dari penelitian tersebut terangkum dalam bentuk sebuah tabel yang dapat dilihat pada tabel \ref{tab:asli}.
 
 \begin{landscape}
 \begin{singlespace}
 \small
 \begin{longtable}{p{.2\textheight} p{.3\textheight} p{.4\textheight} p{.4\textheight}}
-	\caption{Penelitian tentang Preferensi Individu Sebelumnya} \\
+	\caption{Penelitian tentang Preferensi Orang Sebelumnya} \\
     \label{tab:asli} \\
     Nama Peneliti & Judul dan Tahun Penelitian & Metode & Hasil Penelitian \\
     \toprule
-    \citeauthor{zhang2020} & \textit{A Landscape Preference Study of Campus Open Space} (2006) & Penelitian ini menggunakan metode campuran kualitatif dan kuantitatif. Ini memperkenalkan metode VEP sebagai metode yang sangat terkenal dalam bidang lanskap. Serta, analisis konten seperti Analisis Multivariate --- Teknik Biplot. & Hasil menunjukkan bahwa metode VEP sangat efesien untuk studi preferensi lanskap. Selain itu, melalui analisis konten preferensi lanskap diukur melalui tiga variabel fitur lanskap: ``Intervensi Orang'', ``Vegetasi'', dan ``Fitur Air''. Hasil dari studi ini menjelaskan ``Vegetasi'' termasuk pohon, tanaman, dan rumput terbuka adalah fitur lanskap yang paling dicenderungi.  \\
+    \citeauthor{grilli2020} & Public park attributes, park visits, and associated health status (2020) & Data dianalisis menggunakan \textit{random utility model (RUM)} untuk mengetahui apakah data berkorelasi atau independen. Analisis tersebut memberi tahu bahwa atribut \textit{(sifat elemen)} ruang/taman publik signifikan atau penting untuk menjelaskan preferensi orang terhadap ruang publik khususnya ruang hijau. & Umumnya, penelitian ini menemukan bahwa preferensi untuk sifat elemen ruang publik meningkatkan kemungkinan berkunjung yang mana berhubungan dengan kondisi kesehatan. Penemuan lainnya adalah orang memiliki preferensi tinggi terhadap pohon yang lebih padat. Selain itu, fasilitas dan fitur air menjadi elemen yang mendasari kunjungan ke ruang publik.\\
 \midrule
     \citeauthor{cahyaningtyas2020} & Preferensi Masyarakat terhadap Ruang Kota sebagai Tempat Relaksasi (2020) & Penelitian ini menggunakan metode kualitatif bersifat eksploratif. Pendekatan yang digunakan adalah \textit{grounded theory} yang menghasilkan teori dan penjelasan umum dari sebuah fenomena berdasarkan informasi yang diperoleh dari responden. & Penelitian ini menghasilkan kriteria yang paling dicenderungi masyarakat adalah nuansa alam yang kuat serta dapat mengakomodasi berbagai fasilitas khususnya kuliner.  \\
 \midrule
     \citeauthor{dwiputra2017} & Preferensi Masyarakat dalam Memilih Karakteristik Taman Kota Berdasarkan Motivasi Kegiatan (2017) &  Penelitian ini menggunakan metode penelitian kualitatif eksploratif serta metode statistk dasar dalam menganalisis data yang tersedia. & Hasil penelitian ini menunjukkan bahwa pengunjung lebih menyukai tempat yang memiliki sarana yang memadai, kondisi penghawaan yang teduh, nyaman, dan juga visualisasi elemen air.  \\
 \midrule
-    Nunuk Juli Sufiati & Preferensi Masyarakat terhadap Pemanfaatan Taman Hijau Kota Purwodadi (Community Preference Towards The Utilization Of Green Park, Purwodadi City) (2018) & Penelitian ini menggunakan empat macam komponen pembentuk preferensi dari Kaplan: Koherensi, Kompleksitas, Misteri, dan Legibilitas. Metode pengumpulan data adalah wawancara mendalam, observasi, dan studi dokumentasi. &  Hasilnya adalah  koherensi menjadi faktor yang sangat mempengaruhi preferensi masyarakat terhadap pemanfaatan taman kota hijau kota Purwodadi.  \\
+    \citeauthor{alves2008}& Preferences of older people for environmental attributes of local parks (2008) &  Penelitian ini menggunakan \textit{Choice-based conjoint analysis(CBC)} melalui pendekatan kualitatif dan kuantitatif. Masyarakat diminta untuk memilih taman yang dicenderungi dari empat taman yang memiliki atribut yang berbeda melalui kuesioner. & Hasil penelitian ini menunjukkan manula lebih menyukai taman yang mempunyai sejumlah fasilitas seperti kafe dan toilet, banyak pepohonan dan tanaman, pencahayaan, terpelihara dan tanpa gangguan.  \\
 \midrule
-    \citeauthor{alves2008}& Preferences of older people for environmental attributes of local parks (2008) &  Penelitian ini menggunakan \textit{Choice-based conjoint analysis(CBC)} melalui pendekatan kualitatif dan kuantitatif. Masyarakat diminta untuk memilih taman yang dicenderungi dari empat taman yang memiliki atribut yang berbeda melalui kuesioner. & Hasil penelitian ini menunjukkan orang tua lebih menyukai taman yang mempunyai sejumlah fasilitas seperti kafe dan toilet, banyak pepohonan dan tanaman, pencahayaan, terpelihara dan tanpa gangguan.  \\
+    \citeauthor{zhang2020} & \textit{A Landscape Preference Study of Campus Open Space} (2006) & Penelitian ini menggunakan metode campuran kualitatif dan kuantitatif. Ini memperkenalkan metode VEP sebagai metode yang sangat terkenal dalam bidang lanskap. Serta, analisis konten seperti Analisis Multivariate --- Teknik Biplot. & Hasil menunjukkan bahwa metode VEP sangat efesien untuk studi preferensi lanskap. Selain itu, melalui analisis konten preferensi lanskap diukur melalui tiga variabel fitur lanskap: ``Intervensi Orang'', ``Vegetasi'', dan ``Fitur Air''. Hasil dari studi ini menjelaskan ``Vegetasi'' termasuk pohon, tanaman, dan rumput terbuka adalah fitur lanskap yang paling dicenderungi.  \\
 \midrule
-    \citeauthor{devysandra2012} &   Preferensi Masyarakat terhadap Ketersediaan Taman Kota di Kota Pekanbaru - Propinsi Riau (2012) & Penelitian ini menggunakan observasi, teknik wawancara dan kuesioner dalam pengumpulan data. Setelah data terkumpul, selanjutnya penulis menganalisis data tersebut: analisis sistem pertamanan kota, analisis pengelola taman dan aspek legal, analisis keinginan masyarakat terhadap ketersediaan taman, serta analisis hubungan ketersediaan taman kota dan keinginan masyarakat. & Hasil penelitian ini menunjukkan terdapat 9 kriteria sebuah taman kota yang dicenderungi masyarakat kota Pekanbaru. Kriteria yang paling menonjol adalah pola distribusi taman menyebar ke seluruh kawasan kota Pekan baru dan lokasinya terintegerasi dengan pusat kegiatan masyarakat (sekolah, permukiman, dan pusat kota). \\
+    \citeauthor{devysandra2012} &   Preferensi Masyarakat terhadap Ketersediaan Taman Kota di Kota Pekanbaru (2012) & Penelitian ini menggunakan observasi, teknik wawancara dan kuesioner dalam pengumpulan data. Setelah data terkumpul, selanjutnya penulis menganalisis data tersebut: analisis sistem pertamanan kota, analisis pengelola taman dan aspek legal, analisis keinginan masyarakat terhadap ketersediaan taman, serta analisis hubungan ketersediaan taman kota dan keinginan masyarakat. & Hasil penelitian ini menunjukkan terdapat sembilan kriteria sebuah taman kota yang dicenderungi masyarakat kota Pekanbaru. Kriteria yang paling menonjol adalah pola distribusi taman menyebar ke seluruh kawasan kota Pekan baru dan lokasinya terintegerasi dengan pusat kegiatan masyarakat (sekolah, permukiman, dan pusat kota). \\
+
+\midrule
+    Nunuk Juli Sufiati & Preferensi Masyarakat terhadap Pemanfaatan Taman Hijau Kota Purwodadi (2018) & Penelitian ini menggunakan empat macam komponen pembentuk preferensi dari Kaplan: Koherensi, Kompleksitas, Misteri, dan Legibilitas. Metode pengumpulan data adalah wawancara mendalam, observasi, dan studi dokumentasi. &  Hasilnya adalah  koherensi menjadi faktor yang sangat mempengaruhi preferensi masyarakat terhadap pemanfaatan taman kota hijau kota Purwodadi.  \\
+
     \midrule
     \citeauthor{beckers2016} & Learning space preferences of higher education students (2016) &  Penelitin ini menggunakan kuesioner untuk kemudian di analisis menggunakan program statistik SPSS. Pengambilan kuesioner terjadi dua kali, pertama menggunakan skala liker tujuh-tingkat kemudian dikurangkan menjadi lima-tingkat untuk mempermudah dan memperjelas hasil jawaban dari setiap kategori. & Penelitian tentang pendidikan ini mengemukakan bahwa siswa lebih mencenderungi ruang belajar yang mendukung aktivitas belajar dan mengkonfirmasi bahwa ruang belajar siswa mempengaruhi hasil belajar mereka.\\
     \bottomrule
@@ -537,9 +546,9 @@ Masuk akal menjelaskan kemanfaatan ruang yang memudahkan untuk diidentifikasi, d
 Dalam buku \textit{``With People in Mind"}, \cite{kaplan1998} menamakan dua kebutuhan informasi sebagai pemahaman \textit{(understanding)} dan eksplorasi \textit{(exploration)}. Dia mengindikasikan bahwa orang menyukai ruang dan elemennya yang memenuhi kebutuhan tersebut \citep{kaplan1998}.
 Salah satu cara adalah kesempatan untuk membuat ruang terorganisasi dengan titik fokus daripada hamaparan yang luas atau lahan yang menghalangi pandangan \citep{zhang2006}.
 
-Terdapat dua cara individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam penerka \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan penerka preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan \textit{prospect} \citep{kaplan1998}.
+Terdapat dua cara individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam pembentuk \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan pembentuk preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan \textit{prospect} \citep{kaplan1998}.
 
-Keempat penerka preferensi lingkungan (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi. Terakhir, penerka-penerka ini menyediakan informasi untuk memahami mengapa orang menyukai suatu ruang tertentu dan bagaiamana kenyamanannya pada satu ruang \citep{zhang2006}.
+Keempat pembentuk preferensi lingkungan (koherensi, kompleksitas, mister dan keterbacaan) satu diantaranya kadang memiliki hubungan dengan lainnya \citep{kaplan1998}. Misalnya padang rumput halus dibawah pepohonan menggambarkan keherensi dan keterbacaan \citep{zhang2006}. Meskipun demikian, mereka memiliki arti tersendiri masing-masing. Berdasarkan \textit{``With People in Mind"} dari \cite{kaplan1998}, koherensi mengarah pada susunan atau organisasi elemen yang membentuk satu kesatuan. Seperti elemen yang terulang atau paving blok yang mengidentifikasi suatu ruang (area). Sedangkan kompleksitas singkatnya adalah ``kekayaan" atau ``keberagaman". \cite{kaplan1998} menjelaskan bahwa kompleksitas mencerminkan intensitas kejadian atau elemen yang dapat dilihat pada ruang tertentu. Sementara keterbacaan hampir sama dengan koherensi namun bukan hanya berurusan dengan gambaran dua dimensi tetapi ruang sepanjang mata memandang \citep{kaplan1998}. Dia menjelaskan keterbacaan sebagai prediksi dan interpretasi ruang untuk bisa masuk dan keluar dari ruang tertentu. Singkatnya bagaimana lingkungan difungsikan daripada hanya dipelajari. Misteri menawarkan keingintahuan semakin seseorang menjelajahi suatu ruang. Ini mungkin apabila terdapat jalan yang bengkok sehingga ada informasi lain yang diharapkan yang menyebabkan seseorang melangkah lagi. Terakhir, pembentuk-pembentuk ini menyediakan informasi untuk memahami mengapa orang menyukai suatu ruang tertentu dan bagaiamana kenyamanannya pada satu ruang \citep{zhang2006}.
 
 \begin{table}[htpb]
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
@@ -745,8 +754,9 @@ Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai prefere
   & Kursi dinding & \checkmark & \checkmark \\
   & Kursi dinding pot &  & \checkmark \\
 
- Lokasi tempat duduk & terbuka/tertutup & \checkmark & \checkmark \\
-
+ Lokasi tempat duduk & terbuka/tertutup & \checkmark & \textit{tertutup tidak ada} \\
+  & luar/dalam ruangan & \checkmark & \textit{luar ruang tidak ada} \\
+  & paparan matahari/bayangan & \checkmark & \textit{paparan matahari tidak ada} \\
 
  Ukuran Pohon  & Besar (rindang) & \checkmark &  \\
   & Sedang (kurang rindang) & \checkmark & \checkmark \\
@@ -762,7 +772,10 @@ Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai prefere
  Suku &  & \multicolumn{2}{c}{Mempengaruhi}   \\
  Pekerjaan &  & \multicolumn{2}{c}{Mempengaruhi}   \\
 
+
+
  \bottomrule
+\multicolumn{4}{l}{\footnotesize{\textit{* \qquad \checkmark : ketersediaan}}}       \\
 
 \end{longtable}
 
@@ -772,14 +785,15 @@ Proposisi ini, selain membantu proses penelitian selanjutnya, menjelaskan faktor
 \centering
 \begin{tikzpicture}[node distance=2cm]
 
-    \node (fit) [startstop, text width=\textwidth] {\textbf{Permalahan penelitian}\\ 1. Bagaimana preferensi pengunjung terhadap ruang di  kawasan tepi laut?  \\ 2. Bagaimana hubungan  elemen dan preferensi ruang? };
+    \node (fit) [startstop, text width=\textwidth] {\textbf{Permalahan penelitian}\\ 1. Apa saja ruang yang dicenderungi pengunjung pada ruang publik?  \\ 2. Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut? };
 
-	\node (soc) [startstop, below of=fit, text width=\textwidth, yshift=-1cm] {\textbf{Tujuan penelitian}\\ 1.Untuk mengetahui jenis ruang yang paling dicenderungi di kawasan tepi laut.
-    \\ 2. Untuk menganalisis pola preferensi pengunjung terhadap keseluruhan elemen ruang. };
+	\node (soc) [startstop, below of=fit, text width=\textwidth, yshift=-1cm] {\textbf{Tujuan penelitian}\\ 1. Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
+
+    \\ 2. Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu. };
 
 	\node (met) [startstop, below of=soc, text width=\textwidth, yshift=-1cm] {\textbf{Metode penelitian}\\ Penelitian eksploratif yang menggunakan kuesioner survei \textit{mixed-methodology} dan pendekatan \textit{grounded theory}. Teori dari hasil pendekatan tersebut tergabung dalam eksplorasi.};
 
-    \node (pro) [startstop, below of=met, text width=\textwidth, yshift=-1cm] {\textbf{Proposisi}\\ Penyusunan proposisi penelitian berdasarkan tinjauan teory terkait yang disesuaikan dengan objek dan tujuan penelitian untuk dijadikan pedoman dalam pengumpulan dan analisis data.
+    \node (pro) [startstop, below of=met, text width=\textwidth, yshift=-1cm] {\textbf{Proposisi}\\ Penyusunan proposisi penelitian berdasarkan tinjauan teori terkait yang disesuaikan dengan objek dan tujuan penelitian untuk dijadikan pedoman dalam pengumpulan dan analisis data.
     };
 
     \node (ker) [startstop, below of=pro, text width=8cm, yshift=-.5cm] {\textbf{Kerangka indikator penelitian}\\ Waterfront    };
