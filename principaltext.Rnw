@@ -128,7 +128,7 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 
 \begin{enumerate}
-    \item Apa saja ruang yang dicenderungi pengunjung pada ruang publik?
+    \item Apa saja ruang yang dicenderungi pengunjung pada ruang publik serta mengapa orang memiliki preferensi pada ruang tersebut?
     \item Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut?
         % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
 \end{enumerate}
@@ -152,10 +152,9 @@ Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan m
 \begin{enumerate}
 %    \item Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
 %    \item Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu.
-    \item Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung.
-        %pada ruang A dan B.
-    \item Untuk menganalisis elemen-elemen apa saja pada ruang yang menjadi preferensi.
-    \item Untuk menganalisis mengapa orang memiliki preferensi pada ruang tersebut.
+    \item Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung pada ruang A dan B.
+    \item Untuk menganalisis elemen-elemen apa pada ruang yang menjadi preferensi.
+    \item Untuk menganalisis mengapa orang memiliki preferensi ruang tersebut.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
