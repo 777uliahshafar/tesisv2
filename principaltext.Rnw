@@ -304,69 +304,60 @@ Menurut \cite{carr1992}, ruang publik memiliki dimensi `fisik' (ruang) dan `sosi
 Elemen ruang disini mengartikan fisik dari ruang publik --- dimengerti sebagai ruang dan tatatan --- yang mengakomodasi interaksi sosial dan kehidupan publik \citep{carr1992,lynch1984}. Sedangkan sosial budaya ruang publik mengartikan aktivitas dan kegiatan yang terjadi pada elemen ruang tertentu \citep{carr1992}. Elemen ruang memiliki sebutan lain pada penelitian sebelumnya seperti, elemen lingkungan \citep{lynch1984}, elemen lingkungan binaan \citep{knox2014}, lingkungan fisik \citep{carmona2021}, atribut lingkungan \citep{gao2019}, atribut fisik \citep{relph1976}.
 
 Berdasarkan jenisnya, ruang publik terbagi atas dua jenis yaitu ruang publik eksternal (terbuka) dan internal (tertutup).
-Ruang terbuka publik: Ruang publik di area perkotaan antara lain tepi laut \textit{(waterfront)}, taman, alun-alun, jalan, tol, parkir,  dll dan ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang tertutup publik: Ruang publik institusi seperti perpustakaan, musium, balai kota, fasilitas transportasi, dll \citep{carmona2021,carr1992}. Penelitian ini mengacu pada ruang terbuka publik tepi laut.
-
-Menurut \cite{hradilova2013}, bentuk ruang publik tepi laut saat ini merupakan hasil dari perkembangan sejarah, perilaku, dan kondisi kejiwaan masyarakat.
-Dia menerangkan tepi laut membuktikan tentang karakter masyarakat, sistem ekonomi sekarang dan pemikiran era kontemporer. \cite{larosa2018} menjelaskan permintaan masyarakat terhadap akses ke perairan mendasari pengembangan tepi laut. Pengembangan tepi laut tersebut secara umum bertujuan untuk menggunakan kembali tepi laut yang tersentralisasi, yang sebelumnya digunakan untuk kepentingan aktivitas industri, pelabuhan, jalur kereta api \citep{luan2018}.
-
-%Tepi laut sebagai ruang terbuka publik memiliki nilai visual yang sangat menarik \citep{nur2006}.
-%Keragaman ukuran dan lebar badan air, karakter tepi laut, dan pengaturan arsitektur pinggir laut berpengaruh terhadap ruang publik  \citep{hradilova2013}.
-%Oleh karena itu, tepi laut membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota, menampilkan karakter dari masyarakat, sistem ekonomi sekarang, dan pemikiran dari era kontemporer \citep{hradilova2013}.
-%Selain itu, permintaan publik terhadap akses ke perairan melalui kepemilikan ruang publik di pesisir mendorong pengembangan tepi laut \citep{larosa2018}.
-%Pengembangan tepi laut tersebut awalnya didasari atas permintaan oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \citep{luan2018}.
-
-Pengembangan tepi laut sebagai ruang terbuka publik biasanya mengubah tepi laut dari area industri dan komersial menjadi area untuk rekreasi, fasilitas publik, kantor dan  \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}.
-Beberapa perkotaan luar negeri yang telah mengalami pengembangan tepi laut adalah kota-kota besar di Eropa, Amerika Serikat dan Cina yang telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}. Sedangkan dalam negeri terdapat kota Semarang \citep{supriyadi2008}, Jakarta \citep{silver2018} dan Makassar \citep{nur2006}.
-Salah satu pengembangan tepi laut terdekat pada objek penelitian adalah Pantai Losari \citep{nur2006}. \cite{nur2006} menerangkan Losari menjadi pusat pengembangan tepi laut dan ruang publik di kota Makassar. Jarak antara pantai losari dan pantai senggol berkisar 170 kilometer.
-
-
-
-
-Dalam penelitian dengan judul pengaruh penampakan tepi laut perkotaaan terhadap fungsi ruang publik, \cite{hradilova2013} menjelaskan tepi laut sebagai ruang publik terbentuk atas tiga aspek (fitur) perkotaan yaitu fungsi, operasi dan pengaturan spasial \citep{hradilova2013}.
-Fitur tersebut menjadi evaluasi terhadap kualitas ruang publik dan acuan dalam memenuhi kebutuhan masyarakat. Lebih jelasnya, fungsi, menurut \cite{gehl1987}, adalah upaya dalam memenuhi aktivitas sosial dalam ruang publik. Efek fitur ini tergambarkan dari kebutuhan suatu kota dan proyek yang baru terhadap jalan dan \textit{squares} tergantikan oleh jalan raya, jalan setapak \textit{path}, dan hamparan rumput luas.
-Operasi menggambarkan transportasi perkotaan dan infrastruktur teknis. Terakhir, pengaturan spasial membentuk keseluruhan komposisi perkotaan. \cite{wittmann2008} secara khusus mengungkapkan kawasan tepi laut tersusun atas fungsi dasar sebagai berikut:
-
-\begin{itemize}
-    \item transportasi
-    \item sosial
-    \item fungsi tambahan perumahan
-    \item rekreasi
-    \item penggunaan industri dan fungsi pelengkap seperti:
-    \item persimpangan
-    \item persimpangan sosial tertentu
-\end{itemize}
-
-
-%ENVIRONMENT QUAALITY and  QUALITY OF LIFE PEOPLE
-%BAGIAN-BAGIAN KUALITAS LINGKUNGAN WATERFRONT
-%quality 0
-%Beberapa tahun terakhir, kualitas lingkungan perkotaan menjadi perbincangan dalam banyak penelitian tentang perkotaan. Itu melibatkan beberapa aspek dalam mendefinisikan sebuah kualitas lingkungan perkotaan yang baik.
-%\cite{smith1997} menyebut \textit{liveability}, karakter, penghubung, \textit{mobility}, kebebesan diri, dan keberagaman adalah aspek kualitas dan kebutuhan yang perlu ada. Ditambah lagi, \cite{richarda.lehmann1966} merincikan dalam konteks kualitas visual yang terdiri atas akses fisik, akses visual, pelestarian sejarah, dan rasa tempat \textit{(sense of place)} dan kontiunitas.
-
-%quality 1
-Menurut \cite{tunbridge1992}, kunci utama keberhasilan pengembangan tepi laut adalah mixed-use dan aktivitas bersantai. \cite{gospodini2001} menyorot aspek mixed-use atau dimensi ganda mampu memberikan potensi pengembangan dan integrasi dengan pusat kota serta ruang publik terdekat.
-Dia juga berargumentasi bahwa tepi laut yang menyenangkan menempatkan karakteristik dimensi ganda, agar orang-orang menjadikannya sebagai tempat untuk menyeimbangkan pekerjaan, rekreasi dan kehidupan. Keberagaman dimensi pada tepi laut menambah aktivitas-aktivitas yang mungkin bisa dilakukan \citep{gospodini2001}. Sedangkan \cite{mostafa2017} menerangkan kualitas tepi laut didasarkan atas kebutuhan yang didominasi oleh \begin{inparaenum} \item Pelayanan \item Taman \item Aktivitas \item Keteduhan \item Parkir \item Kafe dan rekreasi. \end{inparaenum}
-
-%Setelah menganalisis \textit{post-industrial} ekonomi perkotaan dan dampak spasialnya, \cite{gospodini2009} merangkum jenis ruang perkotaan baru (baca: \textit{epicenter}) yang dapat diterapkan pada pengembangan tepi laut.
-%\begin{inparaenum}
-%\item  Aktivitas bersantai, olahraga, dan laut bertujuan untuk mengembangkan tepi pantai ke area rekreasi \citep{breen1994}. \cite{gospodini2009} menyebutnya sebagai \textit{`Popular leisure epicentres'}.
-%\item Jalur pejalan kaki, akuarium, ekologi, dan lahan parkir untuk mengubah tepi laut sebagai area lingkungan(\textit{environment areas}) \citep{costa1990}.
-%\item Aktivitas perusahaan, bisnis, rumah sakit, dan tepi laut yang mengubah tepi pantai menjadi lokasi finansial \citep{hoyle1999} \citep{hoyle2000}. \cite{gospodini2009} sering menyebutnya \textit{`entrepreneurial epicentres'}
-%\item Rumah mewah, bertujuan untuk menjadikan tepi pantai sebagai area perumahan \citep{dong2004}.
-%\item Bangunan-bangunan pelestarian sejarah meliputi hotel, restaurant, teater bahkan sungai untuk menjadikan tepi pantai sebagai kawasan \textit{heritage} \citep{macleod1999}. Atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}\end{inparaenum}.
-
-%Kualitas tepi laut juga tergambarkan melalui konsep pengembangan tepi laut kota Toronto dalam pelaksanaan Olimpiade. Konsep pengembangan tersebut yaitu: \begin{inparaenum} \item Membangun tepi laut untuk kenyamanan publik \item Akomodasi bisnis, pegawai dan ekonomi baru, \item Mengembangkan jaringan transportasi yang komprehensive, \item Menyediakan lingkungan yang bersih \item Mengatur ulang dan integerasi untuk koridor Expresswa, dan \item Membuat tepi laut untuk acara \textit{Olympic Games} 2008 \end{inparaenum} \citep{white2016}.
-
-Lingkungan yang berkualitas menyampaikan rasa kesejahteraan dan kepuasan kepada masyarakat melalui elemen ruang \citep{lansing1969}, lebih dari itu, kualitas lingkungan juga mempertimbangkan preferensi individu terhadap lingkungan tersebut \citep{macleod1999}. \citep{hubbard1996} menjelaskan kualitas lingkungan sangat penting dalam hubungan emosional antara manusia dan lingkungan, yang mana dimediasi oleh rasa dan persepsi seorang.
+Ruang terbuka publik: Ruang publik di area perkotaan antara lain tepi laut \textit{(waterfront)}, taman, alun-alun, jalan, tol, parkir,  dll dan ruang publik di area pedesaan termasuk hutan, danau, sungai, dll. Ruang tertutup publik: Ruang publik institusi seperti perpustakaan, musium, balai kota, fasilitas transportasi, dll \citep{carmona2021}. \cite{dong2004} menyimpulkan peningkatan ruang publik pada tepi laut merupakan suatu hal yang penting dalam sebuah perkotaan.
 
 \subsection{Pengertian Tepi laut}
 \label{sub:defwat}
 
 Tepi laut atau waterfront menurut KBBI adalah wilayah pesisir. Berdasarkan kamus Amerika Oxford menyebutkan tepi laut adalah "bagian dari kota yang berdampingan dengan sungai, pelabuhan atau danau." Tepi laut adalah sumber yang unik \citep{yassin2017}, yang mana memiliki istilah yang beragam pula. Beberapa penelitian merujuk pada tepi laut dengan istilah \textit{riverfront} \citep{ahmad2000}, \textit{lakefront} \citep{keating2005}, \textit{harbourfront} \citep{gordon1996}, dan \textit{beaches}\citep{cervantes2008}.
 
-Tepi laut adalah kawasan yang dinamis suatu kota tempat bertemunya daratan dan perairan \citep{breen1994,hou2009}. Istilah yang sama \textit{waterfront} sebagai kawasan berinteraksi antara pengembangan perkotaan dan perairan \cite{yassin2010} dan kawasan perkotaan yang secara langsung berhubungan dengan air \citep{moretti2010}.
-Definisi-defenisi ini hampir meliputi hal yang sama yaitu darat dan perairan. \cite{luan2018} meringkasnya sebagai sisi perairan yang ada di berbagai macam ukuran kota atau kabupaten.
-Terakhir, \cite{sari2015} menyimpulkan tepi laut adalah kawasan dinamis yang berbatasan dengan air yang memiliki kontak fisik dan visual dengan laut, sungai, danau dan badan air lainnya. Pengembangan waterfront telah mengalami banyak transformasi dan proses menjadi sebuah ruang publik perkotaan.
+\cite{sari2015} dalam karya tesisnya menyimpulkan tepi laut adalah kawasan dinamis yang berbatasan dengan air yang memiliki kontak fisik dan visual dengan laut, sungai, danau dan badan air lainnya. Beberapa penelitian mengklarifikasikan tepi laut merupakan kawasan dinamis tempat bertemunya daratan dan perairan \citep{breen1994, hou2009}. Selanjutnya, \cite{luan2018} menambahkan tepi laut sebagai sisi perairan yang ada di beragam macam ukuran kota.
+
+Sejumlah penelitian mengaitkan perkotaan dengan pengertian tepi laut. \cite{moretti2010} menjelaskan tepi laut adalah kawasan perkotaan yang secara langsung berhubungan dengan air. Selain itu, merupakan kawasan interaksi antara pengembangan perkotaan dan perairan \citep{yassin2010}.
+Pengembangan kota tersebut mulai meningkatkan dan membutuhkan kota yang ramah dan indah dilihat melalui pengembangan tepi laut \citep{vayona2011}.
+
+\subsection{Jenis-jenis Tepi Laut}
+
+Menurut \cite{hradilova2013}, bentuk ruang publik tepi laut saat ini merupakan hasil dari perkembangan sejarah, perilaku, dan kondisi kejiwaan masyarakat.
+Dia menerangkan tepi laut membuktikan tentang karakter masyarakat, sistem ekonomi sekarang dan pemikiran era kontemporer. \cite{larosa2018} menjelaskan permintaan masyarakat terhadap akses ke perairan mendasari pengembangan tepi laut. Pengembangan tepi laut tersebut secara umum bertujuan untuk menggunakan kembali tepi laut yang tersentralisasi, yang sebelumnya digunakan untuk kepentingan aktivitas industri, pelabuhan, jalur kereta api \citep{luan2018}.
+
+
+%tepi laut sebagai ruang terbuka publik memiliki nilai visual yang sangat menarik \citep{nur2006}.
+%keragaman ukuran dan lebar badan air, karakter tepi laut, dan pengaturan arsitektur pinggir laut berpengaruh terhadap ruang publik  \citep{hradilova2013}.
+%oleh karena itu, tepi laut membentuk bagian yang tidak terpisahkan dari sebuah ruang publik yang mana melengkapkan citra keseluruhan kota, menampilkan karakter dari masyarakat, sistem ekonomi sekarang, dan pemikiran dari era kontemporer \citep{hradilova2013}.
+%selain itu, permintaan publik terhadap akses ke perairan melalui kepemilikan ruang publik di pesisir mendorong pengembangan tepi laut \citep{larosa2018}.
+%pengembangan tepi laut tersebut awalnya didasari atas permintaan oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \citep{luan2018}.
+
+Pengembangan tepi laut sebagai ruang terbuka publik biasanya mengubah tepi laut dari area industri dan komersial menjadi area untuk rekreasi, fasilitas publik, kantor dan  \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}.
+Beberapa perkotaan luar negeri yang telah mengalami pengembangan tepi laut adalah kota-kota besar di eropa, amerika serikat dan cina yang telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}. Sedangkan dalam negeri terdapat kota semarang \citep{supriyadi2008}, jakarta \citep{silver2018} dan makassar \citep{nur2006}.
+Salah satu pengembangan tepi laut terdekat pada objek penelitian adalah pantai losari \citep{nur2006}. \cite{nur2006} menerangkan losari menjadi pusat pengembangan tepi laut dan ruang publik di kota makassar. Jarak antara pantai losari dan pantai senggol berkisar 170 kilometer.
+
+Pengembangan yang terjadi pada tepi laut memunculkan beragam jenis ruang tepi laut. Dulu tepi laut hanya sebatas area untuk pelabuhan dan industri. Namun, seiring meningkatnya kebutuhan terhadap perkotaan yang ramah dan berestetika, tepi laut menyediakan penggunaan baru dan menyatukan area dalam sebuah pusat kota \citep{vayona2011}. Kebanyakan pengembangan menghasilkan penggunaan baru misalnya area rekreasi, komersial dan pelancongan \citep{dong2004}.
+Menurut \cite{goodwin1999}, proses pengembangan tepi laut mempertimbangkan preferensi orang untuk meningkatkan tepi lautnya.
+Berdasarkan penelitian preferensi individu terhadap pengembangan tepi laut, preferensi digolongkan berdasarkan kategori berikut ini:
+
+\begin{enumerate}
+\item  Aktivitas bersantai, olahraga, dan laut bertujuan menjadikan tepi laut sebagai ruang rekreasi \citep{breen1994}. %\cite{gospodini2009} menyebutnya sebagai \textit{`popular leisure epicentres'}.
+\item Pusat perbelanjaan, tempat bisnis dan koferensi menempatkan ruang publik sebagai ruang komersial \citep{costa1990, tunbridge1992}.
+\item Jalan, taman, akuarium dan ekologi menempatkan tepi laut sebagai ruang lingkungan \textit{(environmental area)} \citep{costa1990}.
+\item Aktivitas perusahaan, bisnis dan asuransi mengubah tepi laut menjadi ruang finansial dan bekerja \citep{hoyle2000}. %\cite{gospodini2009} sering menyebutnya \textit{`entrepreneurial epicentres'}
+\item Rumah-rumah mewah, bertujuan untuk menjadikan tepi laut sebagai ruang perumahan \citep{dong2004}.
+\item  Hotel, rumah makan, bioskop, bangunan cagar budaya bertujuan menjadikan tepi laut sebagai ruang wisata, ramah lingkungan dan pelestarian sejarah \textit{(heritage)} \citep{gordon1999}.
+% \citep{macleod1999}. atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}
+\end{enumerate}.
+
+Penggolongan preferensi masyarakat terhadap pengembangan tepi laut itu  menjelaskan sejumlah ruang-ruang yang muncul pada tepi laut. Jenis-jenis tepi laut ini membutuhkan penjelasan lebih lanjut.
+
+\subsubsection{Tepi laut rekreasi}
+
+Kebanyakan tepi laut telah mengalami banyak perubahan yang berusaha menyediakan tempat untuk aktivitas waktu luang. Penggunaan rekreasi
+
+
+
+
+
+
+
 
 
 \subsection{Macam-macam ruang}
