@@ -346,21 +346,40 @@ Berdasarkan penelitian preferensi individu terhadap pengembangan tepi laut, pref
 % \citep{macleod1999}. atau \cite{gospodini2009} menyebutnya \textit{`high-culture epicentres'}
 \end{enumerate}.
 
-Penggolongan preferensi masyarakat terhadap pengembangan tepi laut itu  menjelaskan sejumlah ruang-ruang yang muncul pada tepi laut. Jenis-jenis tepi laut ini membutuhkan penjelasan lebih lanjut.
+Selain itu, pengembangan tepi laut juga menghasilkan penggunaan lahan yang beragam seperti: komersial, kantor, taman, perumahan , fasilitas hiburan, fasilitas konferensi, transportasi, hotel, dan alun-alun \citep{dong2004}. Berdasarkan uraian diatas, maka penulis menyimpulkan jenis-jenis ruang yang ada pada tepi laut.
 
 \subsubsection{Tepi laut rekreasi}
 
-Kebanyakan tepi laut telah mengalami banyak perubahan yang berusaha menyediakan tempat untuk aktivitas waktu luang. Penggunaan rekreasi
+Tersedianya tepi laut adalah solusi yang pas untuk memenuhi kebutuhan baru masyarakat, rekreasi \citep{hradilova2013}. Banyak tepi laut telah mengalami perubahan menuju sebuah ruang rekreasi.
+Tepi laut rekreasi merupakan komponen penting pada pinggir jalan utama tepi laut \textit{(boelevard)} \citep{dong2004}. \cite{dong2004} menjelaskan pengembangan menuju tepi laut rekreasi akan meningkatkan keunggulan bersaing yang unik dan jelas.
+Hingga saat ini, banyak tepi laut memusatkan perhatian pengembangannya pada ruang rekreasi dan juga penggunaan campuran \textit{(mixed-use)}. Pengembangan tersebut terjadi di beberapa negara maju seperti Malaysia dan Spanyol \citep{yassin2010, vayona2011 }.
+
+\cite{zhang20} mendefinisikan tepi laut rekreasi sebagai ruang terencana untuk aktivitas bersantai, dimana semua tampak, bangunan dan aktivitas bercampur dengan lanskap lokal dan berdasarkan tema tertentu. Orang menghubungkan sejumlah aktivitas bersantai, jajaran kedai makanan, dan jalan pedestrian dengan tepi lau rekreasi. Fegence dalam \cite{dong2004} membagi dua macam penggunaan tepi laut secara umum. Dia menyebut taman piknik, jalan pedestrian, jalan sepeda, taman tepi laut, tempat makan-makan termasuk dalam penggunaan sisi darat. Kedua, olahraga laut, layanan perahu atau \textit{speedboat}, dan kedai makanan mengambang termasuk dalam penggunaan sisi laut. \cite{vayona2011} menyimpulkan bahwa model rekreasi pada suatu pengembangan tepi laut menjelaskan preferensi sedang.
+
+\subsubsection{Tepi laut Komersial}
+
+Menurut \cite{yassin2010}, tepi laut bermula dari ruang komersial, pusat perdagangan, dan pusat transportasi. Itu menyebabkan tepi laut menjadi populer di sejumlah kota sebelum mengalami penurunan.  Penurunan tersebut disebabkan oleh perubahan dari sisi transportasi dan pengiriman kontainer.
+Sekarang ini,
+tepi laut komersial kembali dipulihkan melalui cara menghubungkan tepi laut ke pusat kota untuk kepentingan publik. Oleh sebab itu, ruang komersial pada tepi laut dikembangkan.
+Banyak tepi laut yang berhasil berubah menjadi ruang komersial yang berhasil, khususnya perubahan dari sebuah industri pelabuhan \citep{tunbridge1992}.
+Satu diantara tepi laut komersial yang terkenal keberhasilannya adalah \textit{Canada Place} di Vancouver, Canada \citep{vayona2011}.
+
+Jenis tepi laut komersial selalu berdampingan dengan jenis tepi laut rekreasi. Banyak orang yang berekreasi menghabiskan uang mereka pada tempat komersial yang meliputi kedai makanan, toko-toko, tukang cukur, dan toko oleh-oleh. Oleh sebab itu, ruang komersial pada sebuah tepi laut dipercaya mampu meningkatkan kevitalan sebuah tepi laut \citep{luan2018}.
+Ini berbeda dengan  penemuan bahwa tepi laut komersial mendapatkan preferensi orang yang terendah \citep{vayona2011}. \cite{vayona2011} mempelajari preferensi tersebut berhubungan dengan kedai makanan, jalan pedestrian, toko-toko dan akuarium \citep{vayona2011}.
+
+
+\subsubsection{Tepi laut Lingkungan}
+
+Lingkungan memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahteraan masyarakat. Lingkungan banyak diperbincangkan pada topik tentang keberlanjutan.
+Sebagai bagian dari proses keberlanjutan, lingkungan berperan penting terhadap sebuah tepi laut. Tepi laut diharapkan merangkul lingkungan sekitarnya \citep{}
+
+Sebagai sebuah tujuan, keberlanjutan memiliki peran penting terhadap pengembangan tepi laut.
+
+Sebagai
 
 
 
 
-
-
-
-
-
-\subsection{Macam-macam ruang}
 
 \subsection{Manusia dan ruang}
 
