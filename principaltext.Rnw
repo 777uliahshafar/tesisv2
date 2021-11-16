@@ -361,22 +361,32 @@ Hingga saat ini, banyak tepi laut memusatkan perhatian pengembangannya pada ruan
 Menurut \cite{yassin2010}, tepi laut bermula dari ruang komersial, pusat perdagangan, dan pusat transportasi. Itu menyebabkan tepi laut menjadi populer di sejumlah kota sebelum mengalami penurunan.  Penurunan tersebut disebabkan oleh perubahan dari sisi transportasi dan pengiriman kontainer.
 Sekarang ini,
 tepi laut komersial kembali dipulihkan melalui cara menghubungkan tepi laut ke pusat kota untuk kepentingan publik. Oleh sebab itu, ruang komersial pada tepi laut dikembangkan.
-Banyak tepi laut yang berhasil berubah menjadi ruang komersial yang berhasil, khususnya perubahan dari sebuah industri pelabuhan \citep{tunbridge1992}.
+Banyak tepi laut yang berhasil berubah menjadi ruang komersial yang berhasil, khususnya perubahan dari sebuah industri pelabuhan \citep{tunbridge1992, dong2004}.
 Satu diantara tepi laut komersial yang terkenal keberhasilannya adalah \textit{Canada Place} di Vancouver, Canada \citep{vayona2011}.
 
-Jenis tepi laut komersial selalu berdampingan dengan jenis tepi laut rekreasi. Banyak orang yang berekreasi menghabiskan uang mereka pada tempat komersial yang meliputi kedai makanan, toko-toko, tukang cukur, dan toko oleh-oleh. Oleh sebab itu, ruang komersial pada sebuah tepi laut dipercaya mampu meningkatkan kevitalan sebuah tepi laut \citep{luan2018}.
-Ini berbeda dengan  penemuan bahwa tepi laut komersial mendapatkan preferensi orang yang terendah \citep{vayona2011}. \cite{vayona2011} mempelajari preferensi tersebut berhubungan dengan kedai makanan, jalan pedestrian, toko-toko dan akuarium \citep{vayona2011}.
-
+Jenis tepi laut komersial selalu berdampingan dengan jenis tepi laut rekreasi. Banyak orang yang berekreasi menghabiskan uang mereka pada tempat komersial yang meliputi kedai makanan, toko-toko, tukang cukur, dan toko oleh-oleh. Oleh sebab itu, ruang komersial pada sebuah tepi laut dipercaya mampu meningkatkan kevitalan sebuah tepi laut \citep{luan2018}. \cite{dong2004} mecontohkan Xinghai Bay sebagai pusat komersial internasional menyediakan konferensi dan pameran, perdagangan, pelancongan, dan rekreasi. Meskipun demikian, \cite{vayona2011} menjelaskan preferensi terhadap ruang komersial adalah terendah. Orang mengaitkan ruang komersial dengan toko-toko dan akuarium dan bukan pada restauran atau jalan pedestrian \citep{vayona2011}.
 
 \subsubsection{Tepi laut Lingkungan}
 
-Lingkungan memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahteraan masyarakat. Lingkungan banyak diperbincangkan pada topik tentang keberlanjutan.
-Sebagai bagian dari proses keberlanjutan, lingkungan berperan penting terhadap sebuah tepi laut. Tepi laut diharapkan merangkul lingkungan sekitarnya \citep{}
+Lingkungan memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahteraan masyarakat. Sebagai bagian dari proses keberlanjutan, lingkungan berperan penting terhadap sebuah tepi laut. Maka penting untuk tepi laut merangkul lingkungan sekitar dengan menciptakan hubungan yang dekat dengan kebutuhan manusia dan alam \citep{permana2017}.
+\cite{permana2017} menerangkan perhatian terhadap pemulihan garis pantai alami dan pergantian sekat yang rusak tepi laut menjadi vegetasi alami akan meningkatkan kualitas air, menghidupkan kembali habitat ikan dan margasatwa. Meskipun demikian, penting untuk mempertimbangkan juga ruang lingkungan yang menyediakan kebutuhan manusia seperti tempat bermain, area piknik dan jalan \citep{permana2017}. Sebagai tambahan, hubungan lanskap lingkungan dengan kota  juga muncul dimana membuahkan nilai yang unik dan kompetitif bagi tepi laut. Dari nilai ini, tepi laut dapat menciptkan ekonomi yang berhasil terhadap rehabilitasi lingkungan dan kota \cite{gordon1999}.
 
-Sebagai sebuah tujuan, keberlanjutan memiliki peran penting terhadap pengembangan tepi laut.
+Bagian yang terpenting adalah ruang tepi laut lingkungan memiliki kecenderugnan untuk dipreferensi lebih besar daripada jenis lainnya \citep{vayona2011}. \cite{vayona2011} menemukan jalan setapak, ekologi, bersantai dan akuarium berhubungan dengan jenis tepi laut ini. \cite{tunbridge1992} menerangkan kedai makanan termasuk dalam tepi laut lingkungan, sedangkan toko-toko dan bioskop tidak termasuk. Dia menyimpulkan suatu ruang masih dianggap lingkungan apabila beberapa kedai makanan terbangun \citep{tunbridge1992}.
 
-Sebagai
 
+\subsubsection{Tepi laut Perumahan}
+
+Jenis tepi laut perumahan ada pada tepi laut. Itu menunjukkan orang-orang menganggap tepi laut sebagai tempat tinggal.
+Banyak tepi laut yang mendirikan bangunan perumahan pada tepi laut seperti tepi laut Qiantang, Xinghai Park, Nanning \citep{wang2020, dong2004, luan2018}.
+Biasanya bangunan perumahan serta bangunan komersial dan perkantoran termasuk dalam suatu pengembangan campuran \textit{(mixed-use)}.
+
+Tepi laut perumahan adalah salah satu diantara jenis tepi laut yang hanya terakses oleh sebagian kelompok orang dalam kata lain tidak terakses semua orang. Meskipun demikian, orang memiliki preferensi tinggi terhadap ruang perumahan pada tepi laut \citep{vayo}
+
+
+
+Perumahan pada tepi laut
+
+Perumahan adalah ruang yang unik pada sebuah tepi laut. Ruang ini tidak dimaksudkan untuk kepentingan publik, melainkan
 
 
 
