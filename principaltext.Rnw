@@ -370,7 +370,7 @@ Jenis tepi laut komersial selalu berdampingan dengan jenis tepi laut rekreasi. B
 \subsubsection{Tepi laut Lingkungan}
 
 Lingkungan memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahteraan masyarakat. Sebagai bagian dari proses keberlanjutan, lingkungan berperan penting terhadap pengembangan tepi laut. Maka penting untuk tepi laut merangkul lingkungan sekitar dengan menciptakan hubungan yang dekat dengan kebutuhan manusia dan alam \citep{permana2017}.
-\cite{permana2017} menerangkan perhatian terhadap pemulihan garis pantai alami dan pergantian sekat yang rusak tepi laut menjadi vegetasi alami akan meningkatkan kualitas air, menghidupkan kembali habitat ikan dan margasatwa. Meskipun demikian, penting untuk mempertimbangkan juga ruang lingkungan yang menyediakan kebutuhan manusia seperti tempat bermain, area piknik dan jalan \citep{permana2017}. Sebagai tambahan, hubungan lanskap lingkungan dengan kota  juga muncul dimana membuahkan nilai yang unik dan kompetitif bagi tepi laut. Dari nilai ini, tepi laut dapat menciptkan ekonomi yang berhasil terhadap rehabilitasi lingkungan dan kota \cite{gordon1999}.
+\cite{permana2017} menerangkan perhatian terhadap pemulihan garis pantai alami dan pergantian dinding sekat \textit{(bulkhead)} yang rusak tepi laut menjadi vegetasi alami akan meningkatkan kualitas air, menghidupkan kembali habitat ikan dan margasatwa. Meskipun demikian, penting untuk mempertimbangkan juga ruang lingkungan yang menyediakan kebutuhan manusia seperti tempat bermain, area piknik dan jalan \citep{permana2017}. Sebagai tambahan, hubungan lanskap lingkungan dengan kota  juga muncul dimana membuahkan nilai yang unik dan kompetitif bagi tepi laut. Dari nilai ini, tepi laut dapat menciptkan ekonomi yang berhasil terhadap rehabilitasi lingkungan dan kota \cite{gordon1999}.
 
 Bagian yang terpenting adalah ruang tepi laut lingkungan memiliki kecenderungan untuk dipreferensi lebih besar daripada jenis lainnya \citep{vayona2011}. Menurut \cite{vayona2011}, orang mengartikan tepi laut lingkungan adalah sesuatu yang berhubungan dengan jalan setapak, ekologi, bersantai dan akuarium. \cite{tunbridge1992} menambahkan kedai makanan dipertimbangkan termasuk dalam tepi laut lingkungan, sedangkan tidak untuk toko-toko dan bioskop. Orang masih mengira tepi laut lingkungan apabila terdapat kedai makanan \textit{(restauran)}.
 Oleh sebab munculnya beragam aktivitas dekat dengan pantai, orang membutuhkan pemandangan yang lebih baik. Ini memicu penebasan pohon yang dapat mengakibatkan penurunan ekologi dan stabilitas tepi laut \citep{permana2017}. Maka dari itu, penting untuk memperhatikan keseimbangan antara lingkungan buatan dan alami \citep{permana2017}, yang akan memperhatankan tepi laut lingkungan.
@@ -405,47 +405,69 @@ kecenderungan terhadap sesuatu biasanya timbul dari tatanan (gaya) yang paling a
 Preferensi ruang (lingkungan) adalah ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka \citep{zhang2006}.
 Definisi ini mengklarifikasikan bahwa semua ruang perkotaan memiliki simbol, makna dan nilai \citep{carmona2021}.
 Lebih lanjut, Gottdiener dan rekannya menjelaskan bahwa ruang memunculkan makna dan apakah orang menyukainya atau tidak \citep{carmona2021}. Dalam arti sempit, \cite{carmona2021} menerangkan suatu ruang dapat mengesankan atau lekas terlupakan, disukai atau tidak disukai.
-Sama halnya dalam determinisme arsitektur, dimana ruang memiliki pengaruh yang menentukan dalam perilaku manusia, dan berlaku sebaliknya \citep{carmona2021}. Orang mengubah dan mempengaruhi ruang sebagaimana ruang mempengaruhi dan mengubah mereka \citep{carmona2021}.
+Sama halnya dalam determinisme arsitektur atau lingkungan, dimana ruang memiliki pengaruh yang menentukan dalam perilaku manusia, dan begitupun sebaliknya \citep{carmona2021}. Orang mengubah dan mempengaruhi ruang sebagaimana ruang mempengaruhi dan mengubah mereka \citep{carmona2021}.
 
 
 %%%
 %Definisi ini sejalan dengan pendapat bahwa semua ruang perkotaan memiliki simbol, makna dan nilai \citep{carmona2021}. Lebih lanjut, Gottdiener dan rekannya mendukung bahwa ruang memunculkan makna dan apakah orang menyukainya atau tidak. Dalam kasus ini, suatu ruang dapat mengesankan atau lekas terlupakan, disukai atau tidak disukai \citep{carmona2021}.
 
+Menurut \cite{carmona2021}, ada dua macam cara bagaimana lingkungan mempengaruhi perilaku atau kegiatan individu dalam hal determinisme lingkungan. Pertama, kemungkinan ruang (lingkungan) yaitu ketika orang dapat memilih peluang lingkungan yang tersedia.
+Peluang lingkungan jelas mempengaruhi apa yang orang benar-benar bisa lakukan atau tidak bisa, lebih dari sekedar faktor fisik ruang. Misalnya,
+dinding sekat pada tepi laut menghalangi interaksi dengan laut, sedangkan tepi laut tanpa sekat menyediakan peluang tersebut. Kedua, probabilisme ruang (lingkungan) adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}.
+Cara yang kedua ini, kurang lebih seperti meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada dinding sekat yang digunakan sebagai meja \citep{carmona2021}. \citeauthor{carmona2021} menyimpulkan daripada menentukan tindakan atau perilaku orang, desain perkotaan bisa merekayasa tindakan yang mungkin terjadi pada suatu tatanan tertentu.
 
-\cite{carmona2021} menambahkan berkaitan dengan
-Terdapat dua macam tingkatan bagaimana lingkungan mempengaruhi perilaku dan kegiatan seseorang.
-\textit{Environmental possibilism} yaitu ketika orang dapat memilih peluang lingkungan yang tersedia dan
-\textit{environmental probabilism} adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}. Dua macam tingkatan ini jelas mengindikasikan bahwa elemen ruang bukan faktor dominan dalam mempengaruhi tindakan atau perilaku, melainkan peluang lingkungan yang menentukan apa yang orang bisa lakukan \citep{carmona2021}.
-Contoh peluang lingkungan adalah suatu tepi laut yang terbuka menuju pesisir laut akan mendukung interaksi dengan laut, sementara yang terhalang oleh pembatas tidak mungkin menyediakan peluang tersebut \citep{carmona2021}.
-Daripada menentukan tindakan atau perilaku orang, desain perkotaan dapat merekayasa tindakan yang mungkin terjadi pada suatu tatanan tertentu.
-Seperti contoh, meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada meja yang untuk berempat saja \citep{carmona2021}.
-Dia menekankan ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti gangguan sosial (cth. vandalisme dan gelandangan).
-Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihindari dan apabila mereka tidak disediakan, masalah dihindari namun orang tidak dapat menikmati laut.
+%\cite{carmona2021} menekankan ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti pencemaran laut, vandalisme, dll.
+%Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihindari dan apabila mereka tidak disediakan, masalah dihindari namun orang tidak dapat menikmati laut.
+%Berdasarkan determinisme lingkungan, suatu lingkungan fisik memiliki pengaruh yang menentukan dalam perilaku manusia \citep{carmona2021}. Namun, \cite{carmona2021} menegaskan bahwa selain ruang mempengaruhi perilaku orang, orang juga mampu mengubah dan mempengaruhi seu
+%%%
+%Hingga saat ini, kita mmahami bahwa makna suatu ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan
+%Makna ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}.
+%\cite{knox2014} menerangkan semua elemen lingkungan perkotaan  mempunyai simbol, makna dan nilai.
 
-
-
-Berdasarkan determinisme lingkungan, suatu lingkungan fisik memiliki pengaruh yang menentukan dalam perilaku manusia \citep{carmona2021}. Namun, \cite{carmona2021} menegaskan bahwa selain ruang mempengaruhi perilaku orang, orang juga mampu mengubah dan mempengaruhi seu
-
-
-Presepsi, makna, dan nilai merupakan respon orang terhadap ruang perkotaan.
-
-yang mana menciptkan hubungan antara keduanya.
-
-Orang (`masyarakat') dan ruang (`lingkungan`)  memiliki hubungan dimana penting untuk desain perkotaan \citep{carmona2021}.
-
-
-Makna ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}.
-\cite{knox2014} menerangkan semua elemen lingkungan perkotaan  mempunyai simbol, makna dan nilai. Dia berpendapat, makna yang berupa emosional dan sosial itu melekat dan dikuatkan oleh elemen lingkungan perkotaan. Jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{carmona2021}.
+Berdasarkan contoh sebelumnya, makna suatu ruang dapat disimpulkan berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}.
+\cite{knox2014} menambahkan, makna yang berupa emosional dan sosial itu melekat dan dikuatkan oleh elemen lingkungan perkotaan. Jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{carmona2021}.
 Lebih lanjut, makna elemen menyangkut pada keberagaman, kontras, dan warna serta kemungkinan kehadiran atau jumlah dari sebuah elemen individu \citep{swanwick2009}. Elemen tersebut memunculkan beragam preferensi dan perilaku seseorang terhadap ruang publik, apakah itu menjauhkan atau mendekatkan seseorang \citep{manyani2021}.
 
 Banyak penelitian telah menyebutkan bahwa preferensi ruang mengukur presepsi orang --- sebagai mekanisme presepsi --- yang dihubungkan dengan lingkungan sekitar \citep{vandenberg2003, england2009, zhang2006}. Presepsi termasuk mengumpulkan, mengorganisasi dan memahami informasi tentang suatu ruang \citep{carmona2021}. Oleh karena adanya hubungan timbal balik antara orang- ruang, maka orang harus mempresepsikan, yaitu dirangsang oleh penglihatan, suara, bau, atau sentuhan untuk mendapatkan informasi ruang disekitar \citep{carmona2021}.
-\cite{ittelson1978} mengidentifikasikan empat komponen presepsi diluar rangasangan sederhana terhadap ruang, berikut ini:
+\cite{ittelson1978} mengidentifikasikan empat komponen presepsi diluar rangasangan yang sederhana tadi, berikut ini:
 \begin{inparaenum}
 \item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
 \item Afektif, lingkungan mempengaruhi perasaan seseorang
 \item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
-\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk'.
-\end{inparaenum} Komponen ini kadang disalahartikan sebagai `koginisi' imbuh \citep{carmona2021}.
+\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk'.\end{inparaenum}
+
+Dalam bentuk rumit, \cite{zube1982} menggambarkan kerangka presepsi lanskap (lihat gambar: \ref{fig:per}). Konvensi lanskap eropa menjelaskan lanskap sebagai kombinasi antara `ruang' dan `tempat \textit{(place)}'.
+Demi fokus penelitian, lanskap dipertimbangkan sebagai ruang. Kerangka presepsi ruang tersebut menunjukkan interaksi antara orang dan ruang serta akibat dari interaksi tersebut \citep{zhang2006}. Dengan memahami interaksi akan membantu menjawab bagaimana suatu ruang dipresepsikan sebagamana adanya, apa maknanya untuk orang dan kelompok \citep{zube1982}.
+
+\begin{figure}[hptb]
+\centering
+\begin{tikzpicture}[node distance=1cm]
+
+\node (man) [startstop, text width=6cm] {\textbf{Manusia} \\ 1. Harapan \quad 5 Pendidikan\\ 2. Pengalaman \quad 6. Budaya\\ 3.Konteks sosial \quad 7. Motivasi \\ 4. Informasi \quad 8. Personaliti};
+
+\node (lan) [startstop, right of=man, text width=6cm, xshift=5.5cm] {
+	\textbf{Lanskap}\\ 1. Elemen fisik  2. Kontruksi komposisi  3. Konteks lokasi  4. Kealamian  5. Fitur buatan  6. Suara  7. Bau  8. Orang  9. Gestalt};
+
+\node (int) [startstop, below of=man, text width=12cm, xshift=3cm, yshift=-2cm] {
+		\textbf{Interaksi} \\ 1. Orang-orang-lanskap 2. orang-kelompok-lanskap 3. orang-lanskap 4. aktif 5. pasif 6. Sengaja 7. Kebetulan 8. Unik 9. Biasa
+
+         };
+
+\node (out) [startstop, below of=int, text width = 12cm, yshift=-2cm] {\textbf{Akibat} \\ 1. Informasi 2. Kepuasan 3. Kesejahteraan 4. Aktifitas fisik 5. Stimulasi 6. Tempat berlindung 7. Kesempatan 8. Nilai 9. Persamaan prediktif 10. Elemen lanskap yang menonjol 11. Perilaku kebiasaan 12. Ketakutan};
+
+
+\draw [doublearrow] (man) -- (int);
+
+\draw [doublearrow] (lan) -- (int);
+
+\draw [doublearrow] (int) -- (out);
+
+\end{tikzpicture}
+\caption{Kerangka Teori Presepsi Lanskap}
+\caption*{sumber:\cite{zube1982} }
+\label{fig:per}
+\end{figure}
+
 
 Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief} (keyakinan perilaku), dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
 Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
@@ -576,6 +598,7 @@ Keempat pembentuk preferensi lingkungan (koherensi, kompleksitas, mister dan ket
 %Setelah pohon, pengunjung mengindikasikan ketertarikan tinggi pada bunga yang membawa variasi warna terhadap ruang terbuka publik \citep{zhang2006}. Selain daripada itu dia juga menyebutkan elemen alami lainnya seperti rumput, semak-semak, tanaman (penutup tanah), dan kanopi.
 %elemen rekreasi  menciptakan rasa bahagia untuk pengunjung ruang publik \citep{manyani2021}.
 
+\begin{comment}
 
 \subsection{Manusia dan ruang}
 
@@ -630,6 +653,7 @@ Pemahaman terhadap interaksi antara ruang dan manusia serta akibat \textit{(outc
 
 Kerangka tersebut menjelaskan proses interaksi dan menunjukkan beragam elemen yang menjelaskan komponen (orang, lanskap, dan akibat) \citep{zube1982}. \cite{zhang2006} berpendapat bahwa kerangka presepsi lanskap itu menunjukkan interaksi antara manusia dan lanskap serta akibat dari interaksi. Oleh karena itu, presepsi lanskap sebagai fungsi dari interaksi antara manusia dan lingkungan sekitarnya \citep{zube1982}.
 
+\end{comment}
 
 %\section{Preferensi terhadap ruang alami dan buatan}
 %\section{Sifat Elemen yang dipreferensikan}
