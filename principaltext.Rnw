@@ -394,10 +394,10 @@ Orang menyukai bekerja dimana mereka dapat menikmati pemandangan yang baik \cite
 
 %\subsubsection{Tepi Laut Sejarah}
 
-\section{Faktor Sebuah Ruang Cenderung di Preferensi}
-\subsection{Preferensi Ruang}
+\section{Preferensi Ruang}
+\subsection{Definisi Preferensi Ruang}
 \label{sub:pref}
-Sebelum meninjau faktor mengapa orang memiliki preferensi terhadap ruang tertentu, definisi preferensi ruang perlu disebutkan disini.
+%Sebelum meninjau faktor mengapa orang memiliki preferensi terhadap ruang tertentu, definisi preferensi ruang perlu disebutkan disini.
 Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 (hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
 \cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. Sebagai tambahan,
 kecenderungan terhadap sesuatu biasanya timbul dari tatanan (gaya) yang paling akrab \citep{hammitt1979}. Kearaban tersebut dapat berkembang seiring waktu individu habiskan untuk berinteraksi dengan suatu tempat \citep{balling1982}. Oleh karena itu, preferensi dapat bersifat progresif sesuai tingkat keakraban orang terhadap sesuatu.
@@ -502,7 +502,10 @@ Ruang memiliki beragam bentuk, ukuran, lokasi, elemen alami, vegetasi, dan amint
 
 \subsection{Teori Preferensi Ruang}
 
-Teori presepsi lingkungan (ruang) telah berkembang pesat pada bidang penelitian preferensi seperti lanskap alami, pedesaan, dan perkotaan. Teori itu menawarkan pemahaman preferensi orang terhadap ruang yang dipresepsikan \citep{zhang2006}. \cite{zube1982} menerangkan lebih lanjut bahwa pengembangan teori selanjutnya dapat berdasar pada:
+Teori presepsi lingkungan (ruang) telah berkembang pesat pada bidang penelitian preferensi seperti lanskap alami, pedesaan, dan perkotaan.
+Teori ini menjelaskan mengapa suatu ruang yang dipresepsikan cenderung dipreferensi \citep{zhang2006}.
+%Teori itu menawarkan pemahaman preferensi orang terhadap ruang yang dipresepsikan \citep{zhang2006}.
+\cite{zube1982} menerangkan lebih lanjut bahwa pengembangan teori selanjutnya dapat berdasar pada:
 \begin{enumerate}
     \item Menyediakan kerangka untuk menghubungkan beragam disiplin, membantu penilaian ruang dan memahami interaksi orang-ruang.
     \item Memperhatikan hubungan antara informasi kualitatif dan kuatitatif.
@@ -513,10 +516,10 @@ Teori presepsi lingkungan (ruang) telah berkembang pesat pada bidang penelitian 
 Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}. Jadi, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}.
 Menurut \cite{gibson2014}, kata \textit{afford} berarti memberikan (menyediakan), kata affordance adalah kata buatan yang tidak termuat oleh kamus bahasa. Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
 
-Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti pohon yang rindang memberi manfaat keteduhan untuk manusia.
+Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti, pohon yang rindang memberi manfaat keteduhan untuk manusia.
 Sebagai kemanfaatan keteduhan, rindang harus diukur relatif terhadap orang. Rindang untuk orang bertubuh besar dan kecil tentunya berbeda.
 Sehingga kemanfaatan itu adalah relatif terhadap ukuran seseorang \citep{gibson2014}.
-Kemudian, ruang dan tatanan yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
+Demikian pula, sifat elemen yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
 \cite{kaplan1988}, dalam karyanya menjelaskan ruang yang memberi manfaat tertentu seharusnya disukai orang. \cite{harris2018} mendukung konsep bahwa kemanfaatan selaras dengan preferensi.
 Sebagaimana, teori ini menawarkan pemahaman preferensi individu dari lingkungan yang dipresepsikan dan respon dari potensi kemanfaatan \citep{zhang2006,kaplan1988}.
 
@@ -560,7 +563,7 @@ Berdasarkan penelitian preferensi ruang, \textit{prospect-refuge} mempengaruhi p
 
 
 \subsubsection{Information Processing Model}
-\cite{kaplan1979} merumuskan teori kerangka pemrosessan informasi \textit{(information processing model)} pada tahun 1979. Kerangka tersebut menjelaskan prefernsi orang terhadap ruang dengan cara memahami tujuan orang \citep{zhang2006}. Saat ini, penelitian telah berulangkali mengacu dua tujuan mendasar yang orang pertimbangkan ketika siang hari. Tujuan tersebut adalah masuk akal \textit{(making sense)} dan  keterlibatan \textit{(involvement)}.
+\cite{kaplan1979} merumuskan teori kerangka pemrosessan informasi \textit{(information processing model)} pada tahun 1979. Kerangka tersebut menjelaskan prefernsi orang terhadap ruang dengan cara memahami tujuan orang \citep{zhang2006}. Saat ini, penelitian telah berulangkali mengacu pada dua tujuan mendasar yang orang pertimbangkan ketika siang hari. Tujuan tersebut adalah masuk akal \textit{(making sense)} dan  keterlibatan \textit{(involvement)}.
 Masuk akal memperhatikan kebutuhan untuk memahami ruang terdekat. Sedangkan keterlibatan memperhatikan kebutuhan untuk mencari tahu, mempelajari dan terangsang \citep{united1977}.
 \cite{united1977} menjelaskan ruang yang memberi kemanfaatan agar tujuan tersebut tercapai akan disukai orang.
 Masuk akal menjelaskan kemanfaatan ruang yang memudahkan untuk diidentifikasi, disimpulkan oleh individu. Ruang yang melibatkan kemanfaatan tersebut meningkatkan pemahaman seseorang \citep{united1977}. Disisi lain, keterlibatan menjelaskan kemanfaatan ruang yang kaya akan kemungkinan \citep{united1977}. Sehingga, \cite{united1977} menyimpulkan ruang yang sederhana atau jelas tentunya tidak dapat memberi kemanfaatan untuk keterlibatan.
@@ -568,7 +571,7 @@ Masuk akal menjelaskan kemanfaatan ruang yang memudahkan untuk diidentifikasi, d
 %\cite{united1977} menjelaskan orang menyukai kemanfataan ruang yang mendukung tujuan ini agar dapat tercapai.
 %Istilah memahami dan ekplorasi adalah pusat perhatian dalam penelitian  preferensi, meskipun demikian mereka telah tertanaman dalam kepribadian yang berdasar informasi \citep{kaplan1979}. Teori ini tidak selalu tersedia oleh lingkungan, namun saat lingkungan dipahami memberi tahu apakah lingkungan itu dapat dieksplorasi atau tidak.
 
-Dalam buku \textit{``With People in Mind"}, \cite{kaplan1998} menamakan dua kebutuhan informasi sebagai pemahaman \textit{(understanding)} dan eksplorasi \textit{(exploration)}. Dia mengindikasikan bahwa orang menyukai ruang dan elemennya yang memenuhi kebutuhan tersebut \citep{kaplan1998}.
+Dalam buku \textit{``With People in Mind"}, \cite{kaplan1998} menamakan dua kebutuhan informasi itu sebagai pemahaman \textit{(understanding)} dan eksplorasi \textit{(exploration)}. Dia mengindikasikan bahwa orang menyukai ruang dan elemennya yang memenuhi kebutuhan tersebut \citep{kaplan1998}.
 Salah satu cara adalah kesempatan untuk membuat ruang terorganisasi dengan titik fokus daripada hamaparan yang luas atau lahan yang menghalangi pandangan \citep{zhang2006}.
 
 Terdapat dua cara individu menanggapi kebutuhan informasi visualnya \citep{kaplan1998}. Pertama yaitu susunan visual \textit{(visual array)}, orang berhubungan dengan suatu informasi dalam bentuk dua dimensi seperti yang terlihat pada foto. Bentuk ini menghasilkan dua macam pembentuk \textit{(predictors)} preferensi yaitu koherensi dan kompleksitas. Kedua yaitu ruang tiga dimensi, orang mencari tahu, menduga-duga kemudian menyimpulkan sebuah informasi yang belum diketahui dengan melibatkan kedalaman \textit{(depth)}. Dia berpendapat bahwa orang sangat pandai dalam merasakan kedalaman. Bentuk ini menghasilkan pembentuk preferensi misteri dan keterbacaan. Pada teori sebelumnya, misteri memiliki arti yang sama dengan \textit{prospect} \citep{kaplan1998}.
@@ -591,6 +594,18 @@ Keempat pembentuk preferensi lingkungan (koherensi, kompleksitas, mister dan ket
     \bottomrule
     \end{tabular}
 \end{table}
+
+%00:45:00
+
+
+%Berdasarkan kedua teori diatas,
+
+%tinjauan ini menghasilkan bahwa kemanfaatan seperti
+
+
+\subsection{Faktor Sebuah Ruang Cenderung di Preferensi}
+
+
 
 
 %alasan semi open dicenderungi berkaitan dengan rasa nyaman dan segar yang dirasakan ketika berada di ruang tersebut \citep{gao2019}. Ruang dengan pohon yang terlalu banyak atau terlalu sedikit memiliki peminat yang sedikit.
