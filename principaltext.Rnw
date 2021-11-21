@@ -275,7 +275,7 @@ Data-data dari penelitian tersebut terangkum dalam bentuk sebuah tabel yang dapa
 \midrule
     \citeauthor{alves2008}& Preferences of older people for environmental attributes of local parks (2008) &  Penelitian ini menggunakan \textit{Choice-based conjoint analysis(CBC)} melalui pendekatan kualitatif dan kuantitatif. Masyarakat diminta untuk memilih taman yang dicenderungi dari empat taman yang memiliki atribut yang berbeda melalui kuesioner. & Hasil penelitian ini menunjukkan manula lebih menyukai taman yang mempunyai sejumlah fasilitas seperti kafe dan toilet, banyak pepohonan dan tanaman, pencahayaan, terpelihara dan tanpa gangguan.  \\
 \midrule
-    \citeauthor{zhang2020} & \textit{A Landscape Preference Study of Campus Open Space} (2006) & Penelitian ini menggunakan metode campuran kualitatif dan kuantitatif. Ini memperkenalkan metode VEP sebagai metode yang sangat terkenal dalam bidang lanskap. Serta, analisis konten seperti Analisis Multivariate --- Teknik Biplot. & Hasil menunjukkan bahwa metode VEP sangat efesien untuk studi preferensi lanskap. Selain itu, melalui analisis konten preferensi lanskap diukur melalui tiga variabel fitur lanskap: ``Intervensi Orang'', ``Vegetasi'', dan ``Fitur Air''. Hasil dari studi ini menjelaskan ``Vegetasi'' termasuk pohon, tanaman, dan rumput terbuka adalah fitur lanskap yang paling dicenderungi.  \\
+    \citeauthor{zhang2006} & \textit{A Landscape Preference Study of Campus Open Space} (2006) & Penelitian ini menggunakan metode campuran kualitatif dan kuantitatif. Ini memperkenalkan metode VEP sebagai metode yang sangat terkenal dalam bidang lanskap. Serta, analisis konten seperti Analisis Multivariate --- Teknik Biplot. & Hasil menunjukkan bahwa metode VEP sangat efesien untuk studi preferensi lanskap. Selain itu, melalui analisis konten preferensi lanskap diukur melalui tiga variabel fitur lanskap: ``Intervensi Orang'', ``Vegetasi'', dan ``Fitur Air''. Hasil dari studi ini menjelaskan ``Vegetasi'' termasuk pohon, tanaman, dan rumput terbuka adalah fitur lanskap yang paling dicenderungi.  \\
 \midrule
     \citeauthor{devysandra2012} &   Preferensi Masyarakat terhadap Ketersediaan Taman Kota di Kota Pekanbaru (2012) & Penelitian ini menggunakan observasi, teknik wawancara dan kuesioner dalam pengumpulan data. Setelah data terkumpul, selanjutnya penulis menganalisis data tersebut: analisis sistem pertamanan kota, analisis pengelola taman dan aspek legal, analisis keinginan masyarakat terhadap ketersediaan taman, serta analisis hubungan ketersediaan taman kota dan keinginan masyarakat. & Hasil penelitian ini menunjukkan terdapat sembilan kriteria sebuah taman kota yang dicenderungi masyarakat kota Pekanbaru. Kriteria yang paling menonjol adalah pola distribusi taman menyebar ke seluruh kawasan kota Pekan baru dan lokasinya terintegerasi dengan pusat kegiatan masyarakat (sekolah, permukiman, dan pusat kota). \\
 
@@ -317,6 +317,7 @@ Sejumlah penelitian mengaitkan perkotaan dengan pengertian tepi laut. \cite{more
 Pengembangan kota tersebut mulai meningkatkan dan membutuhkan kota yang ramah dan indah dilihat melalui pengembangan tepi laut \citep{vayona2011}.
 
 \subsection{Jenis-jenis Tepi Laut}
+%find more : residents’ spatial perceptions of urban gardens based on soundscape and landscape differences.pdf
 
 Menurut \cite{hradilova2013}, bentuk ruang publik tepi laut saat ini merupakan hasil dari perkembangan sejarah, perilaku, dan kondisi kejiwaan masyarakat.
 Dia menerangkan tepi laut membuktikan tentang karakter masyarakat, sistem ekonomi sekarang dan pemikiran era kontemporer. \cite{larosa2018} menjelaskan permintaan masyarakat terhadap akses ke perairan mendasari pengembangan tepi laut. Pengembangan tepi laut tersebut secara umum bertujuan untuk menggunakan kembali tepi laut yang tersentralisasi, yang sebelumnya digunakan untuk kepentingan aktivitas industri, pelabuhan, jalur kereta api \citep{luan2018}.
@@ -494,13 +495,12 @@ Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata
 
 Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}. Secara umum, aspek-aspek tersebut mempengaruhi preferensi orang, dan preferensi orang walhasil menarik perhatian seseorang pada tatanan ruang yang diperlukan \citep{zhang2021}.
 \cite{carmona2021} menyorot aksesibilitas, keselamatan dan keamanan, estetika, dan fasilitas sebagai aspek-aspek pada ruang.
-Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019}, keamanan \citep{mehta2014}, estetika \citep{}, kenyamanan \citep{hermida2019}, dan fasilitas \citep{}.
-Pada penelitian preferensi terhadap ruang sebagai tempat relaksasi, \cite{cahyaningtyas2020} menemukan aksessibilitas, ketenangan, fasilitas, kualitas ruang, dan suasana sebagai aspek-aspek yang dipreferensi.
-
-\cite{} menyimpulkan aspek-aspek ruang sebagai berikut: aksesibilitas, keamanan, kenyamanan, fasilitas, dan penggunaan ruang publik.
+Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019, cahyaningtyas2020, larosa2018, mehta2014}, keamanan \citep{mehta2014, lis2021, campagnaro2020, hadavi2015}, estetika \citep{wang2019, hadavi2015}, kenyamanan \citep{hermida2019, mehta2014, dwiputra2017}, dan fasilitas \citep{cahyaningtyas2020}.
 
 
-\cite{carmona2021}, dalam karya \textit{Public place urban Space: the dimensions of urban design}, menjelaskan sejumlah aspek-aspek perencanaan ruang yang digolongkan dalam beberapa dimensi: dimensi sosial (aksesibilitas dan keselamatan dan keamanan), visual (kepuasan estetika dan lanskap lembut dan keras) dan fungsi (fasilitas). Dengan membentuk lingkungan binaan berdasarkan aspek-aspek ini, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial.
+
+
+Dengan membentuk lingkungan binaan berdasarkan aspek-aspek ini, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial \citep{carmona2021}.
 
 
 
@@ -524,7 +524,7 @@ Aspek-aspek ruang yang mempengaruhi preferensi
 
 
 
-
+%\cite{grilli2020} Selain itu, eksplorasi preferensi atribut menunjukkan bahwa jumlah kunjungan cenderung meningkat dengan penyediaan atribut ruang terbuka hijau tertentu, khususnya fasilitas pengunjung.
 
 
 \begin{comment}
