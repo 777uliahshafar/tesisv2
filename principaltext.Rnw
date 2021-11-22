@@ -493,38 +493,30 @@ Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata
 %00:52:10
 %00:56:09
 
-Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}. Secara umum, aspek-aspek tersebut mempengaruhi preferensi orang, dan preferensi orang walhasil menarik perhatian seseorang pada tatanan ruang yang diperlukan \citep{zhang2021}.
+Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}. Secara umum, aspek-aspek tersebut mempengaruhi preferensi orang, dan preferensi orang walhasil menarik perhatian seseorang pada tatanan elemen ruang yang diperlukan \citep{zhang2021}.
 \cite{carmona2021} menyorot aksesibilitas, keselamatan dan keamanan, estetika, dan fasilitas sebagai aspek-aspek pada ruang.
 Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019, cahyaningtyas2020, larosa2018, mehta2014}, keamanan \citep{mehta2014, lis2021, campagnaro2020, hadavi2015}, estetika \citep{wang2019, hadavi2015}, kenyamanan \citep{hermida2019, mehta2014, dwiputra2017}, dan fasilitas \citep{cahyaningtyas2020}.
 
+Pada penelitian preferensi ruang publik sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebut aksesibilitas, fasilitas, ketenangan, nuansa alam, dan kualitas ruang sebagai aspek yang mempengaruhi preferensi orang.
+Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi kunjungan. Berdasarkan pemahaman preferensi, jumlah kunjungan cenderung meningkat dengan penyediaan elemen-elemen ruang yang mendukung aspek-aspek ruang terbuka hijau tertentu \citep{grilli2020}.
+Sejumlah penelitian mengembangkan aspek lainya seperti kebersihan, aktivitas sosial, rasa memiliki, dan berjalan.
 
+Aspek-aspek ruang diatas dapat dipertimbangkan sebagai \textit{affordance} karena menggambarkan penilaian ruang dalam hal kesesuaiannya dengan tujuan dan kebutuhan manusia, yang mempengaruhi fungsi manusia yang efektif dalam suatu tatanan \citep{kaplan1987}.
+Teori \textit{Affordance}, pertama kali dikenalkan oleh \cite{gibson2014}, memberi pemahaman preferensi individu melalui ruang yang dipresepsikan dan respon dari potensi kemanfaatan \citep{zhang2006, kaplan1987}.
+%Dalam kata lain, ruang yang memberi manfaat tertentu seharusnya disukai orang \citep{kaplan1998}.
+\cite{gibson2014} menerangkan apa yang orang presepsikan ketika melihat suatu objek atau ruang itu sendiri adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}.
+Secara singkat, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}. Hal tersebut dapat mengacu pada aksesibilitas, keamanan, estetika, kenyamanan, fasilitas, dll.
 
+\textit{Affordance}, menurut \cite{gibson2014} berasal dari kata \textit{afford} yang berarti memberikan (menyediakan), namun kata affordance adalah kata buatan yang belum termuat oleh kamus bahasa.
+%Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
+Sebaik-baik kata bahasa yang dapat menjelaskan \textit{affordance} adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} menggambarkan kemanfaatan seperti, pohon yang rindang memberi manfaat keteduhan untuk manusia.
+Meskipun demikian, \cite{gibson2014} dalam contoh kasus ini menjelaskan bahwa rindang adalah relatif terhadap orang. Rindang untuk orang bertubuh besar dan kecil tentunya berbeda. Artinya kemanfaatan itu adalah relatif terhadap ukuran seseorang. Kemudian, dia menambahkan sifat elemen yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
+Menurut \cite{hadavi2015}, hubungan antara elemen ruang dan kemanfaatan tatanan (aspek-aspek ruang) yang dipreferensi adalah kuat dimana itu berkontribusi terhadap desain perkotaan dengan memberi masukan elemen seperti apa yang dipreferensi \citep{hadavi2015}.
+Hubungan tersebut membutuhkan penjelasan lebih lanjut.
 
-Dengan membentuk lingkungan binaan berdasarkan aspek-aspek ini, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial \citep{carmona2021}.
-
-
-
-tesisilama page 18
-
-Aspek-aspek ruang dalam sejumlah penelitian terdiri atas aksessibilitas, keamanan,
-
-
-
-%Aspek-aspek ini dapat pula timbul dari sebuah affordance.
-
-Berdasarkan teori presepsi lingkungan terdapat aspek-aspek dari ruang dipresepsi yang menjelaskan preferensi \citep{zhang2006}. Teori tersebut adalah affordance atau aspek-aspek ruang yang mempengerauhi preferensi.
-
-Aspek-aspek ruang yang mempengaruhi preferensi dapat dijelaskan dalam teori \textit{affordance}. Teori
-
-Untuk memahami mengapa suatu ruang cenderung dipreferensi, teori
-
-penting untuk menge
-
-Aspek-aspek ruang yang mempengaruhi preferensi
-
-
-
-%\cite{grilli2020} Selain itu, eksplorasi preferensi atribut menunjukkan bahwa jumlah kunjungan cenderung meningkat dengan penyediaan atribut ruang terbuka hijau tertentu, khususnya fasilitas pengunjung.
+%terdapat hubungan yang kuat antara elemen ruang dan kemanfaatan tatanan yang dipreferensi. Hubungan itu berkontribusi terhadap desain perkotaan dengan memberi masukan elemen seperti apa yang dipreferensi \citep{hadavi2015}. Hubungan tersebut membutuhkan penjelasan lebih lanjut.
+%Lebih lanjut, \cite{harris2018} mendukung ide bahwa kemanfaatan selaras dengan preferensi.
+%Dengan membentuk ruang berdasarkan aspek-aspek ruang, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial \citep{carmona2021}.
 
 
 \begin{comment}
@@ -554,7 +546,7 @@ Teori ini menjelaskan mengapa suatu ruang yang dipresepsikan cenderung diprefere
 \end{enumerate}
 
 \cite{gibson2014} menawarkan teori \textit{affordance} yang berkembang dalam penelitian presepsi ruang.
-Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}. Jadi, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}.
+Dia menerangkan apa yang orang presepsikan ketika melihat suatu objek atau ruang itu sendiri adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}. Jadi, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}.
 Menurut \cite{gibson2014}, kata \textit{afford} berarti memberikan (menyediakan), kata affordance adalah kata buatan yang tidak termuat oleh kamus bahasa. Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
 
 Sebaik-baik kata bahasa yang dapat menjelaskan affordance adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} mengindikasikan kemanfaatan seperti, pohon yang rindang memberi manfaat keteduhan untuk manusia atau jalan yang lurus dan jelas memberi manfaat aksesibilitas.
