@@ -498,10 +498,13 @@ Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}
 Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019, cahyaningtyas2020, larosa2018, mehta2014}, keamanan \citep{mehta2014, lis2021, campagnaro2020, hadavi2015}, estetika \citep{wang2019, hadavi2015}, kenyamanan \citep{hermida2019, mehta2014, dwiputra2017}, dan fasilitas \citep{cahyaningtyas2020}.
 
 Pada penelitian preferensi ruang publik sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebut aksesibilitas, fasilitas, ketenangan, nuansa alam, dan kualitas ruang sebagai aspek yang mempengaruhi preferensi orang.
-Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi kunjungan. Berdasarkan pemahaman preferensi, jumlah kunjungan cenderung meningkat dengan penyediaan elemen-elemen ruang yang mendukung aspek-aspek ruang terbuka hijau tertentu \citep{grilli2020}. \cite{wen2018} mempelajari preferensi manula dan menemukan mereka memiliki preferensi terhadap aksesibilitas, estetika, keamanan dan fasilitas. Dibandingkan dengan manula, pemuda kurang peduli terhadap aspek tersebut melainkan partisipasi taman dan aktivitas fisik \citep{wen2018}. \cite{campagnaro2020} mengurutkan aspek ruang berdasarkan kepentingannya terhadap ruang publik hijau yaitu pemeliharaan, keamanan, aksesibilitas dan fasilitas.
+Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi kunjungan.
+\cite{grilli2020} mengemukakan jumlah kunjungan yang meningkat disebabkan oleh preferensi terhadap elemen. \cite{wen2018} mempelajari preferensi manula dan menemukan mereka memiliki preferensi terhadap aksesibilitas, estetika, keamanan dan fasilitas. Dibandingkan dengan manula, pemuda kurang peduli terhadap aspek tersebut melainkan partisipasi taman dan aktivitas fisik \citep{wen2018}. \cite{campagnaro2020} mengurutkan aspek ruang berdasarkan kepentingannya terhadap ruang publik hijau yaitu pemeliharaan, keamanan, aksesibilitas dan fasilitas.
 
-Aspek-aspek ruang diatas dapat dipertimbangkan sebagai \textit{affordance} karena menggambarkan penilaian ruang dalam hal kesesuaiannya dengan tujuan dan kebutuhan manusia, yang mempengaruhi fungsi manusia yang efektif dalam suatu tatanan \citep{kaplan1987}. Sebagai contoh, \cite{campagnaro2020} menemukan bahwa keberadaan orang dan elemen-elemen buatan pada ruang berpengaruh positif terhadap aspek keamanan yang dirasakan. Untuk alasan itu, orang pasti memilih ruang yang menyediakan jenis ruang dengan keberadaan tersebut.
-Melanjutkan teori \textit{affordance}, pertama kali dikenalkan oleh \cite{gibson2014}, memberi pemahaman preferensi individu melalui ruang yang dipresepsikan dan respon dari potensi kemanfaatan \citep{zhang2006, kaplan1987}.
+Aspek-aspek ruang diatas dapat dipertimbangkan sebagai elemen dan fungsi yang berhubungan pada ruang yang dianggap penting oleh orang \citep{wan2021}. Selain itu, aspek ini juga dapat dipahami sebagai \textit{affordance} karena menggambarkan penilaian ruang dalam hal kesesuaiannya dengan tujuan dan kebutuhan manusia, yang mempengaruhi fungsi manusia yang efektif dalam suatu tatanan \citep{kaplan1987}.
+Sebagai contoh, \cite{campagnaro2020} menemukan bahwa keberadaan orang dan elemen-elemen buatan pada ruang berpengaruh positif terhadap aspek keamanan yang dirasakan. Untuk alasan itu, orang pasti memilih ruang yang menyediakan jenis ruang dengan keberadaan tersebut.
+
+Teori \textit{affordance}, pertama kali dikenalkan oleh \cite{gibson2014}, memberi pemahaman preferensi individu melalui ruang yang dipresepsikan dan respon dari potensi kemanfaatan \citep{zhang2006, kaplan1987}.
 Menurut \cite{kaplan1998} ruang yang memberi manfaat tertentu pasti disukai orang.
 \cite{gibson2014} menerangkan apa yang orang presepsikan ketika melihat suatu objek atau ruang itu sendiri adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}.
 Secara singkat, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}. Hal tersebut dapat mengacu pada aksesibilitas, keamanan, estetika, kenyamanan, fasilitas, dll.
@@ -531,33 +534,34 @@ Aksesibilitas dan pengecualian merupakan bentuk dari pengelolaan sebuah ruang pu
 \begin{itemize}
     \item Ruang tidak dapat ditemukan, \citeauthor{dear1997} menyebutnya sebagai `stealthy' yang mana dikaburkan dengan objek intervensi atau perubahan level.
     \item Ruang tidak tercapai, atau `slippery' disebabkan oleh jalur pendekatan yang berkelok-kelok, berlarut-larut, dan hilang.
-    \item Ruang tidak terakses, atau `crusty' disebabkan oleh penghalang ( seperti dinding dan gerbang).
+    \item Ruang tidak terakses, atau `crusty' disebabkan oleh hambatan ( seperti dinding dan gerbang).
     \item Ruang tidak nyaman digunakan, \citeauthor{dear1997} menamainya `prickly'
     \item Ruang tidak dapat dimanfaatkan tanpa teramati, atau `jittery' yang disebabkan pengawasan aktif. \citep{dear1997}
 \end{itemize}
 
-\cite{brown1999} juga mengklarifikasi suatu hal yang mempengaruhi aksesibilitaas adalah penghalang luar dan dalam \textit{(crusty space)} dan kurangnya informasi adanya tempat yang aksesibel \textit{(stealthy space)}.
+\cite{brown1999} menjelaskan hambatan dan kurangnya informasi keberadaan suatu ruang menjadi pengaruh terhadap aksesibilitas.
+\cite{ahmad2020} menambahkan jaringan transportasi umum yang baik, fasilitas parkir yang memadai dan tidak ada hambatan fisik seperti dinding dan gerbang memiliki hubungan dengan aspek aksesibilitas.
 Pada penelitian preferensi manula terhadap ruang publik hijau, \cite{arnberger2017} menjelaskan aksesibilitas yang baik dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Artinya selain berdampak pada orang usia muda, aspek aksesibilitas menjangkau kebutuhan dan harapan sejumlah kalangan.
-Sebaliknya, kurangnya akses terhadap ruang dan elemennya dapat berdampak pada kesehatan dan kesejahteraan orang khususnya berpendapatan rendah \citep{talen1998}.
+Sebaliknya, kurangnya akses terhadap ruang dan elemennya dapat berdampak pada kesehatan dan kesejahteraan orang khususnya yang berpendapatan rendah \citep{talen1998}.
 
-Berdasarkan penelitian ruang publik di kota tropis, \cite{hwang2019} menemukan lebar jalan \textit{(pavement)}, kedekatan ruang terbuka dan elemen yang menunjukkan pengaruh positif dari vegetasi, seperti kehadiran pohon akan meningkatkan aksesibilitas. \cite{zhang2019} mengklarifikasi bahwa jalan menjelaskan preferensi orang dalam hal aksesibilitas yang dirasakan terutama jalan yang teduh, nyaman dan dapat dilalui. Kedekatan ruang juga disukai oleh sejumlah orang berkaitan dengan aksesibilitas yang dirasakan.
+Berdasarkan penelitian ruang publik di kota tropis, \cite{hwang2019} menemukan lebar jalan \textit{(pavement)}, kedekatan ruang terbuka dan elemen yang menunjukkan pengaruh positif dari vegetasi, seperti kehadiran pohon akan meningkatkan aksesibilitas.
+\cite{zhang2019} mendukung bahwa jalan disukai orang dalam hal aksesibilitas yang dirasakan, terutama jalan yang teduh, nyaman dan dapat dilalui.
+Preferensi ini berpengaruh diantara kelompok disabilitas maupun yang tidak \citep{brown1999}.
+Selain itu, kedekatan ruang dan mode transportasi meningkatkan kunjungan yang merupakan perwujudan preferensi elemen \citep{azagew2020}.
 
-
-Pada penelitian preferensi terkait aksesibilitas, orang lebih berkecenderungan terhadap area yang banyak pohon ketimbang area yang terbuka. Kurangnya keteduhan pada area terbuka membuat kesulitan aksesiblitas sehingga kurang disukai \citep{brown1999}. \cite{brown1999} menerangkan orang memiliki preferensi terhadap jalan karena mendukung aksesibilitas baik untuk kalangan disabilitas maupun yang tidak.
-
-
-
-
-
+Pada penelitian preferensi terkait aksesibilitas, orang lebih berkecenderungan terhadap area yang banyak pohon ketimbang area yang terbuka. Kurangnya keteduhan pada area terbuka membuat kesulitan aksesiblitas sehingga kurang disukai \citep{brown1999}.
+Berdasarkan tinjauan aspek aksesibilitas, preferensi terhadap jalan, kedekatan ruang publik, mode transportasi, dan kepadatan pohon dapat menjelaskan aspek aksesibilitas yang dirasakan.
 
 
 
 \subsubsection{Keamanan}
 
-Keamanan yang dirasakan adalah aspek penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi terhadap ruang mereka \citep{lis2011}.
+
+Pada dasarnya, keamanan merupakan bentuk perlindungan pada diri sendiri, keluarga dan teman \citep{carr1992}.
+Keamanan menjadi aspek penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi terhadap ruang mereka \citep{lis2011}.
 Selain itu, keamanan juga merupakan aspek yang menentukan nilai daya tarik sebuah ruang \citep{luo2021}.
 Sebagaimana \cite{ahmad2020} menerangkan bahwa ruang yang aman akan menarik lebih banyak pengguna dan membantu orang tetap tinggal lebih lama.
-\cite{carr1992} menambahkan bahwa keamanan sebagai bentuk perlindungan pada diri sendiri, keluarga dan teman \citep{carr1992}.
+Dia menemukan bahwa aspek ini paling disukai diantara aspek lainnya.
 
 \cite{ahmad2020} menyebut kehadiran pencahayaan, pagar, visibilitas rumah atau jalan raya sekitar, dan kehadiran staf khusus mempengaruhi keamanan yang dirasakan. Lebih lanjut, \cite{campagnaro2020} menambahkan kehadiran orang dan elemen ruang berpengaruh positif terhadap keamanan yang dirasakan. Kehadiran orang juga dapat tercerminkan melalui adanya suara musik pada suatu ruang \citep{luo2021, campagnaro2020}.
 \cite{lis2021} menambahkan bahwa jarak antar individu menjelaskan preferensi orang yang disebabkan oleh keamanan dan privasi yang dirasakan. Jarak antar orang ini lebih berpengaruh terhadap preferensi kelompok manula dan perempuan \citep{virden1999}. Sebaliknya, \cite{elmen2005} menolak adanya hubungan antara preferensi jarak orang dan karakter pengguna(gender, umur dll).
@@ -565,22 +569,32 @@ Sebagaimana \cite{ahmad2020} menerangkan bahwa ruang yang aman akan menarik lebi
 \cite{zhang2021} menjelaskan kehadiran orang yang berlebihan dapat mengubah pengaruh terhadap keamanan yang dirasakan menjadi negatif.
 \cite{carr1992} menambahkan keramaian membuat seseorang tidak aman dan gelisah berada di ruang publik, lebih-lebih lagi jika ada orang yang `salah'.
 
-\cite{carr1992} juga menyorot lebar jalan dan pintu masuk, tanda gangguan fisik dan sosial (vandalisme, grafiti, \& sampah), dan kehadiran pemisah ruang mempengaruhi aspek keamanan. \cite{van2016} mengklarifikasikan bahwa grafiti dan sampah berpengaruh terhadap presepsi keamanan dan estetika seseorang. Tanda gangguan fisik dan sosial tersebut mengilustrasikan ruang yang diluar kendali. Sedangkan pemisah ruang dapat tercapai melalui kehadiran pagar, sekat dinding, gerbang, dan penghalang lainnya \citep{carr1992}.
+\cite{carr1992} juga menyorot lebar jalan dan pintu masuk, tanda gangguan fisik dan sosial (vandalisme, grafiti, \& sampah), dan kehadiran pemisah ruang mempengaruhi aspek keamanan. \cite{van2016} mengklarifikasikan bahwa grafiti dan sampah berpengaruh terhadap presepsi keamanan dan estetika seseorang. Tanda gangguan fisik dan sosial tersebut mengilustrasikan ruang yang diluar kendali. Sedangkan pemisah ruang dapat tercapai melalui kehadiran pagar, sekat dinding, gerbang, dan hambatan lainnya \citep{carr1992}.
 
 Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap jenis pohon dan vegetasi bawah yang rindang. Meskipun demikian, \cite{campagnaro2020} menyebut tingkat kerindangan yang disukai orang adalah sedang. Pohon yang terlalu rindang dapat dilihat sebagai tempat bersembunyi pemangsa yang dapat berpengaruh negatif terhadap keamanan \citep{appleton1996}. Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yang tidak menghalangi pandangan meningkatkan keamanan yang dirasakan. \cite{suppakittpaisarn2019} menyimpulkan kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap ukuran pohon.
 
-Berdasarkan tinjauan aspek keamanan, preferensi terhadap jalan yang lebar, kehadiran orang dan elemen seperti (penghalang), bersih dari gangguan fisik, dan pohon rindang yang sedang dapat menjelaskan kemanfaatan keamanan yang dirasakan.
+Berdasarkan tinjauan aspek keamanan, preferensi terhadap jalan yang lebar, kehadiran orang dan elemen seperti (hambatan), bersih dari gangguan fisik, dan pohon rindang yang sedang dapat menjelaskan kemanfaatan keamanan yang dirasakan.
 
 \subsubsection{Estetika}
 
 % aesthetic needs (the need for a sense of beauty).kebutuhan akan rasa keindahan
 Saat ini, kebutuhan estetika dan pentingnya ruang tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks \citep{hradilova2013}. Dua kombinasi itu membentuk kesempatan untuk pemandangan yang unik pada sebuah kota \citep{hradilova2013}.
-Aspek estetika tidak terlepas dari `keindahan` dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian. Menurut \cite{zhao2020}, orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ruang yang hanya sekedar tempat berbelanja untuk alasan estetika.
+Aspek estetika tidak terlepas dari `keindahan' dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian. Berdasarkan penemuan \cite{swanwick2009}, preferensi orang umumnya berdasarkan aspek estetika berhubungan dengan keberagaman, kontras, warna dan kehadiran elemen-elemen.
+\cite{zhao2020} menemukan orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ruang yang hanya sekedar tempat berbelanja untuk alasan estetika.
 
-Pada penelitian dalam meprioritaskan aspek-aspek ruang, \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang. Selain itu, estetika juga berhubungan dengan kepadatan pohon \citep{parsons2002, dipeolu2021}.
-Orang berkecenderungan terhadap kombinasi air dan penghijauan serta kehadiran bunga yang berwarna dalam hal estetika \citep{ostoic2020, campagnaro2020}. Preferensi terhadap elemen alami ini mengindikasikan bahwa orang yang hidup dan bekerja di kota menghargai ruang dengan tanaman, paparan sinar matahari, dan angin \citep{ahmad2020}.
+Pada penelitian memprioritaskan aspek-aspek ruang , \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang. Jumlah pohon juga disebutkan memiliki pengaruh positif terhadap estetika \citep{wang2019}
+\cite{appleton1996} menambahkan kepadatan pohon yang mendukung seseorang untuk dapat melihat tanpa dilihat berpengaruh positif terhadap kenikmatan estetika. Selain daripada itu, bunga, badan air dan dekorasi berkontribusi terhadap estetika.
+
+Orang memiliki preferensi terhadap kombinasi air dan tanaman hijau serta kehadiran bunga yang berwarna dalam hal estetika \citep{ostoic2020, campagnaro2020}.
+\cite{wang2019} menambahkan jumlah pohon, air, bunga dan ikan menjelaskan preferensi orang yang disebabkan oleh kenikmatan estetika.
+Preferensi terhadap elemen alami ini mengindikasikan bahwa orang yang hidup dan bekerja di kota menghargai ruang dengan tanaman, paparan sinar matahari, dan angin \citep{ahmad2020}.
+\cite{wan2021} mengindikasikan orang lebih berkecenderungan terhadap elemen alami daripada buatan.
+Meskipun demikian, preferensi terhadap elemen buatan dan seni publik lebih mempengaruhi pengalaman estetika daripada aspek lainnya \citep{wan2021}.
+
+Berdasarkan tinjauan aspek estetika, preferensi terhadap kepadatan pohon, kehadiran elemen air dan hijau, kepadatan pohon, elemen buatan dan seni publik dapat menjelaskan kemanfaatan pengalaman estetika pada suatu ruang.
 
 
+\subsubsection{Kenyamanan}
 
 
 
