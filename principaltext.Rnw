@@ -499,7 +499,8 @@ Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang 
 
 Pada penelitian preferensi ruang publik sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebut aksesibilitas, fasilitas, ketenangan, nuansa alam, dan kualitas ruang sebagai aspek yang mempengaruhi preferensi orang.
 Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi kunjungan.
-\cite{grilli2020} mengemukakan jumlah kunjungan yang meningkat disebabkan oleh preferensi terhadap elemen. \cite{wen2018} mempelajari preferensi manula dan menemukan mereka memiliki preferensi terhadap aksesibilitas, estetika, keamanan dan fasilitas. Dibandingkan dengan manula, pemuda kurang peduli terhadap aspek tersebut melainkan partisipasi taman dan aktivitas fisik \citep{wen2018}. \cite{campagnaro2020} mengurutkan aspek ruang berdasarkan kepentingannya terhadap ruang publik hijau yaitu pemeliharaan, keamanan, aksesibilitas dan fasilitas.
+\cite{grilli2020} mengemukakan jumlah kunjungan yang meningkat disebabkan oleh preferensi terhadap elemen. \cite{wen2018} mempelajari preferensi manula dan menemukan mereka memiliki preferensi terhadap aksesibilitas, estetika, keamanan dan fasilitas. Dia menemukan manula lebih memperhatikan aspek tersebut ketimbang pemuda \citep{wen2018}. \cite{campagnaro2020} mengurutkan aspek ruang berdasarkan kepentingannya terhadap ruang publik hijau yaitu pemeliharaan, keamanan, aksesibilitas dan fasilitas.
+
 
 Aspek-aspek ruang diatas dapat dipertimbangkan sebagai elemen dan fungsi yang berhubungan pada ruang yang dianggap penting oleh orang \citep{wan2021}. Selain itu, aspek ini juga dapat dipahami sebagai \textit{affordance} karena menggambarkan penilaian ruang dalam hal kesesuaiannya dengan tujuan dan kebutuhan manusia, yang mempengaruhi fungsi manusia yang efektif dalam suatu tatanan \citep{kaplan1987}.
 Sebagai contoh, \cite{campagnaro2020} menemukan bahwa keberadaan orang dan elemen-elemen buatan pada ruang berpengaruh positif terhadap aspek keamanan yang dirasakan. Untuk alasan itu, orang pasti memilih ruang yang menyediakan jenis ruang dengan keberadaan tersebut.
@@ -594,11 +595,34 @@ Meskipun demikian, preferensi terhadap elemen buatan dan seni publik lebih mempe
 Berdasarkan tinjauan aspek estetika, preferensi terhadap kepadatan pohon, kehadiran elemen air dan hijau, kepadatan pohon, elemen buatan dan seni publik dapat menjelaskan kemanfaatan pengalaman estetika pada suatu ruang.
 
 
-\subsubsection{Kenyamanan}
+\subsubsection{Fasilitas}
+
+Sehubungan dengan ruang publik memfasilitasi dan mendukung aktivitas, ruang publik harus dapat dipahami bagaimana seseorang menggunakannya \citep{carmona2021}. Sama halnya dengan Proyek untuk Ruang Publik (PRP) atau \textit{Project for Public Space} yang bersependapat bahwa orang memahami bagaimana suatu ruang dapat digunakan, bukan bagaimana menurutnya tentang suatu ruang yang digunakan. Itu mengindikasikan adanya hubungan antara aktivitas dan ruang \citep{carmona2021}.
+Dalam hal penggunaan dan desain ruang publik, ruang publik bukan hanya harus bermakna bagi orang tetapi responsif yang artinya di desain untuk memenuhi kebutuhan penggunanya \citep{carmona2021}.
+\cite{carr1992}, dalam buku \textit{Public Space}, merangkum lima kebutuhan utama individu yang perlu dipenuhi: kenyamanan, relaksasi, keterlibatan aktif, keterlibatan pasif, dan penemuan.
+
+\cite{zhang2021} menemukan orang menyukai mengunjungi ruang publik untuk berjalan, berolahraga, menikmati alam, interaksi sosial, dan lain-lain. Diantara banyak penggunan, interaksi sosial, aktivitas fisik dan melihat-lihat merupakan penggunaan yang menonjol \citep{shan2014}.
+Jelas, sejumlah penggunaan-penggunaan tersebut  terpengaruh oleh tatanan elemen ruang dalam hal aspek fasilitas.
+%dapat menggambarkan bagaimana ruang mempengaruhi aspek fasilitas pada penggunaan lainnya.
+Whyte dalam \cite{carmona2021}, terdapat sejumlah sifat elemen atau tatanannya yang berpengaruh positif terhadap penggunaan sosial, diantaranya: lokasi yang bagus, jalan pedestrian, ruang yang datar,  tempat duduk, dan kursi bergerak. \cite{carmona2021} menambahkan tatanan elemen seperti kursi, air mancur, dan patung mempengaruhi penggunaan sosial dalam aspek fasilitas yang digunakan. Beberapa tatanan elemen tidak hanya mempengaruhi penggunaan sosial, tapi juga penggunaan lainnya seperti melihat-lihat dan aktivitas fisik.
+Sebagai tambahan, selain daripada elemen yang disebutkan, seni publik, pemandangan, tempat duduk dekat alur pejalan kaki berkontribusi khususnya terhadap penggunaan melihat-lihat \citep{carmona2021}. Sementara, pohon yang rindang, burung-burung, dan penghijauan menambahkan pengaruh terhadap aktivitas fisik.
+
+Dalam hal fasilitas untuk sosial, orang memiliki preferensi terhadap tempat duduk yang teduh.
+
+Preferensi terhadap rumput dan halaman dalam suatu ruang untuk alasan relaksasi dan melihat-lihat \citep{shan2014}.
+
+Penggunaan untuk relaksasi juga muncul pada sejumlah penelitian, dimana orang berkencenderungan terhadap pohon yang rindang
+
+
+Kursi gerak,
 
 
 
 
+
+
+%Oleh karena ide-ide dalam penggunaan dan desain ruang publik,
+%Dengan munculnya ide-ide dalam penggunaan dan desain ruang publik,
 
 \begin{comment}
 
