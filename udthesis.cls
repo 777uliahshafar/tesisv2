@@ -203,6 +203,8 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \setlist[itemize]{label=\textbullet, nosep, topsep=0pt, partopsep=0pt, parsep=0pt} % No spacing between itemize
 \setlist[enumerate]{nosep, topsep=0pt, partopsep=0pt, parsep=0pt} % No spacing between enumerate
 
+\newcommand{\tabitem}{~\llap{\textbullet}} % fake bullet itemize in table cell
+
 % Remove spacing between itemize env. inside table env., first column type for enumerate(e), second coulmn type for itemize(i)
 %\makeatletter
 %\newcolumntype{e}[1]{%

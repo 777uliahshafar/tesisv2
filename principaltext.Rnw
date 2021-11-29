@@ -128,7 +128,8 @@ Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 
 \begin{enumerate}
-    \item Apa saja ruang yang dicenderungi pengunjung pada ruang publik serta mengapa orang memiliki preferensi pada ruang tersebut?
+    \item Apa saja ruang yang dicenderungi pengunjung pada ruang publik
+    \item Mengapa orang memiliki preferensi pada ruang tersebut?
     \item Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut?
         % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
 \end{enumerate}
@@ -152,9 +153,9 @@ Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan m
 \begin{enumerate}
 %    \item Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
 %    \item Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu.
-    \item Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung pada ruang A dan B.
-    \item Untuk menganalisis elemen-elemen apa pada ruang yang menjadi preferensi.
+    \item Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung terhadap ruang A dan B.
     \item Untuk menganalisis mengapa orang memiliki preferensi ruang tersebut.
+    \item Untuk menganalisis elemen-elemen apa pada ruang yang menjadi preferensi.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -203,7 +204,7 @@ Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebua
 \node (pus) [startstop, below of=tuj, yshift=0.5cm] {Studi Pustaka};
 
 \node (kaj) [startstop, below of=pus, text width=4cm, xshift= -4cm, yshift=-.2cm] {
-	\textbf{Kajian Teori}\\ - Ruang publik waterfront\\ - Preferensi ruang\\ - Elemen ruang
+	\textbf{Kajian Teori}\\ - Ruang publik waterfront \\ - Jenis Ruang\\ - Aspek dan Elemen ruang
 };
 
 
@@ -213,7 +214,7 @@ Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebua
 
 \node (met) [startstop, below of=pus, yshift=-5cm, text width=7cm] {
 	\textbf{Metode Peneltian}.\\
-Penelitian ini bersifat eksploratif untuk menganalisis preferensi terkait ruang dan elemennya. Penelitian campuran digunakan untuk mengu...
+Pendekatan penelitian ini adalah metode campuran untuk menganalisis ruang yang cenderung menjadi preferensi, mengapa orang memiliki preferensi terhadap ruang tersebut dan  elemen-elemen apa saja pada ruang yang menjadi preferensi.
 % tidak perlu menggunakan istilah asing sperti grounded theory dll.
 % 11:15
 %Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
@@ -648,51 +649,57 @@ badan air (laut / kolam)  & \checkmark & & & \checkmark \\
 
 Proposisi ini, selain membantu proses penelitian selanjutnya, menjelaskan faktor-faktor yang mempengaruhi preferensi sebuah ruang. Dengan demikian, melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
 
+
 \begin{figure}[htbp]
+\small
 \centering
-\begin{tikzpicture}[node distance=2cm]
+\begin{tikzpicture}[node distance=1cm]
 
-    \node (fit) [startstop, text width=\textwidth] {\textbf{Permalahan penelitian}\\ 1. Apa saja ruang yang dicenderungi pengunjung pada ruang publik?  \\ 2. Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut? };
+    \node (fit) [startstop, text width=.83\textwidth] {\textbf{Permalahan penelitian}\\ 1. Apa saja ruang yang dicenderungi pengunjung terhadap ruang publik?  \\ 2. Mengapa orang memiliki preferensi pada ruang tersebut? \\ 3. Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut? };
 
-	\node (soc) [startstop, below of=fit, text width=\textwidth, yshift=-1cm] {\textbf{Tujuan penelitian}\\ 1. Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
+	\node (soc) [startstop, below of=fit, text width=.83\textwidth, yshift=-2.3cm] {\textbf{Tujuan penelitian}\\
+    1.  Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung terhadap ruang A dan B.\\
+    2.  Untuk menganalisis mengapa orang memiliki preferensi ruang tersebut.\\
+    3.  Untuk menganalisis elemen-elemen apa pada ruang yang menjadi preferensi.\\
 
-    \\ 2. Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu. };
+        };
 
-	\node (met) [startstop, below of=soc, text width=\textwidth, yshift=-1cm] {\textbf{Metode penelitian}\\ Penelitian eksploratif yang menggunakan kuesioner survei \textit{mixed-methodology} dan pendekatan \textit{grounded theory}. Teori dari hasil pendekatan tersebut tergabung dalam eksplorasi.};
+	\node (met) [startstop, below of=soc, text width=.83\textwidth, yshift=-1.6cm] {\textbf{Metode penelitian}\\ Pendekatan penilitian metode campuran dengan  menggunakan kuesioner survei \textit{mixed-methodology}};
 
-    \node (pro) [startstop, below of=met, text width=\textwidth, yshift=-1cm] {\textbf{Proposisi}\\ Penyusunan proposisi penelitian berdasarkan tinjauan teori terkait yang disesuaikan dengan objek dan tujuan penelitian untuk dijadikan pedoman dalam pengumpulan dan analisis data.
+    \node (pro) [startstop, below of=met, text width=.83\textwidth, yshift=-1cm] {\textbf{Proposisi}\\ Penyusunan proposisi penelitian berdasarkan tinjauan teori terkait yang disesuaikan dengan objek dan tujuan penelitian untuk dijadikan pedoman dalam pengumpulan dan analisis data.
     };
 
-    \node (ker) [startstop, below of=pro, text width=8cm, yshift=-.5cm] {\textbf{Kerangka indikator penelitian}\\ Waterfront    };
+    \node (ker) [startstop, below of=pro,  yshift=-.8cm, text width=6cm] {\textbf{Kerangka indikator penelitian}    };
 
-    \node (keb) [startstop, below of=ker, text width=6cm, yshift=.5cm] {Kebutuhan masyarakat};
+    \node (ask) [startstop, below of=ker, xshift=-2.4cm, yshift=-.6cm, text width= 6.2cm] {\textbf{ASPEK RUANG}\\
 
-    \node (rup) [startstop, below of=keb, xshift=-3cm, text width= 3cm] {Ruang publik};
+\begin{tabular}{p{.4\textwidth}@{}p{.4\textwidth}}
+    \tabitem Aksesibilitas & \tabitem Keamanan \\
+    \tabitem Estetika & \tabitem Fasilitas\\
+\end{tabular}};
 
-    \node (att) [startstop, below of=rup, text width= 4cm] {\textbf{Elemen}\\\small(laut, pohon, kedai, toilet, dll)};
+    \node (elm) [startstop, below of=ask, yshift= -3cm, text width= 6.2cm] {\textbf{ELEMEN RUANG}
 
-    \node (jun) [startstop, below of=keb, xshift=3cm, text width= 3cm] {Pengunjung};
+\begin{tabular}{p{.4\textwidth}@{}p{.4\textwidth}}
+    \tabitem Pohon yang banyak & \tabitem Jenis kursi \\
+    \tabitem Pohon yang cukup rindang & \tabitem Bunga yang berwarna\\
+    \tabitem Pohon yang sangat rindang & \tabitem Jalan yang lebar\\
+    \tabitem Tatanan dimana orang agak jauh & \tabitem Kehadiran elemen(jalan, vegetasi,dll) \\
+\end{tabular}};
 
-    \node (kar) [startstop, below of=jun, text width= 5cm] {\textbf{Karakter Pengunjung}\\\small(umur,gender,ras dan status kegiatan ekonomi)};
 
-    \node (pre) [startstop, below of=att, xshift=3cm, yshift=-1cm, text width= 4cm] {\bfseries Preferensi pengunjung terhadap ruang publik};
-
-
-
+    \node (jun) [startstop, below of=ker, xshift=3.6cm, yshift= -2.4cm, text width= 4.5cm] {Menghasilkan temuan preferensi pada ruang publik tepi laut};
 
 \draw [arrow] (fit) -- (soc);
 \draw [arrow] (soc) -- (met);
 \draw [arrow] (met) -- (pro);
 \draw [arrow] (pro) -- (ker);
-\draw [arrow] (keb) -- (rup);
-\draw [arrow] (rup) -- (att);
-\draw [arrow] (keb) -- (jun);
-\draw [arrow] (jun) -- (kar);
 
-\draw [latex'-latex'] (att) -- (kar);
+\draw [doublearrow] (ask) -- (elm);
 
-\draw [arrow] (att) -- (pre);
-\draw [arrow] (kar) -- (pre);
+\draw [arrow] (ask) -| (jun);
+\draw [arrow] (elm) -| (jun);
+
 \end{tikzpicture}
 \caption{Kerangka Konseptual}
 \label{fig:conc}
