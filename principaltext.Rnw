@@ -471,7 +471,8 @@ Demi fokus penelitian, lanskap dipertimbangkan sebagai ruang. Kerangka presepsi 
 
 
 Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief} (keyakinan perilaku), dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
-Terakhir, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
+Menurut \cite{swanwick2009}, presepsi orang dan preferensi terhadap ruang tertentu berdasarkan faktor presepsi yang berhubungan dengan ruang secara keseluruhan seperti keberagaman, kontras, warna dan kehadiran atau banyaknya elemen-elemen tertentu.
+Sebagai tambahan, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
 
 \begin{comment}
 \begin{figure}[htpb]
@@ -551,7 +552,12 @@ Preferensi ini berpengaruh diantara kelompok disabilitas maupun yang tidak \cite
 Selain itu, kedekatan ruang dan mode transportasi meningkatkan kunjungan yang merupakan perwujudan preferensi elemen \citep{azagew2020}.
 
 Pada penelitian preferensi terkait aksesibilitas, orang lebih berkecenderungan terhadap area yang banyak pohon ketimbang area yang terbuka. Kurangnya keteduhan pada area terbuka membuat kesulitan aksesiblitas sehingga kurang disukai \citep{brown1999}.
-Berdasarkan tinjauan aspek aksesibilitas, preferensi terhadap jalan, kedekatan ruang publik, mode transportasi, dan kepadatan pohon dapat menjelaskan aspek aksesibilitas yang dirasakan.
+
+
+
+Berdasarkan tinjauan aspek aksesibilitas, preferensi terhadap jalan yang lebar, pohon yang banyak, pohon yang rindang, elemen jalan
+...
+dapat menjelaskan aspek aksesibilitas yang dirasakan.
 
 
 
@@ -565,22 +571,28 @@ Sebagaimana \cite{ahmad2020} menerangkan bahwa ruang yang aman akan menarik lebi
 Dia menemukan bahwa aspek ini paling disukai diantara aspek lainnya.
 
 \cite{ahmad2020} menyebut kehadiran pencahayaan, pagar, visibilitas rumah atau jalan raya sekitar, dan kehadiran staf khusus mempengaruhi keamanan yang dirasakan. Lebih lanjut, \cite{campagnaro2020} menambahkan kehadiran orang dan elemen ruang berpengaruh positif terhadap keamanan yang dirasakan. Kehadiran orang juga dapat tercerminkan melalui adanya suara musik pada suatu ruang \citep{luo2021, campagnaro2020}.
-\cite{lis2021} menambahkan bahwa jarak antar individu menjelaskan preferensi orang yang disebabkan oleh keamanan dan privasi yang dirasakan. Jarak antar orang ini lebih berpengaruh terhadap preferensi kelompok manula dan perempuan \citep{virden1999}. Sebaliknya, \cite{elmen2005} menolak adanya hubungan antara preferensi jarak orang dan karakter pengguna(gender, umur dll).
+\cite{lis2021} menambahkan bahwa orang memiliki preferensi terhadap tatanan dimana orang agak jauh daripada di sekitarnya.
+%jarak antar individu menjelaskan preferensi orang yang disebabkan oleh keamanan dan privasi yang dirasakan.
+Meskipun begitu, \cite{virden1999} menjelaskan preferensi ini lebih berpengaruh terhadap kelompok manula dan perempuan.
+%Jarak antar orang ini lebih berpengaruh terhadap preferensi kelompok manula dan perempuan \citep{virden1999}.
+Sebaliknya, \cite{elmen2005} menolak adanya hubungan antara preferensi terhadap jarak orang dan karakter pengguna (gender, umur dll).
 %Berbeda dengan penjelasan \citeauthor{campagnaro2020},
 \cite{zhang2021} menjelaskan kehadiran orang yang berlebihan dapat mengubah pengaruh terhadap keamanan yang dirasakan menjadi negatif.
 \cite{carr1992} menambahkan keramaian membuat seseorang tidak aman dan gelisah berada di ruang publik, lebih-lebih lagi jika ada orang yang `salah'.
 
 \cite{carr1992} juga menyorot lebar jalan dan pintu masuk, tanda gangguan fisik dan sosial (vandalisme, grafiti, \& sampah), dan kehadiran pemisah ruang mempengaruhi aspek keamanan. \cite{van2016} mengklarifikasikan bahwa grafiti dan sampah berpengaruh terhadap presepsi keamanan dan estetika seseorang. Tanda gangguan fisik dan sosial tersebut mengilustrasikan ruang yang diluar kendali. Sedangkan pemisah ruang dapat tercapai melalui kehadiran pagar, sekat dinding, gerbang, dan hambatan lainnya \citep{carr1992}.
 
-Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap jenis pohon dan vegetasi bawah yang rindang. Meskipun demikian, \cite{campagnaro2020} menyebut tingkat kerindangan yang disukai orang adalah sedang. Pohon yang terlalu rindang dapat dilihat sebagai tempat bersembunyi pemangsa yang dapat berpengaruh negatif terhadap keamanan \citep{appleton1996}. Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yang tidak menghalangi pandangan meningkatkan keamanan yang dirasakan. \cite{suppakittpaisarn2019} menyimpulkan kemanfaatan yang dirasa positif dapat menjelaskan preferensi yang tinggi terhadap ukuran pohon.
+Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap jenis pohon dan vegetasi bawah yang rindang. Meskipun demikian, \cite{campagnaro2020} menyebut tingkat kerindangan yang disukai orang adalah sedang. Pohon yang terlalu rindang dapat dilihat sebagai tempat bersembunyi pemangsa yang dapat berpengaruh negatif terhadap keamanan \citep{appleton1996}. Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yang tidak menghalangi pandangan meningkatkan keamanan yang dirasakan. Berbeda dengan \cite{suppakittpaisarn2019} yang menjelaskan semakin rindang suatu pohon akan semakin disukai.
 
-Berdasarkan tinjauan aspek keamanan, preferensi terhadap jalan yang lebar, kehadiran orang dan elemen seperti (hambatan), bersih dari gangguan fisik, dan pohon rindang yang sedang dapat menjelaskan kemanfaatan keamanan yang dirasakan.
+Berdasarkan tinjauan aspek keamanan, preferensi terhadap tatanan dimana orang agak jauh, pohon yang cukup rindang dan sangat rindang,
+....
+dapat menjelaskan kemanfaatan keamanan yang dirasakan.
 
 \subsubsection{Estetika}
 
 % aesthetic needs (the need for a sense of beauty).kebutuhan akan rasa keindahan
 Saat ini, kebutuhan estetika dan pentingnya ruang tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks \citep{hradilova2013}. Dua kombinasi itu membentuk kesempatan untuk pemandangan yang unik pada sebuah kota \citep{hradilova2013}.
-Aspek estetika tidak terlepas dari `keindahan' dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian. Berdasarkan penemuan \cite{swanwick2009}, preferensi orang umumnya berdasarkan aspek estetika berhubungan dengan keberagaman, kontras, warna dan kehadiran elemen-elemen.
+Aspek estetika tidak terlepas dari `keindahan' dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian.
 \cite{zhao2020} menemukan orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ruang yang hanya sekedar tempat berbelanja untuk alasan estetika.
 
 Pada penelitian memprioritaskan aspek-aspek ruang , \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang. Jumlah pohon juga disebutkan memiliki pengaruh positif terhadap estetika \citep{wang2019}
@@ -592,7 +604,8 @@ Preferensi terhadap elemen alami ini mengindikasikan bahwa orang yang hidup dan 
 \cite{wan2021} mengindikasikan orang lebih berkecenderungan terhadap elemen alami daripada buatan.
 Meskipun demikian, preferensi terhadap elemen buatan dan seni publik lebih mempengaruhi pengalaman estetika daripada aspek lainnya \citep{wan2021}.
 
-Berdasarkan tinjauan aspek estetika, preferensi terhadap kepadatan pohon, kehadiran elemen air dan hijau, kepadatan pohon, elemen buatan dan seni publik dapat menjelaskan kemanfaatan pengalaman estetika pada suatu ruang.
+Berdasarkan tinjauan aspek estetika, preferensi terhadap pohon yang banyak, bunga yang berwarna, elemen-elemen seperti vegetasi, ikan dan badan air
+dapat menjelaskan kemanfaatan pengalaman estetika pada suatu ruang.
 
 
 \subsubsection{Fasilitas}
@@ -607,22 +620,12 @@ Jelas, sejumlah penggunaan-penggunaan tersebut  terpengaruh oleh tatanan elemen 
 Whyte dalam \cite{carmona2021}, terdapat sejumlah sifat elemen atau tatanannya yang berpengaruh positif terhadap penggunaan sosial, diantaranya: lokasi yang bagus, jalan pedestrian, ruang yang datar,  tempat duduk, dan kursi bergerak. \cite{carmona2021} menambahkan tatanan elemen seperti kursi, air mancur, dan patung mempengaruhi penggunaan sosial dalam aspek fasilitas yang digunakan. Beberapa tatanan elemen tidak hanya mempengaruhi penggunaan sosial, tapi juga penggunaan lainnya seperti melihat-lihat dan aktivitas fisik.
 Sebagai tambahan, selain daripada elemen yang disebutkan, seni publik, pemandangan, tempat duduk dekat alur pejalan kaki berkontribusi khususnya terhadap penggunaan melihat-lihat \citep{carmona2021}. Sementara, pohon yang rindang, burung-burung, dan penghijauan menambahkan pengaruh terhadap aktivitas fisik.
 
-Dalam hal fasilitas untuk sosial, orang memiliki preferensi terhadap tempat duduk yang teduh.
+Fasilitas untuk aktivitas fisik menjelaskan preferensi orang terhadap pohon rindang, jalan pedestrian, dan vegetasi dan badan air (laut atau danau) \citep{veitch2022, zhang2021}. Meskipun demikian, beberapa orang tidak menyukai vegetasi yang rindang untuk alasan aktivitas fisik seperti sepakbola \cite{suppakittpaisarn2019}.
+Preferensi terhadap pohon rindang dan jalan pedestrian bukan hanya untuk mereka yang beraktivitas fisik tetapi juga untuk penggunaan sosial \citep{zhang2021}. Menurut \cite{hadavi2015}, orang berkecenderungan terhadap kursi untuk tujuan bersosialisasi. Dia menjelaskan orang menyukai kursi yang melengkung, kursi piknik, dan gazebo dalam hal penggunaan sosial \citep{hadavi2015}.
+Selain untuk bersosialiasi, menurut \citeauthor{hadavi2015}, preferensi kursi menjelaskan tujuan untuk memfasilitasi kenyamanan juga.
 
-Preferensi terhadap rumput dan halaman dalam suatu ruang untuk alasan relaksasi dan melihat-lihat \citep{shan2014}.
+Berdasarkan tinjauan aspek fasilitas, preferensi terhadap pohon yang cukup rindang dan sangat rindang, jenis kursi (kursi piknik, gazebo, dan kursi melengkung), elemen-elemen seperti jalan, vegetasi, badan air dapat menjelaskan aspek fasilitas pada suatu ruang.
 
-Penggunaan untuk relaksasi juga muncul pada sejumlah penelitian, dimana orang berkencenderungan terhadap pohon yang rindang
-
-
-Kursi gerak,
-
-
-
-
-
-
-%Oleh karena ide-ide dalam penggunaan dan desain ruang publik,
-%Dengan munculnya ide-ide dalam penggunaan dan desain ruang publik,
 
 \begin{comment}
 
@@ -971,46 +974,37 @@ Perbedaan preferensi sepertinya tidak hanya ditunjukkan oleh beragam usia, perbe
 Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Tinjauan pustaka tersebut memberikan latar belakang penelitian-penelitian preferensi serta penemuan berkaitan penilaian ruang. Penemuan penilaian ruang membangun sejumlah teori dan teknik preferensi ruang. Dimana membantu merumuskan proposisi untuk keperluan tahap penelitian selanjutnya (lihat tabel \ref{tab:props}).
 
 
-\begin{longtable}{ p{.33\textwidth} l  P{.15\textwidth} P{.15\textwidth}  }
+\begin{longtable}{ p{.33\textwidth}  p{.12\textwidth} p{.12\textwidth}  p{.12\textwidth}  p{.12\textwidth} }
 	\caption{Proposisi Penelitian} \\
 	\label{tab:props} \\
 \toprule
-{\bfseries Elemen yang disukai} & \textbf{Tingkatan} & {\bfseries Ruang A} & {\bfseries Ruang B} \\
+  \textbf{Elemen yang disukai} &
+ {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Aksesibilitas}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Estetika}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Fasilitas}}}} \\
  \midrule
- Tekstur Jalan & Lantai kerikil & \checkmark & \checkmark \\
-  & Aspal &  & \checkmark \\
-  & Paving blok & \checkmark & \checkmark \\
 
- Bentuk Air & Badan air (laut) & \checkmark & \checkmark \\
-  & Air mengalir &  &  \\
-  & Air mancur minum &  &  \\
+Pohon yang banyak  & \checkmark & \checkmark & & \\
+Pohon yang cukup rindang  & & & \checkmark & \checkmark\\
+Pohon yang sangat rindang  & & & \checkmark & \checkmark\\
+tatanan diaman orang agak jauh  & & & \checkmark & \\
+jalan yang lebar  & \checkmark & & & \\
+bunga yang berwarna  & & \checkmark & & \\
+jenis kursi (kursi piknik, gazebo, \& kursi melengkung)  & & & & \checkmark \\
+  & & & & \\
+kehadiran elemen:  & & & & \\
+jalan  & \checkmark & \checkmark & & \checkmark \\
+vegetasi  & & \checkmark & & \checkmark \\
+badan air (laut / kolam)  & \checkmark & & & \checkmark \\
 
- Jenis tempat duduk & Bangku atau kursi & \checkmark & \checkmark \\
-  & Kursi dinding & \checkmark & \checkmark \\
-  & Kursi dinding pot &  & \checkmark \\
-
- Lokasi tempat duduk & terbuka/tertutup & \checkmark & \textit{tertutup tidak ada} \\
-  & luar/dalam ruangan & \checkmark & \textit{luar ruang tidak ada} \\
-  & paparan matahari/bayangan & \checkmark & \textit{paparan matahari tidak ada} \\
-
- Ukuran Pohon  & Besar (rindang) & \checkmark &  \\
-  & Sedang (kurang rindang) & \checkmark & \checkmark \\
-
-% Ukuran & Luas & \checkmark & \checkmark \\
-%  & Sempit &  &  \\
-% Lalu lintas & Padat & \checkmark & \checkmark \\
-%  & Ringan &  &  \\
-
- &&\\
- Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
- Jenis kelamin &  & \multicolumn{2}{c}{Mempengaruhi}   \\
- Suku &  & \multicolumn{2}{c}{Mempengaruhi}   \\
- Pekerjaan &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+% &&\\
+% Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+% Jenis kelamin &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+% Suku &  & \multicolumn{2}{c}{Mempengaruhi}   \\
+% Pekerjaan &  & \multicolumn{2}{c}{Mempengaruhi}   \\
 
 
 
  \bottomrule
-\multicolumn{4}{l}{\footnotesize{\textit{* \qquad \checkmark : ketersediaan}}}       \\
+%\multicolumn{4}{l}{\footnotesize{\textit{* \qquad \checkmark : ketersediaan}}}       \\
 
 \end{longtable}
 
