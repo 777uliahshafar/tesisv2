@@ -359,6 +359,21 @@ Hingga saat ini, banyak tepi laut memusatkan perhatian pengembangannya pada ruan
 
 \cite{zhang2006} mendefinisikan tepi laut rekreasi sebagai ruang terencana untuk aktivitas bersantai, dimana semua tampak, bangunan dan aktivitas bercampur dengan lanskap lokal dan berdasarkan tema tertentu. Orang menghubungkan sejumlah aktivitas bersantai, jajaran kedai makanan, dan jalan pedestrian dengan tepi lau rekreasi. \cite{vayona2011} mengindikasikan ruang rekreasi pada tepi laut menjelaskan preferensi sedang. Kemudian Fegence dalam \cite{dong2004} membagi dua macam penggunaan tepi laut rekreasi dan pelancongan secara umum. Dia menyebut taman piknik, jalan pedestrian, jalan sepeda, taman tepi laut, tempat makan-makan termasuk dalam penggunaan sisi darat. Kedua, olahraga laut, layanan perahu atau \textit{speedboat}, dan kedai makanan mengambang termasuk dalam penggunaan sisi laut.
 
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/rec}
+\caption*{Foto dari Envois, dibawah lisensi CC-BY 3.0}
+\end{subfigure}%
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/rec2}
+\caption*{Foto dari Trolvag, dibawah lisensi CC-BY 3.0}
+\end{subfigure}\vspace{10pt}
+
+\caption{Tepi laut Rekreasi}
+\label{fig:jrek}
+\end{figure}
+
 \subsubsection{Tepi laut Komersial}
 
 Menurut \cite{yassin2010}, tepi laut bermula dari ruang komersial, pusat perdagangan, dan pusat transportasi. Itu menyebabkan tepi laut menjadi populer di sejumlah kota sebelum mengalami penurunan.  Penurunan tersebut disebabkan oleh perubahan dari sisi transportasi dan pengiriman kontainer.
@@ -369,6 +384,22 @@ Satu diantara tepi laut komersial yang terkenal keberhasilannya adalah \textit{C
 
 Jenis tepi laut komersial selalu berdampingan dengan jenis tepi laut rekreasi. Banyak orang yang berekreasi menghabiskan uang mereka pada tempat komersial yang meliputi kedai makanan, toko-toko, tukang cukur, dan toko oleh-oleh. Oleh sebab itu, ruang komersial pada sebuah tepi laut dipercaya mampu meningkatkan kevitalan sebuah tepi laut \citep{luan2018}. \cite{dong2004} mecontohkan Xinghai Bay sebagai pusat komersial internasional menyediakan konferensi dan pameran, perdagangan, pelancongan, dan rekreasi. Meskipun demikian, \cite{vayona2011} menjelaskan preferensi terhadap ruang komersial adalah terendah. Orang mengaitkan ruang komersial dengan toko-toko dan akuarium dan bukan pada restauran atau jalan pedestrian \citep{vayona2011}.
 
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/com}
+\caption*{Foto dari Bohao Zhao, dibawah lisensi CC-BY 3.0}
+\end{subfigure}%
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/com2}
+\caption*{Foto dari Kyle Pearce, dibawah lisensi CC-BY 3.0}
+\end{subfigure}\vspace{10pt}
+
+\caption{Tepi laut Komersial}
+\label{fig:jkom}
+\end{figure}
+
+
 \subsubsection{Tepi laut Lingkungan}
 
 Lingkungan memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahteraan masyarakat. Sebagai bagian dari proses keberlanjutan, lingkungan berperan penting terhadap pengembangan tepi laut. Maka penting untuk tepi laut merangkul lingkungan sekitar dengan menciptakan hubungan yang dekat dengan kebutuhan manusia dan alam \citep{permana2017}.
@@ -376,6 +407,21 @@ Lingkungan memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahteraan
 
 Bagian yang terpenting adalah ruang tepi laut lingkungan memiliki kecenderungan untuk dipreferensi lebih besar daripada jenis lainnya \citep{vayona2011}. Menurut \cite{vayona2011}, orang mengartikan tepi laut lingkungan adalah sesuatu yang berhubungan dengan jalan setapak, ekologi, bersantai dan akuarium. \cite{tunbridge1992} menambahkan kedai makanan dipertimbangkan termasuk dalam tepi laut lingkungan, sedangkan tidak untuk toko-toko dan bioskop. Orang masih mengira tepi laut lingkungan apabila terdapat kedai makanan \textit{(restauran)}.
 Oleh sebab munculnya beragam aktivitas dekat dengan pantai, orang membutuhkan pemandangan yang lebih baik. Ini memicu penebasan pohon yang dapat mengakibatkan penurunan ekologi dan stabilitas tepi laut \citep{permana2017}. Maka dari itu, penting untuk memperhatikan keseimbangan antara lingkungan buatan dan alami \citep{permana2017}, yang akan memperhatankan tepi laut lingkungan.
+
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/env}
+\end{subfigure}%
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/env2}
+\end{subfigure}\vspace{10pt}
+
+\caption{Tepi laut Lingkungan}
+\caption*{Foto dari Daani Tru, dibawah lisensi CC-BY 3.0}
+\label{fig:jlin}
+\end{figure}
 
 \subsubsection{Tepi laut Perumahan}
 
@@ -386,12 +432,43 @@ Biasanya bangunan perumahan serta bangunan komersial dan perkantoran termasuk da
 Tepi laut perumahan adalah salah satu diantara jenis tepi laut yang hanya terakses oleh sebagian kelompok orang. Meskipun demikian, orang memiliki preferensi tinggi terhadap ruang perumahan pada tepi laut \citep{vayona2011}. Pada penelitian yang dilakukan \citeauthor{vayona2011}, tepi laut perumahan berhubungan positif dengan kompleksitas laut seperti taman laut \textit{(marine park)}. Artinya
 dengan adanya kompleksitas tersebut, perumahan yang telah mewah akan lebih mewah lagi \citep{vayona2011}. Hubungan positif lainnya ditunjukkan oleh rehabilitasi ekologi dimana itu akan memberi manfaat terhadap penghuni perumahan.  Berbeda dengan jalan pedestrian, toko-toko, bersantai dan hotel berpotensi mengurangi privasi orang, sehingga mereka menunjukkan hubungan yang negatif terhadap tepi laut.
 
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/res}
+\caption*{Foto dari Colin Smith, dibawah lisensi CC-BY 3.0}
+\end{subfigure}%
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/res2}
+\caption*{Foto dari moorerubleyudell.com}
+\end{subfigure}\vspace{10pt}
+
+\caption{Tepi laut Perumahan}
+\label{fig:jres}
+\end{figure}
 
 \subsubsection{Tepi Laut Kerja}
 
 Orang menyukai bekerja dimana mereka dapat menikmati pemandangan yang baik \citep{permana2017}. Salah satu tempat yang dapat menyediakannya adalah tepi laut. Tempat ini memiliki panorama yang luas dan unik, keunikannya ini dapat berasal dari kompleksitas laut, tekstur laut, dan kecepatan ombak. Satu cara untuk menghadirkan tepi laut kerja adalah dengan menyediakan penghubung antara bangunan bisnis menuju tepi laut. Dengan cara ini, kualitas bekerja orang dapat meningkat di saat bersamaan mengembangkan komersial dan katering sepanjang tepi laut \citep{luan2018}.
 
 \cite{vayona2011} menemukan tepi laut kerja menjelaskan preferensi sedang terhadap jenis ruang khususnya pada pengembangan tepi laut. Dia menjelaskan jenis tepi laut kerja berhubungan dengan pertokoan, olahraga, dan kompleksitas laut. Dalam hal pertokoan, pusat perbelanjaan akan mendukung aktivitas bekerja orang \citep{vayona2011}. Sama halnya fasilitas olahraga dianggap penting bagi orang yang bekerja dan juga kompleksitas laut yang dapat memberi kesan positif dari jenis ruang kerja \citep{vayona2011}.
+
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/wor}
+\caption*{Foto dari Mamo, dibawah lisensi CC-BY 3.0}
+\end{subfigure}%
+\begin{subfigure}{6.2cm}
+\centering\includegraphics[width=5.6cm]{figures/wor2}
+\caption*{Foto dari Aimaimyi, dibawah lisensi CC-BY 3.0}
+\end{subfigure}\vspace{10pt}
+
+\caption{Tepi laut Kerja}
+\label{fig:jwor}
+\end{figure}
+
 
 %\subsubsection{Tepi Laut Sejarah}
 
