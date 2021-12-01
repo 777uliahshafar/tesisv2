@@ -654,16 +654,19 @@ dapat menjelaskan kemanfaatan keamanan yang dirasakan.
 % aesthetic needs (the need for a sense of beauty).kebutuhan akan rasa keindahan
 Saat ini, kebutuhan estetika dan pentingnya ruang tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks \citep{hradilova2013}. Dua kombinasi itu membentuk kesempatan untuk pemandangan yang unik pada sebuah kota \citep{hradilova2013}.
 Aspek estetika tidak terlepas dari `keindahan' dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian.
-\cite{zhao2020} menemukan orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ruang yang hanya sekedar tempat berbelanja untuk alasan estetika.
+Umumnya orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ruang yang hanya sekedar tempat berbelanja untuk tujuan estetika \citep{zhao2020}.
 
-Pada penelitian memprioritaskan aspek-aspek ruang , \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang. Jumlah pohon juga disebutkan memiliki pengaruh positif terhadap estetika \citep{wang2019}
-\cite{appleton1996} menambahkan kepadatan pohon yang mendukung seseorang untuk dapat melihat tanpa dilihat berpengaruh positif terhadap kenikmatan estetika. Selain daripada itu, bunga, badan air dan dekorasi berkontribusi terhadap estetika.
+Pada penelitian memprioritaskan aspek-aspek ruang , \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang.
 
-Orang memiliki preferensi terhadap kombinasi air dan tanaman hijau serta kehadiran bunga yang berwarna dalam hal estetika \citep{ostoic2020, campagnaro2020}.
-\cite{wang2019} menambahkan jumlah pohon, air, bunga dan ikan menjelaskan preferensi orang yang disebabkan oleh kenikmatan estetika.
-Preferensi terhadap elemen alami ini mengindikasikan bahwa orang yang hidup dan bekerja di kota menghargai ruang dengan tanaman, paparan sinar matahari, dan angin \citep{ahmad2020}.
-\cite{wan2021} mengindikasikan orang lebih berkecenderungan terhadap elemen alami daripada buatan.
 Meskipun demikian, preferensi terhadap elemen buatan dan seni publik lebih mempengaruhi pengalaman estetika daripada aspek lainnya \citep{wan2021}.
+
+
+\cite{appleton1996} menambahkan kepadatan pohon yang mendukung seseorang untuk dapat melihat tanpa dilihat berpengaruh positif terhadap kenikmatan estetika. Selain daripada itu, bunga, badan air dan dekorasi berkontribusi terhadap estetika.
+Selain itu, orang yang tinggal di perkotaan lebih menghargai ruang yang menyediakan tanaman, paparan sinar matahari, dan angin \citep{ahmad2020}. \cite{wan2021} menyimpulkan bahwa orang lebih berkecenderungan terhadap elemen alami daripada buatan.
+Pada penelitian preferensi estetika, \cite{wang2019} menerangkan pohon yang banyak, bunga dan air menjelaskan preferensi estetika terhadap ruang publik. Dia menambahkan kemunculan ikan pada laut akan sangat meningkatkan preferensi itu \citep{wang2019}.
+
+
+orang memiliki preferensi terhadap kombinasi air dan vegetasi hijau serta kehadiran bunga yang berwarna dalam hal estetika \citep{ostoic2020, campagnaro2020}.
 
 Berdasarkan tinjauan aspek estetika, preferensi terhadap pohon yang banyak, bunga yang berwarna, elemen-elemen seperti vegetasi, ikan dan badan air
 dapat menjelaskan kemanfaatan pengalaman estetika pada suatu ruang.
