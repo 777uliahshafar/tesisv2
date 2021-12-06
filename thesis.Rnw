@@ -47,7 +47,8 @@
 
 \clearpage
 \pagenumbering{arabic}
-\Sexpr{knit_child("principaltext.Rnw")}
+%\Sexpr{knit_child("principaltext.Rnw")}
+\Sexpr{knit_child("script.Rnw")}
 \Sexpr{knit_child("backmatter.Rnw")}
 
 %----------------------------------------------------------------------------------------

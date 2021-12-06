@@ -1,0 +1,25 @@
+% Child with Latex code only:
+
+%--------------------------------------------------------------------------------------
+% R chunk
+%--------------------------------------------------------------------------------------
+% Set parent
+<<<parent, echo=F , cache=F>>=
+rm(list=ls())
+library("knitr")
+set_parent("thesis.Rnw")
+@
+
+% load stat
+<<content1, child="stats.Rnw", cache=T>>=
+@
+%--------------------------------------------------------------------------------------
+\pieChartGender
+
+\pieChartUsia
+
+\pieChartPek
+
+\pieChartSuku
+\grupBarPek
+\grupBarSuku

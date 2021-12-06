@@ -1,14 +1,12 @@
 %------------------------------------------------------
-<<ssubfiles1, echo= F, cache= F>>=
+<<parent1, echo= F, cache= F>>=
 library(knitr)
 set_parent("thesis.Rnw")
 @
 %------------------------------------------------------
-<<stats1, echo= F, error= F, message= F, results= "asis", warning= F, cache=F, autodep= T>>=
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Preamble:
-## Here we are loading all the necessary libraries, checking that we are on the correct OS
-## Load necessary libraries
+<<init, echo= F, error= F, message= F, results= "asis", warning= F, cache=F, autodep= T>>=
+# Here we are loading all the necessary libraries, checking that we are on the correct OS
+# Load necessary libraries
 
 library(scales)
 library(dplyr)
@@ -17,44 +15,41 @@ library(ggplot2)
 library(colorout)
 library(xtable)
 library(data.table)
-#=====================================================
 
-
-#=====================================================
 # Set working directory:
 setwd("/Volumes/hdd/tesis/")
 cur.wd <- getwd()
-#=====================================================
 @
 
-
-<<stats2, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
-
+<<piekerja, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+# Once for all
 df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
-# head(df)
-df$Pekerjaan <- as.factor(df$Pekerjaan)
 
+## head(df)
+df$pekerjaan <- as.factor(df$pekerjaan)
 
-## Adding Percent to Piechart Pekerjaan
 plotdata <- df %>%
-  count(Pekerjaan) %>%
-  arrange(desc(Pekerjaan)) %>%
+  count(pekerjaan) %>%
+  arrange(desc(pekerjaan)) %>%
   mutate(
     prop = round(n * 100 / sum(n), 1),
     lab.ypos = cumsum(prop) - 0.5 * prop
   )
 
 plotdata$percent <- paste0(
-  plotdata$Pekerjaan, "\n",
+  plotdata$pekerjaan, "\n",
   round(plotdata$prop), "%"
 )
 
-cat(paste("\\newcommand{\\pieChartFig}\n{", sep= ""))
-cat("\\begin{figure}[h]\n")
+mycols <- c("#003f5c", "#007274", "#649f68", "#e1be6a")
+
+## Create command for incorporate plot data to latex
+cat(paste("\\newcommand{\\pieChartPek}\n{", sep= ""))
+cat("\\begin{figure}[ht]\n")
 cat("\\centering\n")
 ggplot(
   data = plotdata,
-  aes(x = "", y = prop, fill = Pekerjaan)
+  aes(x = "", y = prop, fill = pekerjaan)
 ) +
   ggtitle("Pekerjaan") +
   geom_bar(width = 1, stat = "identity", color = "white") +
@@ -65,65 +60,186 @@ ggplot(
     ),
     color = "white"
   ) +
+  scale_fill_manual(values = mycols) +
   theme_void()
 cat(paste("\\caption{Pie Chart Pekerjaan}\n", sep=""))
-cat("\\label{pieChartFig}")
+cat("\\label{pck}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
 
 @
 
 
-<<stats3, echo= F, error= F, message= F, results= "asis", warning= F, cache=F, autodep= T>>=
+<<pieGender, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+df$gender <- as.factor(df$gender)
 
-df <- read.table("csv/dataset_tes2.csv", sep = ";", header = TRUE, stringsAsFactors = F)
-
-data <- data.table(df)
-# class(data)
-#
-# head(data)
-# str(data)
-
-x <- data[, c(1:8)]
-# head(x)
-# str(x)
-
-y <- data[, c(9:14)]
-# head(y)
-# str(y)
-
-x <- x %>%
-  mutate_at(c("ElemenJalan", "KualitasJalan", "ElemenDuduk", "KualitasDuduk", "ElemenAlami", "KualitasAlami", "FasilitasAminities", "Estetika"), list(~ recode(., "buruk" = 1, "baik" = 2, "sangat baik" = 3)))
-
-y <- y %>%
-  mutate_at(
-    c("AktivitasRelaksasi", "AktivitasFisik", "AktivitasTravel", "InteraksiAlam", "InteraksiSosial", "PartisiGrup"),
-    list(~ recode(., "tidak pernah" = 1, "tidak bulan lalu" = 2, "sekali sebulan" = 3, "dua kali sebulan" = 4, "sekali seminggu" = 5, "dua kali seminggu" = 6, "setiap hari" = 7))
+plotdata <- df %>%
+  count(gender) %>%
+  arrange(desc(gender)) %>%
+  mutate(
+    prop = round(n * 100 / sum(n), 1),
+    lab.ypos = cumsum(prop) - 0.5 * prop
   )
 
+plotdata$percent <- paste0(
+  plotdata$gender, "\n",
+  round(plotdata$prop), "%"
+)
 
-x <- x %>%
-  replace(is.na(.), 0) %>%
-  mutate(total_fit = rowSums(across(where(is.numeric))))
-# head(y)
 
-y <- y %>%
-  replace(is.na(.), 0) %>%
-  mutate(total_akt = rowSums(across(where(is.numeric))))
+cat(paste("\\newcommand{\\pieChartGender}\n{", sep= ""))
+cat("\\begin{figure}[ht]\n")
+cat("\\centering\n")
+ggplot(
+  data = plotdata,
+  aes(x = "", y = prop, fill = gender)
+) +
+  ggtitle("Gender") +
+  geom_bar(width = 1, stat = "identity", color = "white") +
+  coord_polar(theta = "y", start = 0) +
+  geom_text(
+    aes(
+      y = lab.ypos, label = percent
+    ),
+    color = "white"
+  ) +
+  scale_fill_manual(values = mycols) +
+  theme_void()
+cat(paste("\\caption{Pie Chart Gender}\n", sep=""))
+cat("\\label{pcg}")
+cat("\\end{figure}\n")
+cat(paste("}\n"))
+@
 
-data2 <- cbind(x, y)
-# head(data2)
+<<pieUsia, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
 
-out <- lm(data2$total_akt ~ data2$total_fit, data = data2)
-# summary(out)$r.square
-temp <- anova(out)
-# temp
+usia <- cut(df$usia, breaks = c(5, 11, 25, 45, 65), labels = c("anak-anak", "remaja", "dewasa", "lansia"), right = T)
+df$usia <- usia
 
-cat(paste("\\newcommand{\\tabRegresi}{\n", sep=""))
-print(xtable(temp,
-             label="tabRegresi",
-             caption=paste("Regresi Linear"), digit=3 ))
+plotUsia <- df %>%
+  count(usia) %>%
+  arrange(desc(usia)) %>%
+  mutate(
+    prop = round(n * 100 / sum(n), 1),
+    lab.ypos = cumsum(prop) - 0.5 * prop
+  )
 
+plotUsia$percent <- paste0(
+  plotUsia$usia, "\n",
+  round(plotUsia$prop), "%"
+)
+
+cat(paste("\\newcommand{\\pieChartUsia}\n{", sep= ""))
+cat("\\begin{figure}[ht]\n")
+cat("\\centering\n")
+ggplot(
+  data = plotUsia,
+  aes(x = "", y = prop, fill = usia)
+) +
+  ggtitle("Kelompok Usia") +
+  geom_bar(width = 1, stat = "identity", color = "white") +
+  coord_polar(theta = "y", start = 0) +
+  geom_text(
+    aes(
+      y = lab.ypos, label = percent
+    ),
+    color = "white"
+  ) +
+  scale_fill_brewer(palette = "Set2") + # add color
+  scale_fill_manual(values = mycols) +
+  theme_void()
+cat(paste("\\caption{Pie Chart Usia}\n", sep=""))
+cat("\\label{pcu}")
+cat("\\end{figure}\n")
 cat(paste("}\n"))
 
+@
+
+<<pieSuku, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+df$suku <- as.factor(df$suku)
+
+plotdata <- df %>%
+  count(suku) %>%
+  arrange(desc(suku)) %>%
+  mutate(
+    prop = round(n * 100 / sum(n), 1),
+    lab.ypos = cumsum(prop) - 0.5 * prop
+  )
+
+plotdata$percent <- paste0(
+  plotdata$suku, "\n",
+  round(plotdata$prop), "%"
+)
+
+
+cat(paste("\\newcommand{\\pieChartSuku}\n{", sep= ""))
+cat("\\begin{figure}[ht]\n")
+cat("\\centering\n")
+ggplot(
+  data = plotdata,
+  aes(x = "", y = prop, fill = suku)
+) +
+  ggtitle("Suku") +
+  geom_bar(width = 1, stat = "identity", color = "white") +
+  coord_polar(theta = "y", start = 0) +
+  geom_text(
+    aes(
+      y = lab.ypos, label = percent
+    ),
+    color = "white"
+  ) +
+  scale_fill_manual(values = mycols) +
+  theme_void()
+cat(paste("\\caption{Pie Chart Suku}\n", sep=""))
+cat("\\label{pcs}")
+cat("\\end{figure}\n")
+cat(paste("}\n"))
+
+@
+
+<<grpbarpek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+df$ruang <- as.factor(df$ruang)
+mycols <- c("#003f5c", "#649f68")
+cat(paste("\\newcommand{\\grupBarPek}\n{", sep= ""))
+cat("\\begin{figure}[ht]\n")
+cat("\\centering\n")
+ggplot(data = df, aes(
+  x = pekerjaan,
+  y = prop.table(stat(count)),
+  fill = ruang,
+  label = scales::percent(prop.table(stat(count)))
+)) +
+  geom_bar(position = "dodge") +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = mycols) +
+  labs(x = "pekerjaan", y = "persen", fill = "ruang")+
+  theme_minimal()
+cat(paste("\\caption{Grup bar pekerjaan}\n", sep=""))
+cat("\\label{gbp}")
+cat("\\end{figure}\n")
+cat(paste("}\n"))
+@
+
+<<grpbarsuku, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+cat(paste("\\newcommand{\\grupBarSuku}\n{", sep= ""))
+cat("\\begin{figure}[ht]\n")
+cat("\\centering\n")
+ggplot(data = df, aes(
+  x = suku,
+  y = prop.table(stat(count)),
+  fill = ruang,
+  label = scales::percent(prop.table(stat(count)))
+)) +
+  geom_bar(position = "dodge") +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_manual(values = mycols) +
+  labs(x = "pekerjaan", y = "persen", fill = "ruang")+
+  theme_minimal()
+cat(paste("\\caption{Grup Bar Suku}\n", sep=""))
+cat("\\label{gbs}")
+cat("\\end{figure}\n")
+cat(paste("}\n"))
 @
