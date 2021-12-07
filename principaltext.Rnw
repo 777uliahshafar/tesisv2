@@ -691,22 +691,32 @@ Berdasarkan kajian pustaka diatas, penulis merumuskan proposisi mengenai prefere
 	\caption{Proposisi Penelitian} \\
 	\label{tab:props} \\
 \toprule
-  \textbf{Elemen yang disukai} &
+  \textbf{Elemen Tepi Laut} &
  {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Aksesibilitas}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Estetika}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Fasilitas}}}} \\
  \midrule
-
-Pohon yang banyak  & \checkmark & \checkmark & & \\
-Pohon yang cukup rindang  & & & \checkmark & \checkmark\\
-Pohon yang sangat rindang  & & & \checkmark & \checkmark\\
-tatanan diaman orang agak jauh  & & & \checkmark & \\
-jalan yang lebar  & \checkmark & & & \\
-bunga yang berwarna  & & \checkmark & & \\
-jenis kursi (kursi piknik, gazebo, \& kursi melengkung)  & & & & \checkmark \\
-  & & & & \\
-kehadiran elemen:  & & & & \\
-jalan  & \checkmark & \checkmark & & \checkmark \\
-vegetasi  & & \checkmark & & \checkmark \\
-badan air (laut / kolam)  & \checkmark & & & \checkmark \\
+\textit{Jumlah pohon}  &  &  & & \\
+\tabitems Pohon yang sedikit  & \checkmark & \checkmark & & \\
+\tabitems Pohon yang banyak  & \checkmark & \checkmark & & \\
+\textit{Penampakan pohon}  &  &  & & \\
+\tabitems Pohon yang cukup rindang  & & & \checkmark & \checkmark\\
+\tabitems Pohon yang sangat rindang  & & & \checkmark & \checkmark\\
+\textit{Tingkat keramaian}  &  &  & & \\
+\tabitems Tatanan dimana orang berdekatan  & & & \checkmark & \\
+\tabitems Tatanan dimana orang berjauhan  & & & \checkmark & \\
+\textit{Lebar jalan}  &  &  & & \\
+\tabitems Jalan yang sempit  & \checkmark & & & \\
+\tabitems Jalan yang lebar  & \checkmark & & & \\
+\textit{Warna bunga}  &  &  & & \\
+\tabitems Bunga yang berwarna  & & \checkmark & & \\
+\tabitems Bunga yang satu warna  & & \checkmark & & \\
+\textit{Jenis kursi}  &  &  & & \\
+\tabitems Kursi piknik  & & & & \checkmark \\
+\tabitems Gazebo  & & & & \checkmark \\
+\tabitems Kursi melengkung  & & & & \checkmark \\
+\textit{Jenis Elemen}  &  &  & & \\
+\tabitems Kehadiran jalan  & \checkmark & \checkmark & & \checkmark \\
+\tabitems Kehadiran vegetasi  & & \checkmark & & \checkmark \\
+\tabitems Kehadiran badan air (laut / kolam)  & \checkmark & & & \checkmark \\
 
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
@@ -753,10 +763,10 @@ Proposisi ini, selain membantu proses penelitian selanjutnya, menjelaskan faktor
     \node (elm) [startstop, below of=ask, yshift= -3cm, text width= 6.2cm] {\textbf{ELEMEN RUANG}
 
 \begin{tabular}{p{.4\textwidth}@{}p{.4\textwidth}}
-    \tabitem Pohon yang banyak & \tabitem Jenis kursi \\
-    \tabitem Pohon yang cukup rindang & \tabitem Bunga yang berwarna\\
-    \tabitem Pohon yang sangat rindang & \tabitem Jalan yang lebar\\
-    \tabitem Tatanan dimana orang agak jauh & \tabitem Kehadiran elemen(jalan, vegetasi,dll) \\
+    \tabitem Jumlah pohon & \tabitem Warna bunga \\
+    \tabitem Penampakan pohon & \tabitem Jenis kursi\\
+    \tabitem Tingkat keramaian & \tabitem Jenis Elemen\\
+    \tabitem Lebar jalan &  \\
 \end{tabular}};
 
 
