@@ -471,75 +471,10 @@ Orang menyukai bekerja dimana mereka dapat menikmati pemandangan yang indah \cit
 \label{sub:pref}
 %Sebelum meninjau faktor mengapa orang memiliki preferensi terhadap ruang tertentu, definisi preferensi ruang perlu disebutkan disini.
 Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 hak untuk didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
-\cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. Sebagai tambahan,
-kecenderungan terhadap sesuatu biasanya timbul dari tatanan (gaya) yang paling akrab \citep{hammitt1979}. Kearaban tersebut dapat berkembang seiring waktu individu habiskan untuk berinteraksi dengan suatu tempat \citep{balling1982}. Oleh karena itu, preferensi dapat bersifat progresif sesuai tingkat keakraban orang terhadap sesuatu.
+\cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. \cite{zhang2006} mendefenisikan preferensi terhadap ruang sebagai ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka.
+\cite{carmona2021} membenarkan bahwa suatu ruang dapat disukai maupun tidak disuka. Preferensi terhadap ruang ini ditentukan oleh banyak faktor dalam hal memilih \citep{permata2000}. Faktor yang mempengaruhi preferensi terhadap ruang dan elemennya ditentukan baik oleh ruang dan elemen itu sendiri dan juga karakter pengguna yang mengamati \citep{permata2000}. Selain itu, preferensi terhadap ruang juga dapat dipengaruhi oleh keakraban seseorang terhadap ruang tersebut \citep{hammitt1979}. Biasanya keakraban tersebut dapat berkembang seiring waktu individu habiskan untuk berinteraksi dengan suatu tempat \citep{balling1982}.
 
-Preferensi ruang (lingkungan) adalah ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka \citep{zhang2006}.
-Definisi ini mengklarifikasikan bahwa semua ruang perkotaan memiliki simbol, makna dan nilai \citep{carmona2021}.
-Lebih lanjut, Gottdiener dan rekannya menjelaskan bahwa ruang memunculkan makna dan apakah orang menyukainya atau tidak \citep{carmona2021}. Dalam arti sempit, \cite{carmona2021} menerangkan suatu ruang dapat mengesankan atau lekas terlupakan, disukai atau tidak disukai.
-Sama halnya dalam determinisme arsitektur atau lingkungan, dimana ruang memiliki pengaruh yang menentukan dalam perilaku manusia, dan begitupun sebaliknya \citep{carmona2021}. Orang mengubah dan mempengaruhi ruang sebagaimana ruang mempengaruhi dan mengubah mereka \citep{carmona2021}.
-
-
-%%%
-%Definisi ini sejalan dengan pendapat bahwa semua ruang perkotaan memiliki simbol, makna dan nilai \citep{carmona2021}. Lebih lanjut, Gottdiener dan rekannya mendukung bahwa ruang memunculkan makna dan apakah orang menyukainya atau tidak. Dalam kasus ini, suatu ruang dapat mengesankan atau lekas terlupakan, disukai atau tidak disukai \citep{carmona2021}.
-
-Menurut \cite{carmona2021}, ada dua macam cara bagaimana lingkungan mempengaruhi perilaku atau kegiatan individu dalam hal determinisme lingkungan. Pertama, kemungkinan ruang (lingkungan) yaitu ketika orang dapat memilih peluang lingkungan yang tersedia.
-Peluang lingkungan jelas mempengaruhi apa yang orang benar-benar bisa lakukan atau tidak bisa, lebih dari sekedar faktor fisik ruang. Misalnya,
-dinding sekat pada tepi laut menghalangi interaksi dengan laut, sedangkan tepi laut tanpa sekat menyediakan peluang tersebut. Kedua, probabilisme ruang (lingkungan) adalah ketika dalam lingkungan fisik tertentu, beberapa pilihan lebih mungkin daripada yang lain \citep{carmona2021}.
-Cara yang kedua ini, kurang lebih seperti meja makan yang panjang pada ruang pedagang kaki lima lebih kondusif daripada dinding sekat yang digunakan sebagai meja \citep{carmona2021}. \citeauthor{carmona2021} menyimpulkan daripada menentukan tindakan atau perilaku orang, desain perkotaan bisa merekayasa tindakan yang mungkin terjadi pada suatu tatanan tertentu.
-
-%\cite{carmona2021} menekankan ruang publik sebaiknya menyediakan peluang dan mengelolanya, kemudian memberikan masyarakat pilihan daripada menyangkal pilihan mereka. Meskipun menyangkal pilihan tersebut untuk menghindari kemungkinan buruk seperti pencemaran laut, vandalisme, dll.
-%Ketika elemen laut disediakan, pencemaran mungkin terjadi, tapi ini bisa dihindari dan apabila mereka tidak disediakan, masalah dihindari namun orang tidak dapat menikmati laut.
-%Berdasarkan determinisme lingkungan, suatu lingkungan fisik memiliki pengaruh yang menentukan dalam perilaku manusia \citep{carmona2021}. Namun, \cite{carmona2021} menegaskan bahwa selain ruang mempengaruhi perilaku orang, orang juga mampu mengubah dan mempengaruhi seu
-%%%
-%Hingga saat ini, kita mmahami bahwa makna suatu ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan
-%Makna ruang berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}.
-%\cite{knox2014} menerangkan semua elemen lingkungan perkotaan  mempunyai simbol, makna dan nilai.
-
-Berdasarkan contoh sebelumnya, makna suatu ruang dapat disimpulkan berakar pada elemen-elemen ruang dan aktivitas yang merupakan `niat dan pengalaman individu' \citep{relph1976}.
-\cite{knox2014} menambahkan, makna yang berupa emosional dan sosial itu melekat dan dikuatkan oleh elemen lingkungan perkotaan. Jelas bahwa elemen tertentu memiliki makna yang stabil bagi kebanyakan orang \citep{carmona2021}.
-Lebih lanjut, makna elemen menyangkut pada keberagaman, kontras, dan warna serta kemungkinan kehadiran atau jumlah dari sebuah elemen individu \citep{swanwick2009}. Elemen tersebut memunculkan beragam preferensi dan perilaku seseorang terhadap ruang publik, apakah itu menjauhkan atau mendekatkan seseorang \citep{manyani2021}.
-
-Banyak penelitian telah menyebutkan bahwa preferensi ruang mengukur presepsi orang --- sebagai mekanisme presepsi --- yang dihubungkan dengan lingkungan sekitar \citep{vandenberg2003, england2009, zhang2006}. Presepsi termasuk mengumpulkan, mengorganisasi dan memahami informasi tentang suatu ruang \citep{carmona2021}. Oleh karena adanya hubungan timbal balik antara orang- ruang, maka orang harus mempresepsikan, yaitu dirangsang oleh penglihatan, suara, bau, atau sentuhan untuk mendapatkan informasi ruang disekitar \citep{carmona2021}.
-\cite{ittelson1978} mengidentifikasikan empat komponen presepsi diluar rangasangan yang sederhana tadi, berikut ini:
-\begin{inparaenum}
-\item Kognisi, pemahaman terhadap lingkungan yang membantu kita untuk menyimpan dan mengatur lingkungan.
-\item Afektif, lingkungan mempengaruhi perasaan seseorang
-\item Interpretatif, merespon informasi yang didapatkan dari lingkungan untuk membeda-bedakannya dengan rangsangan pengalaman.
-\item Evaluatif, menggabungkan preferensi dan nilai serta penentuan `baik' atau `buruk'.\end{inparaenum}
-
-Dalam bentuk rumit, \cite{zube1982} menggambarkan kerangka presepsi lanskap (lihat gambar: \ref{fig:per}). Konvensi lanskap eropa menjelaskan lanskap sebagai kombinasi antara `ruang' dan `tempat \textit{(place)}'.
-Demi fokus penelitian, lanskap dipertimbangkan sebagai ruang. Kerangka presepsi ruang tersebut menunjukkan interaksi antara orang dan ruang serta akibat dari interaksi tersebut \citep{zhang2006}. Dengan memahami interaksi akan membantu menjawab bagaimana suatu ruang dipresepsikan sebagamana adanya, apa maknanya untuk orang dan kelompok \citep{zube1982}.
-
-\begin{figure}[hptb]
-\centering
-\begin{tikzpicture}[node distance=1cm]
-
-\node (man) [startstop, text width=6cm] {\textbf{Manusia} \\ 1. Harapan \quad 5 Pendidikan\\ 2. Pengalaman \quad 6. Budaya\\ 3.Konteks sosial \quad 7. Motivasi \\ 4. Informasi \quad 8. Personaliti};
-
-\node (lan) [startstop, right of=man, text width=6cm, xshift=5.5cm] {
-	\textbf{Lanskap}\\ 1. Elemen fisik  2. Kontruksi komposisi  3. Konteks lokasi  4. Kealamian  5. Fitur buatan  6. Suara  7. Bau  8. Orang  9. Gestalt};
-
-\node (int) [startstop, below of=man, text width=12cm, xshift=3cm, yshift=-2cm] {
-		\textbf{Interaksi} \\ 1. Orang-orang-lanskap 2. orang-kelompok-lanskap 3. orang-lanskap 4. aktif 5. pasif 6. Sengaja 7. Kebetulan 8. Unik 9. Biasa
-
-         };
-
-\node (out) [startstop, below of=int, text width = 12cm, yshift=-2cm] {\textbf{Akibat} \\ 1. Informasi 2. Kepuasan 3. Kesejahteraan 4. Aktifitas fisik 5. Stimulasi 6. Tempat berlindung 7. Kesempatan 8. Nilai 9. Persamaan prediktif 10. Elemen lanskap yang menonjol 11. Perilaku kebiasaan 12. Ketakutan};
-
-
-\draw [doublearrow] (man) -- (int);
-
-\draw [doublearrow] (lan) -- (int);
-
-\draw [doublearrow] (int) -- (out);
-
-\end{tikzpicture}
-\caption{Kerangka Teori Presepsi Lanskap}
-\caption*{sumber:\cite{zube1982} }
-\label{fig:per}
-\end{figure}
-
+%% need more review
 
 Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief} (keyakinan perilaku), dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
 Menurut \cite{swanwick2009}, presepsi orang dan preferensi terhadap ruang tertentu berdasarkan faktor presepsi yang berhubungan dengan ruang secara keseluruhan seperti keberagaman, kontras, warna dan kehadiran atau banyaknya elemen-elemen tertentu.
@@ -584,17 +519,14 @@ Keterikatan elemen ruang dan kemanfaatan dari elemen yang dipreferensi dapat mem
 
 \subsubsection{Aksesibilitas}
 Menurut \cite{larosa2018}, aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu. Dimana itu dipresepsikan berbeda oleh masing-masing individu yang mana bergantung pada kebutuhan dan preferensi mereka. Oleh sebab itu, aksesibilitas adalah aspek yang sangat penting untuk merasakan suatu ruang \citep{carr1992}. Meskipun demikian, beberapa ruang dapat tidak terakses oleh kelompok tertentu secara sengaja maupun tidak sengaja \citep{carr1992}.
-\cite{carr1992} menyebut tindakan tersebut sebagai pengecualian \textit{exclusion}.
+\cite{carr1992} menyebut tindakan tersebut sebagai pengecualian \textit{exclusion}. Pengecualian ini menjadi pengaruh negatif terhadap aksesibilitas.
 
-Aksesibilitas dan pengecualian merupakan bentuk dari pengelolaan sebuah ruang publik seperti pencegahan atau pengecualian perilaku sosial yang tidak diinginkan \citep{carr1992}. \cite{dear1997} merangkum bentuk tindakan pengecualian ini yang mana mengisyrakat kemampuan untuk membuat ruang lebih terakses. Berikut ini adalah klasifikasi bentuk pengecualian pada ruang:
 
-\begin{itemize}
-    \item Ruang tidak dapat ditemukan, \citeauthor{dear1997} menyebutnya sebagai `stealthy' yang mana dikaburkan dengan objek intervensi atau perubahan level.
-    \item Ruang tidak tercapai, atau `slippery' disebabkan oleh jalur pendekatan yang berkelok-kelok, berlarut-larut, dan hilang.
-    \item Ruang tidak terakses, atau `crusty' disebabkan oleh hambatan ( seperti dinding dan gerbang).
-    \item Ruang tidak nyaman digunakan, \citeauthor{dear1997} menamainya `prickly'
-    \item Ruang tidak dapat dimanfaatkan tanpa teramati, atau `jittery' yang disebabkan pengawasan aktif. \citep{dear1997}
-\end{itemize}
+Dalam sejumlah penelitian terdapat sejumlah faktor yang dapat mempengaruhi aksesibilitas.
+
+\subsubsubsection{Jalan}
+
+
 
 \cite{brown1999} menjelaskan hambatan dan kurangnya informasi keberadaan suatu ruang menjadi pengaruh terhadap aksesibilitas.
 \cite{ahmad2020} menambahkan jaringan transportasi umum yang baik, fasilitas parkir yang memadai dan tidak ada hambatan fisik seperti dinding dan gerbang memiliki hubungan dengan aspek aksesibilitas.
@@ -623,15 +555,7 @@ Selain itu, keamanan juga merupakan aspek yang menentukan nilai daya tarik sebua
 Sebagaimana \cite{ahmad2020} menerangkan bahwa ruang yang aman akan menarik lebih banyak pengguna dan membantu orang tetap tinggal lebih lama.
 Dia menemukan bahwa aspek ini paling disukai diantara aspek lainnya.
 
-\cite{ahmad2020} menyebut kehadiran pencahayaan, pagar, visibilitas rumah atau jalan raya sekitar, dan kehadiran staf khusus mempengaruhi keamanan yang dirasakan. Lebih lanjut, \cite{campagnaro2020} menambahkan kehadiran orang dan elemen ruang berpengaruh positif terhadap keamanan yang dirasakan. Kehadiran orang juga dapat tercerminkan melalui adanya suara musik pada suatu ruang \citep{luo2021, campagnaro2020}.
-\cite{lis2021} menambahkan bahwa orang memiliki preferensi terhadap ruang dimana orang agak jauh daripada di sekitarnya.
-%jarak antar individu menjelaskan preferensi orang yang disebabkan oleh keamanan dan privasi yang dirasakan.
-Meskipun begitu, \cite{virden1999} menjelaskan preferensi ini lebih berpengaruh terhadap kelompok manula dan perempuan.
-%Jarak antar orang ini lebih berpengaruh terhadap preferensi kelompok manula dan perempuan \citep{virden1999}.
-Sebaliknya, \cite{elmen2005} menolak adanya hubungan antara preferensi terhadap jarak orang dan karakter pengguna (gender, umur dll).
-%Berbeda dengan penjelasan \citeauthor{campagnaro2020},
-\cite{zhang2021} menjelaskan kehadiran orang yang berlebihan dapat mengubah pengaruh terhadap keamanan yang dirasakan menjadi negatif.
-\cite{carr1992} menambahkan keramaian membuat seseorang tidak aman dan gelisah berada di ruang publik, lebih-lebih lagi jika ada orang yang `salah'.
+\cite{ahmad2020} menyebut kehadiran pencahayaan, pagar, visibilitas rumah atau jalan raya sekitar, dan kehadiran staf khusus mempengaruhi keamanan yang dirasakan.
 
 \cite{carr1992} juga menyorot lebar jalan dan pintu masuk, tanda gangguan fisik dan sosial (vandalisme, grafiti, \& sampah), dan kehadiran pemisah ruang mempengaruhi aspek keamanan. \cite{van2016} mengklarifikasikan bahwa grafiti dan sampah berpengaruh terhadap presepsi keamanan dan estetika seseorang. Tanda gangguan fisik dan sosial tersebut mengilustrasikan ruang yang diluar kendali. Sedangkan pemisah ruang dapat tercapai melalui kehadiran pagar, sekat dinding, gerbang, dan hambatan lainnya \citep{carr1992}.
 
