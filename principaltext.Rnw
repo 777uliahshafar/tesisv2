@@ -346,7 +346,7 @@ Penggunaan tepi laut tersebut membentuk sejumlah jenis ruang yaitu ruang rekreas
 \end{enumerate}
 
 Berdasarkan uraian ruang-ruang tepi laut diatas, terdapat sejumlah jenis ruang yang dapat ditemui pada lokasi penelitian yaitu ruang rekreasi, ruang komersial, ruang lingkungan, ruang perumahan dan ruang kerja. Ruang-ruang tersebut membutuhkan penjelasan lebih lanjut, sebagai berikut.
-
+arabic
 \subsubsection{Ruang Rekreasi Tepi laut}
 
 Tersedianya tepi laut adalah solusi yang pas untuk memenuhi kebutuhan baru masyarakat, rekreasi \citep{hradilova2013}. Banyak tepi laut telah mengalami perubahan menuju sebuah ruang rekreasi.
@@ -524,9 +524,9 @@ Menurut \cite{larosa2018}, aksesibilitas adalah kemampuan seseorang untuk mendek
 
 Dalam sejumlah penelitian terdapat sejumlah faktor yang dapat mempengaruhi aksesibilitas.
 
-\subsubsubsection{Jalan}
+\begin{itemize}
 
-
+    \item Jalan
 
 \cite{brown1999} menjelaskan hambatan dan kurangnya informasi keberadaan suatu ruang menjadi pengaruh terhadap aksesibilitas.
 \cite{ahmad2020} menambahkan jaringan transportasi umum yang baik, fasilitas parkir yang memadai dan tidak ada hambatan fisik seperti dinding dan gerbang memiliki hubungan dengan aspek aksesibilitas.
@@ -546,6 +546,7 @@ Berdasarkan tinjauan aspek aksesibilitas, preferensi terhadap jalan yang lebar, 
 dapat menjelaskan aspek aksesibilitas yang dirasakan.
 
 
+\end{itemize}
 
 \subsubsection{Keamanan}
 
@@ -553,31 +554,52 @@ Pada dasarnya, keamanan merupakan bentuk perlindungan pada diri sendiri, keluarg
 Keamanan menjadi aspek penting yang dapat mempengaruhi keadaan emosional seseorang yang dapat mengubah preferensi terhadap ruang mereka \citep{lis2011}.
 Selain itu, keamanan juga merupakan aspek yang menentukan nilai daya tarik sebuah ruang \citep{luo2021}.
 Sebagaimana \cite{ahmad2020} menerangkan bahwa ruang yang aman akan menarik lebih banyak pengguna dan membantu orang tetap tinggal lebih lama.
-Dia menemukan bahwa aspek ini paling disukai diantara aspek lainnya.
+Dia menemukan bahwa aspek ini paling mempengaruhi preferensi terhadap ruang diantara aspek lainnya. Ini juga mengkonfirmasikan bahwa orang menyukai suatu ruang yang memastikan keamanan atau kelangsungan hidup mereka \citep{kaplan1979}.
+\begin{itemize}
 
-\cite{ahmad2020} menyebut kehadiran pencahayaan, pagar, visibilitas rumah atau jalan raya sekitar, dan kehadiran staf khusus mempengaruhi keamanan yang dirasakan.
 
-\cite{carr1992} juga menyorot lebar jalan dan pintu masuk, tanda gangguan fisik dan sosial (vandalisme, grafiti, \& sampah), dan kehadiran pemisah ruang mempengaruhi aspek keamanan. \cite{van2016} mengklarifikasikan bahwa grafiti dan sampah berpengaruh terhadap presepsi keamanan dan estetika seseorang. Tanda gangguan fisik dan sosial tersebut mengilustrasikan ruang yang diluar kendali. Sedangkan pemisah ruang dapat tercapai melalui kehadiran pagar, sekat dinding, gerbang, dan hambatan lainnya \citep{carr1992}.
+\item Bentuk Pohon
 
-Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap jenis pohon dan vegetasi bawah yang rindang. Meskipun demikian, \cite{campagnaro2020} menyebut tingkat kerindangan yang disukai orang adalah sedang. Pohon yang terlalu rindang dapat dilihat sebagai tempat bersembunyi pemangsa yang dapat berpengaruh negatif terhadap keamanan \citep{appleton1996}. Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yang tidak menghalangi pandangan meningkatkan keamanan yang dirasakan. Berbeda dengan \cite{suppakittpaisarn2019} yang menjelaskan semakin rindang suatu pohon akan semakin disukai.
+Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap pohon dan vegetasi bawah yang rindang. Dia menemukan bahwa semakin rindang suatu pohon akan semakin disukai \citep{suppakittpaisarn2019}. Berbeda dengan \cite{campagnaro2020} yang menjelaskan tingkat kerindangan yang disukai orang adalah sedang.
+Pohon yang terlalu rindang dapat dilihat sebagai tempat bersembunyi pemangsa yang dapat berpengaruh negatif terhadap keamanan \citep{appleton1996}. Sehingga orang menyukai pohon dimana mereka dapat melihat tanpa dilihat \citep{appleton1996}.
+Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yang tidak menghalangi pandangan meningkatkan keamanan yang dirasakan.
 
-Berdasarkan tinjauan aspek keamanan, preferensi terhadap pohon yang cukup rindang dan rindang
-dapat menjelaskan kemanfaatan keamanan yang dirasakan.
+\item Pencahayaan Jalan
+
+Ruang publik ketika malam akan dirasakan berbeda. Oleh karena itu, orang membutuhkan pencahayaan yang cukup untuk memastikan keamanannya melalui pencahayaan buatan. Sejumlah penelitian menemukan bahwa pencahayaan berhubungan dengan keamanan yang dirasakan pada malam hari \citep{ahmad2020, rahm2021}.
+\cite{rahm2021} dan \cite{zhang2021} mengadakan wawancara yang menyebutkan orang menghindari ruang yang kekurangan cahaya dan mereka lebih menyukai berpergian pada siang hari.
+\end{itemize}
 
 \subsubsection{Estetika}
 
-% aesthetic needs (the need for a sense of beauty).kebutuhan akan rasa keindahan
+Kebutuhan estetika adalah kebutuhan akan rasa keindahan.
 Saat ini, kebutuhan estetika dan pentingnya ruang tepi laut merupakan hasil dari pengembangan jangka panjang yang kompleks \citep{hradilova2013}. Dua kombinasi itu membentuk kesempatan untuk pemandangan yang unik pada sebuah kota \citep{hradilova2013}.
 Aspek estetika tidak terlepas dari `keindahan' dimana mengandalkan kognisi dan presepsi untuk melakukan penilaian.
 Umumnya orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ruang yang hanya sekedar tempat berbelanja untuk tujuan estetika \citep{zhao2020}.
 
+\begin{itemize}
+    \item Jumlah Pohon
+Menurut \cite{ahmad2020}, orang yang tinggal di perkotaan lebih menghargai ruang yang menyediakan vegetasi, paparan sinar matahari, dan angin. Ini sesuai dengan pernyataan bahwa orang memiliki preferensi lebih terhadap elemen alami daripada elemen buatan \citep{wan2021}. Satu elemen alami yang terpenting adalah pohon. Umumnya, kehadiran suatu pohon pada suatu ruang akan meningkatkan preferensi orang dalam hal estetika \citep{ostoic2020}.
+Dalam penelitian preferensi estetika, orang berkecenderungan terhadap pohon yang banyak \citep{wang2019, jahani2020}. Meskipun demikian, \cite{appleton1996} menemukan orang memilki preferensi pada pohon dengan jumlah yang sedang dimana meningkatkan kenikmatan estetika \citep{appleton1996}. \cite{campagnaro2020} juga berpendapat bahwa orang menyukai  pohon yang jarang dibawah ruang yang kompleks tapi tidak terlalu liar.
+
+    \item Tanaman (bunga) berwarna
+Warna dalam sebuah ruang merupakan bagian terpenting dalam desain lanskap dan memberikan ketertarikan visual \citep{ma2020}.
+Menurut \cite{ma2020}, warna dapat mempengaruhi aspek estetika yang dirasakan.
+Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan proporsi warna yang berbeda \citep{ma2020}. Perbedaan warna ini dapat ditemukan pada bunga atau dedaunan.
+Jelas, ruang publik dengan bunga yang berwarna dapat menarik seseorang \citep{wang2019}.
+Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi seseorang terhadap ruang dalam hal estetika \citep{campagnaro2020, wang2019}.
+
+
+\end{itemize}
+
 Pada penelitian memprioritaskan aspek-aspek ruang , \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang.
 Menurut \cite{wan2021}, orang lebih berkecenderungan terhadap elemen buatan termasuk seni publik dalam hal estetika yang dirasakan.
-Berbeda dengan \cite{ahmad2020} yang menjelaskan orang yang tinggal di perkotaan lebih menghargai ruang yang menyediakan vegetasi, paparan sinar matahari, dan angin \citep{ahmad2020}. Alhasil preferensi terhadap elemen alami lebih dicenderungi daripada elemen buatan \citep{wan2021}.
-Sebagaimana \cite{appleton1996} menemukan bahwa orang memiliki preferensi terhadap pohon yang mengizinkan orang untuk dapat melihat tanpa dilihat. Sehingga pohon yang cukup akan meningkatkan kenikmatan estetika \citep{appleton1996}.
+
 Penjelasan itu bertentangan dengan pendapat bahwa orang lebih berkecenderungan terhadap pohon yang banyak \citep{wang2019, jahani2020}
 Pada penelitian dalam preferensi estetika dan elemen ruang, \cite{zhao2013} menjelaskan hubungan yang kuat antara preferensi estetika dengan derajat kehidupan liar. Dia menetapkan derajat kehidupan liar seperti elemen buatan yang dominan, elemen buatan dan alami digabungkan dan elemen alami yang dominan.
-Selain itu, orang juga memiliki preferensi terhadap bunga yang berwarna, elemen-elemen seperti vegetasi, ikan dan badan air \citep{ostoic2020, jahani2020, wang2019}. Kemunculan ikan pada laut dapat meningkatkan preferensi estetika imbuh \citeauthor{wang2019}.
+Selain itu, orang juga memiliki preferensi terhadap bunga yang berwarna, elemen-elemen seperti vegetasi, ikan dan badan air \citep{ostoic2020, jahani2020, wang2019}.
+\cite{wang2019}
+Kemunculan ikan pada laut dapat meningkatkan preferensi estetika imbuh \citeauthor{wang2019}.
 Pada penelitian preferensi estetika dan pemulihan jiwa, orang menyukai kedua macam elemen tersebut diantaranya: pohon yang banyak, badan air, bunga, dekorasi, bangunan yang kurang \citep{jahani2020}.
 
 Berdasarkan tinjauan aspek estetika, preferensi terhadap pohon yang banyak, derajat kehidupan liar, bunga yang berwarna, elemen-elemen seperti vegetasi, ikan, badan air, dan dekorasi.
