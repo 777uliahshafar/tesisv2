@@ -585,17 +585,17 @@ Dalam penelitian preferensi estetika, orang berkecenderungan terhadap pohon yang
     \item Tanaman (bunga) berwarna
 Warna dalam sebuah ruang merupakan bagian terpenting dalam desain lanskap dan memberikan ketertarikan visual \citep{ma2020}.
 Menurut \cite{ma2020}, warna dapat mempengaruhi aspek estetika yang dirasakan.
-Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan proporsi warna yang berbeda \citep{ma2020}. Perbedaan warna ini dapat ditemukan pada bunga atau dedaunan.
-Jelas, ruang publik dengan bunga yang berwarna dapat menarik seseorang \citep{wang2019}.
-Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi seseorang terhadap ruang dalam hal estetika \citep{campagnaro2020, wang2019}.
-
+Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan proporsi warna yang berbeda \citep{ma2020}. Dalam penelitian hubungan preferensi estetika dan elemen ruang, \cite{zhao2013} menunjukkan jumlah warna menjelaskan preferensi individu dalam hal estetika. Dia menjabarkan tingkatan jumlah warna yaitu: \begin{inparaenum}
+\item satu atau dua warna
+\item tiga atau empat warna
+\item lima atau lebih warna.
+\end{inparaenum}
+Perbedaan warna ini dapat ditemukan pada bunga.
+Jelas, ruang publik dengan bunga yang berwarna dapat menarik seseorang \citep{wang2019, jahani2020}. \cite{jahani2020} menjelaskan bahwa bunga juga dapat meningkatkan kualitas suatu ruang.
+Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi seseorang terhadap ruang dalam hal estetika \citep{campagnaro2020, wang2019}. Selain meningkatkan preferensi dalam estetika, bunga berwarna juga  bermanfaat untuk pemulihan jiwa \citep{jahani2020}.
 
 \end{itemize}
 
-Pada penelitian memprioritaskan aspek-aspek ruang , \cite{ahmad2020} menjelaskan ukuran ruang, desain tata letak, lanskap dan keseimbangan paparan matahari mempengaruhi aspek estetika ruang.
-Menurut \cite{wan2021}, orang lebih berkecenderungan terhadap elemen buatan termasuk seni publik dalam hal estetika yang dirasakan.
-
-Penjelasan itu bertentangan dengan pendapat bahwa orang lebih berkecenderungan terhadap pohon yang banyak \citep{wang2019, jahani2020}
 Pada penelitian dalam preferensi estetika dan elemen ruang, \cite{zhao2013} menjelaskan hubungan yang kuat antara preferensi estetika dengan derajat kehidupan liar. Dia menetapkan derajat kehidupan liar seperti elemen buatan yang dominan, elemen buatan dan alami digabungkan dan elemen alami yang dominan.
 Selain itu, orang juga memiliki preferensi terhadap bunga yang berwarna, elemen-elemen seperti vegetasi, ikan dan badan air \citep{ostoic2020, jahani2020, wang2019}.
 \cite{wang2019}
@@ -615,12 +615,27 @@ Dalam hal penggunaan dan desain ruang publik, ruang publik bukan hanya harus ber
 \cite{zhang2021} menemukan orang menyukai mengunjungi ruang publik untuk berjalan, berolahraga, menikmati alam, interaksi sosial, dan lain-lain. Diantara banyak penggunan, interaksi sosial, aktivitas fisik dan melihat-lihat merupakan penggunaan yang menonjol \citep{shan2014}.
 Jelas, sejumlah penggunaan-penggunaan tersebut  terpengaruh oleh tatanan elemen ruang dalam hal aspek fasilitas.
 %dapat menggambarkan bagaimana ruang mempengaruhi aspek fasilitas pada penggunaan lainnya.
-Whyte dalam \cite{carmona2021}, terdapat sejumlah sifat elemen atau tatanannya yang berpengaruh positif terhadap penggunaan sosial, diantaranya: lokasi yang bagus, jalan pedestrian, ruang yang datar,  tempat duduk, dan kursi bergerak. \cite{carmona2021} menambahkan tatanan elemen seperti kursi, air mancur, dan patung mempengaruhi penggunaan sosial dalam aspek fasilitas yang digunakan. Beberapa tatanan elemen tidak hanya mempengaruhi penggunaan sosial, tapi juga penggunaan lainnya seperti melihat-lihat dan aktivitas fisik.
-Sebagai tambahan, selain daripada elemen yang disebutkan, seni publik, pemandangan, tempat duduk dekat alur pejalan kaki berkontribusi khususnya terhadap penggunaan melihat-lihat \citep{carmona2021}. Sementara, pohon yang rindang, burung-burung, dan penghijauan menambahkan pengaruh terhadap aktivitas fisik.
 
-Fasilitas untuk aktivitas fisik menjelaskan preferensi orang terhadap pohon rindang, jalan pedestrian, dan vegetasi dan badan air (laut atau danau) \citep{veitch2022, zhang2021}. Meskipun demikian, beberapa orang tidak menyukai vegetasi yang rindang untuk alasan aktivitas fisik seperti sepakbola \cite{suppakittpaisarn2019}.
-Preferensi terhadap pohon rindang dan jalan pedestrian bukan hanya untuk mereka yang beraktivitas fisik tetapi juga untuk penggunaan sosial \citep{zhang2021}. Menurut \cite{hadavi2015}, orang berkecenderungan terhadap kursi untuk tujuan bersosialisasi. Dia menjelaskan orang menyukai kursi yang melengkung, kursi piknik, dan gazebo dalam hal penggunaan sosial \citep{hadavi2015}.
+\begin{itemize}
+
+\item  Bentuk pohon
+
+Dalam penelitian identifikasi elemen ruang dalam aspek fasilitas, \cite{veitch2022} menemukan bentuk pohon sebagai elemen terpenting dalam hal memfasilitasi aktivitas fisik dan interaksi sosial.
+Bentuk pohon dinilai sama pentingnya oleh laki-laki dan perempuan baik dalam aktivitas fisik maupun interaksi sosial \citep{veitch2022}.
+\citeauthor{veitch2022} mengindikasikan orang memiliki preferensi terhadap pohon yang rindang daripada rindang yang cukup atau tidak sama sekali. Ini mendukung pernyataan penelitian terdahulu yang menyebut pohon mempengaruhi preferensi individu dalam sebuah ruang publik \citep{alves2008}. \cite{zhang2021} menambahkan preferensi tersebut bukan hanya untuk tujuan aktivitas fisik tetapi juga untuk kegiatan sosial.
+Meskipun demikian, beberapa orang tidak menyukai pohon yang rindang dalam hal menunjang aktivitas fisik seperti sepakbola \citep{suppakittpaisarn2019}.
+
+Preferensi tersebut berhubungan dengan elemen yang menunjang seseorang untuk berelaksasi pada suatu ruang \citep{veitch2022}. Selain menunjang orang untuk berelaksasi, bentuk pohon yang disukai juga menarik orang pada suatu ruang publik. Oleh karena itu, elemen alami termasuk bentuk pohon sebaiknya diprioritaskan dalam pengembangan dan pemeliharaan ruang \citep{veitch2022}.
+
+\item Jenis Kursi
+Dalam buku \textit{public space urban design} bab dimensi fungsi, \cite{carmona2021} menjelaskan bahwa tempat duduk termasuk kursi bergerak berpengaruh positif terhadap aktivitas sosial. Selain menunjang aktivitas sosial, kursi juga dapat memfasilitasi kegiatan melihat-lihat ketika ditempatkan dekat alur pejalan kaki \citep{carmona2021}.
+Menurut \cite{hadavi2015}, orang berkecenderungan terhadap kursi untuk tujuan bersosialisasi. Dia menjelaskan orang menyukai kursi yang melengkung, kursi piknik, dan gazebo  \citep{hadavi2015}.
 Selain untuk bersosialiasi, menurut \citeauthor{hadavi2015}, preferensi kursi menjelaskan tujuan untuk memfasilitasi kenyamanan juga.
+
+
+
+\end{itemize}
+
 
 Berdasarkan tinjauan aspek fasilitas, preferensi terhadap pohon yang cukup rindang dan rindang, jenis kursi (kursi piknik, gazebo, dan kursi melengkung), elemen-elemen seperti jalan, vegetasi, badan air dapat menjelaskan aspek fasilitas pada suatu ruang.
 
