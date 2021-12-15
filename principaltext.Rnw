@@ -518,20 +518,29 @@ Keterikatan elemen ruang dan kemanfaatan dari elemen yang dipreferensi dapat mem
 
 
 \subsubsection{Aksesibilitas}
-Menurut \cite{larosa2018}, aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu. Dimana itu dipresepsikan berbeda oleh masing-masing individu yang mana bergantung pada kebutuhan dan preferensi mereka. Oleh sebab itu, aksesibilitas adalah aspek yang sangat penting untuk merasakan suatu ruang \citep{carr1992}. Meskipun demikian, beberapa ruang dapat tidak terakses oleh kelompok tertentu secara sengaja maupun tidak sengaja \citep{carr1992}.
-\cite{carr1992} menyebut tindakan tersebut sebagai pengecualian \textit{exclusion}. Pengecualian ini menjadi pengaruh negatif terhadap aksesibilitas.
+Menurut \cite{larosa2018}, aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu. Oleh sebab itu, aksesibilitas adalah aspek yang sangat penting untuk merasakan suatu ruang \citep{carr1992}. Dimana itu dipresepsikan berbeda oleh masing-masing individu yang mana bergantung pada kebutuhan dan preferensi mereka. Aksesibilitas harus menjangkau seluruh komponen masyarakat termasuk yang berkebutuhan khusus guna mewujudkan kesamaan dan kesempatan yang setara \cite{harsono2015}.
 
-
-Dalam sejumlah penelitian terdapat sejumlah faktor yang dapat mempengaruhi aksesibilitas.
+Pada penelitian preferensi terhadap ruang publik hijau, \cite{arnberger2017} menjelaskan aksesibilitas yang baik dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}.
+Sebaliknya, aksesibilitas yang kurang baik dapat berdampak pada kesehatan dan kesejahteraan orang khususnya yang berpendapatan rendah \citep{talen1998}.
+Dalam sejumlah penelitian terdapat sejumlah elemen ruang yang mempengaruhi aspek aksesibilitas ruang.
 
 \begin{itemize}
+\item Lebar Jalan
 
-    \item Jalan
+Pejalan kaki sangat penting dalam sebuah ruang publik, Salingaros dalam \citep{hartoyo2018}. Oleh karena itu, Ruang publik seharusnya menyediakan sejumlah jalan pedestrian yang mudah diakses. Jalan pedestrian adalah ruang bagi pejalan kaki untuk berpindah dari satu tempat ke tempat lain \citep{sanjaya2017}.
+Menurut \cite{harsono2015}, jalan pedestrian yang aksesibel memperhatikan lebar jalan. \cite{talavera2015} membenarkan bahwa lebar jalan berperan penting terhadap aksesiblitas sebagaimana itu berkontribusi terhadap kecepatan jalan.
+\citeauthor{harsono2015} menjelaskan lebar minimum jalan adalah 75 sentimeter termasuk ruang gerak, apabila ada dua orang maka lebarnya 150 sentimeter, berlaku kelipatannya. Sementara, lebar jalan pada trotoar adalah berkisar 150-300 sentimeter \citep{sanjaya2017}. Pada penelitian preferensi pedestrian terhadap troatar (jalan pedestrian), \cite{priyoga2015} menemukan orang berkecenderungan terhadap jalan yang lebar dalam hal aspek aksessibilitas. Lebar pada jalan tersebut berkisar dua hingga enam meter.
+Sejumlah penelitian menyebut jalan yang lebar dapat meningkatkan aksesibilitas \citep{priyoga2015, khofifah2016, hwang2019}. Menurut \cite{khofifah2016}, lebar jalan dapat ditentukan berdasarkan jumlah pejalan kaki pada saat jam ramai.
+
+\end{itemize}
+
+    Sejumlah penelitian mendefenisikan jalan sebagai
 
 \cite{brown1999} menjelaskan hambatan dan kurangnya informasi keberadaan suatu ruang menjadi pengaruh terhadap aksesibilitas.
 \cite{ahmad2020} menambahkan jaringan transportasi umum yang baik, fasilitas parkir yang memadai dan tidak ada hambatan fisik seperti dinding dan gerbang memiliki hubungan dengan aspek aksesibilitas.
-Pada penelitian preferensi manula terhadap ruang publik hijau, \cite{arnberger2017} menjelaskan aksesibilitas yang baik dapat membangun manfaat yang relevan terhadap kelompok sosial seperti orang disabilitas, anak-anak, dan pendapatan rendah \citep{arnberger2017}. Artinya selain berdampak pada orang usia muda, aspek aksesibilitas menjangkau kebutuhan dan harapan sejumlah kalangan.
-Sebaliknya, kurangnya akses terhadap ruang dan elemennya dapat berdampak pada kesehatan dan kesejahteraan orang khususnya yang berpendapatan rendah \citep{talen1998}.
+
+
+Artinya selain berdampak pada orang usia muda, aspek aksesibilitas menjangkau kebutuhan dan harapan sejumlah kalangan.
 
 Berdasarkan penelitian ruang publik di kota tropis, \cite{hwang2019} menemukan lebar jalan \textit{(pavement)}, kedekatan ruang terbuka dan elemen yang menunjukkan pengaruh positif dari vegetasi, seperti kehadiran pohon akan meningkatkan aksesibilitas.
 \cite{zhang2019} mendukung bahwa jalan disukai orang dalam hal aksesibilitas yang dirasakan, terutama jalan yang teduh, nyaman dan dapat dilalui.
@@ -546,7 +555,6 @@ Berdasarkan tinjauan aspek aksesibilitas, preferensi terhadap jalan yang lebar, 
 dapat menjelaskan aspek aksesibilitas yang dirasakan.
 
 
-\end{itemize}
 
 \subsubsection{Keamanan}
 
@@ -555,8 +563,8 @@ Keamanan menjadi aspek penting yang dapat mempengaruhi keadaan emosional seseora
 Selain itu, keamanan juga merupakan aspek yang menentukan nilai daya tarik sebuah ruang \citep{luo2021}.
 Sebagaimana \cite{ahmad2020} menerangkan bahwa ruang yang aman akan menarik lebih banyak pengguna dan membantu orang tetap tinggal lebih lama.
 Dia menemukan bahwa aspek ini paling mempengaruhi preferensi terhadap ruang diantara aspek lainnya. Ini juga mengkonfirmasikan bahwa orang menyukai suatu ruang yang memastikan keamanan atau kelangsungan hidup mereka \citep{kaplan1979}.
-\begin{itemize}
 
+\begin{itemize}
 
 \item Bentuk Pohon
 
@@ -579,10 +587,12 @@ Umumnya orang memiliki preferensi lebih terhadap ruang yang bergaya ketimbang ru
 
 \begin{itemize}
     \item Jumlah Pohon
+
 Menurut \cite{ahmad2020}, orang yang tinggal di perkotaan lebih menghargai ruang yang menyediakan vegetasi, paparan sinar matahari, dan angin. Ini sesuai dengan pernyataan bahwa orang memiliki preferensi lebih terhadap elemen alami daripada elemen buatan \citep{wan2021}. Satu elemen alami yang terpenting adalah pohon. Umumnya, kehadiran suatu pohon pada suatu ruang akan meningkatkan preferensi orang dalam hal estetika \citep{ostoic2020}.
 Dalam penelitian preferensi estetika, orang berkecenderungan terhadap pohon yang banyak \citep{wang2019, jahani2020}. Meskipun demikian, \cite{appleton1996} menemukan orang memilki preferensi pada pohon dengan jumlah yang sedang dimana meningkatkan kenikmatan estetika \citep{appleton1996}. \cite{campagnaro2020} juga berpendapat bahwa orang menyukai  pohon yang jarang dibawah ruang yang kompleks tapi tidak terlalu liar.
 
     \item Tanaman (bunga) berwarna
+
 Warna dalam sebuah ruang merupakan bagian terpenting dalam desain lanskap dan memberikan ketertarikan visual \citep{ma2020}.
 Menurut \cite{ma2020}, warna dapat mempengaruhi aspek estetika yang dirasakan.
 Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan proporsi warna yang berbeda \citep{ma2020}. Dalam penelitian hubungan preferensi estetika dan elemen ruang, \cite{zhao2013} menunjukkan jumlah warna menjelaskan preferensi individu dalam hal estetika. Dia menjabarkan tingkatan jumlah warna yaitu: \begin{inparaenum}
@@ -628,11 +638,18 @@ Meskipun demikian, beberapa orang tidak menyukai pohon yang rindang dalam hal me
 Preferensi tersebut berhubungan dengan elemen yang menunjang seseorang untuk berelaksasi pada suatu ruang \citep{veitch2022}. Selain menunjang orang untuk berelaksasi, bentuk pohon yang disukai juga menarik orang pada suatu ruang publik. Oleh karena itu, elemen alami termasuk bentuk pohon sebaiknya diprioritaskan dalam pengembangan dan pemeliharaan ruang \citep{veitch2022}.
 
 \item Jenis Kursi
+
 Dalam buku \textit{public space urban design} bab dimensi fungsi, \cite{carmona2021} menjelaskan bahwa tempat duduk termasuk kursi bergerak berpengaruh positif terhadap aktivitas sosial. Selain menunjang aktivitas sosial, kursi juga dapat memfasilitasi kegiatan melihat-lihat ketika ditempatkan dekat alur pejalan kaki \citep{carmona2021}.
 Menurut \cite{hadavi2015}, orang berkecenderungan terhadap kursi untuk tujuan bersosialisasi. Dia menjelaskan orang menyukai kursi yang melengkung, kursi piknik, dan gazebo  \citep{hadavi2015}.
 Selain untuk bersosialiasi, menurut \citeauthor{hadavi2015}, preferensi kursi menjelaskan tujuan untuk memfasilitasi kenyamanan juga.
 
+\item Lebar jalan
 
+Elemen jalan berperan penting dalam hal aktitivitas fisik dan sosial. Menurut \cite{sanjaya2017}, jalan dapat memfasilitasi mobilitas, interaksi sosial, dan kenyamanan serta keindahan.
+Dalam penelitian elemen ruang, \cite{veitch2022} membenarkan jalan dapat meningkatkan aktivitas fisik maupun sosial suatu ruang \citep{veitch2022}.  \cite{veitch2022} mengindikasikan orang memiliki preferensi terhadap elemen ini dalam hal memfasilitasi aktivitas fisik dan sosial dan juga kunjungan taman.
+
+Pada jalan, lebar memainkan peran dalam menentukan kemampuan jalan dalam hal memfasilitasi \citep{van2018}. Seperti contoh, jalan yang sempit dapat mempengaruhi kenyamanan dan mobilitas pejalan kaki. Sedangkan jalan yang lebar memfasilitasi aktivitas sosial dan lain-lain \citep{van2018}. Pada umumnya, jalan yang lebar menjelaskan preferensi individu \citep{talavera2015}. Dalam penelitian tersebut, lebar pada jalan adalah lebih dari tiga meter.
+Menurut  \citep{talavera2015}, lebar jalan itu dapat menunjang aktivitas sosial dan singgah depan toko tanpa menghalangi arus pejalan kaki.
 
 \end{itemize}
 
