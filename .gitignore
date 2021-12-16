@@ -27,6 +27,7 @@
 notes/
 *.run.xml
 .DS_Store
+*.pdf
 *.fls
 *.fdb_latexmk
 *.swp
