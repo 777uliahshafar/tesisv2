@@ -532,9 +532,15 @@ Menurut \cite{harsono2015}, jalan pedestrian yang aksesibel memperhatikan lebar 
 \citeauthor{harsono2015} menjelaskan lebar minimum jalan adalah 75 sentimeter termasuk ruang gerak, apabila ada dua orang maka lebarnya 150 sentimeter, berlaku kelipatannya. Sementara, lebar jalan pada trotoar adalah berkisar 150-300 sentimeter \citep{sanjaya2017}. Pada penelitian preferensi pedestrian terhadap troatar (jalan pedestrian), \cite{priyoga2015} menemukan orang berkecenderungan terhadap jalan yang lebar dalam hal aspek aksessibilitas. Lebar pada jalan tersebut berkisar dua hingga enam meter.
 Sejumlah penelitian menyebut jalan yang lebar dapat meningkatkan aksesibilitas \citep{priyoga2015, khofifah2016, hwang2019}. Menurut \cite{khofifah2016}, lebar jalan dapat ditentukan berdasarkan jumlah pejalan kaki pada saat jam ramai.
 
+\item Permukaan Jalan
+
+Jenis permukaan, menurut \cite{talavera2015}, berperan penting terhadap aksesibilitas. Sama halnya dengan lebar jalan, jenis permukaan juga terlibat dalam laju dan pilihan rute pejalan kaki \citep{talavera2015}. Dia menyimpulkan jenis permukaan merupakan sifat elemen yang dominan dalam penelitian-penelitian terkait aksesibilitas. Dalam penelitian preferensi elemen ruang, orang memiliki preferensi terhadap jenis permukaaan baik yang dipaving atau tidak daripada tidak ada jalan sama sekali \citep{van2018}.
+
+Dalam penelitian preferensi anak muda terhadap elemen jalan, jenis permukaan meliputi paving, beton, aspal, aspal berwarna, karet, dan tanah \citep{bellizzi2021}. Berdasarkan penelitian preferensi elemen ruang, orang menyukai jalan dengan permukaan tanah (tidak dipaving).
+Sebaliknya, \cite{van2018} menemukan jalan yang dipaving lebih disukai orang, sebagaimana itu lebih aksessibel terhadap beragam pengunjung seperti pesepeda. Ini mendukung penelitian \cite{bellizzi2021} yang mendapati orang menyukai ruang dengan permukaan jalan yang khusus (aspal berwarna, karet, \& tanah stabil).
+
 \end{itemize}
 
-    Sejumlah penelitian mendefenisikan jalan sebagai
 
 \cite{brown1999} menjelaskan hambatan dan kurangnya informasi keberadaan suatu ruang menjadi pengaruh terhadap aksesibilitas.
 \cite{ahmad2020} menambahkan jaringan transportasi umum yang baik, fasilitas parkir yang memadai dan tidak ada hambatan fisik seperti dinding dan gerbang memiliki hubungan dengan aspek aksesibilitas.
@@ -576,6 +582,8 @@ Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yan
 
 Ruang publik ketika malam akan dirasakan berbeda. Oleh karena itu, orang membutuhkan pencahayaan yang cukup untuk memastikan keamanannya melalui pencahayaan buatan. Sejumlah penelitian menemukan bahwa pencahayaan berhubungan dengan keamanan yang dirasakan pada malam hari \citep{ahmad2020, rahm2021}.
 \cite{rahm2021} dan \cite{zhang2021} mengadakan wawancara yang menyebutkan orang menghindari ruang yang kekurangan cahaya dan mereka lebih menyukai berpergian pada siang hari.
+\cite{zhang2021}
+
 \end{itemize}
 
 \subsubsection{Estetika}
@@ -667,33 +675,37 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
   \textbf{Elemen Tepi Laut} &
  {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Aksesibilitas}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Estetika}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Fasilitas}}}} \\
  \midrule
-\textit{Jumlah pohon}  &  &  & & \\
-\tabitems Sedikit pohon  & \checkmark & \checkmark & & \\
-\tabitems Beberapa pohon  & \checkmark & \checkmark & & \\
-\tabitems Banyak pohon  & \checkmark & \checkmark & & \\
-\textit{Penampakan pohon}  &  &  & & \\
-\tabitems Tidak rindang  & & & \checkmark & \checkmark\\
-\tabitems Cukup rindang  & & & \checkmark & \checkmark\\
-\tabitems Rindang  & & & \checkmark & \checkmark\\
-\textit{Derajat kehidupan liar}  &  &  & & \\
-\tabitems Dominan elemen buatan  &  & \checkmark & & \\
-\tabitems Gabungan elemen buatan \& alami  &  & \checkmark & & \\
-\tabitems Dominan elemen alami  &  & \checkmark & & \\
-\textit{Lebar jalan}  &  &  & & \\
-\tabitems Jalan yang sempit  & \checkmark & & & \\
-\tabitems Jalan yang lebar  & \checkmark & & & \\
-\textit{Warna bunga}  &  &  & & \\
-\tabitems satu atau dua warna   & & \checkmark & & \\
-\tabitems tiga atau empat warna  & & \checkmark & & \\
-\tabitems lima atau lebih warna  & & \checkmark & & \\
-\textit{Jenis kursi}  &  &  & & \\
-\tabitems Kursi piknik  & & & & \checkmark \\
-\tabitems Gazebo  & & & & \checkmark \\
-\tabitems Kursi melengkung  & & & & \checkmark \\
-\textit{Jenis Elemen}  &  &  & & \\
-\tabitems Kehadiran jalan  & \checkmark & \checkmark & & \checkmark \\
-\tabitems Kehadiran vegetasi  & & \checkmark & & \checkmark \\
-\tabitems Kehadiran badan air (laut / kolam)  & \checkmark & & & \checkmark \\
+\textit{Jumlah pohon}  &  & \checkmark  & & \\
+\tabitems Sedikit pohon  &  &  & & \\
+\tabitems Beberapa pohon  &  &  & & \\
+\tabitems Banyak pohon  &  &  & & \\
+\textit{Bentuk pohon}  &  &  & \checkmark  & \checkmark \\
+\tabitems Tidak rindang  & & &  & \\
+\tabitems Cukup rindang  & & &  & \\
+\tabitems Rindang  & & &  & \\
+\textit{Lebar jalan}  & \checkmark &  & & \checkmark \\
+\tabitems $\geq$ 3m  &  & & & \\
+\tabitems 2-3m  &  & & & \\
+\tabitems $\leq$ 1.5m &  & & & \\
+
+\textit{Permukaan jalan}  & \checkmark  &  & & \\
+\tabitems Paving  &  &  & &  \\
+\tabitems Aspal  & &  & &  \\
+\tabitems Tanah  &  & & &  \\
+
+\textit{Warna bunga/tanaman}  &  & \checkmark & & \\
+\tabitems satu atau dua warna   & &  & & \\
+\tabitems tiga atau empat warna  & &  & & \\
+\tabitems lima atau lebih warna  & &  & & \\
+\textit{Jenis kursi}  &  &  & & \checkmark \\
+\tabitems Kursi piknik  & & & &  \\
+\tabitems Gazebo  & & & &  \\
+\tabitems Kursi melengkung  & & & &  \\
+
+\textit{Pencahayaan jalan}  &  &  & \checkmark & \\
+\tabitems Kurang terang  & & & &  \\
+\tabitems Sedikit terang  & & & &  \\
+\tabitems Sangat terang  & & & &  \\
 
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
