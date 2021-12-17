@@ -574,16 +574,14 @@ Dia menemukan bahwa aspek ini paling mempengaruhi preferensi terhadap ruang dian
 
 \item Bentuk Pohon
 
-Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap pohon dan vegetasi bawah yang rindang. Dia menemukan bahwa semakin rindang suatu pohon akan semakin disukai \citep{suppakittpaisarn2019}. Berbeda dengan \cite{campagnaro2020} yang menjelaskan tingkat kerindangan yang disukai orang adalah sedang.
+Menurut \cite{suppakittpaisarn2019}, orang memiliki preferensi terhadap pohon dan vegetasi bawah yang rindang. Dia menemukan bahwa semakin rindang suatu pohon akan semakin disukai \citep{suppakittpaisarn2019}.
+Berbeda dengan \cite{campagnaro2020} yang menjelaskan tingkat kerindangan yang disukai orang adalah sedang.
 Pohon yang terlalu rindang dapat dilihat sebagai tempat bersembunyi pemangsa yang dapat berpengaruh negatif terhadap keamanan \citep{appleton1996}. Sehingga orang menyukai pohon dimana mereka dapat melihat tanpa dilihat \citep{appleton1996}.
 Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yang tidak menghalangi pandangan meningkatkan keamanan yang dirasakan.
 
 \item Pencahayaan Jalan
 
-Ruang publik ketika malam akan dirasakan berbeda. Oleh karena itu, orang membutuhkan pencahayaan yang cukup untuk memastikan keamanannya melalui pencahayaan buatan. Sejumlah penelitian menemukan bahwa pencahayaan berhubungan dengan keamanan yang dirasakan pada malam hari \citep{ahmad2020, rahm2021}.
-\cite{rahm2021} dan \cite{zhang2021} mengadakan wawancara yang menyebutkan orang menghindari ruang yang kekurangan cahaya dan mereka lebih menyukai berpergian pada siang hari.
-\cite{zhang2021}
-
+Ruang publik ketika malam akan dirasakan berbeda. Orang seringkali menghindari suatu ruang publik pada malam hari karena kurangnya pencahayaan \citep{rahm2021, zhang2021, nemeth2007}. Banyak penelitian yang menemukan pencahayaan berhubungan dengan keamanan yang dirasakan \citep{rahm2021, nemeth2007, ma2016, luo2021}. Menurut \cite{nemeth2007}, pencahayaan akan mendorong penggunaan ruang publik selama 24 jam dan meningkatkan rasa aman individu. Pada penelitian lanskap tepi laut, \cite{ma2016} menemukan orang menyukai pencahayaan pada malam hari dan pantulan cahaya pada laut. \cite{stino1983} juga menyimpulkan orang menyukai pencahayaan pada penelitian ruang publik. Dia menyebut kurangnya pencahayaan malam hari atau tidak ada pencahayaan berkontribusi pada kurangnya rasa aman \citep{stino1983}.
 \end{itemize}
 
 \subsubsection{Estetika}
@@ -603,7 +601,8 @@ Dalam penelitian preferensi estetika, orang berkecenderungan terhadap pohon yang
 
 Warna dalam sebuah ruang merupakan bagian terpenting dalam desain lanskap dan memberikan ketertarikan visual \citep{ma2020}.
 Menurut \cite{ma2020}, warna dapat mempengaruhi aspek estetika yang dirasakan.
-Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan proporsi warna yang berbeda \citep{ma2020}. Dalam penelitian hubungan preferensi estetika dan elemen ruang, \cite{zhao2013} menunjukkan jumlah warna menjelaskan preferensi individu dalam hal estetika. Dia menjabarkan tingkatan jumlah warna yaitu: \begin{inparaenum}
+Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan proporsi warna yang berbeda \citep{ma2020}. Dalam penelitian hubungan preferensi estetika dan elemen ruang, \cite{zhao2013} menunjukkan jumlah warna menjelaskan preferensi individu dalam hal estetika. Dia menjabarkan tingkatan jumlah warna yaitu:
+\begin{inparaenum}
 \item satu atau dua warna
 \item tiga atau empat warna
 \item lima atau lebih warna.
@@ -703,9 +702,9 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 \tabitems Kursi melengkung  & & & &  \\
 
 \textit{Pencahayaan jalan}  &  &  & \checkmark & \\
-\tabitems Kurang terang  & & & &  \\
-\tabitems Sedikit terang  & & & &  \\
-\tabitems Sangat terang  & & & &  \\
+\tabitems Kurang  & & & &  \\
+\tabitems Sedang   & & & &  \\
+\tabitems Tinggi  & & & &  \\
 
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
@@ -752,9 +751,9 @@ Disamping ketujuh elemen tersebut, proposisi ini menunjukkan aspek ruang yang da
 
 \begin{tabular}{p{.4\textwidth}@{}p{.4\textwidth}}
     \tabitem Jumlah pohon & \tabitem Warna bunga \\
-    \tabitem Penampakan pohon & \tabitem Jenis kursi\\
-    \tabitem Lebar jalan & \tabitem Jenis Elemen\\
-    \tabitem Derajat kehidupan liar & \\
+    \tabitem Bentuk Pohon & \tabitem Jenis kursi\\
+    \tabitem Lebar jalan & \tabitem Pencahayaan jalan\\
+    \tabitem Permukaan jalan & \\
 \end{tabular}};
 
 
