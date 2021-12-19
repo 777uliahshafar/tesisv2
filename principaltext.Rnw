@@ -213,7 +213,7 @@ Penelitian memerlukan kerangka pemikiran untuk mempermudah proses memahami sebua
 
 \node (met) [startstop, below of=pus, yshift=-5cm, text width=7cm] {
 	\textbf{Metode Peneltian}.\\
-Pendekatan penelitian ini adalah metode campuran untuk menganalisis ruang yang cenderung menjadi preferensi, mengapa orang memiliki preferensi terhadap ruang tersebut dan  elemen-elemen apa saja pada ruang yang menjadi preferensi.
+Pendekatan penelitian ini adalah kualitatif untuk menganalisis ruang yang cenderung menjadi preferensi, mengapa orang memiliki preferensi terhadap ruang tersebut dan  elemen-elemen apa saja pada ruang yang menjadi preferensi.
 % tidak perlu menggunakan istilah asing sperti grounded theory dll.
 % 11:15
 %Pendekatan \textit{Grounded theory} digunakan untuk memahami objek penelitian dengan pengguna (pengunjung).
@@ -256,7 +256,8 @@ Pendekatan penelitian ini adalah metode campuran untuk menganalisis ruang yang c
 \section{Keaslian Penelitian}
 
 Penelitian dengan tema yang sama telah banyak dilakukan oleh penelitian sebelumnya. Tema dari penelitian tersebut menyangkut preferensi orang terhadap suatu ruang, elemen, atau sifat elemen yang mendasari preferensi.
-Dengan mempelajari penelitian yang telah ada, penelitian ini dapat menciptakan kebaruan pada ilmu pengetahuan di bidang arsitektur dan mengisi kekurangan pada penelitian sebelumnya. Adapun yang membedakan penelitian satu dan lainnya secara garis besar adalah metode, variabel, objek penelitian, dan tujuan penelitian. Berdasarkan temuan data penelitian sebelumnya, penulis menyimpulkan bahwa pada umumnya penelitian preferensi bertempat di ruang publik berupa taman, sepanjang pengetahuan penulis belum menemukan penelitian yang bertempat di ruang publik tepi laut. Kebanyakan penelitian menggunakan metode dengan istilah asing seperti RUM \textit{(random utility model)}, CBC \textit{(choice-based conjoint analysis)}, dan VEP \textit{(visitor employed photography)} dalam hal menjelaskan preferensi orang. Meskipun metode-metode itu muncul, metode campuran \textit{(mixed-method)} dipahami dapat menjelaskan preferensi orang dengan sederhana dan jelas. Melalui beragam metode itu, sebagian besar mereka menemukan keberadaan elemen-elemen bukan sifat atau elemen tertentu seperti apa yang dapat menjelaskan preferensi orang terhadap ruang dan elemen pada ruang. Lebih lanjut, penelitian-penelitian ini mengindikasikan adanya alasan dalam preferensi ruang seperti keamanan, kesehatan fisik, relaksasi, dan rekreasi.
+Dengan mempelajari penelitian yang telah ada, penelitian ini dapat menciptakan kebaruan pada ilmu pengetahuan di bidang arsitektur dan mengisi kekurangan pada penelitian sebelumnya. Adapun yang membedakan penelitian satu dan lainnya secara garis besar adalah metode, variabel, objek penelitian, dan tujuan penelitian. Berdasarkan temuan data penelitian sebelumnya, penulis menyimpulkan bahwa pada umumnya penelitian preferensi bertempat di ruang publik berupa taman, sepanjang pengetahuan penulis belum menemukan penelitian yang bertempat di ruang publik tepi laut. Kebanyakan penelitian menggunakan metode dengan istilah asing seperti RUM \textit{(random utility model)}, CBC \textit{(choice-based conjoint analysis)}, dan VEP \textit{(visitor employed photography)} dalam hal menjelaskan preferensi orang. Meskipun metode-metode itu muncul, metode kualitatif dengan analisis statistik sederhana dipahami dapat menjelaskan preferensi individu dengan sederhana dan jelas. Melalui beragam metode itu, sebagian besar mereka menemukan keberadaan elemen-elemen bukan sifat atau elemen tertentu seperti apa yang dapat menjelaskan preferensi orang terhadap ruang dan aspek-aspeknya.
+Lebih lanjut, penelitian-penelitian ini mengindikasikan adanya alasan dalam preferensi ruang seperti aksesibilitas, keamanan, estetika dan fasilitas (aktivitas fisik, sosial, relaksasi).
 Data-data dari penelitian tersebut terangkum dalam bentuk sebuah tabel yang dapat dilihat pada tabel \ref{tab:asli}.
 
 \begin{landscape}
@@ -506,8 +507,7 @@ Secara singkat, affordance dari ruang adalah apa yang ruang tawarkan, apa yang d
 Sebaik-baik kata bahasa yang dapat menjelaskan \textit{affordance} adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} menggambarkan kemanfaatan seperti, pohon yang rindang memberi manfaat keteduhan untuk manusia.
 Meskipun demikian, \cite{gibson2014} dalam contoh kasus ini menjelaskan bahwa rindang adalah relatif terhadap orang. Rindang untuk orang bertubuh besar dan kecil tentunya berbeda. Artinya kemanfaatan itu adalah relatif terhadap ukuran seseorang. Kemudian, dia menambahkan sifat elemen yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
 
-Keterikatan elemen ruang dan kemanfaatan dari elemen yang dipreferensi dapat memberi wawasan mengenai karakteristik desain \citep{hadavi2015}. \cite{campagnaro2020} menambahkan elemen ruang yang bertujuan memenuhi preferensi individu, dalam hal ini aspek atau kemanfaatan dari elemen yang dipreferensi, adalah penting untuk pengelolan dan perencanaan desain perkotaan. Keterikatan elemen dan kemanfaatannya itu membutuhkan penjelasan lebih lanjut.
-
+Keterikatan elemen ruang dan kemanfaatan dari elemen yang dipreferensi dapat memberi wawasan mengenai karakteristik desain \citep{hadavi2015}. \cite{campagnaro2020} menambahkan elemen ruang yang bertujuan memenuhi preferensi individu, dalam hal ini aspek atau kemanfaatan dari elemen yang dipreferensi, adalah penting untuk pengelolan dan perencanaan desain perkotaan. Berikut ini beberapa elemen-elemen yang terpilih dimana paling relevan terhadap aspek-aspek ruang yang menjadi fokus penelitian.
 
 
 %Aspek-aspek yang berdasarkan kemanfaatan ini dan hubungannya dengan elemen ruang membutuh penjelasan lebih lanjut.
@@ -541,27 +541,6 @@ Sebaliknya, \cite{van2018} menemukan jalan yang dipaving lebih disukai orang, se
 
 \end{itemize}
 
-
-\cite{brown1999} menjelaskan hambatan dan kurangnya informasi keberadaan suatu ruang menjadi pengaruh terhadap aksesibilitas.
-\cite{ahmad2020} menambahkan jaringan transportasi umum yang baik, fasilitas parkir yang memadai dan tidak ada hambatan fisik seperti dinding dan gerbang memiliki hubungan dengan aspek aksesibilitas.
-
-
-Artinya selain berdampak pada orang usia muda, aspek aksesibilitas menjangkau kebutuhan dan harapan sejumlah kalangan.
-
-Berdasarkan penelitian ruang publik di kota tropis, \cite{hwang2019} menemukan lebar jalan \textit{(pavement)}, kedekatan ruang terbuka dan elemen yang menunjukkan pengaruh positif dari vegetasi, seperti kehadiran pohon akan meningkatkan aksesibilitas.
-\cite{zhang2019} mendukung bahwa jalan disukai orang dalam hal aksesibilitas yang dirasakan, terutama jalan yang teduh, nyaman dan dapat dilalui.
-Preferensi ini berpengaruh diantara kelompok disabilitas maupun yang tidak \citep{brown1999}.
-Selain itu, kedekatan ruang dan mode transportasi meningkatkan kunjungan yang merupakan perwujudan preferensi elemen \citep{azagew2020}.
-
-Pada penelitian preferensi terkait aksesibilitas, orang lebih berkecenderungan terhadap area yang banyak pohon ketimbang area yang terbuka. Kurangnya keteduhan pada area terbuka membuat kesulitan aksesiblitas sehingga kurang disukai \citep{brown1999}.
-
-
-
-Berdasarkan tinjauan aspek aksesibilitas, preferensi terhadap jalan yang lebar, pohon yang banyak, pohon yang rindang, dan elemen jalan
-dapat menjelaskan aspek aksesibilitas yang dirasakan.
-
-
-
 \subsubsection{Keamanan}
 
 Pada dasarnya, keamanan merupakan bentuk perlindungan pada diri sendiri, keluarga dan teman \citep{carr1992}.
@@ -582,6 +561,7 @@ Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yan
 \item Pencahayaan Jalan
 
 Ruang publik ketika malam akan dirasakan berbeda. Orang seringkali menghindari suatu ruang publik pada malam hari karena kurangnya pencahayaan \citep{rahm2021, zhang2021, nemeth2007}. Banyak penelitian yang menemukan pencahayaan berhubungan dengan keamanan yang dirasakan \citep{rahm2021, nemeth2007, ma2016, luo2021}. Menurut \cite{nemeth2007}, pencahayaan akan mendorong penggunaan ruang publik selama 24 jam dan meningkatkan rasa aman individu. Pada penelitian lanskap tepi laut, \cite{ma2016} menemukan orang menyukai pencahayaan pada malam hari dan pantulan cahaya pada laut. \cite{stino1983} juga menyimpulkan orang menyukai pencahayaan pada penelitian ruang publik. Dia menyebut kurangnya pencahayaan malam hari atau tidak ada pencahayaan berkontribusi pada kurangnya rasa aman \citep{stino1983}.
+
 \end{itemize}
 
 \subsubsection{Estetika}
@@ -612,15 +592,6 @@ Jelas, ruang publik dengan bunga yang berwarna dapat menarik seseorang \citep{wa
 Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi seseorang terhadap ruang dalam hal estetika \citep{campagnaro2020, wang2019}. Selain meningkatkan preferensi dalam estetika, bunga berwarna juga  bermanfaat untuk pemulihan jiwa \citep{jahani2020}.
 
 \end{itemize}
-
-Pada penelitian dalam preferensi estetika dan elemen ruang, \cite{zhao2013} menjelaskan hubungan yang kuat antara preferensi estetika dengan derajat kehidupan liar. Dia menetapkan derajat kehidupan liar seperti elemen buatan yang dominan, elemen buatan dan alami digabungkan dan elemen alami yang dominan.
-Selain itu, orang juga memiliki preferensi terhadap bunga yang berwarna, elemen-elemen seperti vegetasi, ikan dan badan air \citep{ostoic2020, jahani2020, wang2019}.
-\cite{wang2019}
-Kemunculan ikan pada laut dapat meningkatkan preferensi estetika imbuh \citeauthor{wang2019}.
-Pada penelitian preferensi estetika dan pemulihan jiwa, orang menyukai kedua macam elemen tersebut diantaranya: pohon yang banyak, badan air, bunga, dekorasi, bangunan yang kurang \citep{jahani2020}.
-
-Berdasarkan tinjauan aspek estetika, preferensi terhadap pohon yang banyak, derajat kehidupan liar, bunga yang berwarna, elemen-elemen seperti vegetasi, ikan, badan air, dan dekorasi.
-dapat mempengaruhi pengalaman estetika pada suatu ruang.
 
 
 \subsubsection{Fasilitas}
@@ -659,9 +630,6 @@ Pada jalan, lebar memainkan peran dalam menentukan kemampuan jalan dalam hal mem
 Menurut  \citep{talavera2015}, lebar jalan itu dapat menunjang aktivitas sosial dan singgah depan toko tanpa menghalangi arus pejalan kaki.
 
 \end{itemize}
-
-
-Berdasarkan tinjauan aspek fasilitas, preferensi terhadap pohon yang cukup rindang dan rindang, jenis kursi (kursi piknik, gazebo, dan kursi melengkung), elemen-elemen seperti jalan, vegetasi, badan air dapat menjelaskan aspek fasilitas pada suatu ruang.
 
 \section{Proposisi Penelitian}
 
@@ -733,7 +701,7 @@ Disamping ketujuh elemen tersebut, proposisi ini menunjukkan aspek ruang yang da
 
         };
 
-	\node (met) [startstop, below of=soc, text width=.83\textwidth, yshift=-1.6cm] {\textbf{Metode penelitian}\\ Pendekatan penilitian metode campuran dengan  menggunakan kuesioner survei \textit{mixed-methodology}};
+	\node (met) [startstop, below of=soc, text width=.83\textwidth, yshift=-1.6cm] {\textbf{Metode penelitian}\\ Pendekatan penilitian metode kualitatif dengan analisis statistik sederhana};
 
     \node (pro) [startstop, below of=met, text width=.83\textwidth, yshift=-1cm] {\textbf{Proposisi}\\ Penyusunan proposisi penelitian berdasarkan tinjauan teori terkait yang disesuaikan dengan objek dan tujuan penelitian untuk dijadikan pedoman dalam pengumpulan dan analisis data.
     };
@@ -749,9 +717,9 @@ Disamping ketujuh elemen tersebut, proposisi ini menunjukkan aspek ruang yang da
 
     \node (elm) [startstop, below of=ask, yshift= -3cm, text width= 6.2cm] {\textbf{ELEMEN RUANG}
 
-\begin{tabular}{p{.4\textwidth}@{}p{.4\textwidth}}
+            \begin{tabular}{@{}p{.4\textwidth}@{}p{.4\textwidth}}
     \tabitem Jumlah pohon & \tabitem Warna bunga \\
-    \tabitem Bentuk Pohon & \tabitem Jenis kursi\\
+    \tabitem Bentuk pohon & \tabitem Jenis kursi\\
     \tabitem Lebar jalan & \tabitem Pencahayaan jalan\\
     \tabitem Permukaan jalan & \\
 \end{tabular}};
@@ -846,18 +814,10 @@ Disamping ketujuh elemen tersebut, proposisi ini menunjukkan aspek ruang yang da
 
 \section{Jenis Penelitian}
 
-Penelitian ini bersifat ekploratif yang merupakan jenis metode  yang berguna untuk mengeksplorasi topik penelitian meskipun pemahaman terhadap fenomena masih kurang.
-Serta menggunakan kuesioner survei metodologi campuran dan proses \textit{grounded theory}.
-Proses \textit{grounded theory} adalah pendekatan untuk memahami secara konteksual pengguna dan objek penelitian \citep{culp2006}. \cite{culp2006} menegaskan pendekatan itu menghasilkan klarifikasi makna dan kepentingan relatif dari desain tema atribut ruang publik.
+Secara singkat, penelitian ini bertujuan untuk  menganalisis preferensi pengunjung pada ruang publik tepi laut. Dalam hal mencapai tujuan tersebut maka pendekatan penelitian sangat diperlukan. Pendekatan penelitian adalah proses atau rencana penelitian meliputi langkah-langkah, metode terperinci dalam pengumpulan, analisis, pemaknaan hasil temuan \citep{creswell2016}. Pendekatan penelitian ini adalah kualitatif. Pendekatan kualitatif menghasilkan gambaraan menyeluruh dari sebuah fenomena melalui pemahaman dan penglihatan secara langsung fenomena dalam objek penelitian yang disertai sumber-sumber data \citep{creswell2016}.
+Menurut \cite{groat2013}, penelitian kualitatif menekankan  pada proses induktif, sebagaimana \citeauthor{creswell2016} menjelaskan ini dengan pemberian pertanyaan \textit{open-ended}, sementara pertanyaan tersebut dapat berkembang seiring pemahaman peneliti terhadap masalah dilapangan.
 
-\textit{Grounded thoery} memiliki kekuatan untuk menghasilkan suatu teori, suatu skema analitis abstrak dari suatu fenomena yang berhubungan dengan prespektif awam atau rakyat \citep{cresswell1998}.
-Melalui metode analisis, teori tersebut tergabung dalam penelitian exploratif ini \citep{culp2006}. Dimana pengunjung lebih berperan aktif mempertimbangkan hasil persektif dalam pemilihan ruang dan atribut-atribut ruang publik. Penelitian terlaksana melalui pengamatan preferensi masyarakat terhadap ruang yang ada di tepi laut Senggol sekaligus pengumpulan respon survei \textit{(mixed-methedology)}, pemahaman terhadap bahasa dan tafsir serta explorasi gejala atau fenomena secara lengkap dan menyeluruh.
-
-Penelitian ini menyediakan kerangka konseptual untuk atribut ruang publik yang teradaptasi terhadap ruang. Pembahasan penelitian  meliputi pertama, analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Analisis ini menekankan pada data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Pengujian statistik mendukung menentukan apakah teori yang tersedia kebenarannya ada \citep{bungin2005}. Kedua, penilaian kualitatif dari respon pendapat untuk memperkaya pemahaman.
-
-
-%Menurut \cite{groat2013}, penelitian kualitatif menekankan  pada proses induktif, sebagaimana \citeauthor{creswell2016} menjelaskan ini dengan pemberian pertanyaan \textit{open-ended}, sementara pertanyaan tersebut dapat berkembang seiring pemahaman peneliti terhadap masalah dilapangan.
-
+%Penelitian ini menyediakan kerangka konseptual untuk aspek ruang serta elemen-elemen yang teradaptasi terhadap ruang. Pembahasan penelitian  meliputi pertama, analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Analisis ini menekankan pada data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Pengujian statistik mendukung menentukan apakah teori yang tersedia kebenarannya ada \citep{bungin2005}. Kedua, penilaian kualitatif dari respon pendapat untuk memperkaya pemahaman.
 
 %Metode lain yang digunakan adalah metode statistik sederhana dengan menggunakan \textit{crosstab} untuk mengetahui hubungan atribut dan preferensi masyarakat terhadap ruang.
 
@@ -931,10 +891,10 @@ Adapun yang menjadi perhatian adalah bagaimana pola kecenderungan pengunjung ter
 Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
 Sedangkan kuesioer survei akan mengumpulkan, menganalisis, dan menerjemahkan hubungan dan pola pada preferensi dan pendapat pengguna. Dengan demikian, menghasilkan pemahaman terhadap prioritas pengguna terhadap ruang publik.
 
-Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pengambilan \textit{sampling} secara acak (random) dengan mengutamakan responden yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian.
+Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pemilihan informan secara sengaja dengan mengutamakan responden yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian.
 Setiap yang akan menjadi responden dielu-elukan dan diberikan informasi \textit{background} terhadap penelitian, serta diberitahukan kriteria yang dibutuhkan untuk menyelesaikan kuesioner.
-Penelitian ini menargetkan setidaknya 65 respon survei, namun berdasarkan teknik pengambilan sampling berapapun jumlah responden diterima asal  memberikan informasi yang memenuhi tujuan penelitian.
-Terakhir,  responden yang merupakan pengunjung kawasan tepi laut Senggol diharapkan memenuhi sejumlah kriteria sebagai berikut:
+Penelitian ini menargetkan setidaknya 85 respon survei, namun berdasarkan teknik pengambilan sampling berapapun jumlah responden diterima asal  memberikan informasi yang memenuhi tujuan penelitian.
+Terakhir,  informan yang merupakan pengunjung kawasan tepi laut Senggol diharapkan memenuhi sejumlah kriteria sebagai berikut:
 \begin{enumerate}
     \item Orang yang memiliki pemahaman terhadap tempat secara mendalam.
     \item Orang yang terlibat dalam kegiatan sosial dan budaya pada objek penelitian.
@@ -948,7 +908,8 @@ Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain. 
 
 \section{Metode Analisis Data}
 
-Pada proses ini, peneliti melakukan identifikasi dan membaca hasil pengelolaan data untuk menganalisis dan membahas fenomena yang diteliti. Analisis ini berguna untuk membangun sebuah gambaran lengkap dan holistik terkait atribut terkait preferensi yang ada serta preferensi ruang pada kawasan tepi laut Senggol. Penggambaran objek penelitian terkait preferensi ini membutuhkan alat bantu teori. Setelah itu, penulis menarik sebuah kesimpulan atau pemaknaan yang dapat menjadi bagian penting dari kontruksi pengetahuan untuk menemukan sebuah penemuan yang baru dari sebuah fenomena yang diteliti. Tahap-tahap tersebut merupakan bagian dari rangkaian jenis penelitian kualitatif yang dapat pula diuraikan sebagai berikut:
+Pada proses ini, peneliti menganalisis data dari hasil wawancara mengenai preferensi terhadap aspek-aspek ruang yang terkait dengan preferensi individu terhadap elemen-elemen ruang di masing-masing ruang.
+Analisis ini berguna untuk membangun sebuah gambaran holistik dan lengkap terkait preferensi terhadap aspek dan elemen ruang yang ada pada suatu ruang di kawasan tepi laut. Tahapan-tahapan analisis tersebut diantaranya sebagai berikut:
 
 \begin{description}
     \item[Reduksi Data]: Mereduksi data artinya melakukan pemilahan, penyederhanaan, pengabstakan dan perubahan data mentah yang muncul dari catatan yang tertulis di lapangan.
