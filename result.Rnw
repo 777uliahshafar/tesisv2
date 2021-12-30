@@ -23,3 +23,6 @@ set_parent("thesis.Rnw")
 \pieChartSuku
 \grupBarPek
 \grupBarSuku
+
+\cTabPek
+\cTabSukuPlus

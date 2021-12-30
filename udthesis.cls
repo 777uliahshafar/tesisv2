@@ -192,6 +192,9 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{booktabs} % Required for better horizontal rules in tables
 \usepackage{multirow}
 
+\usepackage{dcolumn} % pretty column descr R crosstab2tex
+\newcolumntype{d}{D{.}{.}{-1}}
+
 \usepackage{paralist} %Inline list(inparaenum), always on top of enumitem
 \usepackage{lscape}
 \usepackage{longtable} % Enable table cross multiple page

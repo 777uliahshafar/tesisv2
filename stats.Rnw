@@ -12,9 +12,14 @@ library(scales)
 library(dplyr)
 library(ggplot2)
 
-library(colorout)
+require(colorout)
+
+library(conjoint)
+library(xlsx)
+
+# Create table
 library(xtable)
-library(data.table)
+library(descr)
 
 # Set working directory:
 setwd("/Volumes/hdd/tesis/")
@@ -242,4 +247,55 @@ cat(paste("\\caption{Grup Bar Suku}\n", sep=""))
 cat("\\label{gbs}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
+@
+
+
+<<cTabPek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+cTabPek <- xtabs(~ pekerjaan + ruang, data = df)
+
+#cTabPek <- table(df$pekerjaan,df$gender,df$ruang)
+
+
+cat(paste("\\newcommand{\\cTabPek}{\n", sep=""))
+print(xtable(cTabPek,
+             label="Cross Tab Pekerjaan",
+             caption=paste("Cross Tab 1"), digit=3 ))
+cat(paste("}\n"))
+
+@
+
+
+<<cTabSuku, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+cTabSuku <- xtabs(~ suku + ruang, data = df)
+chisSuku <- chisq.test(cTabSuku)
+
+##Create table for chisquare to xtable
+df.chisSuku <- data.frame(D = c(df$suku, df$ruang),
+                     `p value` = c(chisSuku$p.value,chisSuku$p.value))
+
+cat(paste("\\newcommand{\\cTabSuku}{\n", sep=""))
+print(xtable(df.chisSuku,
+             label="Cross Tab Gender",
+             caption=paste("Cross Tab 1"), digit=3 ))
+cat(paste("}\n"))
+
+@
+
+<<cTabSukuPlus, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+ct_suku <- crosstab(df$ruang, df$suku, dnn = c("Ruang", "Suku"), expected = TRUE, prop.c = TRUE, prop.r = TRUE, plot = FALSE)
+
+#tab_suku <- ct_suku$tab
+#class(tab_suku)
+#tab_suku
+
+tab_plus_suku <- descr:::CreateNewTab(ct_suku)
+#class(tab_plus_suku)
+#tab_plus_suku
+
+cat(paste("\\newcommand{\\cTabSukuPlus}{\n", sep=""))
+print(xtable(tab_plus_suku, align = "lddddd", multirow = TRUE, hline = TRUE, row.labels = TRUE, percent = FALSE,label="ctsukuplus",caption="Crosstab Suku plus"),booktabs = TRUE, include.rownames = FALSE)
+cat(paste("}\n"))
+
 @
