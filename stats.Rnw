@@ -46,7 +46,7 @@ plotdata$percent <- paste0(
   round(plotdata$prop), "%"
 )
 
-mycols <- c("#003f5c", "#007274", "#649f68", "#e1be6a")
+mycols <- c("#003f5c", "#007274", "#649f68", "#e1be6a","#649f68")
 
 ## Create command for incorporate plot data to latex
 cat(paste("\\newcommand{\\pieChartPek}\n{", sep= ""))
@@ -68,7 +68,7 @@ ggplot(
   scale_fill_manual(values = mycols) +
   theme_void()
 cat(paste("\\caption{Pie Chart Pekerjaan}\n", sep=""))
-cat("\\label{pck}")
+cat("\\label{fig:pck}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
 
@@ -111,14 +111,14 @@ ggplot(
   scale_fill_manual(values = mycols) +
   theme_void()
 cat(paste("\\caption{Pie Chart Gender}\n", sep=""))
-cat("\\label{pcg}")
+cat("\\label{fig:pcg}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
 @
 
 <<pieUsia, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+usia <- cut(df$usia, breaks = c(15, 25, 40, 80), labels = c("18-25", "25-40", "> 40"), right = T)
 
-usia <- cut(df$usia, breaks = c(5, 11, 25, 45, 65), labels = c("anak-anak", "remaja", "dewasa", "lansia"), right = T)
 df$usia <- usia
 
 plotUsia <- df %>%
@@ -154,7 +154,7 @@ ggplot(
   scale_fill_manual(values = mycols) +
   theme_void()
 cat(paste("\\caption{Pie Chart Usia}\n", sep=""))
-cat("\\label{pcu}")
+cat("\\label{fig:pcu}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
 
