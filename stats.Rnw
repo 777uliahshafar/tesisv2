@@ -50,7 +50,7 @@ mycols <- c("#003f5c", "#007274", "#649f68", "#e1be6a","#649f68")
 
 ## Create command for incorporate plot data to latex
 cat(paste("\\newcommand{\\pieChartPek}\n{", sep= ""))
-cat("\\begin{figure}[ht]\n")
+cat("\\begin{figure}[htbp]\n")
 cat("\\centering\n")
 ggplot(
   data = plotdata,
@@ -67,7 +67,7 @@ ggplot(
   ) +
   scale_fill_manual(values = mycols) +
   theme_void()
-cat(paste("\\caption{Pie Chart Pekerjaan}\n", sep=""))
+cat(paste("\\caption{Diagram Pekerjaan}\n", sep=""))
 cat("\\label{fig:pck}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
@@ -93,7 +93,7 @@ plotdata$percent <- paste0(
 
 
 cat(paste("\\newcommand{\\pieChartGender}\n{", sep= ""))
-cat("\\begin{figure}[ht]\n")
+cat("\\begin{figure}[htbp]\n")
 cat("\\centering\n")
 ggplot(
   data = plotdata,
@@ -110,7 +110,7 @@ ggplot(
   ) +
   scale_fill_manual(values = mycols) +
   theme_void()
-cat(paste("\\caption{Pie Chart Gender}\n", sep=""))
+cat(paste("\\caption{Diagram Gender}\n", sep=""))
 cat("\\label{fig:pcg}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
@@ -135,7 +135,7 @@ plotUsia$percent <- paste0(
 )
 
 cat(paste("\\newcommand{\\pieChartUsia}\n{", sep= ""))
-cat("\\begin{figure}[ht]\n")
+cat("\\begin{figure}[htbp]\n")
 cat("\\centering\n")
 ggplot(
   data = plotUsia,
@@ -153,7 +153,7 @@ ggplot(
   scale_fill_brewer(palette = "Set2") + # add color
   scale_fill_manual(values = mycols) +
   theme_void()
-cat(paste("\\caption{Pie Chart Usia}\n", sep=""))
+cat(paste("\\caption{Diagram Usia}\n", sep=""))
 cat("\\label{fig:pcu}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
@@ -179,7 +179,7 @@ plotdata$percent <- paste0(
 
 
 cat(paste("\\newcommand{\\pieChartSuku}\n{", sep= ""))
-cat("\\begin{figure}[ht]\n")
+cat("\\begin{figure}[htbp]\n")
 cat("\\centering\n")
 ggplot(
   data = plotdata,
@@ -196,14 +196,57 @@ ggplot(
   ) +
   scale_fill_manual(values = mycols) +
   theme_void()
-cat(paste("\\caption{Pie Chart Suku}\n", sep=""))
-cat("\\label{pcs}")
+cat(paste("\\caption{Diagram Suku}\n", sep=""))
+cat("\\label{fig:pcs}")
 cat("\\end{figure}\n")
 cat(paste("}\n"))
 
 @
 
-<<grpbarpek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+<<pieRuang, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+df$ruang <- as.factor(df$ruang)
+
+plotdata <- df %>%
+  count(ruang) %>%
+  arrange(desc(ruang)) %>%
+  mutate(
+    prop = round(n * 100 / sum(n), 1),
+    lab.ypos = cumsum(prop) - 0.5 * prop
+  )
+
+plotdata$percent <- paste0(
+  plotdata$ruang, "\n",
+  round(plotdata$prop), "%"
+)
+
+cat(paste("\\newcommand{\\pieChartRuang}\n{", sep= ""))
+cat("\\begin{figure}[htbp]\n")
+cat("\\centering\n")
+ggplot(
+  data = plotdata,
+  aes(x = "", y = prop, fill = ruang)
+) +
+  ggtitle("Ruang") +
+  geom_bar(width = 1, stat = "identity", color = "white") +
+  coord_polar(theta = "y", start = 0) +
+  geom_text(
+    aes(
+      y = lab.ypos, label = percent
+    ),
+    color = "white"
+  ) +
+  scale_fill_manual(values = mycols) +
+  theme_void()
+cat(paste("\\caption{Diagram Ruang}\n", sep=""))
+cat("\\label{fig:pcr}")
+cat("\\end{figure}\n")
+cat(paste("}\n"))
+@
+
+
+<<grpbarpek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=5.9, fig.height=4, autodep= T>>=
 
 df$ruang <- as.factor(df$ruang)
 mycols <- c("#003f5c", "#649f68")

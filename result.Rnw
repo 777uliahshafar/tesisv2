@@ -15,7 +15,7 @@ set_parent("thesis.Rnw")
 @
 %--------------------------------------------------------------------------------------
 \section{Gambaran umum responden}
-\label{sub:sectionlabel}
+\label{sub:gbrumumres}
 
 Berdasarkan teknik pengambilan sampel yang digunakan, penelitian ini mengambil responden sebanyak 80 orang. Responden tersebut terdiri dari beragam karakteristik yang berbeda. Karakteristik tersebut ditinjau dari empat kategori berdasarkan
 \begin{inparaenum}
@@ -36,14 +36,27 @@ Pada gambar \ref{fig:pcu} menunjukkan persentase karakteristik kelompok usia. Ke
 \pieChartUsia
 
 \subsection{Pekerjaan}
-Pada gambar \ref{fig:pck} menunjukkan sejumlah latar belakang pekerjaan beserta persentase dari keseluruhan responden
-
+Pada gambar \ref{fig:pck} menunjukkan sejumlah latar belakang pekerjaan beserta persentase dari keseluruhan responden. Terdapat lima kelompok karakteristik pekerjaan yang terdiri atas karyawan, wiraswasta, pelajar, belum bekerja dan lainnya. Persentase terbesar adalah karyawan dengan perolehan 34\%. Diikuti oleh kelompok pelajar, wiraswasta, lainnya, dan belum bekerja dengan persentase masing-masing 25\%, 20\%,  14\$, dan 8\% secara berurut. Persentase karyawan mewakili karyawan sebanyak 27 orang, wiraswasta sebanyak 16 orang, pelajar sebanyak 20 orang dan terakhir belum bekerja hanya sejumlah 6 orang.
 
 \pieChartPek
 
-\pieChartSuku
-\grupBarPek
-\grupBarSuku
+\subsection{Suku}
+Selain berlatarbelakang pekerjaan yang berbeda, karakteristik responden juga menunjukkan perbedaan latar belakang suku. Pada gambar \ref{fig:pcs} menunjukkan 70\% responden merupakan suku bugis, 30\% lainnya merupakan suku diluar bugis. Ketiga suku lainnya seperti toraja, makassar, dan lainnya memiliki persentase sekitar 10\%. Berdasarkan data persentase orang bugis mewakili orang sebanyak 56 orang suku bugis. Sementara suku lainnya mewakili responden masing-masing berkisar 7-9 orang.
 
-\cTabPek
-\cTabSukuPlus
+\pieChartSuku
+
+\newpage
+\section{Ruang yang paling disukai }
+\label{sub:prefspace}
+
+Berdasarkan respon foto dari ruang Pantai Senggol, kebanyakan responden (59\%) menyukai ruang A yang merupakan pengembangan baru  dan 41\% lainnya menyukai ruang B yang merupakan pengembangan lama (lihat gambar \ref{fig:pcr}). Dari total 80 responden, persentase ruang A mewakili 47 orang sedangkan persentase ruang B mewakili 33 orang.
+
+\pieChartRuang
+
+
+
+%\grupBarPek
+%\grupBarSuku
+
+%\cTabPek
+%\cTabSukuPlus
