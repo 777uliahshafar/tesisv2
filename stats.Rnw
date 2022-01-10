@@ -292,21 +292,27 @@ cat("\\end{figure}\n")
 cat(paste("}\n"))
 @
 
+<<cTabGen, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=5, fig.height=3, autodep= T>>=
 
-<<cTabPek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
-cTabPek <- xtabs(~ pekerjaan + ruang, data = df)
+ctps_gen <- crosstab(df$ruang, df$gender, dnn = c("Ruang", "Gender"), expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r = FALSE, plot = FALSE)
+ct <- crosstab(df$ruang, df$gender,
+               dnn = c("Ruang", "Gender"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE,
+               plot = FALSE)
 
-#cTabPek <- table(df$pekerjaan,df$gender,df$ruang)
+#complete_tab <- descr:::CreateNewTab(ctps_gen2)
 
+cat(paste("\\newcommand{\\ctpsproGGen}{\n", sep=""))
+print(xtable(ct, align = "llddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Opinion according to level of education"),
+      booktabs = TRUE, include.rownames = FALSE,
+      sanitize.text.function = function(x) x)
 
-cat(paste("\\newcommand{\\cTabPek}{\n", sep=""))
-print(xtable(cTabPek,
-             label="Cross Tab Pekerjaan",
-             caption=paste("Cross Tab 1"), digit=3 ))
 cat(paste("}\n"))
 
 @
-
 
 <<cTabSuku, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
 
