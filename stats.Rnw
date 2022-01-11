@@ -299,12 +299,19 @@ ctpsG <- crosstab(df$ruang, df$gender,
                user.missing.dep = "Don't know",
                expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
+comm2 <- paste0("\\hline \n",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{4pt} *p=1}} \n")
+
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=1}} \n")
+
 cat(paste("\\newcommand{\\ctpsproGGen}{\n", sep=""))
 print(xtable(ctpsG, align = "lldd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
              caption = "Crosstabulasi ruang berdasarkan gender"),
-      booktabs = TRUE, include.rownames = FALSE, caption.placement="top", add.to.row=list(list(4),"\\hline sumber: analisis penulis, 2022\\\\ **p= 1 \\\\"),
-      sanitize.text.function = function(x) x,)
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
 @
