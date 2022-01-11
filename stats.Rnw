@@ -117,9 +117,11 @@ cat(paste("}\n"))
 @
 
 <<pieUsia, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
-usia <- cut(df$usia, breaks = c(15, 25, 40, 80), labels = c("18-25", "25-40", "> 40"), right = T)
+usia <- cut(df$usia, breaks = c(15, 25, 40, 80), labels = c("18-25", "26-40", "> 41"), right = T)
 
 df$usia <- usia
+
+
 
 plotUsia <- df %>%
   count(usia) %>%
@@ -299,13 +301,10 @@ ctpsG <- crosstab(df$ruang, df$gender,
                user.missing.dep = "Don't know",
                expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
-comm2 <- paste0("\\hline \n",
-               "{\\scriptsize{sumber: analisis,2022 \\hspace{4pt} *p=1}} \n")
-
-comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+comm <- paste0("\\hline \n \\multicolumn{3}{l}",
                "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=1}} \n")
 
-cat(paste("\\newcommand{\\ctpsproGGen}{\n", sep=""))
+cat(paste("\\newcommand{\\ctpsproGen}{\n", sep=""))
 print(xtable(ctpsG, align = "lldd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
              caption = "Crosstabulasi ruang berdasarkan gender"),
@@ -316,37 +315,68 @@ cat(paste("}\n"))
 
 @
 
-<<cTabSuku, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+<<cTabUsi, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
 
-cTabSuku <- xtabs(~ suku + ruang, data = df)
-chisSuku <- chisq.test(cTabSuku)
+levels(df$usia) <- c("remaja","dewasa","manula")
 
-##Create table for chisquare to xtable
-df.chisSuku <- data.frame(D = c(df$suku, df$ruang),
-                     `p value` = c(chisSuku$p.value,chisSuku$p.value))
+ctpsU <- crosstab(df$ruang, df$usia,
+               dnn = c("Ruang", "Kelompok Usia"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
-cat(paste("\\newcommand{\\cTabSuku}{\n", sep=""))
-print(xtable(df.chisSuku,
-             label="Cross Tab Gender",
-             caption=paste("Cross Tab 1"), digit=3 ))
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.455}} \n")
+
+cat(paste("\\newcommand{\\ctpsproUsi}{\n", sep=""))
+print(xtable(ctpsU, align = "llddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan usia"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
 @
 
-<<cTabSukuPlus, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
 
-ct_suku <- crosstab(df$ruang, df$suku, dnn = c("Ruang", "Suku"), expected = TRUE, prop.c = TRUE, prop.r = TRUE, plot = FALSE)
+<<cTabPek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
 
-#tab_suku <- ct_suku$tab
-#class(tab_suku)
-#tab_suku
+ctpsP <- crosstab(df$ruang, df$pekerjaan,
+               dnn = c("Ruang", "Pekerjaan"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
-tab_plus_suku <- descr:::CreateNewTab(ct_suku)
-#class(tab_plus_suku)
-#tab_plus_suku
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.772}} \n")
 
-cat(paste("\\newcommand{\\cTabSukuPlus}{\n", sep=""))
-print(xtable(tab_plus_suku, align = "lddddd", multirow = TRUE, hline = TRUE, row.labels = TRUE, percent = FALSE,label="ctsukuplus",caption="Crosstab Suku plus"),booktabs = TRUE, include.rownames = FALSE)
+cat(paste("\\newcommand{\\ctpsproPek}{\n", sep=""))
+print(xtable(ctpsP, align = "llddddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan pekerjaan"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@
+
+<<cTabSuk, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+
+ctpsS <- crosstab(df$ruang, df$suku,
+               dnn = c("Ruang", "Suku"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
+
+comm <- paste0("\\hline \n \\multicolumn{5}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.951}} \n")
+
+cat(paste("\\newcommand{\\ctpsproSuk}{\n", sep=""))
+print(xtable(ctpsS, align = "lldddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan pekerjaan"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
 @

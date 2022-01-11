@@ -53,7 +53,14 @@ Berdasarkan respon foto dari ruang Pantai Senggol, kebanyakan responden (59\%) m
 
 \pieChartRuang
 
-\ctpsproGGen
+
+
+\ctpsproGen
+\ctpsproPek
+
+\ctpsproUsi
+\ctpsproSuk
+
 %\grupBarPek
 %\grupBarSuku
 
