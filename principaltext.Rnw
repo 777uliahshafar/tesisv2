@@ -1572,6 +1572,7 @@ Jarak antara ruang B dan pelabuhan yang jauh menjadi alasan kualitas air disini 
 \chapter{Hasil dan Pembahasan}
 \section{Profil demografi }
 
+\ctpsproGGen
 
 \begin{comment}
 

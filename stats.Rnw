@@ -292,24 +292,19 @@ cat("\\end{figure}\n")
 cat(paste("}\n"))
 @
 
-<<cTabGen, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=5, fig.height=3, autodep= T>>=
+<<cTabGen, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
 
-ctps_gen <- crosstab(df$ruang, df$gender, dnn = c("Ruang", "Gender"), expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r = FALSE, plot = FALSE)
-ct <- crosstab(df$ruang, df$gender,
+ctpsG <- crosstab(df$ruang, df$gender,
                dnn = c("Ruang", "Gender"),
                user.missing.dep = "Don't know",
-               expected = FALSE, prop.c = TRUE, prop.r = FALSE,
-               plot = FALSE)
-
-#complete_tab <- descr:::CreateNewTab(ctps_gen2)
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
 cat(paste("\\newcommand{\\ctpsproGGen}{\n", sep=""))
-print(xtable(ct, align = "llddd", multirow = TRUE, hline = TRUE,
+print(xtable(ctpsG, align = "lldd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
-             caption = "Opinion according to level of education"),
-      booktabs = TRUE, include.rownames = FALSE,
-      sanitize.text.function = function(x) x)
-
+             caption = "Crosstabulasi ruang berdasarkan gender"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top", add.to.row=list(list(4),"\\hline sumber: analisis penulis, 2022\\\\ **p= 1 \\\\"),
+      sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
 @
