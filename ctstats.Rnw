@@ -1,0 +1,95 @@
+%------------------------------------------------------
+<<parent1-1, echo= F, cache= F>>=
+library(knitr)
+set_parent("thesis.Rnw")
+@
+%------------------------------------------------------
+
+%library(descr)
+%df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
+<<cTabGen, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+
+ctpsG <- crosstab(df$ruang, df$gender,
+               dnn = c("Ruang", "Gender"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
+
+comm <- paste0("\\hline \n \\multicolumn{3}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.4}} \n")
+
+cat(paste("\\newcommand{\\ctpsproGen}{\n", sep=""))
+print(xtable(ctpsG, align = "lldd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan gender"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@
+
+<<cTabUsi, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+
+levels(df$usia) <- c("remaja","dewasa","manula")
+
+ctpsU <- crosstab(df$ruang, df$usia,
+               dnn = c("Ruang", "Kelompok Usia"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
+
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.0427}} \n")
+
+cat(paste("\\newcommand{\\ctpsproUsi}{\n", sep=""))
+print(xtable(ctpsU, align = "llddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan usia"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@
+
+
+<<cTabPek, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+
+ctpsP <- crosstab(df$ruang, df$pekerjaan,
+               dnn = c("Ruang", "Pekerjaan"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
+
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.243}} \n")
+
+cat(paste("\\newcommand{\\ctpsproPek}{\n", sep=""))
+print(xtable(ctpsP, align = "llddddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan pekerjaan"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@
+
+<<cTabSuk, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+
+ctpsS <- crosstab(df$ruang, df$suku,
+               dnn = c("Ruang", "Suku"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
+
+comm <- paste0("\\hline \n \\multicolumn{5}{l}",
+               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.309}} \n")
+
+cat(paste("\\newcommand{\\ctpsproSuk}{\n", sep=""))
+print(xtable(ctpsS, align = "lldddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan pekerjaan"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@
