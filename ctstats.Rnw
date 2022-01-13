@@ -4,7 +4,7 @@ library(knitr)
 set_parent("thesis.Rnw")
 @
 %------------------------------------------------------
-
+%library(xtable)
 %library(descr)
 %df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
 <<cTabGen, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
@@ -20,7 +20,7 @@ comm <- paste0("\\hline \n \\multicolumn{3}{l}",
 cat(paste("\\newcommand{\\ctpsproGen}{\n", sep=""))
 print(xtable(ctpsG, align = "lldd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
-             caption = "Crosstabulasi ruang berdasarkan gender"),
+             caption = "Crosstabulasi ruang berdasarkan gender", label="tab:ctpsG"),
       booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
 add.to.row = list(pos = list(4), command = comm),
 sanitize.text.function = function(x) x,)
@@ -43,7 +43,7 @@ comm <- paste0("\\hline \n \\multicolumn{4}{l}",
 cat(paste("\\newcommand{\\ctpsproUsi}{\n", sep=""))
 print(xtable(ctpsU, align = "llddd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
-             caption = "Crosstabulasi ruang berdasarkan usia"),
+             caption = "Crosstabulasi ruang berdasarkan usia",label="tab:ctpsU"),
       booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
 add.to.row = list(pos = list(4), command = comm),
 sanitize.text.function = function(x) x,)
@@ -65,7 +65,7 @@ comm <- paste0("\\hline \n \\multicolumn{4}{l}",
 cat(paste("\\newcommand{\\ctpsproPek}{\n", sep=""))
 print(xtable(ctpsP, align = "llddddd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
-             caption = "Crosstabulasi ruang berdasarkan pekerjaan"),
+             caption = "Crosstabulasi ruang berdasarkan pekerjaan",label="tab:ctpsP"),
       booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
 add.to.row = list(pos = list(4), command = comm),
 sanitize.text.function = function(x) x,)
@@ -86,7 +86,7 @@ comm <- paste0("\\hline \n \\multicolumn{5}{l}",
 cat(paste("\\newcommand{\\ctpsproSuk}{\n", sep=""))
 print(xtable(ctpsS, align = "lldddd", multirow = TRUE, hline = TRUE,
              row.labels = TRUE, percent = FALSE,
-             caption = "Crosstabulasi ruang berdasarkan pekerjaan"),
+             caption = "Crosstabulasi ruang berdasarkan pekerjaan",label="tab:ctpsS"),
       booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
 add.to.row = list(pos = list(4), command = comm),
 sanitize.text.function = function(x) x,)

@@ -55,15 +55,27 @@ Berdasarkan respon foto dari ruang Pantai Senggol, kebanyakan responden (59\%) m
 
 \pieChartRuang
 
-Pada penelitian ini menganalisis diantara dua variabel. Variabel independen
+Pada tabel \ref{tab:ctpsG} menunjukkan 62\% laki-laki menyukai ruang A dibandingkan dengan 74\% perempuan. Sementara laki-laki yang menyukai ruang B hanya 38\% dibandingkan dengan 25\% perempuan. Secara keseluruhan kebanyakan laki-laki dan perempuan memiliki preferensi terhadap ruang A.
+Meskipun demikian, perbedaan tersebut tidak signifikan (\chi^2 = 0.707,df = 1, p = 0.4).
 
-Kebanyakan laki-laki menyukai ruang a dibandingkan dengan perempuan.
-Berdasarkan hasil analisis, terdapat 74.1\% perempuan memilih ruang A. Sementara ruang B dipilih sebagian
 \ctpsproGen
+
+Pada tabel ruang*pekerjaan (lihat tabel: \ref{tab:ctpsP}) menunjukkan 100\% yang belum bekerja, 59\% karyawan, 76\% pelajar, dan 59\% wiraswasta menyukai ruang A.
+Pada golongan pekerjaan karyawan, pelajar, wiraswasta, dan lainnya, diantara 23\% hingga 42\% responden menyukai ruang B. Perbedaan ini tidak menunjukkan hubungan signifikan diantara kedua variabel (\chi^2 = 5.461, df = 4, p = 0.243).
+
 \ctpsproPek
 
+Pada tabel \ref{tab:ctpsU} menunjukkan seluruh kelompok usia diatas 50\% menyukai ruang A. 83\% remaja menyukai ruang A dibandingkan dengan 57\% dewasa dan 55\% manula. Terdapat sekitar 40\% orang dewasa dan manula menyukai ruang B, sementara hanya 16\% remaja yang menyukai ruang B. Uji chi-kuadrat menunjukkan perbedaan hubungan signifikan diantara kelompok usia dan preferensi ruang
+(\chi^2 = 6.307, df = 2, p = 0.042).
+
 \ctpsproUsi
+
+Pada tabel ruang*suku (lihat tabel \ref{tab:ctpsS}) menunjukkan orang bugis 6 hingga 8 kali lipat lebih banyak daripada suku lainnya. 71\% orang bugis menyukai ruang A dibandingkan 60\% orang suku lainnya dan 42\% orang makassar. Pada suku makassar, toraja dan lainnya, 40\% hingga 57\% menyukai ruang B. Lebih lanjut, hanya 28\% orang bugis menyukai ruang B. Suku toraja memiliki persentase 50\% untuk kedua ruang yang artinya seimbang. Perbedaan ini menunjukkan hubungan yang tidak signifikan  (\chi^2 = 3.595, df = 3, p = 0.309).
+
 \ctpsproSuk
+
+
+
 
 %\grupBarPek
 %\grupBarSuku
