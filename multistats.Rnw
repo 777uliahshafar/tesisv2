@@ -1,0 +1,28 @@
+%------------------------------------------------------
+<<parent1-2, echo= F, cache= F>>=
+library(knitr)
+set_parent("thesis.Rnw")
+@
+%------------------------------------------------------
+%library(xtable)
+%df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
+<<mResFre, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+
+
+mrpa <- data.frame(
+  Frek = colSums(df[6:9]),
+  Pct.Resp = (colSums(df[6:9]) / sum(df[6:9])) * 100,
+  Pct.Kasus = (colSums(df[6:9]) / nrow(df[6:9])) * 100
+)
+
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: analisis,2022 }} \n")
+
+cat(paste("\\newcommand{\\mrpafre}{\n", sep=""))
+print(xtable(mrpa, align = "lldd", hline = TRUE,
+             row.labels = TRUE, percent = FALSE, digits=c(0,0,2,2),
+             caption = "Frekuensi", label="tab:mrpaF"),
+      booktabs = TRUE, include.rownames = TRUE, caption.placement="top",add.to.row = list(pos = list(4), command = comm), sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@

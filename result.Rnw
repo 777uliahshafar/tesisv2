@@ -11,7 +11,7 @@ set_parent("thesis.Rnw")
 @
 
 % load stat
-<<content1, child=c("piestats.Rnw","ctstats.Rnw"), cache=T>>=
+<<content1, child=c("piestats.Rnw","ctstats.Rnw","multistats.Rnw"), cache=T>>=
 @
 
 %--------------------------------------------------------------------------------------
@@ -70,12 +70,23 @@ Pada tabel \ref{tab:ctpsU} menunjukkan seluruh kelompok usia diatas 50\% menyuka
 
 \ctpsproUsi
 
+
 Pada tabel ruang*suku (lihat tabel \ref{tab:ctpsS}) menunjukkan orang bugis 6 hingga 8 kali lipat lebih banyak daripada suku lainnya. 71\% orang bugis menyukai ruang A dibandingkan 60\% orang suku lainnya dan 42\% orang makassar. Pada suku makassar, toraja dan lainnya, 40\% hingga 57\% menyukai ruang B. Lebih lanjut, hanya 28\% orang bugis menyukai ruang B. Suku toraja memiliki persentase 50\% untuk kedua ruang yang artinya seimbang. Perbedaan ini menunjukkan hubungan yang tidak signifikan  (\chi^2 = 3.595, df = 3, p = 0.309).
 
 \ctpsproSuk
 
 
+\newpage
+\section{Aspek yang paling disukai }
+\label{sub:prefaspek}
 
+Pada tabel \ref{tab:mrpaF} menunjukkan total respon pada aspek ruang yang menjadi alasan menyukai ruang berjumlah 150 respon. Kebanyakan orang menyukai suatu ruang karena aspek fasilitasnya yang berjumlah 50 orang yang mana 33.33\% dari keseluruhan respon.
+Tidak jauh berbeda, 47 orang menyukai ruang karena aspek aksesibilitasnya dibandingkan dengan 46 orang karena aspek estetika yang mana masing-masing berkisar 30-31\% dari total respon.
+Sementara, sedikit orang menyukai ruang karena aspek keamanan yang berjumlah hanya 7 orang yang mana berkisar 4\% dari total respon yang ada.
+
+Tabel \ref{tab:mrpaF} juga menunjukkan 58\% responden menyukai ruang karena fasilitas dibandingkan 55\% responden karena aksesibilitas dan 54\% karena estetika. Berbeda dengan 8\% dari responden menyukai ruang karena keamanan yang dirasakan.
+
+\mrpafre
 
 %\grupBarPek
 %\grupBarSuku
