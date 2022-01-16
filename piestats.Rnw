@@ -19,6 +19,7 @@ library(xlsx)
 
 # Create table
 library(xtable)
+library(kableExtra)
 library(descr)
 
 

@@ -5,7 +5,8 @@ set_parent("thesis.Rnw")
 @
 %------------------------------------------------------
 %library(xtable)
-%library(dplyr)
+%require(summarytools)
+%library(kableExtra)
 %df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
 <<mResFre, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
 
@@ -32,4 +33,29 @@ print(xtable(mrpa_pro, align ="llldd" , hline = TRUE,
       booktabs = TRUE, include.rownames = FALSE, caption.placement="top",add.to.row = list(pos = list(5), command = comm), sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
+@
+
+<<mResGen, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+
+attach(df)
+
+# Extract cols from file
+df_aspek <- data.frame(aksesibilitas, keamanan, estetika, fasilitas)
+
+# Get the rows having at least 1 response
+df_aspekpro <- subset(df_aspek, aksesibilitas >= 0 | keamanan >= 0 | estetika >= 0 | fasilitas >= 0)
+
+gender <- subset(df$gender, aksesibilitas >= 0 | keamanan >= 0 | estetika >= 0 | fasilitas >= 0)
+ctpaG <- summarytools::ctable(gender, df_aspekpro$aksesibilitas, dnn = c("Gender", "Aksesibilitas"), round.digits = 0, prop = "t",method = "render")
+
+#Produce latex table then manually modify
+
+kbl(ctpaG,"latex",caption="Crosstabulasi aspek", label="tab:ctpaG" ,booktabs = TRUE) %>%
+column_spec(2, width = "4em") %>%
+column_spec(3, width = "4em") %>%
+column_spec(4, width = "4em") %>%
+kable_styling(position="center") %>%
+footnote(alphabet = "analisis, 2022 ",
+alphabet_title = "Sumber: ",
+footnote_as_chunk = TRUE)
 @
