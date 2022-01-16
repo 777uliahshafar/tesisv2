@@ -21,6 +21,7 @@ library(xlsx)
 library(xtable)
 library(descr)
 
+
 # Set working directory:
 setwd("/Volumes/hdd/tesis/")
 cur.wd <- getwd()

@@ -80,11 +80,11 @@ Pada tabel ruang*suku (lihat tabel \ref{tab:ctpsS}) menunjukkan orang bugis 6 hi
 \section{Aspek yang paling disukai }
 \label{sub:prefaspek}
 
-Pada tabel \ref{tab:mrpaF} menunjukkan total respon pada aspek ruang yang menjadi alasan menyukai ruang berjumlah 150 respon. Kebanyakan orang menyukai suatu ruang karena aspek fasilitasnya yang berjumlah 50 orang yang mana 33.33\% dari keseluruhan respon.
+Pada tabel \ref{tab:mrpaF} menunjukkan terdapat 150 total respon dari aspek ruang yang menjadi alasan menyukai ruang. Kebanyakan orang menyukai suatu ruang karena aspek fasilitasnya yang berjumlah 50 orang yang mana 33.33\% dari keseluruhan respon.
 Tidak jauh berbeda, 47 orang menyukai ruang karena aspek aksesibilitasnya dibandingkan dengan 46 orang karena aspek estetika yang mana masing-masing berkisar 30-31\% dari total respon.
 Sementara, sedikit orang menyukai ruang karena aspek keamanan yang berjumlah hanya 7 orang yang mana berkisar 4\% dari total respon yang ada.
 
-Tabel \ref{tab:mrpaF} juga menunjukkan 58\% responden menyukai ruang karena fasilitas dibandingkan 55\% responden karena aksesibilitas dan 54\% karena estetika. Berbeda dengan 8\% dari responden menyukai ruang karena keamanan yang dirasakan.
+Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena fasilitas dibandingkan 55\% responden karena aksesibilitas dan 54\% karena estetika. Berbeda dengan 8\% dari responden menyukai ruang karena keamanan yang dirasakan.
 
 \mrpafre
 
