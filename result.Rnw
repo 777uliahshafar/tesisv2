@@ -93,13 +93,8 @@ Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena f
 
 Responden ditanya apakah alasannya memilih suatu ruang. Hasilnya menunjukkan 31 (35\%) laki-laki dan 16 (19\%) perempuan menyebut aksesibilitas sebagai alasannya. Alhasil, 47 responden memilih suatu ruang karena aspek aksesibilitas.
 
-
-\ctpaAksGen
-
-\ctpaAksUsi
-\ctpaAksPek
-
-\ctpaAksSuk
+\ctpaAksEach
+\ctpaAksRua
 %\grupBarPek
 %\grupBarSuku
 

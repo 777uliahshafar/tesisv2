@@ -53,13 +53,17 @@ pekerjaan <- subset(df$pekerjaan, aksesibilitas >= 0 | keamanan >= 0 | estetika 
 
 suku <- subset(df$suku, aksesibilitas >= 0 | keamanan >= 0 | estetika >= 0 | fasilitas >= 0)
 
+ruang <- subset(df$ruang, aksesibilitas >= 0 | keamanan >= 0 | estetika >= 0 | fasilitas >= 0)
+
 ctpaG <- summarytools::ctable(gender, df_aspekpro$aksesibilitas, dnn = c("Gender", "Aksesibilitas"), prop="t", round.digits = 0)
 
-ctpaU <- summarytools::ctable(usia, df_aspekpro$aksesibilitas, dnn = c("Gender", "Aksesibilitas"), prop= "t", round.digits = 0)
+ctpaU <- summarytools::ctable(usia, df_aspekpro$aksesibilitas, dnn = c("Usia", "Aksesibilitas"), prop= "t", round.digits = 0)
 
-ctpaP <- summarytools::ctable(pekerjaan, df_aspekpro$aksesibilitas, dnn = c("Gender", "Aksesibilitas"), prop= "t", round.digits = 0)
+ctpaP <- summarytools::ctable(pekerjaan, df_aspekpro$aksesibilitas, dnn = c("Pekerjaan", "Aksesibilitas"), prop= "t", round.digits = 0)
 
-ctpaS <- summarytools::ctable(suku, df_aspekpro$aksesibilitas, dnn = c("Gender", "Aksesibilitas"), prop= "t", round.digits = 0)
+ctpaS <- summarytools::ctable(suku, df_aspekpro$aksesibilitas, dnn = c("Suku", "Aksesibilitas"), prop= "t", round.digits = 0)
+
+ctpaR <- summarytools::ctable(ruang, df_aspekpro$aksesibilitas, dnn = c("Ruang", "Aksesibilitas"), prop= "t", round.digits = 0)
 
 @
 <<mResAksChild, echo= F, error= F, message= F, eval=F, warning= F, cache=F>>=
@@ -101,7 +105,59 @@ footnote(alphabet = "analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
+
+kbl(ctpaR,"latex",caption="Crosstabulasi aksesibilitas*ruang", label="ctpaR" ,booktabs = TRUE) %>%
+column_spec(2, width = "4em") %>%
+column_spec(3, width = "4em") %>%
+column_spec(4, width = "4em") %>%
+kable_styling(position="center") %>%
+footnote(alphabet = "analisis, 2022 ",
+alphabet_title = "Sumber: ",
+footnote_as_chunk = TRUE)
+
 @
+
+\newcommand{\ctpaAksEach}{
+\begin{table}
+\caption{\label{tab:ctpaE}Crosstabulasi aksesibilitas}
+
+\centering
+\begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
+
+\toprule
+& Aksessibilitas & 0 (tidak) & 1 (ya) & Total\\
+\midrule
+Gender & & & & \\
+laki-laki && 27(32\%) & 31(36\%) & 58(68\%)\\
+perempuan && 11(13\%) & 16(19\%) & 27(32\%)\\
+
+\midrule
+Usia & & & & \\
+18-25 && 13 (15\%) & 17 (20\%) & 30 (34\%)\\
+26-40 && 16 (19\%) & 19 (22\%) & 35 (41\%)\\
+> 41 && 9 (11\%) & 11 (13\%) & 20 (24\%)\\
+
+\midrule
+Pekerjaan & & & & \\
+belum bekerja && 4 (5\%) & 2 (2\%) & 6 (7\%)\\
+karyawan && 15 (18\%) & 14 (16\%) & 29 (34\%)\\
+lainnya && 4 (5\%) & 8 (9\%) & 12 (14\%)\\
+pelajar && 7 (8\%) & 14 (16\%) & 21 (25\%)\\
+wiraswasta && 8 (9\%) & 9 (11\%) & 17 (20\%)\\
+
+\midrule
+bugis && 27 (32\%) & 33 (39\%) & 60 (71\%)\\
+lainnya && 5 (6\%) & 5 (6\%) & 10 (12\%)\\
+makassar && 4 (5\%) & 3 (4\%) & 7 (8\%)\\
+toraja && 2 (2\%) & 6 (7\%) & 8 (9\%)\\
+
+Total Responden && 38 (45\%) & 47 (55\%) & 85 (100\%)\\
+\bottomrule
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
 
 \newcommand{\ctpaAksGen}{
 \begin{table}
@@ -178,6 +234,24 @@ lainnya && 5 & 5 & 10\\
 makassar && 4 & 3 & 7\\
 toraja && 2 & 6 & 8\\
 Total && 38 & 47 & 85\\
+\bottomrule
+\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+\newcommand{\ctpaAksRua}{
+\begin{table}
+\caption{\label{tab:ctpaR}Crosstabulasi aksesibilitas*ruang}
+\centering
+\begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
+\toprule
+& Aksesibilitas  & 0 & 1 & \vphantom{1} Total\\
+\midrule
+ruang &&  &  & \\
+ruang a && 24 (28\%) & 32 (38\%) & 56 (66\%)\\
+ruang b && 14 (16\%) & 15 (18\%) & 29 (34\%)\\
+Total && 38 (45\%) & 47 (55\%) & 85 (100\%)\\
 \bottomrule
 \multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
 \end{tabular}
