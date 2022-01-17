@@ -15,7 +15,7 @@ ctpsG <- crosstab(df$ruang, df$gender,
                expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
 comm <- paste0("\\hline \n \\multicolumn{3}{l}",
-               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.4}} \n")
+               "{\\scriptsize{Sumber: analisis,2022 \\hspace{6pt} *p=0.4}} \n")
 
 cat(paste("\\newcommand{\\ctpsproGen}{\n", sep=""))
 print(xtable(ctpsG, align = "lldd", multirow = TRUE, hline = TRUE,
@@ -38,7 +38,7 @@ ctpsU <- crosstab(df$ruang, df$usia,
                expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
 comm <- paste0("\\hline \n \\multicolumn{4}{l}",
-               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.0427}} \n")
+               "{\\scriptsize{Sumber: analisis,2022 \\hspace{6pt} *p=0.0427}} \n")
 
 cat(paste("\\newcommand{\\ctpsproUsi}{\n", sep=""))
 print(xtable(ctpsU, align = "llddd", multirow = TRUE, hline = TRUE,
@@ -60,7 +60,7 @@ ctpsP <- crosstab(df$ruang, df$pekerjaan,
                expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
 comm <- paste0("\\hline \n \\multicolumn{4}{l}",
-               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.243}} \n")
+               "{\\scriptsize{Sumber: analisis,2022 \\hspace{6pt} *p=0.243}} \n")
 
 cat(paste("\\newcommand{\\ctpsproPek}{\n", sep=""))
 print(xtable(ctpsP, align = "llddddd", multirow = TRUE, hline = TRUE,
@@ -81,7 +81,7 @@ ctpsS <- crosstab(df$ruang, df$suku,
                expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
 
 comm <- paste0("\\hline \n \\multicolumn{5}{l}",
-               "{\\scriptsize{sumber: analisis,2022 \\hspace{6pt} *p=0.309}} \n")
+               "{\\scriptsize{Sumber: analisis,2022 \\hspace{6pt} *p=0.309}} \n")
 
 cat(paste("\\newcommand{\\ctpsproSuk}{\n", sep=""))
 print(xtable(ctpsS, align = "lldddd", multirow = TRUE, hline = TRUE,

@@ -88,24 +88,18 @@ Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena f
 
 \mrpafre
 
-\begin{table}
-\caption{\label{tab:ctpaG}Crosstabulasi aspek}
 
-\centering
-\begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
+\subsection{Aspek aksesibilitas }
 
-\toprule
-& Aksessibilitas & 0(tidak) & 1(ya) & Total\\
-\midrule
-Gender & & & & \\
-laki-laki && 27(32\%) & 31(36\%) & 58(68\%)\\
-perempuan && 11(13\%) & 16(19\%) & 27(32\%)\\
-Total && 38(45\%) & 47(55\%) & 85(100\%)\\
-\bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}Sumber:analisis, 2022 }\\
-\end{tabular}
-\end{table}
+Responden ditanya apakah alasannya memilih suatu ruang. Hasilnya menunjukkan 31 (35\%) laki-laki dan 16 (19\%) perempuan menyebut aksesibilitas sebagai alasannya. Alhasil, 47 responden memilih suatu ruang karena aspek aksesibilitas.
 
+
+\ctpaAksGen
+
+\ctpaAksUsi
+\ctpaAksPek
+
+\ctpaAksSuk
 %\grupBarPek
 %\grupBarSuku
 
