@@ -91,10 +91,18 @@ Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena f
 
 \subsection{Aspek aksesibilitas }
 
-Responden ditanya apakah alasannya memilih suatu ruang. Hasilnya menunjukkan 31 (35\%) laki-laki dan 16 (19\%) perempuan menyebut aksesibilitas sebagai alasannya. Alhasil, 47 responden memilih suatu ruang karena aspek aksesibilitas.
+Responden ditanya apakah alasannya memilih suatu ruang. Berdasarkan gendernya, hasilnya menunjukkan 31 (35\%) laki-laki dan 16 (19\%) perempuan menyebut aksesibilitas sebagai alasannya. Pada kelompok usia, 17 (20\%) remaja dan 19 (22\%) dewasa memilih suatu ruang disebabkan oleh aspek aksesibilitas dibandingkan dengan 11 (13\%) manula.
+Selanjutnya pada jenis pekerjaan, responden yang memilih aksesibilitas sebagai alasan memilih ruang terdiri atas 14(16\%) karyawan dan pelajar, 9 (11\%) wiraswasta, 8 (9\%) lainnya dan terakhir 2 (2\%) belum bekerja. Secara umum, perbedaan proporsi ini tidak jauh atau hampir merata. Terakhir, kelompok suku menunjukkan 33 (39\%) orang bugis menyukai ruang karena aksesibilitas. Hal ini dapat dipastikan karena kebanyakan responden berasal dari suku bugis. Kemudian, terdapat 6 (7\%) orang toraja, 5(6\%) suku lainnya, dan 3 (4\%) orang makassar yang memilih aksesbilitas.
+Alhasil, 47 responden yang dikelompokkan berdasarkan gender, usia, pekerjaan dan suku memilih suatu ruang karena aspek aksesibilitas.
 
 \ctpaAksEach
+Pada tabel \ref{tab:ctpaR} menunjukkan 32 (38\%) responden menyukai ruang A oleh karena aspek aksesibilitas dibandingkan dengan 15 (18\%) responden yang menyukai ruang B. Perbedaan tersebut tidak menunjukkan hubungan signifikan diantara kedua variabel (\chi^2 = 0.0607,df = 1, p = 0.805).
+
 \ctpaAksRua
+
+\subsection{Aspek keamanan}
+
+
 %\grupBarPek
 %\grupBarSuku
 

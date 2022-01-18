@@ -63,15 +63,15 @@ ctpaP <- summarytools::ctable(pekerjaan, df_aspekpro$aksesibilitas, dnn = c("Pek
 
 ctpaS <- summarytools::ctable(suku, df_aspekpro$aksesibilitas, dnn = c("Suku", "Aksesibilitas"), prop= "t", round.digits = 0)
 
-ctpaR <- summarytools::ctable(ruang, df_aspekpro$aksesibilitas, dnn = c("Ruang", "Aksesibilitas"), prop= "t", round.digits = 0)
+ctpaR <- summarytools::ctable(ruang, df_aspekpro$aksesibilitas, dnn = c("Ruang", "Aksesibilitas"),chisq = TRUE, prop= "t", round.digits = 0)
 
 @
 <<mResAksChild, echo= F, error= F, message= F, eval=F, warning= F, cache=F>>=
 #Produce latex table then manually modify
 kbl(ctpaG,"latex",caption="Crosstabulasi aksessibilitas*gender", label="tab:ctpaG" ,booktabs = TRUE) %>%
-column_spec(2, width = "4em") %>%
-column_spec(3, width = "4em") %>%
-column_spec(4, width = "4em") %>%
+column_spec(2, width = "4.3em") %>%
+column_spec(3, width = "4.3em") %>%
+column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
 footnote(alphabet = "analisis, 2022 ",
 alphabet_title = "Sumber: ",
@@ -79,27 +79,27 @@ footnote_as_chunk = TRUE)
 
 
 kbl(ctpaU,"latex",caption="Crosstabulasi aksesibilitas*usia", label="ctpaU" ,booktabs = TRUE) %>%
-column_spec(2, width = "4em") %>%
-column_spec(3, width = "4em") %>%
-column_spec(4, width = "4em") %>%
+column_spec(2, width = "4.3em") %>%
+column_spec(3, width = "4.3em") %>%
+column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
 footnote(alphabet = "analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
 kbl(ctpaP,"latex",caption="Crosstabulasi aksesibilitas*pekerjaan", label="ctpaP" ,booktabs = TRUE) %>%
-column_spec(2, width = "4em") %>%
-column_spec(3, width = "4em") %>%
-column_spec(4, width = "4em") %>%
+column_spec(2, width = "4.3em") %>%
+column_spec(3, width = "4.3em") %>%
+column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
 footnote(alphabet = "analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
 kbl(ctpaS,"latex",caption="Crosstabulasi aksesibilitas*suku", label="ctpaS" ,booktabs = TRUE) %>%
-column_spec(2, width = "4em") %>%
-column_spec(3, width = "4em") %>%
-column_spec(4, width = "4em") %>%
+column_spec(2, width = "4.3em") %>%
+column_spec(3, width = "4.3em") %>%
+column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
 footnote(alphabet = "analisis, 2022 ",
 alphabet_title = "Sumber: ",
@@ -107,9 +107,9 @@ footnote_as_chunk = TRUE)
 
 
 kbl(ctpaR,"latex",caption="Crosstabulasi aksesibilitas*ruang", label="ctpaR" ,booktabs = TRUE) %>%
-column_spec(2, width = "4em") %>%
-column_spec(3, width = "4em") %>%
-column_spec(4, width = "4em") %>%
+column_spec(2, width = "4.3em") %>%
+column_spec(3, width = "4.3em") %>%
+column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
 footnote(alphabet = "analisis, 2022 ",
 alphabet_title = "Sumber: ",
@@ -146,6 +146,7 @@ pelajar && 7 (8\%) & 14 (16\%) & 21 (25\%)\\
 wiraswasta && 8 (9\%) & 9 (11\%) & 17 (20\%)\\
 
 \midrule
+Suku & & & & \\
 bugis && 27 (32\%) & 33 (39\%) & 60 (71\%)\\
 lainnya && 5 (6\%) & 5 (6\%) & 10 (12\%)\\
 makassar && 4 (5\%) & 3 (4\%) & 7 (8\%)\\
@@ -244,7 +245,7 @@ Total && 38 & 47 & 85\\
 \begin{table}
 \caption{\label{tab:ctpaR}Crosstabulasi aksesibilitas*ruang}
 \centering
-\begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
+\begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
 \toprule
 & Aksesibilitas  & 0 & 1 & \vphantom{1} Total\\
 \midrule
