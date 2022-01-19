@@ -35,7 +35,9 @@ cat(paste("}\n"))
 
 @
 
-<<mResAks, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+
+
+<<mRes, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
 
 attach(df)
 # Extract cols from file
@@ -55,6 +57,7 @@ suku <- subset(df$suku, aksesibilitas >= 0 | keamanan >= 0 | estetika >= 0 | fas
 
 ruang <- subset(df$ruang, aksesibilitas >= 0 | keamanan >= 0 | estetika >= 0 | fasilitas >= 0)
 
+# Two-variable Crosstab
 # Aksesibilitas
 ctpaG <- summarytools::ctable(gender, df_aspekpro$aksesibilitas, dnn = c("Gender", "Aksesibilitas"), prop="t", round.digits = 0)
 
@@ -644,6 +647,89 @@ Total  & 47 (45\%) & 7 (55\%)  & 46 (54\%) & 50 (59\%) &150 (100\%) \\
 
  \bottomrule
 \multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+
+
+<<mResThree, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+# crosstabulation three var by gender
+xtpaG <- xtabs(~gender + df_aspekpro$aksesibilitas + ruang,data=df)
+xtpaG <- round(100 * prop.table(xtpaG), 0)
+
+xtpkG <- xtabs(~gender + df_aspekpro$keamanan + ruang,data=df)
+xtpkG <- round(100 * prop.table(xtpkG), 0)
+
+xtpeG <- xtabs(~gender + df_aspekpro$estetika + ruang,data=df)
+xtpeG <- round(100 * prop.table(xtpeG), 0)
+
+xtpfG <- xtabs(~gender + df_aspekpro$fasilitas + ruang,data=df)
+xtpfG <- round(100 * prop.table(xtpfG), 0)
+
+# crosstabulation three var by usia
+xtpaU <- xtabs(~usia + df_aspekpro$aksesibilitas + ruang,data=df)
+xtpaU <- round(100 * prop.table(xtpaU), 0)
+
+xtpkU <- xtabs(~usia + df_aspekpro$keamanan + ruang,data=df)
+xtpkU <- round(100 * prop.table(xtpkU), 0)
+
+xtpeU <- xtabs(~usia + df_aspekpro$estetika + ruang,data=df)
+xtpeU <- round(100 * prop.table(xtpeU), 0)
+
+xtpfU <- xtabs(~usia + df_aspekpro$fasilitas + ruang,data=df)
+xtpfU <- round(100 * prop.table(xtpfU), 0)
+
+
+@
+
+
+\newcommand{\xtpabygen}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Cross tabulasi ruang*aspek}
+	\label{tab:xtpaG}
+    \centering
+\begin{tabular}[t]{p{1em}r P{4.3em}
+    P{4.3em}P{4.3em}P{4.8em}}
+\hline
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2cm]{Ruang}{Aspek\\Ruang}}&
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
+ \toprule
+\multirow{2}{*}{Ra}&Laki-laki  & 20(24\%)  & 5(6\%)    & 25(29\%) &  19(22\%)\\
+&Perempuan  & 12(14\%) & 0    & 12(14\%)  & 11(13\%)  \\
+
+\multirow{2}{*}{Rb}&Laki-laki  & 11 (13\%)  & 2(2\%)    & 8(9\%)  &  15(18\%)\\
+&Perempuan  & 4(5\%)  & 0    & 1(1\%)  & 5(6\%)  \\
+
+
+ \bottomrule
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+
+\newcommand{\xtpabyusi}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Cross tabulasi ruang*aspek}
+	\label{tab:xtpaU}
+    \centering
+\begin{tabular}[t]{p{1em}r P{4.3em}
+    P{4.3em}P{4.3em}P{4.8em}}
+\hline
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2cm]{Ruang}{Aspek\\Ruang}}&
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
+ \toprule
+\multirow{3}{*}{Ra}&Remaja  & 15 (18\%)   & 5(6\%)     & 13(15\%)  & 14(16\%)  \\
+&Dewasa  & 11(13\%)  & 0    & 18(21\%)   & 8(9\%)  \\
+&Manula  & 6(7\%)  &0    & 6(7\%)   & 8(9\%)  \\
+
+\multirow{3}{*}{Rb}&Remaja  & 2(2\%)   & 0     & 2(2\%)  & 3(4\%)  \\
+&Dewasa  & 8(9\%)  & 0    & 4(5\%)   & 11(13\%)  \\
+&Manula  & 5(6\%)  & 2(2\%)    & 3(4\%)   & 6(7\%)  \\
+
+ \bottomrule
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
