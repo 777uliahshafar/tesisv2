@@ -199,6 +199,7 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{lscape}
 \usepackage{longtable} % Enable table cross multiple page
 \usepackage{array} %Mostly formatting columns and spacing
+\usepackage{diagbox} % diagonal line on table
 \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}} %centering elemen in table
 
 \usepackage{enumitem} % Required for list customisation

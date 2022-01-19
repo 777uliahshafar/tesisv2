@@ -88,19 +88,38 @@ Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena f
 
 \mrpafre
 
-
+\ctpaEach
+\newpage
 \subsection{Aspek aksesibilitas }
 
 Responden ditanya apakah alasannya memilih suatu ruang. Berdasarkan gendernya, hasilnya menunjukkan 31 (35\%) laki-laki dan 16 (19\%) perempuan menyebut aksesibilitas sebagai alasannya. Pada kelompok usia, 17 (20\%) remaja dan 19 (22\%) dewasa memilih suatu ruang disebabkan oleh aspek aksesibilitas dibandingkan dengan 11 (13\%) manula.
 Selanjutnya pada jenis pekerjaan, responden yang memilih aksesibilitas sebagai alasan memilih ruang terdiri atas 14(16\%) karyawan dan pelajar, 9 (11\%) wiraswasta, 8 (9\%) lainnya dan terakhir 2 (2\%) belum bekerja. Secara umum, perbedaan proporsi ini tidak jauh atau hampir merata. Terakhir, kelompok suku menunjukkan 33 (39\%) orang bugis menyukai ruang karena aksesibilitas. Hal ini dapat dipastikan karena kebanyakan responden berasal dari suku bugis. Kemudian, terdapat 6 (7\%) orang toraja, 5(6\%) suku lainnya, dan 3 (4\%) orang makassar yang memilih aksesbilitas.
-Alhasil, 47 responden yang dikelompokkan berdasarkan gender, usia, pekerjaan dan suku memilih suatu ruang karena aspek aksesibilitas.
+Alhasil, 47 atau sebanyak 55\% responden yang dikelompokkan berdasarkan gender, usia, pekerjaan dan suku memilih suatu ruang karena aspek aksesibilitas.
 
-\ctpaAksEach
+\ctpAksEach
 Pada tabel \ref{tab:ctpaR} menunjukkan 32 (38\%) responden menyukai ruang A oleh karena aspek aksesibilitas dibandingkan dengan 15 (18\%) responden yang menyukai ruang B. Perbedaan tersebut tidak menunjukkan hubungan signifikan diantara kedua variabel (\chi^2 = 0.0607,df = 1, p = 0.805).
 
-\ctpaAksRua
+\ctpAksRua
 
 \subsection{Aspek keamanan}
+Total responden yang menjawab keamanan sebagai alasan memilih ruang adalah relatif sedikit. Ini terdiri dari 7 (8\%) laki-laki menyebut keamanan dibandingkan dengan 0 perempuan. Di kelompok usia, 5 (6\%) remaja lebih memilih keamanan dibandingkan 2 (2\%) manula dan tidak ada satupun dari kalangan dewasa. Pada kelompok pekerjaan, tidak ada wiraswasta yang menyebut keamanan. Sedangkan kelompok pekerjaan lainnya, diantara 1-4 \% memilih ruang karena keamanan. Terakhir, 6 (7\%) orang bugis menyebut keamanan dibandingkan 1 (1\%) orang makassar. Karena itu 7 (8\%) responden menyukai suatu ruang karena aspek keamanan.
+
+\ctpKeaEach
+
+Pada tabel \ref{tab:ctpaR} menunjukkan aspek keamanan paling banyak disebutkan pada ruang a sebanyak 5 (38\%) dibandingkan dengan ruang b sebanyak 2 (18\%). Perbedaan ini menunjukkan hubungan yang tidak signifikan (\chi^2 = 0,df = 1, p = 1).
+
+\ctpKeaRua
+
+\subsection{Aspek estetika}
+
+\ctpEstEach
+
+\ctpEstRua
+
+\subsection{Aspek fasilitas}
+\ctpFasEach
+
+\ctpFasRua
 
 
 %\grupBarPek
