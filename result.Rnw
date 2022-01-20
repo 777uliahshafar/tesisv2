@@ -95,6 +95,9 @@ Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena f
 
 \xtpabyusi
 
+\xtpabypek
+
+\begin{comment}
 
 \subsection{Aspek aksesibilitas }
 
@@ -127,6 +130,7 @@ Pada tabel \ref{tab:ctpaR} menunjukkan aspek keamanan paling banyak disebutkan p
 
 \ctpFasRua
 
+\end{comment}
 
 %\grupBarPek
 %\grupBarSuku
