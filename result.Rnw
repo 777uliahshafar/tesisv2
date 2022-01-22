@@ -84,18 +84,31 @@ Pada tabel \ref{tab:mrpaF} menunjukkan terdapat 150 total respon dari aspek ruan
 Tidak jauh berbeda, 47 orang menyukai ruang karena aspek aksesibilitasnya dibandingkan dengan 46 orang karena aspek estetika yang mana masing-masing berkisar 30-31\% dari total respon.
 Sementara, sedikit orang menyukai ruang karena aspek keamanan yang berjumlah hanya 7 orang yang mana berkisar 4\% dari total respon yang ada.
 
-Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena fasilitas dibandingkan 55\% responden karena aksesibilitas dan 54\% karena estetika. Berbeda dengan 8\% dari responden menyukai ruang karena keamanan yang dirasakan.
+Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena fasilitas dibandingkan 55\% responden karena aksesibilitas dan 54\% karena estetika. Sedikit berbeda dengan 8\% dari responden menyukai ruang karena keamanan yang dirasakan.
 
 \mrpafre
 
 \ctpaEach
+
+Frekuensi dari aspek-aspek ruang diatas, tersebar diantara kedua ruang.
+Seperti yang dilihat pada tabel \ref{}, 32 (38\%) responden memilih ruang A oleh karena aksessibilitasnya dibandingkan dengan 15 (18\%) responden yang memilih ruang B.
+
+
 \newpage
 
 \xtpabygen
-
 \xtpabyusi
-
 \xtpabypek
+
+\newpage
+
+\subsection{Elemen yang paling disukai }
+\ctpeSingleEach
+\ctpeEach
+
+\xtpebygen
+\xtpebyusi
+\xtpebypek
 
 \begin{comment}
 

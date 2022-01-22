@@ -29,7 +29,7 @@ comm <- paste0("\\hline \n \\multicolumn{4}{l}",
 cat(paste("\\newcommand{\\mrpafre}{\n", sep=""))
 print(xtable(mrpa_pro, align ="llldd" , hline = TRUE,
              row.labels = TRUE, percent = FALSE,
-             caption = "Frekuensi", label="tab:mrpaF"),
+             caption = "Frekuensi aspek", label="tab:mrpaF"),
       booktabs = TRUE, include.rownames = FALSE, caption.placement="top",add.to.row = list(pos = list(5), command = comm), sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
@@ -37,7 +37,7 @@ cat(paste("}\n"))
 
 
 
-<<mRes, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+<<mResAsp, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
 
 attach(df)
 # Extract cols from file
@@ -68,8 +68,6 @@ ctpaP <- summarytools::ctable(pekerjaan, df_aspekpro$aksesibilitas, dnn = c("Pek
 ctpaS <- summarytools::ctable(suku, df_aspekpro$aksesibilitas, dnn = c("Suku", "Aksesibilitas"), prop= "t", round.digits = 0)
 
 ctpaR <- summarytools::ctable(ruang, df_aspekpro$aksesibilitas, dnn = c("Ruang", "Aksesibilitas"),chisq = TRUE, prop= "t", round.digits = 0)
-
-
 
 # Keamanan
 
@@ -107,7 +105,8 @@ ctpfS <- summarytools::ctable(suku, df_aspekpro$fasilitas, dnn = c("Suku", "Fasi
 
 ctpfR <- summarytools::ctable(ruang, df_aspekpro$fasilitas, dnn = c("Ruang", "Fasilitas"), prop="t", round.digits = 0)
 @
-<<mResChild, echo= F, error= F, message= F, eval=F, warning= F, cache=F>>=
+
+<<mResAspChild, echo= F, error= F, message= F, eval=F, warning= F, cache=F>>=
 #Produce latex table then manually modify
 # Aksesibilitas
 kbl(ctpaG,"latex",caption="Crosstabulasi aksessibilitas*gender", label="ctpaG" ,booktabs = TRUE) %>%
@@ -293,10 +292,14 @@ footnote_as_chunk = TRUE)
 
 @
 
+%------------------------------------------------------------------------------------------
+% Archive
+%------------------------------------------------------------------------------------------
+
 % Aksesibilitas
 \newcommand{\ctpAksEach}{
 \begin{table}
-\caption{\label{tab:ctpaE}Crosstabulasi aksesibilitas}
+\caption{Crosstabulasi aksesibilitas}
 
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
@@ -339,7 +342,7 @@ Total Responden && 38 (45\%) & 47 (55\%) & 85 (100\%)\\
 
 \newcommand{\ctpAksGen}{
 \begin{table}
-\caption{\label{tab:ctpaG}Crosstabulasi aksesibilitas*gender }
+\caption{Crosstabulasi aksesibilitas*gender }
 
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
@@ -360,7 +363,7 @@ Total && 38(45\%) & 47(55\%) & 85(100\%)\\
 
 \newcommand{\ctpAksUsi}{
 \begin{table}
-\caption{\label{tab:ctpaU}Crosstabulasi aksesibilitas*usia}
+\caption{Crosstabulasi aksesibilitas*usia}
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
 \toprule
@@ -379,7 +382,7 @@ Total && 38 & 47 & 85\\
 
 \newcommand{\ctpAksPek}{
 \begin{table}
-\caption{\label{tab:ctpaP}Crosstabulasi aksesibilitas*pekerjaan}
+\caption{Crosstabulasi aksesibilitas*pekerjaan}
 
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
@@ -401,7 +404,7 @@ Total && 38 & 47 & 85\\
 
 \newcommand{\ctpAksSuk}{
 \begin{table}
-\caption{\label{tab:ctpaS}Crosstabulasi aksesibilitas*suku}
+\caption{Crosstabulasi aksesibilitas*suku}
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}>{\raggedleft\arraybackslash}p{4em}}
 \toprule
@@ -420,7 +423,7 @@ Total && 38 & 47 & 85\\
 
 \newcommand{\ctpAksRua}{
 \begin{table}
-\caption{\label{tab:ctpaR}Crosstabulasi aksesibilitas*ruang}
+\caption{Crosstabulasi aksesibilitas*ruang}
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
 \toprule
@@ -502,7 +505,7 @@ Total && 78 (45\%) & 7 (55\%) & 85 (100\%)\\
 
 \newcommand{\ctpEstEach}{
 \begin{table}
-\caption{\label{tab:ctpeE}Crosstabulasi estetika}
+\caption{Crosstabulasi estetika}
 
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
@@ -629,10 +632,11 @@ Total & 35 (41\%) & 50 (59\%) & 85 (100\%)\\
 \end{table}
 }
 
+%------------------------------------------------------------------------------------------
 
 \newcommand{\ctpaEach}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Cross tabulasi ruang*aspek}
+	\caption{Crosstabulasi 2 ruang dan aspek}
 	\label{tab:ctpaE}
     \centering
 \begin{tabular}[t]{r P{4.2em}
@@ -641,9 +645,9 @@ Total & 35 (41\%) & 50 (59\%) & 85 (100\%)\\
 \bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}&
  {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-\\tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} &{\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Total}}}} \\
  \toprule
-Ruang A  & 32 (38\%) & 5 (38\%)   & 37 (44\%) & 30 (35\%) & 104 (69\%) \\
-Ruang B  & 15 (18\%) & 2 (8\%)   & 9 (11\%) & 20 (24\%) & 46 (31\%) \\
-Total  & 47 (45\%) & 7 (55\%)  & 46 (54\%) & 50 (59\%) &150 (100\%) \\
+Ruang A  & 32 (21\%) & 5 (3\%)   & 37 (25\%) & 30 (20\%) & 104 (69\%) \\
+Ruang B  & 15 (10\%) & 2 (2\%)   & 9 (6\%) & 20 (13\%) & 46 (31\%) \\
+Total  & 47 (31\%) & 7 (5\%)  & 46 (31\%) & 50 (33\%) &150 (100\%) \\
 
  \bottomrule
 \multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
@@ -651,21 +655,19 @@ Total  & 47 (45\%) & 7 (55\%)  & 46 (54\%) & 50 (59\%) &150 (100\%) \\
 \end{table}
 }
 
-
-
-<<mResThree, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+<<mResAspThree, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
 # crosstabulation three var by gender
 xtpaG <- xtabs(~gender + df_aspekpro$aksesibilitas + ruang,data=df)
-xtpaG <- round(100 * prop.table(xtpaG), 0)
+xtpaG <- round(100 * prop.table(xtpaG, 1), 0)
 
 xtpkG <- xtabs(~gender + df_aspekpro$keamanan + ruang,data=df)
-xtpkG <- round(100 * prop.table(xtpkG), 0)
+xtpkG <- round(100 * prop.table(xtpkG,1), 0)
 
 xtpeG <- xtabs(~gender + df_aspekpro$estetika + ruang,data=df)
-xtpeG <- round(100 * prop.table(xtpeG), 0)
+xtpeG <- round(100 * prop.table(xtpeG,1), 0)
 
 xtpfG <- xtabs(~gender + df_aspekpro$fasilitas + ruang,data=df)
-xtpfG <- round(100 * prop.table(xtpfG), 0)
+xtpfG <- round(100 * prop.table(xtpfG,1), 0)
 
 # crosstabulation three var by usia
 xtpaU <- xtabs(~usia + df_aspekpro$aksesibilitas + ruang,data=df)
@@ -694,26 +696,31 @@ xtpfP <- xtabs(~pekerjaan + df_aspekpro$fasilitas + ruang,data=df)
 xtpfP <- round(100 * prop.table(xtpfP), 0)
 @
 
+%------------------------------------------------------------------------------------------
+% Aspek yang disukai latex
+%------------------------------------------------------------------------------------------
 
 \newcommand{\xtpabygen}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Cross tabulasi ruang*aspek}
+	\caption{Crosstabulasi aspek dan perbedaan gender}
 	\label{tab:xtpaG}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
     P{4.3em}P{4.3em}P{4.8em}}
 \hline
-\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2cm]{Ruang}{Aspek\\Ruang}}&
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
  {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
  \toprule
-\multirow{2}{*}{Ra}&Laki-laki  & 20(24\%)  & 5(6\%)    & 25(29\%) &  19(22\%)\\
-&Perempuan  & 12(14\%) & 0    & 12(14\%)  & 11(13\%)  \\
+\multirow{2}{*}{Ra}&Laki-laki  & 20  & 5    & 25 &  19\\
+&Perempuan  & 12 & 0    & 12  & 11  \\
 
-\multirow{2}{*}{Rb}&Laki-laki  & 11 (13\%)  & 2(2\%)    & 8(9\%)  &  15(18\%)\\
-&Perempuan  & 4(5\%)  & 0    & 1(1\%)  & 5(6\%)  \\
+\multirow{2}{*}{Rb}&Laki-laki  & 11  & 2    & 8  &  15\\
+&Perempuan  & 4  & 0    & 1  & 5  \\
 
 
- \bottomrule
+ \midrule
+
+ \multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
 \multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
 \end{tabular}
 \end{table}
@@ -722,24 +729,26 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 
 \newcommand{\xtpabyusi}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Cross tabulasi ruang*aspek}
+	\caption{Crosstabulasi aspek dan perbedaan usia}
 	\label{tab:xtpaU}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
     P{4.3em}P{4.3em}P{4.8em}}
 \hline
-\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2cm]{Ruang}{Aspek\\Ruang}}&
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
  {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
  \toprule
-\multirow{3}{*}{Ra}&Remaja  & 15 (18\%)   & 5(6\%)     & 13(15\%)  & 14(16\%)  \\
-&Dewasa  & 11(13\%)  & 0    & 18(21\%)   & 8(9\%)  \\
-&Manula  & 6(7\%)  &0    & 6(7\%)   & 8(9\%)  \\
+\multirow{3}{*}{Ra}&Remaja  & 15    & 5     & 13  & 14  \\
+&Dewasa  & 11  & 0    & 18   & 8  \\
+&Manula  & 6  &0    & 6   & 8  \\
 
-\multirow{3}{*}{Rb}&Remaja  & 2(2\%)   & 0     & 2(2\%)  & 3(4\%)  \\
-&Dewasa  & 8(9\%)  & 0    & 4(5\%)   & 11(13\%)  \\
-&Manula  & 5(6\%)  & 2(2\%)    & 3(4\%)   & 6(7\%)  \\
+\multirow{3}{*}{Rb}&Remaja  & 2  & 0     & 2  & 3  \\
+&Dewasa  & 8  & 0    & 4   & 11  \\
+&Manula  & 5  & 2    & 3   & 6  \\
 
  \bottomrule
+
+\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
 \multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
 \end{tabular}
 \end{table}
@@ -747,29 +756,269 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 
 \newcommand{\xtpabypek}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Cross tabulasi ruang*aspek}
+	\caption{Crosstabulasi aspek dan perbedaan pekerjaan}
 	\label{tab:xtpaP}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
     P{4.3em}P{4.3em}P{4.8em}}
 \hline
-\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2cm]{Ruang}{Aspek\\Ruang}}&
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
  {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
  \toprule
-\multirow{5}{*}{Ra}&belum bekerja  & 2(2\%)    & 1(1\%)     &3(4\%)   & 2(2\%)   \\
-&karyawan  & 9(11\%)   & 1(1\%)     & 14(16\%)    & 10(12\%)  \\
-&lainnya  & 5(6\%)   & 0     & 4(5\%)    & 4(5\%)  \\
-&pelajar  & 12(14\%)  & 3(3\%)    & 8(9\%)    & 10(12\%)  \\
-&wiraswasta  & 4(5\%)   & 0     & 8(9\%)    & 4(5\%)  \\
+\multirow{5}{*}{Ra}&belum bekerja  & 2    & 1     &3   & 2   \\
+&karyawan  & 9   & 1     & 14    & 10  \\
+&lainnya  & 5   & 0     & 4    & 4  \\
+&pelajar  & 12  & 3    & 8    & 10  \\
+&wiraswasta  & 4   & 0     & 8    & 4  \\
 
-\multirow{5}{*}{Rb}&belum bekerja  & 0(0\%)    & 0     & 0   & 0   \\
-&karyawan  & 5(6\%)   & 1(1\%)     & 3(4\%)    & 10(12\%)  \\
-&lainnya  & 3(4\%)   & 1(1\%)     & 3(4\%)    & 3(4\%)  \\
-&pelajar  & 2(2\%)   & 0     & 2(2\%)    & 3(4\%)  \\
-&wiraswasta  & 5(6\%)   & 0     & 1(1\%)    & 4(5\%)  \\
+\multirow{5}{*}{Rb}&belum bekerja  & 0    & 0     & 0   & 0   \\
+&karyawan  & 5   & 1     & 3    & 10  \\
+&lainnya  & 3   & 1     & 3    & 3  \\
+&pelajar  & 2   & 0     & 2    & 3  \\
+&wiraswasta  & 5   & 0     & 1    & 4  \\
 
  \bottomrule
+
+\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. belum bekerja berjumlah 6 orang ;  karyawan berjumlah 29 orang; lainnya berjumlah  12 orang; pelajar sebanyak 21 orang; wiraswasta sebanyak 17 orang}}\\
 \multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+
+<<mResEle, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+
+attach(df)
+
+# Extract cols from file
+df_elemen <- data.frame(jmlhphn,bntukphn,lbrjln,permjln,wrnabnga,jniskrs,tngkchy )
+
+# Get the rows having at least 1 response
+df_elemenpro <- subset(df_elemen, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+
+
+gender <- subset(df$gender, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+
+df$usia <- cut(df$usia, breaks = c(15, 25, 40, 80), labels = c("18-25", "26-40", "> 41"), right = T)
+
+usia <- subset(df$usia, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+
+pekerjaan <- subset(df$pekerjaan, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+
+ruang <- subset(df$ruang, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+
+xtpjpG <- xtabs(~gender + df_elemenpro$jmlhphn + ruang,data=df)
+xtpjpG <- round(100 * prop.table(xtpjpG), 0)
+
+xtpjpU <- xtabs(~usia + df_elemenpro$jmlhphn + ruang,data=df)
+xtpjpP <- xtabs(~pekerjaan + df_elemenpro$jmlhphn + ruang,data=df)
+
+xtpbpG <- xtabs(~gender + df_elemenpro$bntukphn + ruang,data=df)
+xtpbpU <- xtabs(~usia + df_elemenpro$bntukphn + ruang,data=df)
+xtpbpP <- xtabs(~pekerjaan + df_elemenpro$bntukphn + ruang,data=df)
+
+xtpljG <- xtabs(~gender + df_elemenpro$lbrjln + ruang,data=df)
+xtpljU <- xtabs(~usia + df_elemenpro$lbrjln + ruang,data=df)
+xtpljP <- xtabs(~pekerjaan + df_elemenpro$lbrjln + ruang,data=df)
+
+xtppjG <- xtabs(~gender + df_elemenpro$permjln + ruang,data=df)
+xtppjU <- xtabs(~usia + df_elemenpro$permjln + ruang,data=df)
+xtppjP <- xtabs(~pekerjaan + df_elemenpro$permjln + ruang,data=df)
+
+xtpwbG <- xtabs(~gender + df_elemenpro$wrnabnga + ruang,data=df)
+xtpwbU <- xtabs(~usia + df_elemenpro$wrnabnga + ruang,data=df)
+xtpwbP <- xtabs(~pekerjaan + df_elemenpro$wrnabnga + ruang,data=df)
+
+
+xtpjkG <- xtabs(~gender + df_elemenpro$jniskrs + ruang,data=df)
+xtpjkU <- xtabs(~usia + df_elemenpro$jniskrs + ruang,data=df)
+xtpjkP <- xtabs(~pekerjaan + df_elemenpro$jniskrs + ruang,data=df)
+
+xtptcG <- xtabs(~gender + df_elemenpro$tngkchy + ruang,data=df)
+xtptcU <- xtabs(~usia + df_elemenpro$tngkchy + ruang,data=df)
+xtptcP <- xtabs(~pekerjaan + df_elemenpro$tngkchy + ruang,data=df)
+
+
+ctpjpR <- summarytools::ctable(ruang, df_elemenpro$jmlhphn, dnn = c("Ruang", "Jumlah pohon"), prop="t", round.digits = 0)
+
+ctpbpR <- summarytools::ctable(ruang, df_elemenpro$bntukphn, dnn = c("Ruang", "Bentuk pohon"), prop="t", round.digits = 0)
+
+ctpljR <- summarytools::ctable(ruang, df_elemenpro$lbrjln, dnn = c("Ruang", "Lebar jalan"), prop="t", round.digits = 0)
+
+ctppjR <- summarytools::ctable(ruang, df_elemenpro$permjln, dnn = c("Ruang", "Permukaan jalan"), prop="t", round.digits = 0)
+
+ctpwbR <- summarytools::ctable(ruang, df_elemenpro$wrnabnga, dnn = c("Ruang", "Warna bunga"), prop="t", round.digits = 0)
+
+ctpjkR <- summarytools::ctable(ruang, df_elemenpro$jniskrs, dnn = c("Ruang", "Jenis kursi"), prop="t", round.digits = 0)
+
+ctptcR <- summarytools::ctable(ruang, df_elemenpro$tngkchy, dnn = c("Ruang", "Tingkat cahaya"), prop="t", round.digits = 0)
+@
+%------------------------------------------------------------------------------------------
+% Elemen yang disukai latex
+%------------------------------------------------------------------------------------------
+
+
+\newcommand{\ctpeSingleEach}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Crosstabulasi 2 ruang dan elemen}
+	\label{tab:ctpeSE}
+    \centering
+\begin{tabular}[t]{rP{5.2em}P{5.2em}P{5.4em} }
+\hline
+\bfseries\diagbox[innerleftsep=8pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}&{\bfseries\parbox[c][2.5cm]{\textwidth}{Ruang a}} &\textbf{Ruang b} & \textbf{Total}\\
+
+
+\toprule
+
+Sedikit pohon  & 6 (7\%)  & 3 (4\%)    &9(4\%) \\
+Beberapa pohon  &10 (12\%)  & 1 (1\%)    &11 (5\%) \\
+
+Cukup rindang  &2 (2\%)  & 28 (33\%)    &30(14\%) \\
+Sangat rindang  &4 (5\%)  & 6 (7\%)    &10(4) \\
+
+1-3m  &3 (4\%)  & 6 (19\%)   &9(4\%) \\
+> 3m  &35 (41\%)  & 7 (8\%)    &42(19\%)\\
+
+Paving  &7 (8\%)  & 4 (5\%)    &11(5\%) \\
+Aspal  &12(14\%)  & 1(1\%)    &13(6\%) \\
+Keramik  &12(14\%)  & 1(1\%)    &13(6\%) \\
+
+1 atau 2 warna  &2(2\%)  & 0    &2(1\%) \\
+lebih 3 warna  &5(6\%)  & 1(1\%)    &6(3\%) \\
+
+kursi bergerak  &6(7\%)  & 0    &6(3\%)\\
+kursi dinding  &3(4\%)  & 2(2\%)    &5(2\%) \\
+
+pencahayaan cukup   &5 (6\%)  & 31 (36\%)    &36(16\%) \\
+pencahayaan tinggi   &11(13\%)  & 6 (7\%)    &17(8\%)\\
+
+Total  & 123 (56\%)  & 97 (44\%) & 220 (100\%)   \\
+ \bottomrule
+\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+\newcommand{\ctpeEach}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Cross tabulasi ruang*aspek}
+	\label{tab:ctpeE}
+    \centering
+\begin{tabular}[t]{rP{5em}P{5em}P{5.5em} }
+\hline
+\bfseries\diagbox[innerleftsep=8pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}&{\bfseries\parbox[c][2.5cm]{\textwidth}{Ruang a}} &\textbf{Ruang b} & \textbf{Total}\\
+
+
+\toprule
+
+Jumlah pohon  & 16 (7\%)  & 4 (2\%) & 20 (9\%)    \\
+Bentuk pohon  & 30 (14\%)  & 10 (4\%) & 40 (18\%)   \\
+Lebar jalan  & 38 (17\%)  & 13 (6\%) &51 (23\%)   \\
+Permukaan jalan  & 31 (14\%)  & 6 (3\%) & 37 (17\%)   \\
+Warna bunga & 7 (3\%)  & 1   & 8 (4\%)  \\
+Jenis kursi  & 9 (4\%)  & 2 (1\%)  & 11 (5\%)  \\
+Tingkat cahaya  & 36 (16\%)  & 17 (8\%) & 53 (24\%)   \\
+
+Total  & 167 (76\%)  & 53 (24\%) & 220 (100\%)   \\
+
+\bottomrule
+
+\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+\newcommand{\xtpebygen}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Crosstabulasi elemen dan perbedaan gender}
+	\label{tab:xtpeG}
+    \centering
+\begin{tabular}[t]{r P{2cm}
+    P{2.2cm}P{2cm}P{2.2cm}}
+\hline
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}}\\
+
+
+&{\parbox[c][1.9cm]{\textwidth}{laki-laki}}  & perempuan & laki-laki & perempuan\\
+
+ \toprule
+
+Jumlah pohon  &14 &2&2&2\\
+Bentuk pohon  &20 &10  & 6  &4\\
+Lebar jalan  & 26  & 12  & 10  & 3\\
+
+Permukaan jalan  &20 &11  &4  & 2\\
+Warna bunga & 7 & 0  & 1  &0\\
+
+Jenis kursi  & 7 & 1  & 1  & 1\\
+Tingkat cahaya  & 21 &15  &13  & 4\\
+ \bottomrule
+
+\multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+\newcommand{\xtpebyusi}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Crosstabulasi elemen dan perbedaan usia}
+	\label{tab:xtpeU}
+    \centering
+\begin{tabular}[t]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} }
+\hline
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}}\\
+
+
+&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}\\
+
+\toprule
+
+Jumlah pohon  & 6   & 5    & 5  & 0 & 1 & 3   \\
+Bentuk pohon  & 10    & 14   & 6  &0 & 3 & 7\\
+Lebar jalan  & 18     & 10    & 10    & 4 & 7 & 2 \\
+
+Permukaan jalan  & 12    & 12    & 7    & 2 &4 & 0  \\
+Warna bunga & 3  & 2    & 2   & 0 & 1 & 0   \\
+
+Jenis kursi& 3  & 3  & 3    & 0   & 1 & 1 \\
+Tingkat cahaya  & 13  & 14   &9   & 5 & 8 & 4 \\
+
+ \bottomrule
+\multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
+\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\end{tabular}
+\end{table}
+}
+
+
+\newcommand{\xtpebypek}{
+\begin{table}\setlength\tabcolsep{2pt}
+	\caption{Crosstabulasi elemen dan perbedaan pekerjaan}
+	\label{tab:xtpeP}
+    \centering
+\begin{tabular}[t]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} P{2em}P{2em}P{2em}P{2em}}
+\hline
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=3.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{5}{c}{\textbf{Ruang a}} &\multicolumn{5}{c}{\textbf{Ruang b}}\\
+
+
+&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Belum bekerja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Karyawan}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{lainnya}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Pelajar}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Wiraswasta}}}
+&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Belum bekerja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Karyawan}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{lainnya}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Pelajar}}}&{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{Wiraswasta}}}\\
+
+\toprule
+
+Jumlah pohon  & 2  & 6  & 4 & 3 & 1 & 0 & 1 & 1 & 0 & 2   \\
+
+Bentuk pohon  & 2  & 11  & 5 & 7 & 5 & 0 & 4 & 2 & 0 & 4   \\
+Lebar jalan  & 4  & 11  & 6 & 11 & 6 & 0 & 4 & 2 & 4 & 3   \\
+Permukaan jalan  & 2  & 9  & 5 & 9 & 6 & 0 & 2 & 0 & 2 & 2   \\
+Warna bunga  & 0  & 3  & 1 & 2 & 1 & 0 & 0 & 0 & 0 & 1   \\
+Jenis kursi  & 0  & 4  & 2 & 3 & 1 & 0 & 0 & 0 & 0 & 2   \\
+
+Tingkat cahaya  & 3  & 12  & 7 & 7 & 4 & 0 & 6 & 2 & 5 & 4   \\
+ \bottomrule
+\multicolumn{11}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. belum bekerja berjumlah 6 orang ;  karyawan berjumlah 29 orang; lainnya berjumlah  12 orang; pelajar sebanyak 21 orang; wiraswasta sebanyak 17 orang}}\\
+\multicolumn{11}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
