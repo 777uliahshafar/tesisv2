@@ -90,6 +90,14 @@ Berdasarkan persentase kasus, menunjukkan 58\% responden menyukai ruang karena f
 
 \ctpaEach
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=\textwidth,trim={.4cm .3cm .4cm .1cm},clip]{figures/bra.png}
+    \caption{Preferensi terhadap ruang dan aspek}
+    \label{fig:bra}
+\end{figure}
+
+
 Frekuensi dari aspek-aspek ruang diatas, tersebar diantara kedua ruang.
 Seperti yang dilihat pada tabel \ref{}, 32 (38\%) responden memilih ruang A oleh karena aksessibilitasnya dibandingkan dengan 15 (18\%) responden yang memilih ruang B.
 
@@ -97,6 +105,24 @@ Seperti yang dilihat pada tabel \ref{}, 32 (38\%) responden memilih ruang A oleh
 \newpage
 
 \xtpabygen
+
+\begin{landscape}
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{12cm}
+    \centering\includegraphics[width=12cm,trim={.4cm .3cm .4cm .1cm},clip]{figures/bralaki.png}
+\caption{Preferensi berdasarkan laki-laki}
+\end{subfigure}%
+\begin{subfigure}{12cm}
+\centering\includegraphics[width=12cm,trim={.4cm .3cm .4cm .1cm},clip]{figures/braper.png}
+\caption{Preferensi berdasarkan perempuan}
+\end{subfigure}\vspace{2pt}
+
+\caption{Preferensi terhadap ruang dan aspek berdasarkan gender}
+\label{fig:bragen}
+\end{figure}
+
+\end{landscape}
 \xtpabyusi
 \xtpabypek
 
@@ -106,7 +132,33 @@ Seperti yang dilihat pada tabel \ref{}, 32 (38\%) responden memilih ruang A oleh
 \ctpeSingleEach
 \ctpeEach
 
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=\textwidth,trim={.4cm .3cm .4cm .1cm},clip]{figures/bre.png}
+    \caption{Preferensi terhadap ruang dan aspek}
+    \label{fig:bra}
+\end{figure}
+
 \xtpebygen
+
+\begin{landscape}
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}{12cm}
+    \centering\includegraphics[width=12cm,trim={.4cm .3cm .4cm .1cm},clip]{figures/brelaki.png}
+\caption{Preferensi berdasarkan laki-laki}
+\end{subfigure}%
+\begin{subfigure}{12cm}
+\centering\includegraphics[width=12cm,trim={.4cm .3cm .4cm .1cm},clip]{figures/breper.png}
+\caption{Preferensi berdasarkan perempuan}
+\end{subfigure}\vspace{2pt}
+
+\caption{Preferensi terhadap ruang dan aspek berdasarkan gender}
+\label{fig:bragen}
+\end{figure}
+
+\end{landscape}
+
 \xtpebyusi
 \xtpebypek
 

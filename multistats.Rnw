@@ -442,7 +442,7 @@ Total && 38 (45\%) & 47 (55\%) & 85 (100\%)\\
 % Keamanan
 \newcommand{\ctpKeaEach}{
 \begin{table}
-\caption{\label{tab:ctpkE}Crosstabulasi keamanan}
+\caption{Crosstabulasi keamanan}
 
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
@@ -485,7 +485,7 @@ Total && 78 (92\%) & 7 (8\%) & 85 (100\%)\\
 
 \newcommand{\ctpKeaRua}{
 \begin{table}
-\caption{\label{tab:ctpaR}Crosstabulasi keamanan*ruang}
+\caption{Crosstabulasi keamanan*ruang}
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
 \toprule
@@ -549,7 +549,7 @@ Total && 39 (46\%) & 46 (54\%) & 85 (100\%)\\
 
 \newcommand{\ctpEstRua}{
 \begin{table}
-\caption{\label{tab:ctpeR}Crosstabulasi estetika*ruang}
+\caption{Crosstabulasi estetika*ruang}
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
 \toprule
@@ -571,7 +571,7 @@ Total && 39 (46\%) & 46 (54\%) & 85 (100\%)\\
 
 \newcommand{\ctpFasEach}{
 \begin{table}
-\caption{\label{tab:ctpfE}Crosstabulasi fasilitas}
+\caption{Crosstabulasi fasilitas}
 
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
@@ -615,7 +615,7 @@ Total && 35 & 50 & 85\\
 
 \newcommand{\ctpFasRua}{
 \begin{table}
-\caption{\label{tab:ctpfR}Crosstabulasi fasilitas*ruang}
+\caption{Crosstabulasi fasilitas*ruang}
 \centering
 \begin{tabular}[t]{ll>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.3em}>{\raggedleft\arraybackslash}p{4.8em}}
 \toprule
