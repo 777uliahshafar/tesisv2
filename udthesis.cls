@@ -268,8 +268,9 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage[hidelinks]{hyperref}
 \usepackage{setspace} %Alter spacing in paragraph
 \onehalfspacing %Specify spacing of setspace
-
 \setlength{\parindent}{1cm} %Alter indentation
+
+\usepackage[noorphans,font=itshape,begintext=``, endtext=",vskip=0.5ex]{quoting}
 
 %\usepackage{indentfirst} %Indent the first paragraph
 %\providecommand{\keywords}[1]{\textbf{\textit{Keywords---}} #1} %Insert Keyword Command

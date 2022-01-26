@@ -31,7 +31,6 @@ cur.wd <- getwd()
 <<piekerja, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
 # Once for all
 df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
-
 ## head(df)
 df$pekerjaan <- as.factor(df$pekerjaan)
 
