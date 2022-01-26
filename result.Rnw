@@ -92,7 +92,7 @@ Dalam tabel yang sama pada kolom peresentase kasus (pct. kasus), menunjukkan 58\
 
 Selanjutnya pada tabel \ref{tab:ctpaE}, menunjukkan sebagian besar respon terhadap aspek tersebut menyukai ruang ruang A dengan total 104 (69\%) respon, sedangkan sebagian kecilnya menyukai ruang B dengan total 46 (31\%). Pada ruang A, 32 (21\%) respon terhadap aspek aksesibilitas merupakan alasan tertinggi mengapa orang memilih ruang tersebut. Sedangkan pada ruang B, 20 (13\%) respon dari fasilitas merupakan alasan tertinggi orang memilih ruang B. Keduanya memiliki respon keamanan sebagai alasan terendah dalam memilih kedua ruang tersebut yang berkisar 2-3 \% dari total respon.
 
-Hasil crostabulasi ini kemudian digambarkan menggunakan teknik biplot. Seperti yang dilihat pada gambar \ref{fig:bra} mengilustrasikan kemiripan  respon terhadap aspek diantara ruang.
+Hasil crostabulasi ini kemudian digambarkan menggunakan teknik biplot. Seperti yang dilihat pada gambar \ref{fig:bra} mengilustrasikan hubungan  respon terhadap aspek dan ruang.
 Aksesibilitas menjadi aspek yang paling signifikan yang berkontribusi terhadap kedua ruang. Pertama, ruang A bersifat terbuka dengan jalan pedestrian yang lebar dan memadai. Dengan ukuran ruang yang cukup luas dan tertata dengan baik, ruang ini disebut oleh responden ``terbuka", ``tertata" dan ``lapang". Tanggapan responden tersebut menggambarkan aspek aksesibilitas ruang A yang sangat baik. Sejumlah jawaban yang mendukung aspek aksesibilitas pada ruang A adalah sebagai berikut:
 
 \begin{quoting}
@@ -154,7 +154,7 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=\textwidth,trim={.4cm .3cm .4cm .1cm},clip]{figures/bra.png}
-    \caption{Preferensi terhadap ruang dan aspek}
+    \caption{Hubungan Preferensi terhadap Aspek dari setiap ruang}
     \label{fig:bra}
 \end{figure}
 
@@ -165,12 +165,11 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 
 Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, crosstabulasi preferensi keseluruhan dibagi perkelompok berdasarkan gender, usia dan suku. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
 
-\subsection{Kemiripan preferensi dipengaruhi oleh gender}
+\subsection{Hubungan preferensi terhadap aspek dipengaruhi oleh gender}
 
+Hubungan preferensi terhadap aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil tersebut mengindikasikan perbedaan hubungan preferensi diantara responden laki-laki dan perempuan.
 
-
-
-Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gender memiliki kemiripan yang hampir sama. Keduanya berkecenderungan terhadap tiap-tiap ruang yang sangat dipengaruhi oleh aksesibilitas.
+Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memiliki hubungan preferensi aspek dan ruang yang hampir sama. Keduanya memiliki preferensi terhadap ruang yang sangat dipengaruhi oleh aksesibilitas. Untuk ruang A, laki-laki dan perempuan lebih terpengaruh oleh aspek estetika. Sedangkan ruang B, keduanya lebih terpengaruh oleh aspek fasilitas. Terakhir, aspek keamanan mengasingkan dirinya dari kedua ruang berdasarkan hubungan preferensi kedua gender tersebut. Hanya saja untuk laki-laki, aspek keamanan sedikit mempengaruhi preferensi terhadap kedua ruang. Dan juga perlu diperhatikan bahwa hubungan preferensi dari laki-laki sama dengan hubungan preferensi dari keseluruhan responden. Kesamaan ini mungkin terjadi karena responden laki-laki (58 orang) merupakan mayoritas dari keseluruhan responden dibandingkan hanya 28 responden perempuan.
 
 \xtpabygen
 
@@ -178,16 +177,18 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/asplaki.png}
-\caption{Preferensi berdasarkan laki-laki}
+\caption{Hubungan Preferensi dari Laki-laki}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspper.png}
-\caption{Preferensi berdasarkan perempuan}
+\caption{Hubungan Preferensi dari Perempuan}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan aspek berdasarkan gender}
 \label{fig:bragen}
 \end{figure}
+
+\subsection{Hubungan preferensi terhadap aspek dipengaruhi oleh usia}
 
 \xtpabyusi
 
@@ -195,15 +196,15 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/asprem.png}
-\caption{Preferensi berdasarkan remaja}
+\caption{Hubungan Preferensi dari Remaja}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspdew.png}
-\caption{Preferensi berdasarkan dewasa}
+\caption{Hubungan Preferensi dari Dewasa}
 \end{subfigure}\vspace{10pt}
 \begin{subfigure}[b]{0.55\textwidth}
 \centering\includegraphics[width=\linewidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspman.png}
-\caption{Preferensi berdasarkan manula}
+\caption{Hubungan Preferensi dari Manula}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan aspek berdasarkan usia}
@@ -217,11 +218,11 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspbug.png}
-\caption{Preferensi berdasarkan bugis}
+\caption{Hubungan Preferensi dari bugis}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspnbug.png}
-\caption{Preferensi berdasarkan nonbugis}
+\caption{Hubungan Preferensi dari Nonbugis}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan aspek berdasarkan suku}
@@ -237,7 +238,7 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=\textwidth,trim={.4cm .3cm .4cm .1cm},clip]{figures/bre.png}
-    \caption{Preferensi terhadap ruang dan elemen}
+    \caption{Hubungan Preferensi terhadap elemen dari setiap ruang}
     \label{fig:bre}
 \end{figure}
 
@@ -247,15 +248,15 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .5cm},clip]{figures/elelaki.png}
-\caption{Preferensi berdasarkan laki-laki}
+\caption{Hubungan Preferensi dari Laki-laki}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .5cm},clip]{figures/eleper.png}
-\caption{Preferensi berdasarkan perempuan}
+\caption{Hubungan Preferensi dari Perempuan}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan elemen berdasarkan gender}
-\label{fig:bragen}
+\label{fig:bregen}
 \end{figure}
 
 \xtpebyusi
@@ -264,15 +265,15 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/elerem.png}
-\caption{Preferensi berdasarkan remaja}
+\caption{Hubungan Preferensi dari remaja}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/eledew.png}
-\caption{Preferensi berdasarkan dewasa}
+\caption{Hubungan Preferensi dari dewasa}
 \end{subfigure}\vspace{10pt}
 \begin{subfigure}[b]{0.55\textwidth}
 \centering\includegraphics[width=\linewidth,trim={1cm .6cm .9cm .8cm},clip]{figures/eleman.png}
-\caption{Preferensi berdasarkan manula}
+\caption{Hubungan Preferensi dari manula}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan elemen berdasarkan usia}
@@ -286,11 +287,11 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, kedua jenis dari kelompok gen
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/elebug.png}
-\caption{Preferensi berdasarkan bugis}
+\caption{Hubungan Preferensi dari Bugis}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/elenbug.png}
-\caption{Preferensi berdasarkan nonbugis}
+\caption{Hubungan Preferensi dari Nonbugis}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan elemen berdasarkan suku}
