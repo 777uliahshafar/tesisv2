@@ -92,7 +92,7 @@ Dalam tabel yang sama pada kolom peresentase kasus (pct. kasus), menunjukkan 58\
 
 Selanjutnya pada tabel \ref{tab:ctpaE}, menunjukkan sebagian besar respon terhadap aspek tersebut menyukai ruang ruang A dengan total 104 (69\%) respon, sedangkan sebagian kecilnya menyukai ruang B dengan total 46 (31\%). Pada ruang A, 32 (21\%) respon terhadap aspek aksesibilitas merupakan alasan tertinggi mengapa orang memilih ruang tersebut. Sedangkan pada ruang B, 20 (13\%) respon dari fasilitas merupakan alasan tertinggi orang memilih ruang B. Keduanya memiliki respon keamanan sebagai alasan terendah dalam memilih kedua ruang tersebut yang berkisar 2-3 \% dari total respon.
 
-Hasil crostabulasi ini kemudian digambarkan menggunakan teknik biplot. Seperti yang dilihat pada gambar \ref{fig:bra} mengilustrasikan hubungan  respon terhadap aspek dan ruang.
+Hasil crostabulasi ini kemudian digambarkan menggunakan teknik biplot. Seperti yang dilihat pada gambar \ref{fig:bra} mengilustrasikan keragaman  respon terhadap aspek dan ruang.
 Aksesibilitas menjadi aspek yang paling signifikan yang berkontribusi terhadap kedua ruang. Pertama, ruang A bersifat terbuka dengan jalan pedestrian yang lebar dan memadai. Dengan ukuran ruang yang cukup luas dan tertata dengan baik, ruang ini disebut oleh responden ``terbuka", ``tertata" dan ``lapang". Tanggapan responden tersebut menggambarkan aspek aksesibilitas ruang A yang sangat baik. Sejumlah jawaban yang mendukung aspek aksesibilitas pada ruang A adalah sebagai berikut:
 
 \begin{quoting}
@@ -154,7 +154,7 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=\textwidth,trim={.4cm .3cm .4cm .1cm},clip]{figures/bra.png}
-    \caption{Hubungan Preferensi terhadap Aspek dari setiap ruang}
+    \caption{Keragaman Preferensi terhadap Aspek dari setiap ruang}
     \label{fig:bra}
 \end{figure}
 
@@ -165,11 +165,11 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 
 Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, crosstabulasi preferensi keseluruhan dibagi perkelompok berdasarkan gender, usia dan suku. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
 
-\subsection{Hubungan preferensi terhadap aspek dipengaruhi oleh gender}
+\subsection{Perbedaan keragaman preferensi diantara kelompok}
 
-Hubungan preferensi terhadap aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil tersebut mengindikasikan perbedaan hubungan preferensi diantara responden laki-laki dan perempuan.
+Keragaman preferensi terhadap aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil tersebut mengindikasikan perbedaan keragaman preferensi diantara responden laki-laki dan perempuan.
 
-Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memiliki hubungan preferensi aspek dan ruang yang hampir sama. Keduanya memiliki preferensi terhadap ruang yang sangat dipengaruhi oleh aksesibilitas. Untuk ruang A, laki-laki dan perempuan lebih terpengaruh oleh aspek estetika. Sedangkan ruang B, keduanya lebih terpengaruh oleh aspek fasilitas. Terakhir, aspek keamanan mengasingkan dirinya dari kedua ruang berdasarkan hubungan preferensi kedua gender tersebut. Hanya saja untuk laki-laki, aspek keamanan sedikit mempengaruhi preferensi terhadap kedua ruang. Dan juga perlu diperhatikan bahwa hubungan preferensi dari laki-laki sama dengan hubungan preferensi dari keseluruhan responden. Kesamaan ini mungkin terjadi karena responden laki-laki (58 orang) merupakan mayoritas dari keseluruhan responden dibandingkan hanya 28 responden perempuan.
+Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memiliki keragaman preferensi aspek dan ruang yang hampir sama. Keduanya memiliki preferensi terhadap ruang yang sangat dipengaruhi oleh aksesibilitas. Untuk ruang A, laki-laki dan perempuan lebih terpengaruh oleh aspek estetika. Sedangkan ruang B, keduanya lebih terpengaruh oleh aspek fasilitas. Terakhir, aspek keamanan mengasingkan dirinya dari kedua ruang berdasarkan keragaman preferensi kedua gender tersebut. Hanya saja untuk laki-laki, aspek keamanan sedikit mempengaruhi preferensi terhadap kedua ruang. Dan juga perlu diperhatikan bahwa keragaman preferensi dari laki-laki sama dengan keragaman preferensi dari keseluruhan responden. Kesamaan ini mungkin terjadi karena responden laki-laki (58 orang) merupakan mayoritas dari keseluruhan responden dibandingkan hanya 28 responden perempuan.
 
 \xtpabygen
 
@@ -177,18 +177,26 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/asplaki.png}
-\caption{Hubungan Preferensi dari Laki-laki}
+\caption{Keragaman Preferensi dari Laki-laki}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspper.png}
-\caption{Hubungan Preferensi dari Perempuan}
+\caption{Keragaman Preferensi dari Perempuan}
 \end{subfigure}\vspace{2pt}
 
-\caption{Preferensi terhadap ruang dan aspek berdasarkan gender}
+\caption{Keragaman Preferensi dari perbedaan gender}
 \label{fig:bragen}
 \end{figure}
 
-\subsection{Hubungan preferensi terhadap aspek dipengaruhi oleh usia}
+\subsection{Keragaman preferensi terhadap aspek dipengaruhi oleh usia}
+
+Keseluruhan data preferensi terhadap aspek juga dibagi berdasarkan tiga macam kelompok usia: Remaja, Dewasa dan Manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis berdasarkan tabel \ref{tab:xtpaU} dan analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brausi}.
+
+Seperti yang dilihat pada gambar Biplot tersebut, hasil analisis MDP menunjukkan keragaman preferensi yang berbeda diantara remaja, dewasa, dan manula.
+
+Untuk remaja, ruang A sebagian besar dipengaruhi oleh aspek aksesibilitas dan estetika. Kedua aspek tersebut dan aspek fasilitas memiliki keragaman yang hampir sama dalam mempengaruhi semua ruang. Sementara aspek keamanan mengasingkan dirinya dari semua ruang yang artinya aspek ini berkontribusi sangat rendah terhadap ruang. Keragaman aspek keamanan ini hampir sama pada setiap kelompok usia.
+Untuk dewasa, korelasi positif antara ruang A dan B cukup rendah. Ruang A lebih dipengaruhi oleh aspek estetika. Sedangkan, Ruang B membedakan dirinya melalui aspek fasilitas. Terdapat kemiripan diantara aspek fasilitas dan aksesibilitas dalam berkontribusi terhadap kedua ruang.
+Untuk manula, ruang A lebih dipengaruhi oleh aspek estetika. Sementara aspek aksesibilitas dan fasilitas menunjukkan keragaman yang hampir sama.
 
 \xtpabyusi
 
@@ -196,15 +204,15 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/asprem.png}
-\caption{Hubungan Preferensi dari Remaja}
+\caption{Keragaman Preferensi dari Remaja}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspdew.png}
-\caption{Hubungan Preferensi dari Dewasa}
+\caption{Keragaman Preferensi dari Dewasa}
 \end{subfigure}\vspace{10pt}
 \begin{subfigure}[b]{0.55\textwidth}
 \centering\includegraphics[width=\linewidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspman.png}
-\caption{Hubungan Preferensi dari Manula}
+\caption{Keragaman Preferensi dari Manula}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan aspek berdasarkan usia}
@@ -212,17 +220,22 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \end{figure}
 
 
+\subsection{Keragaman preferensi terhadap aspek dipengaruhi oleh suku}
+Dari sejumlah latar belakang budaya yang ada, keseluruhan data preferensi dibagi menjadi bugis dan nonbugis. Nonbugis merupakan suku minoritas dari keseluruhan responden (25 orang) yang terdiri dari suku toraja, makassar, dan lain-lain.  Keragaman yang terdiri dari dua kelompok suku ini dianalisis sesuai dengan tabel \ref{tab:xtpaS} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brasuk}
+
 \xtpabysuk
+
+Terdapat indikasi adanya perbedaan keragaman preferensi diantara bugis dan nonbugis dapat dilihat pada gambar \ref{fig:brasuk}. Untuk suku bugis, aspek aksesibilitas dan fasilitas menunjukkan keragaman yang hampir sama. Selain itu, kedua aspek tersebut berkontribusi lebih besar terhadap ruang B. Sementara itu, ruang A lebih dipengaruhi oleh aspek estetika. Dan tidak ada ruang yang dipengaruhi oleh aspek keamanan. Aspek ini memiliki keragaman yang sama diantara kelompok suku yaitu mengasingkan dari ruang-ruang. Untuk suku nonbugis, menunjukkan korelasi ruang A dan B adalah cukup kecil. Dimana ruang A lebih dipengaruhi oleh aspek estetika dan aksesibilitas. Sedangkan ruang B lebih dipengaruhi oleh aspek fasilitas.
 
 \begin{figure}[htbp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspbug.png}
-\caption{Hubungan Preferensi dari bugis}
+\caption{Keragaman Preferensi dari bugis}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspnbug.png}
-\caption{Hubungan Preferensi dari Nonbugis}
+\caption{Keragaman Preferensi dari Nonbugis}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan aspek berdasarkan suku}
@@ -233,12 +246,14 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 
 \subsection{Elemen yang paling disukai }
 \ctpeSingleEach
+
+
 \ctpeEach
 
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=\textwidth,trim={.4cm .3cm .4cm .1cm},clip]{figures/bre.png}
-    \caption{Hubungan Preferensi terhadap elemen dari setiap ruang}
+    \caption{Keragaman Preferensi terhadap elemen dari setiap ruang}
     \label{fig:bre}
 \end{figure}
 
@@ -248,11 +263,11 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .5cm},clip]{figures/elelaki.png}
-\caption{Hubungan Preferensi dari Laki-laki}
+\caption{Keragaman Preferensi dari Laki-laki}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .5cm},clip]{figures/eleper.png}
-\caption{Hubungan Preferensi dari Perempuan}
+\caption{Keragaman Preferensi dari Perempuan}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan elemen berdasarkan gender}
@@ -265,15 +280,15 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/elerem.png}
-\caption{Hubungan Preferensi dari remaja}
+\caption{Keragaman Preferensi dari remaja}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/eledew.png}
-\caption{Hubungan Preferensi dari dewasa}
+\caption{Keragaman Preferensi dari dewasa}
 \end{subfigure}\vspace{10pt}
 \begin{subfigure}[b]{0.55\textwidth}
 \centering\includegraphics[width=\linewidth,trim={1cm .6cm .9cm .8cm},clip]{figures/eleman.png}
-\caption{Hubungan Preferensi dari manula}
+\caption{Keragaman Preferensi dari manula}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan elemen berdasarkan usia}
@@ -287,11 +302,11 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/elebug.png}
-\caption{Hubungan Preferensi dari Bugis}
+\caption{Keragaman Preferensi dari Bugis}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/elenbug.png}
-\caption{Hubungan Preferensi dari Nonbugis}
+\caption{Keragaman Preferensi dari Nonbugis}
 \end{subfigure}\vspace{2pt}
 
 \caption{Preferensi terhadap ruang dan elemen berdasarkan suku}
