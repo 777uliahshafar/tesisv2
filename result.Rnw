@@ -160,14 +160,17 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 
 %\subsection{Aspek yang menjadi alasan orang menyukai suatu ruang}
 %\subsection{Perbedaan aspek sebagai alasan diantara kelompok}
-\subsection{Perbedaan preferensi kelompok berkaitan alasan memilih ruang}
+%\subsection{Perbedaan preferensi kelompok berkaitan alasan memilih ruang}
+
+\subsection{Perbedaan keragaman preferensi terhadap aspek diantara kelompok}
 \label{sub:prefaspkel}
 
 Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, crosstabulasi preferensi keseluruhan dibagi perkelompok berdasarkan gender, usia dan suku. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
 
-\subsection{Perbedaan keragaman preferensi diantara kelompok}
 
+\subsection*{Keragaman preferensi  dipengaruhi oleh gender}
 Keragaman preferensi terhadap aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil tersebut mengindikasikan perbedaan keragaman preferensi diantara responden laki-laki dan perempuan.
+
 
 Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memiliki keragaman preferensi aspek dan ruang yang hampir sama. Keduanya memiliki preferensi terhadap ruang yang sangat dipengaruhi oleh aksesibilitas. Untuk ruang A, laki-laki dan perempuan lebih terpengaruh oleh aspek estetika. Sedangkan ruang B, keduanya lebih terpengaruh oleh aspek fasilitas. Terakhir, aspek keamanan mengasingkan dirinya dari kedua ruang berdasarkan keragaman preferensi kedua gender tersebut. Hanya saja untuk laki-laki, aspek keamanan sedikit mempengaruhi preferensi terhadap kedua ruang. Dan juga perlu diperhatikan bahwa keragaman preferensi dari laki-laki sama dengan keragaman preferensi dari keseluruhan responden. Kesamaan ini mungkin terjadi karena responden laki-laki (58 orang) merupakan mayoritas dari keseluruhan responden dibandingkan hanya 28 responden perempuan.
 
@@ -188,7 +191,7 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 \label{fig:bragen}
 \end{figure}
 
-\subsection{Keragaman preferensi terhadap aspek dipengaruhi oleh usia}
+\subsection*{Keragaman preferensi dipengaruhi oleh usia}
 
 Keseluruhan data preferensi terhadap aspek juga dibagi berdasarkan tiga macam kelompok usia: Remaja, Dewasa dan Manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis berdasarkan tabel \ref{tab:xtpaU} dan analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brausi}.
 
@@ -220,7 +223,7 @@ Untuk manula, ruang A lebih dipengaruhi oleh aspek estetika. Sementara aspek aks
 \end{figure}
 
 
-\subsection{Keragaman preferensi terhadap aspek dipengaruhi oleh suku}
+\subsection*{Keragaman preferensi dipengaruhi oleh suku}
 Dari sejumlah latar belakang budaya yang ada, keseluruhan data preferensi dibagi menjadi bugis dan nonbugis. Nonbugis merupakan suku minoritas dari keseluruhan responden (25 orang) yang terdiri dari suku toraja, makassar, dan lain-lain.  Keragaman yang terdiri dari dua kelompok suku ini dianalisis sesuai dengan tabel \ref{tab:xtpaS} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brasuk}
 
 \xtpabysuk
@@ -247,8 +250,16 @@ Terdapat indikasi adanya perbedaan keragaman preferensi diantara bugis dan nonbu
 \subsection{Elemen yang paling disukai }
 \ctpeSingleEach
 
+Pada tabel \ref{tab:ctpeSE} menunjukkan sejumlah elemen yang menjadi alasan orang memilih ruang tertentu. Untuk ruang A, 41\% responden menyukai lebar jalan yang lebih dari tiga meter dibandingkan dengan 12\% hingga 14\% orang menyukai beberapa pohon, permukaan aspal, permukaan keramik, dan pencahayaan tinggi. Elemen lainnya dipilih oleh responden kurang dari 10\%. Sedangkan untuk ruang B, 36\% responden menyukai ruang dengan pencahayaan yang cukup dibandingkan dengan 33\% orang yang menyukai pohon yang cukup rindang. Selain daripada itu, hanya sedikit responden yang menyukai elemen-elemen lainnya.
 
 \ctpeEach
+%Dengan begitu, memungkinkan untuk mengekplorasi keragaman preferensi diantara pengunjung di lokasi penelitian. Untuk mencapai hal itu, maka analisis multivariate-Biplot juga diaplikasikan pada preferensi terhadap ruang berdasarkan elemen.
+
+Untuk memudahkan proses analisis, elemen-elemen sebelumnya dikelompokkan menjadi 7 jenis elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Tingkat cahaya (lihat tabel \ref{tab:ctpeE}).
+Berdasarkan tabel tersebut, keragaman preferensi terhadap elemen digambarkan menggunakan biplot seperti pada preferensi terhadap aspek sebelumnya. Teknik biplot diaplikasikan pada crostabulasi seperti yang dilihat pada tabel \ref{tab:ctpeE}. Hasil analisis multivarate dimensi preferensi digambarkan menggunakan biplot pada gambar \ref{fig:bre}.
+
+Seperti yang dilihat pada gambar \ref{fig:bre}, ruang A dan B mengilustrasikan korelasi positif yang cukup tinggi. Elemen bentuk pohon dan lebar jalan sangat besar berkontribusi terhadap keragaman ini. Ruang A yang cukup baru ini memiliki jalan yang lebarnya 4 meter. Kelapangan ruang tersebut mengizinkan orang untuk akses yang mudah yang mana berkontribusi secara signifikan terhadap preferensi mereka. Sementara permukaan jalan berkontribusi besar terhadap preferensi dari ruang A.
+Ruang ini membedakan permukaan jalan pedestrian  dengan keramik. Berbeda dengan tingkat cahaya yang memiliki kontribusi lebih besar dibanding elemen-elemen lainnya terhadap ruang B. Terahir terdapat warna bunga dan jenis kursi yang memiliki keragaman yang hampir sama diikuti dengan jumlah pohon.
 
 \begin{figure}[htpb]
     \centering
@@ -256,6 +267,15 @@ Terdapat indikasi adanya perbedaan keragaman preferensi diantara bugis dan nonbu
     \caption{Keragaman Preferensi terhadap elemen dari setiap ruang}
     \label{fig:bre}
 \end{figure}
+
+
+\subsection{Perbedaan keragaman preferensi diantara kelompok}
+\label{sub:prefelekel}
+Sama seperti keragaman preferensi terhadap aspek, crostabulasi preferensi keseluruhan data dibagi berdasarkan kelompok: gender, usia dan suku. Keragaman preferensi dari bermacam kelompok kemudian diilustrasikan mengunaakan Biplot.
+
+\subsection*{Keragaman preferensi dipengaruhi oleh gender}
+
+Berdasarkan crostabulasi gender (lihat tabel \ref{tab:xtpeG}), keragaman preferensi diantara jenis kelami diilustrasikan oleh biplot pada gambar \ref{fig:bregen}. Secara jelas, hasil analisis multivariate-biplot menunjukkan keragaman preferensi diantara respon berjenis kelamin laki-laki dan perempuan. Untuk laki-laki, ruang A memiliki prefeerensi yang sama. Preferensi terhadap ruang ini mayoritas dipengaruhi oleh Bentuk jalan, Lebar jalan, Jumlah pohon, dan Permukaan jalan.  Meskipun demikian, ruang b lebih banyak dipengaruhi oleh tingkat cahaya dibanding elemen-elemen lainnya. Sementara elemen jenis kursi dan warna bunga membentuk keragaman yang sama dimana keduanya tampak mengasingkan dari kedua ruang. Artinya elemen tersebut memiliki nilai yang rendah dari preferensi terhadap ruang. Untuk perempuan, secara sekilas kontribusi elemen-elemen terhadap kedua ruang adalah kecil. Meskipun demikian, ruang A lebih dipengaruhi oleh Tingkat cahaya, Lebar jalan, dan Permukaan jalan. Tingkat cahaya didukung dengan lampu jalan yang unik (lihat gambar: \ref{fig:nau}) pada malam hari di ruang ini. Selanjutnya, elemen jalan dan permukaan jalan konsisten terhadap ruang A diantara keragaman kedua gender ini. Untuk ruang B, sebagian besar dipengaruhi oleh Bentuk pohon. Ruang B memiliki keterbukaan yang cukup tinggi, dimana memungkinkan pengunjung untuk berinteraksi langsung dengan pohon. Artinya manfaat yang diberikan pohon terutama yang rindang akan sangat terasa. Sedangkan, elemen jumlah pohon, jenis kursi, dan warna bunga memiliki keragaman yang hampir sama serta memiliki pengaruh kecil terhadap kedua ruang.
 
 \xtpebygen
 
@@ -273,6 +293,13 @@ Terdapat indikasi adanya perbedaan keragaman preferensi diantara bugis dan nonbu
 \caption{Preferensi terhadap ruang dan elemen berdasarkan gender}
 \label{fig:bregen}
 \end{figure}
+
+\subsection*{Keragaman preferensi dipengaruhi oleh usia}
+Sama halnya dengan keragaman preferensi terhadap aspek, crosstabulasi keseluruhan data penelitian ini dibagi menjadi tiga kelompok usia: Remaja, Dewasa, dan Manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis dengan MDP berdasarkan tabel \ref{tab:xtpeU} untuk menghasilkan biplot seperti pada gambar \ref{fig:breusi}.
+
+Biplot pada gambar dengan jelas menggambarkan keragaman diantara kelompok usia adalah berbeda.
+
+Untuk remaja, terdapat kontribusi signifikan terhadap ruang A dari elemen Lebar jalan, Permukaan jalan, Bentuk pohon dan Jumlah pohon.
 
 \xtpebyusi
 
