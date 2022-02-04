@@ -61,35 +61,37 @@ Kawasan ini memiliki karakteristik dan perhatian khusus mengingat pentingnya air
 Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, Indonesia memiliki jam terbang yang panjang dalam menghadapi masalah yang rumit dari tepi laut. Pembahasan tentang pengembangan berkelanjutan tepi laut telah ramai diperbincangkan di Indonesia seperti contohnya proyek reklamasi di Makassar dan Manado \citep{andi2017,tungka2012, fhuh2017}, pengembangan ulang tepi laut tahun 1995 sepanjang 32 km di Jakarta \citep{pramesti2017} dan Desain lanskap tepi laut di Sungai Cikapundung \citep{ainy2016}. Menurut \cite{breen1994}, tekanan pada ruang kota dan infrastruktur, kebutuhan atas kualitas lingkungan, dan ketersediaan ruang tepi laut yang terbengkalai menjadi alasan pengembangan ulang kawasan tepi laut sebagai solusi yang tepat. Pengembangan ulang tersebut telah di atur sedemikian rupa agar menjadi bagian dari langkah perkotaan yang keberlanjutan \citep{pramesti2017}.
 
 %kondisi parepare
-Kota Parepare merupakan kota yang terletak di Provinsi Sulsel. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas usia penduduk  merupakan mereka yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut mungkin saja disebabkan oleh potensi Parepare yang menjanjikan untuk kehidupan masyarakat.
-Parepare memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti Kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, Kabupaten Pangkep sepanjang 58.87 km dan Kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}. Meskipun demikian, Kota Parepare adalah kota adminsitratif dari tiga kota di Sulsel yang mana mendorong kemajuan kota ini.
-Terdapat sejumlah area yang berada di garis pantai tersebut misalnya Tepi Sungai Tonrangeng, Taman Mattirotasi, Pantai Bibir dan Pantai Senggol (baca: Tepi Laut Senggol).
-Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan konsep kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden Ketiga Republik Indonesia.
+Kota Parepare merupakan kota yang terletak di Provinsi Sulsel. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas penduduk yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut kemungkinan disebabkan oleh potensi Parepare yang menjanjikan kesejahteraan hidup masyarakat.
+Kota Parepare adalah satu dari tiga kota adminsitratif di Sulsel.
+Kota ini memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, kabupaten Pangkep sepanjang 58.87 km dan kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}.
+Terdapat sejumlah area yang berada di garis pantai tersebut misalnya tepi sungai Tonrangeng, taman Mattirotasi, pantai Bibir dan tepi laut Senggol (Pantai Senggol).
+Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan diri sebagai kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden ketiga Republik Indonesia.
 
 %karakteristik di tepi laut senggol
-Berdasarkan arahan rencana tata ruang wilayah kota, Parepare menetapkan kawasan strategis kota yang mendasari pembangunan infrastruktur bidang cipta karya. Kawasan pengembangan senggol termasuk dalam kawasan pengembangan PKL dengan sudut kepentingan pertumbuhan ekonomi.
-Pengembangan tepi laut ini bertujuan agar mampu mendorong jumlah pengunjung pada tempat wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa penduduk kota untuk datang ke pesisir. Dengan begitu akan meningkatkan pertumbuhan ekonomi pada kawasan tersebut.
-Tepi laut senggol telah lama menjadi daya tarik populer bagi masyarakat setempat. Tepi laut senggol memiliki pemandangan yang sangat indah. Pemandangan sebuah teluk menjadi ciri khas daerah ini. Selain itu, pengunjung juga tertarik untuk berwisata kuliner yang ditemani dengan kombinasi pemandangan elemen daratan dan air. Penyedia utama yang mendukung daya tarik tersebut adalah pedagang kaki lima yang bertahan dari dulu hingga saat ini. Setelah berwisata kuliner, banyak yang menghabiskan sisa waktunya untuk berenang di tepi laut. Menurut \cite{davidowich1998}, bagian yang terpenting dalam pengembangan tepi laut adalah kemampuan pengunjung untuk berinteraksi dengan air. Selain berenang, aktivitas rekreasi seperti memancing dan mencari kepiting membutuhkan akses ke air \citep{gordon1996}. Penggunaan beragam dapat berkontribusi terhadap kesuksessan strategi berkelanjutan \citep{eldeeb2015}.
+Berdasarkan rencana tata ruang wilayah kota, Parepare menetapkan kawasan strategis kota yang mendasari pembangunan infrastruktur. Kawasan pengembangan senggol termasuk dalam kawasan pengembangan PKL untuk mendukung pertumbuhan ekonomi daerah.
+Pengembangan tepi laut ini bertujuan agar bisa meningkatkan jumlah pengunjung pada tempat wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa penduduk kota untuk datang ke pesisir. Dengan begitu akan meningkatkan pertumbuhan ekonomi pada kawasan tersebut.
+Tepi laut senggol telah lama menjadi daya tarik wisata populer bagi masyarakat setempat. Tepi laut Senggol memiliki pemandangan yang sangat indah. Pemandangan sebuah teluk menjadi ciri khas daerah ini. Selain itu, pengunjung juga tertarik untuk berwisata kuliner yang ditemani dengan kombinasi pemandangan elemen daratan dan air. Pelaku utama yang mendukung daya tarik tersebut adalah pedagang kaki lima yang bertahan dari dulu hingga saat ini. Setelah berwisata kuliner, banyak pengunjung yang menghabiskan sisa waktunya untuk berenang di tepi laut. Menurut \cite{davidowich1998}, bagian yang terpenting dalam pengembangan tepi laut adalah kemampuan pengunjung untuk berinteraksi dengan air. Selain berenang, aktivitas rekreasi seperti memancing dan mencari kepiting membutuhkan akses ke air \citep{gordon1996}. Penggunaan beragam dapat berkontribusi terhadap kesuksessan strategi berkelanjutan \citep{eldeeb2015}.
 
 % def Preferensi ruang
-Kawasan tepi laut senggol terbentang dari Pelabuhan Nusantara hingga Pasar Senggol sepanjang sekitar 300 meter. Sepanjang garis pantai tersebut terbentuk sejumlah ruang dengan karakteristik yang berbeda. Pengembangan yang terjadi di kawasan tersebut untuk merespon konsep kota Parepare sebagai kota Pariwisata.
+Kawasan tepi laut Senggol Parepare terbentang dari Pelabuhan Nusantara hingga Pasar Senggol sepanjang sekitar 300 meter. Setelah pengembangan tepi laut Senggol, tepi laut ini membentuk sejumlah ruang dengan karakteristik yang berbeda.
 Ruang menjadi tempat yang dapat mengakomodasi masyarakat untuk meningkatkan kualitas hidup mereka \citep{kim2012}, dengan cara memenuhi kebutuhannya.
-Pemahaman preferensi terhadap ruang publik yang lebih baik dapat membantu pemangku kebijakan dan perencana kota untuk mendesain ruang publik secara efektif dalam hal memenuhi kebutuhan penggunanya \citep{madureira2018}.
+
 %Mencari tahu preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
 
-Menurut \cite{devysandra2012}, preferensi adalah kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain. \cite{lynch1984} menjelaskannya dalam ranah ruang perkotaan sebagai citra lingkungan (kualitas fisik objek) yang membangkitkan kesan yang kuat terhadap pengamat. \citeauthor{lynch1984} menyebutkan citra lingkungan tersebut terbentuk atas identitas, struktur, dan makna.
-\cite{knox2014} melihat bahwa makna juga melekat pada elemen lingkungan perkotaan yang mana sama atau lebih penting daripada aspek struktur dan fisik.
-Elemen lingkungan adalah fitur atau kualitas dari lingkungan yang mana bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}. \cite{carr1992} berpendapat bahwa lingkungan dapat mengesankan atau dilupakan, disukai atau tidak disukai.
+Pemahaman preferensi terhadap ruang publik yang lebih baik dapat membantu pemangku kebijakan dan perencana kota untuk mendesain ruang publik secara efektif dalam hal memenuhi kebutuhan penggunanya \citep{madureira2018}.
+Menurut \cite{zhang2006}, preferensi terhadap ruang adalah ungkapan selera orang terhadap suatu ruang. Ungkapan selera ini juga melekat atau ditimbulkan oleh sebuah elemen ruang perkotaan \citep{knox2014}.
+Elemen ruang adalah fisik ruang publik yang merupakan bagian dari tatanan \textit{(settings)} ruang publik \citep{alves2008}.
 
 % proposisi atribut
-Beberapa penelitian menemukan proposisi terkait preferensi pengunjung pada ruang publik. Pada penelitian preferensi pengunjung dalam melepas stress terhadap ruang hijau menunjukkan orang lebih menyukai tempat yang sepi (penggunaan rendah) saat ingin melepas stress. Sementara preferensi pengunjung secara umum menempatkan desain jalan setapak lebih utama \citep{arnberger2015}.
-\cite{alves2008} menunjukkan tujuh atribut yang menjadi pertimbangan dalam hal perilaku orang dalam memilih. Beberapa diantaranya adalah jarak, fasilitas, pohon, pemeliharaan, aksesibel dan beragam.
-\cite{wen2018} memfokuskan penelitiannya kepada manula, dia menyimpulkan manula umumnya memiliki preferensi terhadap fitur lanskap yang alami, estetik, komprehensif dan beragam dengan fasilitas yang aksesibel dan terpelihara.
+Penelitian sebelumnya menemukan sejumlah faktor atau elemen ruang yang menjadi alasan pemilihan ruang. Seperti contoh,
+\cite{arnberger2015} menemukan orang menyukai pohon cukup rindang, aksesibiltas visual, jalan yang lebar dan lokasi yang dekat. Penelitian lainnya menemukan bahwa orang lebih menyukai elemen yang alami, estetik, komprehensif dan beragam serta fasilitas yang mudah dicapai dan terpelihara \citep{wen2018}. Sedangkan \cite{alves2008} menunjukkan tujuh hal yang menjadi pertimbangan seseorang saat memilih suatu ruang yaitu jarak, fasilitas, pohon, pemeliharaan, aksesibilitas, dan keberagaman.
 
 % existing research
-Penelitian terkait preferensi telah banyak dibahas seperti preferensi terhadap penataan permukiman nelayan kumuh \citep{ramdani2013}, preferensi pengguna terhadap kualitas taman kota sebagai ruang publik \citep{pratomo2017} dan  preferensi masyarakat terhadap taman kota di pusat kota tangerang \citep{imansari2015}.
-%state of the art
-Namun terlepas dari studi berkaitan dengan preferensi ruang publik, sepengetahuan penulis hanya sedikit yang membahas tentang preferensi pengunjung terhadap ruang khususnya di kawasan tepi laut.
+Sejumlah penelitian preferensi yang ada telah membahas preferensi terhadap taman kota \citep{devysandra2012, dwiputra2017, alves2008, madureira2018}, taman umum \textit{(public park)} \citep{grilli2020} dan ruang terbuka kampus \citep{zhang2006}.
+Namun terlepas dari studi berkaitan dengan preferensi ruang publik (lihat tabel \ref{tab:asli}), hanya sedikit yang membahas tentang preferensi pengunjung terhadap ruang yang berada di kawasan tepi laut.
+Oleh karena itu, penelitian ini diharapkan mampu melengkapi kekurangan tersebut dalam studi preferensi.
+
+Selain itu, tepi laut senggol yang memiliki keberagaman masyarakat dengan latar belakang yang berbeda merupakan kasus yang dapat dikaji agar bisa memeberikan gambaran bagaimana preferensi masyarakat lokal dan pengunjung yang transit dari berbebagai daerah. Menurut \cite{madureira2018} preferensi masyarakat dalam suatu wilayah dapat berbeda, oleh karena itu penelitian terkait preferensi di masing-masing tempat adalah sangat penting.
 
 %Kebanyakan penelitian hanya mendiskusikan atribut atau fitur ruang yang paling dicenderungi masyarakat \citep{dipeolu2021,madureira2018,alves2008,elmen2005}.
 %atribut preferensi ruang & karkter pengguna
@@ -99,19 +101,19 @@ Namun terlepas dari studi berkaitan dengan preferensi ruang publik, sepengetahua
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %ruang publik teori laut
 
-Lebih lanjut, sangat penting untuk melakukan penilaian lokal karena preferensi tepi laut dapat berbeda dari setiap kota \citep{madureira2018}.
-Dengan beragam ciri khusus masyarakat dan latar belakang yang berbeda, tepi laut senggol diharapkan dapat dikaji agar memenuhi kebutuhan masyarakat lokal dan pengunjung yang transit dari berbagai daerah di Sulsel.
-Selain memperhatikan preferensi pengunjung terhadap ruang, peneliti juga akan menyelidiki kepentingan relatif dari berbagai elemen yang berbeda.
-
 \section{Rumusan Masalah}
-Kawasan tepi laut merupakan kawasan yang sangat rentan dan bernilai tinggi \citep{mullin2000}. Sebagai area yang merupakan bagian yang tidak terpisahkan dari sebuah kota \citep{hussein2014}.
+Kawasan tepi laut merupakan kawasan yang sangat rentan sekaligus bernilai tinggi \citep{mullin2000}. Kawasan ini seharusnya dilihat sebagai bagian dari sebuah kota dan berkontribusi terhadap kota itu sendiri \citep{hussein2014}. Menurut \cite{hussein2014}, pengembangan tepi laut yang berhasil bisa menarik masyarakat dari pusat kota untuk datang ke pesisir. Masyarakat dapat menggunakan tepi laut untuk tujuan tertentu seperti hiburan, sosial, budaya dan transportasi air. Keberhasilan tersebut dapat menjadi tanda sebuah kota yang berhasil \citep{vayona2011}.
 
-Pengembangan tepi laut yang berhasil menarik masyarakat untuk datang ke pesisir. Keberhasilan suatu tepi laut menjadi tanda sebuah kota yang berhasil.
+Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020}.
+Hal ini didasari karena lokasi kota Parepare yang sangat strategis dimana menghubungkan dengan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo.
+Salah satu objek pariwisata yang menonjol di kota Parepare adalah tepi laut Senggol. Tepi laut ini merupakan kawasan strategis kota Parepare sehingga menarik perhatian semua pihak dalam masyarakat khususnya penentu kebijakan.
 
-Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataan \citep{junaid2016,faniapriani2018,muh.sainals2020} . Lokasi kota Parepare sangat strategis dimana menghubungkan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo. Salah satu objek pariwisata yang menonjol di kota Parepare adalah tepi laut Senggol. \cite{vayona2011} menyatakan bahwa tanda keberhasilan kota dapat dilihat dari pembangunan yang berada di pesisir laut.
-Potensi ini menjadi alasan perhatian khusus terhadap kawasan tepi laut di pesisir kota Parepare.
+Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membagi kawasan menjadi dua macam ruang yang berbeda. Penelitian ini menyebut ruang yang satu sebagai ruang A, sedangkan ruang lainnya adalah ruang B. Kedua ruang ini memiliki perbedaan yang cukup signifikan dilihat dari pelaku utama yang menjajakan makanan, pengaturan elemen-elemen, sifat-sifat elemen ruang, dan lain-lain. Oleh sebab itu, orang dapat memilih ruang satu daripada ruang lainnya.
+Hal ini dapat menyebabkan ruang yang jarang dipilih orang lambat laun akan terbengkalai. Agar kedua ruang tersebut memiliki potensi yang sama untuk dipilih, maka mengetahui kebutuhan masyarakat terhadap ruang adalah sangat penting. Menurut \cite{madureira2018}, pemahaman terkait preferensi orang terhadap ruang akan memberitahu kebutuhan masyarakat. Berdasarkan permasalahan itu, penelitian ini menganalisis preferensi pengunjung terhadap ruang. Maka penelitian ini akan menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
-Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini memunculkan dua ruang dengan tatanan (elemen) yang berbeda. Elemen menjadi faktor keberhasilan sebuah ruang publik yang ditandai dengan kehadiran orang \citep{carr1992, hoyle2001}. Orang menilai elemen tersebut berdasarkan pemaknaan atau informasi perseptual apakah mereka menyukai atau tidak. \cite{swanwick2009} menyimpulkan faktor presepsi dan estetika mendasari kesukaan terhadap ruang tertentu yang meliputi lanskap secara keseluruhan antara lain keberagaman, kontras, warna, jumlah elemen. Beberapa penelitian menunjukkan bahwa orang lebih suka pada elemen alami daripada elemen atau lahan yang diberkembangkan \cite{swanwick2009}. Pada penelitian ini, berfokus pada dua ruang yang memiliki karakteristik yang berbeda. Satu ruang (ruang A) yang merupakan pengembangan baru dan satu lainnya (ruang B) yang merupakaan pengembangan lama yang masih bertahan. Ruang kedua lebih menunjukkan kepemilikan elemen alami yang lebih. Meskipun terdapat kesamaan secara empiris pada penelitian terdahulu, penelitian ini lebih merujuk pada kondisi tepi laut \textit{(waterfront)} serta elemen-elemen yang disukai.
+%Pengetahuan tentang kebutuhan orang terhadap ruang tepi laut akan membantu kedua ruang ini.Untuk mengatasinya maka perlu pengetahuan tentang preferensi masyarakat terhadap ruang tepi laut agar kedua ruang dapat memenuhi kebutuhan masyarakat. Berdasarkan permasalahan tersebut, penelitian ini akan membahas preferensi pengunjung terhadap ruang di kawasan tepi laut Senggol. Berangkat dari permasalahan ini, maka mengetahui kebutuhan masyarakat terhadap tepi laut Senggol adalah penting. Untuk Dengan begitu, penelitian ini akan menganalisis preferensi pengunjung terhadap ruang dan elemen-elemen di kawasan tersebut. Menurut sejumlah penelitian, orang lebih menyukai ruang yang alami dibandingkan dengan ruang binaan \citep{zhang2006, swanwick2009, kaplan1998}. Padahal kedua ruang pada tepi laut Senggol ini memiliki
+
+%Beberapa penelitian menunjukkan bahwa orang lebih suka pada elemen alami daripada elemen atau lahan yang diberkembangkan \cite{swanwick2009}. Pada penelitian ini, berfokus pada dua ruang yang memiliki karakteristik yang berbeda. Satu ruang (ruang A) yang merupakan pengembangan baru dan satu lainnya (ruang B) yang merupakaan pengembangan lama yang masih bertahan. Ruang kedua lebih menunjukkan kepemilikan elemen alami yang lebih. Meskipun terdapat kesamaan secara empiris pada penelitian terdahulu, penelitian ini lebih merujuk pada kondisi tepi laut \textit{(waterfront)} serta elemen-elemen yang disukai.
 
 %Untuk meningkatkan sebuah kawasan perlu memahami kebutuhan pengguna karena mereka adalah pengguna yang sebenarnya \citep{ozguner2011}.
 %Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
@@ -122,15 +124,10 @@ Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut se
 %Untuk meningkatkan keberhasilan tersebut perlu mementingkan kebutuhan pengguna taman sebagai pengguna yang sebenarnya \citep{ozguner2011}.
 %Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
 
-Berdasarkan permasalahan itu, penelitian ini menyelidiki preferensi pengunjung yang sebenarnya terhadap ruang dan elemen di kawasan tepi laut senggol.
-Maka penelitian ini menjawab sejumlah pertanyaan penelitian sebagai berikut:
-
-
 \begin{enumerate}
-    \item Apa saja ruang yang dicenderungi pengunjung pada ruang publik
+    \item Ruang apa yang dipilih pengunjung untuk dimanfaatkan sebagai ruang publik?
     \item Mengapa orang memiliki preferensi pada ruang tersebut?
-    \item Apa saja elemen-elemen pada suatu ruang sehingga orang memilih ruang tersebut?
-        % Apakah fitur ruang tepi laut mempunyai hubungan terhadap pemilihan ruang?
+    \item Apa saja elemen-elemen yang ada pada ruang publik sehingga pengunjung lebih memilih ruang tersebut?
 \end{enumerate}
 
 %Mengetahui preferensi ruang dari masyarakat dapat membantu menyediakan dan mengelola pengembangan untuk memenuhi kebutuhan masyarakat secara efektif \citep{madureira2018}.
@@ -150,11 +147,9 @@ Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di ka
 Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan elemen-elemen pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-%    \item Untuk menganalisis ruang mana saja yang dicenderungi pengunjung pada ruang publik
-%    \item Untuk menganalisis elemen-elemen yang menyebabkan orang memilih ruang tertentu.
-    \item Untuk menganalisis ruang yang cenderung menjadi preferensi pengunjung terhadap ruang A dan B.
-    \item Untuk menganalisis mengapa orang memiliki preferensi ruang tersebut.
-    \item Untuk menganalisis elemen-elemen apa pada ruang yang menjadi preferensi.
+    \item Untuk menganalisis kecenderungan pengunjung dalam memilih ruang di kawasan tepi laut Senggol.
+    \item Untuk mengetahui latar belakang yang mendasari pemilihan tersebut.
+    \item Untuk menganalisis apa saja elemen ruang publik yang disukai.
 \end{enumerate}
 
 \section{Manfaat Penelitian}
@@ -264,7 +259,7 @@ Data-data dari penelitian tersebut terangkum dalam bentuk sebuah tabel yang dapa
 \begin{singlespace}
 \small
 \begin{longtable}{p{.2\textheight} p{.3\textheight} p{.4\textheight} p{.4\textheight}}
-	\caption{Penelitian tentang Preferensi Orang Sebelumnya} \\
+	\caption{Penelitian mengenai Preferensi Sebelumnya} \\
     \label{tab:asli} \\
     Nama Peneliti & Judul dan Tahun Penelitian & Metode & Hasil Penelitian \\
     \toprule
@@ -333,7 +328,7 @@ Dia menerangkan tepi laut membuktikan tentang karakter masyarakat, sistem ekonom
 %pengembangan tepi laut tersebut awalnya didasari atas permintaan oleh publik terhadap akses ke perairan dengan membuat sebuah ruang publik di tepi laut \citep{luan2018}.
 
 Pengembangan tepi laut sebagai ruang terbuka publik biasanya mengubah tepi laut dari area industri dan komersial menjadi area untuk rekreasi, fasilitas publik, kantor dan  \textit{mixed-use} serta pengembangan perumahan \citep{cai2004}.
-Beberapa perkotaan luar negeri yang telah mengalami pengembangan tepi laut adalah kota-kota besar di eropa, amerika serikat dan cina yang telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}. Sedangkan dalam negeri terdapat kota semarang \citep{supriyadi2008}, jakarta \citep{silver2018} dan makassar \citep{nur2006}.
+Beberapa perkotaan luar negeri yang telah mengalami pengembangan tepi laut adalah kota-kota besar di Eropa, Amerika Serikat dan Cina yang telah sukses mengubah tepi laut yang terbengkalai atau kekurangan penggunaan publik dan komersial menjadi jantung kota dan tujuan masyarkat \citep{white2016,luan2018}. Sedangkan dalam negeri terdapat kota semarang \citep{supriyadi2008}, jakarta \citep{silver2018} dan makassar \citep{nur2006}.
 Salah satu pengembangan tepi laut terdekat pada objek penelitian adalah pantai losari \citep{nur2006}. \cite{nur2006} menerangkan losari menjadi pusat pengembangan tepi laut dan ruang publik di kota makassar. Jarak antara pantai losari dan pantai senggol berkisar 170 kilometer.
 
 Pengembangan yang terjadi pada tepi laut memunculkan beragam jenis ruang tepi laut. Dulu tepi laut hanya sebatas area untuk pelabuhan dan industri. Namun, seiring meningkatnya kebutuhan terhadap perkotaan yang ramah dan berestetika, tepi laut menyediakan penggunaan baru dan menyatukan area dalam sebuah pusat kota \citep{vayona2011}. Menurut \cite{dong2004}, penggunaan lahan tepi laut terdiri atas penggunaan untuk komersial, kantor, taman, perumahan, fasilitas hiburan, fasilitas konferensi, transportasi, hotel, dan alun-alun.
@@ -348,8 +343,8 @@ Penggunaan tepi laut tersebut membentuk sejumlah jenis ruang yaitu ruang rekreas
     \item Ruang bersejarah, ruang ini menampilkan bangunan cagar budaya dengan cara melestarikannya.
 \end{enumerate}
 
-Berdasarkan uraian ruang-ruang tepi laut diatas, terdapat sejumlah jenis ruang yang dapat ditemui pada lokasi penelitian yaitu ruang rekreasi, ruang komersial, ruang lingkungan, ruang perumahan dan ruang kerja. Ruang-ruang tersebut membutuhkan penjelasan lebih lanjut, sebagai berikut.
-arabic
+Berdasarkan uraian ruang-ruang tepi laut diatas, terdapat sejumlah jenis ruang yang dapat ditemui pada lokasi penelitian yaitu ruang rekreasi, ruang komersial, ruang lingkungan, ruang perumahan dan ruang kerja. Ruang-ruang tersebut membutuhkan penjelasan lebih lanjut, sebagai berikut:
+
 \subsubsection{Ruang Rekreasi Tepi laut}
 
 Tersedianya tepi laut adalah solusi yang pas untuk memenuhi kebutuhan baru masyarakat, rekreasi \citep{hradilova2013}. Banyak tepi laut telah mengalami perubahan menuju sebuah ruang rekreasi.
@@ -466,8 +461,12 @@ Orang menyukai bekerja dimana mereka dapat menikmati pemandangan yang indah \cit
 \label{fig:jwor}
 \end{figure}
 
-
 %\subsubsection{Tepi Laut Sejarah}
+%Kesimpulan jenis ruang
+Tidak dipungkiri terbentuknya beragam macam ruang pada tepi laut merupakan akibat meningkatkan kebutuhan masyarakat terhadap perkotaan yang menyatu dengan laut. Penjelasan diatas menunjukkan setiap jenis-jenis ruang tepi laut memiliki andil dalam memenuhi kebutuhan masyarakat. Orang-orang memilih dan menyukai jenis ruang tertentu berdasarkan kebutuhan dan alasan tertentu. Jenis-jenis ruang tersebut setidaknya memiliki hubungan dengan elemen-elemen yang membentuknya. Seperti contoh, kedai makanan, toko, lampu jalan, pepohonan, kompleksitas laut, dan pusat perbelanjaan. Sehingga jenis ruang dapat teridentifikasi satu diantara yang lain.
+
+
+Penjelasan diatas menunjukkan bahwa setiap jenis ruang tersebut memiliki kelebihan dan kekurangan. Selain itu, mereka memiliki potensi untuk disukai oleh masyarakat.
 
 \section{Preferensi Ruang}
 \subsection{Definisi Preferensi Ruang}
@@ -975,7 +974,7 @@ Sejumlah massa bangunan yang berdekatan dengan \textit{waterfront} tergambarkan 
 
 \begin{enumerate}
     \item Pasar Senggol
-Pasar ini cukup populer di daerah Sulsel  sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memuaskan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
+Pasar ini cukup populer di daerah Sulsel  sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memenuhi kebutuhan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
 Pada tahun 2006, Parepare mengadakan rehabilitasi terhadap prasana dan sarana. Pasar Senggol termasuk dalam proyek rehabilitasi tersebut. Hal yang melatarbelakanginya adalah untuk percepatan pertumbuhan ekonomi wilayah yang berbasis pada sumber daya lokal, investasi dan kesejahteraan masyarakat sesuai dengan prinsip pembangunan berkelanjutan. Kedua untuk pemerataan infrastruktur wilayah melalui keseimbangan penataan ruang dan adaptibilitas perubahan lingkungan hidup \citep{syafruddin2018}.
 
 Beberapa motivasi pembeli terhadap barang cakar adalah harganya termasuk murah, kualitasnya masih terjaga dan beragam pilihan. Pengunjung Pasar Senggol biasanya menyempatkan diri berkunjung ke tepi laut Senggol untuk makan malam atau hanya sekedar wisata malam.
@@ -1571,7 +1570,7 @@ Penelitian ini terkait dengan preferensi pengunjung pada tepi laut Senggol sebag
 Melalui proses penelitan dengan menggunakan metode campuran dan analisis multivariat statistik-biplot berhasil diaplikasikan untuk menemukan preferensi ruang dan elemen-elemen serta keragaman preferensi diantara 85 responden pada ruang tepi laut Senggol. Penemuan dan kesimpulan studi ini diantaranya:
 
 \begin{enumerate}
-    \item Pada penelitian ini, crosstabulasi digunakan untuk mengidentifikasi ruang yang paling dipreferensi pada tepi laut. Hasil dari studi ini mengindikasikan ruang A paling dipreferensi di tepi laut Senggol, yang mana mendukung penemuan dari \cite{zhang2006}. \cite{zhang2006} menemukan bahwa preferensi paling tinggi adalah ruang yang memiliki tata letak ruang dan visual yang menarik. Sebaimana ruang A tidak terlalu lama mengalami renovasi dengan penambahan elemen yang memadai.
+    \item Pada penelitian ini, crosstabulasi digunakan untuk mengidentifikasi ruang yang paling dipreferensi pada tepi laut. Hasil dari studi ini mengindikasikan ruang A paling dipreferensi di tepi laut Senggol, yang mana mendukung penemuan dari \cite{zhang2006}. \cite{zhang2006} menemukan bahwa preferensi paling tinggi adalah ruang yang memiliki tata letak ruang dan visual yang menarik. Sebagaimana ruang A belum lama ini mengalami renovasi dengan penambahan elemen yang memadai.
     \item Dari hasil studi pustaka, preferensi terhadap ruang diukur dengan empat aspek ruang: Aksesibilitas, Keamanan, Estetika dan Fasilitas. Aspek ini merupakan alasan mengapa orang memiliki preferensi pada ruang tertentu. Keragaman preferensi digambarkan menggunkan Biplot yang mana dengan mudah menggambarkan bagaimana aspek ini berkontribusi dalam preferensi terhadap ruang. Hasilnya menunjukkan aspek fasilitas adalah aspek yang paling disukai orang dalam memilih ruang. Oleh karena itu, aspek fasilitas seharusnya diutamakan dalam desain dan pengelolaan ruang terbuka tepi laut. Penelitian ini kemudian menemukan faktor seperti gender, usia dan suku memiliki prengaruh terhadap keberagaman preferensi berdasarkan aspek diantara kelompok responden. Meskipun kelompok gender sama-sama dipengaruhi oleh aksesibilitas, presepsi responden laki-laki terhadap ruang lebih dipengaruhi oleh fasilitas. Sedangkan responden perempuan sangat dipengaruhi oleh kombinasi dari aksesibilitas dan fasilitas. Remaja lebih banyak dipengaruhi oleh aspek aksesibilitas, sementara orang dewasa sangat dipengaruhi oleh komponen visual dan manula dipengaruhi oleh aspek fasilitas. Kelompok terakhir adalah latar belakang budaya yang mana orang bugis sangat dipengaruhi oleh fasilitas sementara nonbugis lebih dipengaruhi oleh estetika.
     \item Berdasarkan aspek ruang, terdapat sejumlah elemen yang mendukung aspek-aspek ruang yang mana menjadi alasan mengapa orang memiliki preferensi ruang tertentu. Oleh karena itu, preferensi ruang juga diukur oleh lima kelompok elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Tingkat cahaya. Hasil dari studi ini menemukan elemen yang paling disukai oleh pengunjung adalah lebar jalan. Ini mendukung aspek yang paling disukai yang kedua dari penelitian ini yaitu aksesibilitas. Faktor socio-demografi juga berpengaruh  terhadap keragaman preferensi yang berdasarkan elemen-elemen diantara kelompok pengunjung. Presepsi responden laki-laki terhadap ruang dipengaruhi oleh kombinasi lebar jalan dan tingkat cahaya. Sedangkan responden perempuan lebih dipengaruhi oleh tingkat cahaya. Untuk kelompok usia terbagi menjadi tiga kelompok: remaja lebih banyak dipengaruhi oleh lebar jalan, dewasa dan manula keduanya sangat dipengaruhi oleh tingkat cahaya. Terakhir, suku bugis lebih banyak dipengaruhi oleh tingkat cahaya, sedangkan nonbugis lebih banyak dipengaruhi oleh bentuk pohon.
 
