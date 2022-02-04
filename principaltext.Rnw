@@ -975,7 +975,7 @@ Sejumlah massa bangunan yang berdekatan dengan \textit{waterfront} tergambarkan 
 \begin{enumerate}
     \item Pasar Senggol
 Pasar ini cukup populer di daerah Sulsel  sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memenuhi kebutuhan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
-Pada tahun 2006, Parepare mengadakan rehabilitasi terhadap prasana dan sarana. Pasar Senggol termasuk dalam proyek rehabilitasi tersebut. Hal yang melatarbelakanginya adalah untuk percepatan pertumbuhan ekonomi wilayah yang berbasis pada sumber daya lokal, investasi dan kesejahteraan masyarakat sesuai dengan prinsip pembangunan berkelanjutan. Kedua untuk pemerataan infrastruktur wilayah melalui keseimbangan penataan ruang dan adaptibilitas perubahan lingkungan hidup \citep{syafruddin2018}.
+Pada tahun 2006, Parepare melaksanakan program rehabilitasi terhadap prasana dan sarana. Pasar Senggol termasuk dalam proyek rehabilitasi tersebut. Hal yang melatarbelakanginya adalah untuk percepatan pertumbuhan ekonomi wilayah yang berbasis pada sumber daya lokal, investasi dan kesejahteraan masyarakat sesuai dengan prinsip pembangunan berkelanjutan. Kedua untuk pemerataan infrastruktur wilayah melalui keseimbangan penataan ruang dan adaptibilitas perubahan lingkungan hidup \citep{syafruddin2018}.
 
 Beberapa motivasi pembeli terhadap barang cakar adalah harganya termasuk murah, kualitasnya masih terjaga dan beragam pilihan. Pengunjung Pasar Senggol biasanya menyempatkan diri berkunjung ke tepi laut Senggol untuk makan malam atau hanya sekedar wisata malam.
 Pasar senggol berdekatan dengan ruang B kawasan tepi laut Senggol. Seseorang dapat mengakses ruang B melalui bahu jalan. Untuk mengakses ruang A, pengunjung lebih baik berputar menggunakan kendaraan karena jalan pada kawasan \textit{waterfront} ini adalah satu arah dan ruang A cukup jauh dari Pasar Senggol.
@@ -1159,20 +1159,21 @@ Meskipun tidak ada naungan pada jalan setapaknya, Ruang A menyediakan naungan ya
 Pohon peneduh jalan berperan penting dalam menjaga kenyamanan pengguna jalan maupun yang beraktivitas dibawahnya. Berdasarkan definisi Kementerian Pekerjaan Umum (PU), pohon peneduh adalah jenis pohon yang bercabang dan tingginya lebih dari dua meter. Banyak jenis pohon peneduh tumbuh di ruang A.
 Namun yang paling dominan adalah pohon palem. Berikut daftar-daftar pohon yang ada di ruang ini (lihat tabel \ref{tab:jphna}).
 
-\begin{longtable}{c m{4cm} m{2cm} m{2cm} }
-	\caption{Jenis Pohon} \\
-    \label{tab:jphna} \\
+\begin{table}[htpb]
+    \centering
+    \caption{Jenis Pohon}
+    \label{tab:jphna}
+    \begin{tabular}{l p{2cm} p{2cm}}
     \toprule
-    Nama & Gambar & Tinggi (m) & Tajuk (cm)\\
+    Nama &  Tinggi (m) & Tajuk (cm)\\
     \midrule
-    Pohon Palem &  \includegraphics[width=0.3\textwidth, height=2in]{figures/plewod} & 15 & 8-120\\
-
-    Pohon Pandan Bali & \includegraphics[width=0.3\textwidth,height=2in]{figures/pnbli} & 2 & 30-100\\
-
-    Pohon (Ki) Hujan & \includegraphics[width=0.3\textwidth,height=2in]{figures/tremhu} & 15-25 & >100 \\
-
-    Pohon Pulai & \includegraphics[width=0.3\textwidth,height=2in]{figures/plai} & 6-10 & 60-100 \\
-    \end{longtable}
+    Pohon Palem &   15 & 8-120\\
+    Pohon Pandan Bali &  2 & 30-100\\
+    Pohon (Ki) Hujan &  15-25 & >100 \\
+    Pohon Pulai &  6-10 & 60-100 \\
+    \bottomrule
+    \end{tabular}
+\end{table}
 
 Pohon yang merupakan vegetasi sangat baik dalam memberikan naungan.Selain sebagai atap sebuah ruang, peran vegetasi juga berfungsi sebagai dinding maupun lantai. Ini termasuk dalam fungsi struktur \citep{ruli2017}.  Fungsi dinding dapat sebagai pembatas yang memisahkan jalur kendaraan dan pedestrian. Fungsi lantai dapat sebagai pembeda sebuah level permukaan atau jenis ruang. Akan tetapi, dua fungsi terakhir ini kurang tampak pada ruang A.  Meskipun terdapat pohon-pohon pada pedestrian, pohon-pohon ini tidak berperan sebagai pembatas (dinding). Rumput-rumput juga kurang memeberikan penanda sebuah level atau jenis ruang kecuali pada median jalan (lihat gambar \ref{fig:vgt}).
 
@@ -1416,23 +1417,22 @@ Naungan tersebut menutupi seluruh area PKL dengan panjang sekitar 100 meter dan 
 
 Selain naungan buatan tadi, pohon-pohon juga turut membantu untuk meneduhkan area di sepanjang ruang B ini. Pohon-pohon tersebut tumbuh di pinggir jalan. Sebelah barat jalan, pohon-pohon ini memiliki jarak yang cukup jauh sekitar 3-5 meter. Ini memastikan pengunjung dengan mudah masuk ke area PKL. Sedangkan sebelah timur jalan, pohon-pohon adalah rindang tetapi jarang. Adapun jenis pohon-pohon teruraikan pada tabel \ref{tab:jphnb}.
 
-
-\begin{longtable}{c m{4cm} m{2cm} m{2cm} }
-	\caption{Jenis Pohon} \\
-    \label{tab:jphnb} \\
+\begin{table}[htpb]
+    \centering
+    \caption{Jenis Pohon}
+    \label{tab:jphnb}
+    \begin{tabular}{l p{2cm} p{2cm}}
     \toprule
-    Nama & Gambar & Tinggi (m) & Tajuk (cm)\\
+    Nama &  Tinggi (m) & Tajuk (cm)\\
     \midrule
-    Pohon Palem &  \includegraphics[width=0.3\textwidth, height=2in]{figures/plewod} & 15 & 8-120\\
-
-    Pohon Ketapang & \includegraphics[width=0.3\textwidth,height=2in]{figures/pnbli} & 2 & 30-100\\
-
-    Pohon Hujan Abadi & \includegraphics[width=0.3\textwidth,height=2in]{figures/tremhu} & 15-25 & >100 \\
-
-    Pohon Kelapa & \includegraphics[width=0.3\textwidth,height=2in]{figures/plai} & 6-10 & 60-100 \\
-
-    Pohon Mangga & \includegraphics[width=0.3\textwidth,height=2in]{figures/plai} & 6-10 & 60-100 \\
-    \end{longtable}
+    Pohon Palem &   15 & 8-120\\
+    Pohon Ketapang &  2 & 30-100\\
+    Pohon Hujan Abadi &  15-25 & >100 \\
+    Pohon Kelapa &  6-10 & 60-100 \\
+    Pohon Mangga &  6-10 & 60-100 \\
+    \bottomrule
+    \end{tabular}
+\end{table}
 
     \item Tempat Duduk
 
