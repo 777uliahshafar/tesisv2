@@ -24,7 +24,7 @@ total <- c(size = "total", apply(mrpa[, -1], FUN = sum, MAR = 2))
 mrpa_pro <- rbind(mrpa, total)
 
 comm <- paste0("\\hline \n \\multicolumn{4}{l}",
-               "{\\scriptsize{sumber: analisis,2022 }} \n")
+               "{\\scriptsize{sumber: Analisis,2022 }} \n")
 
 cat(paste("\\newcommand{\\mrpafre}{\n", sep=""))
 print(xtable(mrpa_pro, align ="llldd" , hline = TRUE,
@@ -114,7 +114,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -124,7 +124,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -133,7 +133,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -142,7 +142,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -151,7 +151,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -161,7 +161,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -170,7 +170,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -180,7 +180,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -189,7 +189,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -200,7 +200,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -209,7 +209,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -218,7 +218,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -228,7 +228,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -238,7 +238,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -249,7 +249,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -259,7 +259,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -268,7 +268,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -277,7 +277,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -286,7 +286,7 @@ column_spec(2, width = "4.3em") %>%
 column_spec(3, width = "4.3em") %>%
 column_spec(4, width = "4.8em") %>%
 kable_styling(position="center") %>%
-footnote(alphabet = "analisis, 2022 ",
+footnote(alphabet = "Analisis, 2022 ",
 alphabet_title = "Sumber: ",
 footnote_as_chunk = TRUE)
 
@@ -334,7 +334,7 @@ toraja && 2 (2\%) & 6 (7\%) & 8 (9\%)\\
 
 Total Responden && 38 (45\%) & 47 (55\%) & 85 (100\%)\\
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -355,7 +355,7 @@ laki-laki && 27(32\%) & 31(36\%) & 58(68\%)\\
 perempuan && 11(13\%) & 16(19\%) & 27(32\%)\\
 Total && 38(45\%) & 47(55\%) & 85(100\%)\\
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -374,7 +374,7 @@ Total && 38(45\%) & 47(55\%) & 85(100\%)\\
 > 41 && 9 & 11 & 20\\
 Total && 38 & 47 & 85\\
 \bottomrule
-\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber:   analisis, 2022 }\\
+\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber:   Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -397,7 +397,7 @@ wiraswasta && 8 & 9 & 17\\
 \addlinespace
 Total && 38 & 47 & 85\\
 \bottomrule
-\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -416,7 +416,7 @@ makassar && 4 & 3 & 7\\
 toraja && 2 & 6 & 8\\
 Total && 38 & 47 & 85\\
 \bottomrule
-\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{4}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -434,7 +434,7 @@ ruang a && 24 (28\%) & 32 (38\%) & 56 (66\%)\\
 ruang b && 14 (16\%) & 15 (18\%) & 29 (34\%)\\
 Total && 38 (45\%) & 47 (55\%) & 85 (100\%)\\
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -478,7 +478,7 @@ toraja && 8 (9\%) & 0 & 8 (9\%)\\
 Total && 78 (92\%) & 7 (8\%) & 85 (100\%)\\
 
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -496,7 +496,7 @@ ruang a && 51 (28\%) & 5 (38\%) & 56 (66\%)\\
 ruang b && 27 (16\%) & 2 (18\%) & 29 (34\%)\\
 Total && 78 (45\%) & 7 (55\%) & 85 (100\%)\\
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -542,7 +542,7 @@ toraja && 5 (6\%) & 3 (4\%) & 8 (9\%)\\
 Total && 39 (46\%) & 46 (54\%) & 85 (100\%)\\
 
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -561,7 +561,7 @@ ruang b && 20 (24\%) & 9 (11\%) & 29 (34\%)\\
 Total && 39 (46\%) & 46 (54\%) & 85 (100\%)\\
 
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -608,7 +608,7 @@ toraja && 4 & 4 & 8\\
 Total && 35 & 50 & 85\\
 
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber:analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -627,7 +627,7 @@ ruang b & 9 (11\%) & 20 (24\%) & 29 (34\%)\\
 Total & 35 (41\%) & 50 (59\%) & 85 (100\%)\\
 
 \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -636,7 +636,7 @@ Total & 35 (41\%) & 50 (59\%) & 85 (100\%)\\
 
 \newcommand{\ctpaEach}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi 2 ruang dan aspek(ctpaE)}
+	\caption{Crosstabulasi 2 ruang dan aspek}
 	\label{tab:ctpaE}
     \centering
 \begin{tabular}[t]{r P{4.2em}
@@ -650,7 +650,7 @@ Ruang B  & 15 (10\%) & 2 (2\%)   & 9 (6\%) & 20 (13\%) & 46 (31\%) \\
 Total  & 47 (31\%) & 7 (5\%)  & 46 (31\%) & 50 (33\%) &150 (100\%) \\
 
  \bottomrule
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -712,7 +712,7 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 
 \newcommand{\xtpabygen}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi aspek dan perbedaan gender(xtpaG)}
+	\caption{Crosstabulasi aspek dan perbedaan gender}
 	\label{tab:xtpaG}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
@@ -731,7 +731,7 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
  \midrule
 
  \multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -739,7 +739,7 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 
 \newcommand{\xtpabyusi}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi aspek dan perbedaan usia(xtpaU)}
+	\caption{Crosstabulasi aspek dan perbedaan usia}
 	\label{tab:xtpaU}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
@@ -759,14 +759,14 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
  \bottomrule
 
 \multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
 
 \newcommand{\xtpabysuk}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi aspek dan perbedaan suku(xtpaS)}
+	\caption{Crosstabulasi aspek dan perbedaan suku}
 	\label{tab:xtpaS}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
@@ -784,7 +784,7 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
  \bottomrule
 
 \multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. suku bugis berjumlah 60 orang ; nonbugis berjumlah 25 orang }}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -792,7 +792,7 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 
 \newcommand{\xtpabypek}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi aspek dan perbedaan pekerjaan(xtpaP)}
+	\caption{Crosstabulasi aspek dan perbedaan pekerjaan}
 	\label{tab:xtpaP}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
@@ -816,7 +816,7 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
  \bottomrule
 
 \multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. belum bekerja berjumlah 6 orang ;  karyawan berjumlah 29 orang; lainnya berjumlah  12 orang; pelajar sebanyak 21 orang; wiraswasta sebanyak 17 orang}}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -903,10 +903,10 @@ ctptcR <- summarytools::ctable(ruang, df_elemenpro$tngkchy, dnn = c("Ruang", "Ti
 
 \newcommand{\ctpeSingleEach}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi 2 ruang dan elemen(ctpeSE)}
+	\caption{Crosstabulasi 2 ruang dan elemen}
 	\label{tab:ctpeSE}
     \centering
-\begin{tabular}[t]{rP{5.2em}P{5.2em}P{5.4em} }
+\begin{tabular}[h!]{rP{5.2em}P{5.2em}P{5.4em} }
 \hline
 \bfseries\diagbox[innerleftsep=8pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}&{\bfseries\parbox[c][2.5cm]{\textwidth}{Ruang a}} &\textbf{Ruang b} & \textbf{Total}\\
 
@@ -937,17 +937,17 @@ pencahayaan tinggi   &11(13\%)  & 6 (7\%)    &17(8\%)\\
 
 Total  & 123 (56\%)  & 97 (44\%) & 220 (100\%)   \\
  \bottomrule
-\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
 
 \newcommand{\ctpeEach}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Cross tabulasi ruang*kelompok elemen(ctpeE)}
+	\caption{Cross tabulasi ruang*kelompok elemen}
 	\label{tab:ctpeE}
     \centering
-\begin{tabular}[t]{rP{5em}P{5em}P{5.5em} }
+\begin{tabular}[ht]{rP{5em}P{5em}P{5.5em} }
 \hline
 \bfseries\diagbox[innerleftsep=8pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}&{\bfseries\parbox[c][2.5cm]{\textwidth}{Ruang a}} &\textbf{Ruang b} & \textbf{Total}\\
 
@@ -966,17 +966,17 @@ Total  & 167 (76\%)  & 53 (24\%) & 220 (100\%)   \\
 
 \bottomrule
 
-\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
 
 \newcommand{\xtpebygen}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi elemen dan perbedaan gender(xtpeG)}
+	\caption{Crosstabulasi elemen dan perbedaan gender}
 	\label{tab:xtpeG}
     \centering
-\begin{tabular}[t]{r P{2cm}
+\begin{tabular}[ht]{r P{2cm}
     P{2.2cm}P{2cm}P{2.2cm}}
 \hline
 \multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}}\\
@@ -998,17 +998,17 @@ Tingkat cahaya  & 21 &15  &13  & 4\\
  \bottomrule
 
 \multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
 
 \newcommand{\xtpebyusi}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi elemen dan perbedaan usia(xtpeU)}
+	\caption{Crosstabulasi elemen dan perbedaan usia}
 	\label{tab:xtpeU}
     \centering
-\begin{tabular}[t]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} }
+\begin{tabular}[ht]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} }
 \hline
 \multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}}\\
 
@@ -1029,7 +1029,7 @@ Tingkat cahaya  & 13  & 14   &9   & 5 & 8 & 4 \\
 
  \bottomrule
 \multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
-\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -1037,16 +1037,16 @@ Tingkat cahaya  & 13  & 14   &9   & 5 & 8 & 4 \\
 
 \newcommand{\xtpebysuk}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi elemen dan perbedaan suku(xtpeS)}
+	\caption{Crosstabulasi elemen dan perbedaan suku}
 	\label{tab:xtpeS}
     \centering
-\begin{tabular}[t]{r P{2cm}
+\begin{tabular}[ht]{r P{2cm}
     P{2.2cm}P{2cm}P{2.2cm}}
 \hline
 \multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}}\\
 
 
-&{\parbox[c][1.9cm]{\textwidth}{bugis}}  & nonbugis & suku & nonbugis\\
+&{\parbox[c][1.9cm]{\textwidth}{bugis}}  & nonbugis & bugis & nonbugis\\
 
  \toprule
 
@@ -1062,7 +1062,7 @@ Tingkat cahaya  & 29 &7  &11  & 6\\
  \bottomrule
 
 \multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. bugis berjumlah 60 orang ;  nonbugis berjumlah 25 orang}}\\
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -1070,10 +1070,10 @@ Tingkat cahaya  & 29 &7  &11  & 6\\
 
 \newcommand{\xtpebypek}{
 \begin{table}\setlength\tabcolsep{2pt}
-	\caption{Crosstabulasi elemen dan perbedaan pekerjaan(xtpeP)}
+	\caption{Crosstabulasi elemen dan perbedaan pekerjaan}
 	\label{tab:xtpeP}
     \centering
-\begin{tabular}[t]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} P{2em}P{2em}P{2em}P{2em}}
+\begin{tabular}[ht]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} P{2em}P{2em}P{2em}P{2em}}
 \hline
 \multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=3.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{5}{c}{\textbf{Ruang a}} &\multicolumn{5}{c}{\textbf{Ruang b}}\\
 
@@ -1094,7 +1094,7 @@ Jenis kursi  & 0  & 4  & 2 & 3 & 1 & 0 & 0 & 0 & 0 & 2   \\
 Tingkat cahaya  & 3  & 12  & 7 & 7 & 4 & 0 & 6 & 2 & 5 & 4   \\
  \bottomrule
 \multicolumn{11}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. belum bekerja berjumlah 6 orang ;  karyawan berjumlah 29 orang; lainnya berjumlah  12 orang; pelajar sebanyak 21 orang; wiraswasta sebanyak 17 orang}}\\
-\multicolumn{11}{l}{\rule{0pt}{1em}\scriptsize Sumber: analisis, 2022 }\\
+\multicolumn{11}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }

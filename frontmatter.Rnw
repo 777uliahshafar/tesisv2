@@ -36,7 +36,7 @@ set_parent("thesis.Rnw")
     \vspace{3\baselineskip}
 		{\large\bf PROGRAM STUDI MAGISTER ARSITEKTUR DEPARTEMEN ARSITEKTUR FAKULTAS TEKNIK\\ UNIVERSITAS DIPONEGORO\\
 			SEMARANG\\
-			2021
+			2022
 		}
 	\end{center}
 \vfill\mbox{}
@@ -48,7 +48,7 @@ set_parent("thesis.Rnw")
 \chapter*{HALAMAN PERNYATAAN ORIGINALITAS}
 \addcontentsline{toc}{chapter}{HALAMAN PERNYATAAN}
 \begin{center}
- Dengan ini saya sebagai penulis menyatakan bahwa Pra Tesis dengan judul \subtitle\,adalah hasil karya saya sendiri. Semua data yang dicantumkan dan sumber referensi yang dikutip pada Pra Tesis ini adalah benar dan dapat dipertanggungjawabkan keasliannya.
+ Dengan ini saya sebagai penulis menyatakan bahwa  \Title dengan judul \subtitle\,adalah hasil karya saya sendiri. Semua data yang dicantumkan dan sumber referensi yang dikutip pada \Title ini adalah benar dan dapat dipertanggungjawabkan keasliannya.
 \end{center}
 
 \vspace{8\baselineskip}
@@ -78,7 +78,7 @@ NIM. 21020119420029
    \yourIdentifier
 
 \vspace{2\baselineskip}
-{\small Diajukan pada Sidang Pra Tesis\\ Pada tanggal \DTMtoday}
+{\small Diajukan pada Sidang \Title\\ Pada tanggal \DTMtoday}
 
 
 \vspace{3\baselineskip}
@@ -163,13 +163,16 @@ Yang Menyatakan
 % Abstrak -------------------------------------------------------------------------
 \begin{abstract}
 \addcontentsline{toc}{chapter}{ABSTRAK}
-    Your text here\ldots
-Write the abstract in English and in German, called \emph{Zusammenfassung}.
-Describe in about 250 to 350 words the problem, the innovation, the method, the results and implications.
 
+Kawasaan tepi laut berkontribusi besar terhadap kesejahteraan masyarkat saat ini.
+Kemunculan tepi laut dengan beragam ruang merupakan hasil dari permintaan oleh masyarakat terhadap akses ke tepi laut. Namun, kemunculan ini tidak serta merta memenuhi kebutuhan masyarakat yang datang di tepi laut. Setidaknya, mereka akan memilih ruang yang hampir memenuhi kebutuhannya. Dengan begitu, ruang yang tidak dipilih akan terbengkalai.
+Hal ini akan menimbulkan ketimpangan penggunaan pada ruang-ruang yang tersedia dan merusak estetik kawasan tepi laut secara keseluruhan.
+Pemahaman preferensi untuk mengetahui kebutuhan masyarakat akan membantu untuk menyelaraskan fungsi setiap ruang yang ada di tepi laut. Maka dari itu, penelitian ini bertujuan untuk menganalisis kecenderungan pengunjung dalam memilih ruang. Metode yang digunakan adalah pendekatan kualitatif dan kuantitatif \textit{(mixed-method)}.
+Penelitian ini menggunakan crosstabulasi dan analisis biplot untuk melakukan analisis data.
+Penyebaran survei kuesioner dari 85 responden diadakan pada tepi laut Sengol Parepare. Sekitar 66\% responden memilih ruang A dan sisanya memilih ruang B. Kebanyakan responden beralasan aspek fasilitas dalam memilih ruang. Sedangkan elemen yang paling disukai adalah jalan yang lebar. Sehingga, desain dan elemen yang tersedia pada ruang B tidak memenuhi preferensi dan kebutuhan kebanyakan pengunjung dan juga tidak berkontribusi terhadap kesejahteraan masyarakat.
 \end{abstract}
 
-\noindent Kata kunci: lorem, ipsum, lorem, ipsum
+\noindent Kata kunci: Preferensi, Ruang, Aspek Ruang, Elemen Ruang,Tepi laut Senggol Parepare.
 
 % Abstract -------------------------------------------------------------------------
 \chapter*{ABSTRACT}
@@ -187,7 +190,7 @@ Describe in about 250 to 350 words the problem, the innovation, the method, the 
 
 Puji dan syukur penulis panjatkan atas kehadirat Allah SWT. Berkat rahmat dan hidayah-Nya tesis dengan judul ``Preferensi Pengunjung terhadap ruang Kawasan Tepi Laut Senggol'' dapat terselesaikan dengan baik. Banyak dukungan, bimbingan dan bantuan yang penulis terima selama penulisan tesis ini. Maka dari itu, dengan hak istimewa ini penulis menyampaikan ucapan terima kasih yang sebesar-besarnya kepada:
 \begin{enumerate}
-    \item \yourAdvisor selaku pembimbing I yang telah memberikan banyak bimbingan dan dukungan serta saran dalam keberhasilan penulisan tesis ini.
+    \item \yourAdvisor  selaku pembimbing I yang telah memberikan banyak bimbingan dan dukungan serta saran dalam keberhasilan penulisan tesis ini.
     \item \yourSecAdvisor selaku pembimbing II yang telah memberikan banyak bimbingan dan arahan dalam penulisan tesis ini.
     \item \ldots selaku penguji yang telah menambah masukan dan saran dalam penyempurnaan penulisan tesis ini.
     \item Dr. Ir. Suzanna Ratih Sari, MM, MA selaku Kaprodi Magister Arsitektur FT Undip yang telah memberikan banyak pembelajaran yang berguna dalam penulisan tesis ini.
