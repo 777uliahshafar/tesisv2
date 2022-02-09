@@ -63,7 +63,7 @@ Sebagai negara dengan garis pantai terpanjang di dunia \citep{hindersah2015}, In
 
 %kondisi parepare
 Kota Parepare merupakan kota yang terletak di Provinsi Sulsel. Peningkatan jumlah penduduk di Parepare berkisar 2\%, pada tahun 2019 Parepare memiliki penduduk sebanyak 145.178 orang \citep{bpskotaparepare2020}. Dengan mayoritas penduduk yang berusia produktif (0-40). Peningkatan jumlah penduduk tersebut kemungkinan disebabkan oleh potensi Parepare yang menjanjikan kesejahteraan hidup masyarakat.
-Kota Parepare adalah satu dari tiga kota adminsitratif di Sulsel.
+Kota Parepare adalah satu dari tiga kota administratif di Sulsel.
 Kota ini memiliki garis pantai sepanjang 11.8km, lebih kecil dari panjang garis pantai daerah-daerah sekitar seperti kabupaten Jeneponto sepanjang 114 km \citep{wardasusaniati2011}, kabupaten Pangkep sepanjang 58.87 km dan kabupaten Pinrang sepanjang 98.51 km  \citep{goni2018}.
 Terdapat sejumlah area yang berada di garis pantai tersebut misalnya tepi sungai Tonrangeng, taman Mattirotasi, pantai Bibir dan tepi laut Senggol (Pantai Senggol).
 Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan diri sebagai kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden ketiga Republik Indonesia.
@@ -85,7 +85,7 @@ Elemen ruang adalah fisik ruang publik yang merupakan bagian dari tatanan \texti
 
 % proposisi atribut
 Penelitian sebelumnya menemukan sejumlah faktor atau elemen ruang yang menjadi alasan pemilihan ruang. Seperti contoh,
-\cite{arnberger2015} menemukan orang menyukai pohon cukup rindang, aksesibiltas visual, jalan yang lebar dan lokasi yang dekat. Penelitian lainnya menemukan bahwa orang lebih menyukai elemen yang alami, estetik, komprehensif dan beragam serta fasilitas yang mudah dicapai dan terpelihara \citep{wen2018}. Sedangkan \cite{alves2008} menunjukkan tujuh hal yang menjadi pertimbangan seseorang saat memilih suatu ruang yaitu jarak, fasilitas, pohon, pemeliharaan, aksesibilitas, dan keberagaman.
+\cite{arnberger2015} menemukan orang menyukai pohon cukup rindang, aksesibilitas visual, jalan yang lebar dan lokasi yang dekat. Penelitian lainnya menemukan bahwa orang lebih menyukai elemen yang alami, estetis, komprehensif dan beragam serta fasilitas yang mudah dicapai dan terpelihara \citep{wen2018}. Sedangkan \cite{alves2008} menunjukkan tujuh hal yang menjadi pertimbangan seseorang saat memilih suatu ruang yaitu jarak, fasilitas, pohon, pemeliharaan, aksesibilitas, dan keberagaman.
 
 % existing research
 Sejumlah penelitian preferensi yang ada telah membahas preferensi terhadap taman kota \citep{devysandra2012, dwiputra2017, alves2008, madureira2018}, taman umum \textit{(public park)} \citep{grilli2020} dan ruang terbuka kampus \citep{zhang2006}.
@@ -1971,6 +1971,6 @@ Penelitian ini terkait dengan preferensi pengunjung pada dua ruang yang ada di t
         \begin{enumerate}[label=\alph*., leftmargin=0pt, itemindent=1cm, labelwidth=15pt, labelsep=5pt, listparindent=1cm]
             \item Penelitian ini mengaplikasikan metode penelitian yang cocok untuk studi preferensi ruang lainnya yang ingin menggunakan teknik kuesioner metode campuran. Metode tersebut dapat diubah sepanjang kebutuhan dan kedalaman penelitian terpenuhi.
             \item Metode analisis statistik masih memerlukan kedalaman dalam pengaplikasiannya supaya dapat memenuhi kebutuhan penelitian tertentu.
-            \item Terdapat keterbatasan publik dalam memahami studi berkaitan dengan desain perkotaan, intruksi yang dirancang teliti akan membantu mengelola respon dari responden untuk mencapai tujuan penelitian.
+            \item Terdapat keterbatasan publik dalam memahami studi berkaitan dengan desain perkotaan, instruksi yang dirancang teliti akan membantu mengelola respon dari responden untuk mencapai tujuan penelitian.
         \end{enumerate}
 \end{enumerate}
