@@ -60,25 +60,25 @@ Berdasarkan respon ruang yang disukai dari tepi laut Senggol, terdapat 85 total 
 Dari total 85 responden terkait ruang yang disukai, responden digolongkan berdasarkan gender yaitu laki-laki dan perempuan. Berdasarkan gender,  62\% (36) laki-laki menyukai ruang A dibandingkan dengan 74\% (20) perempuan. Sementara laki-laki yang menyukai ruang B hanya 38\% (22) dibandingkan dengan 25\% (7) perempuan (lihat tabel \ref{tab:ctpsG}). Secara keseluruhan kebanyakan laki-laki dan perempuan memiliki preferensi terhadap ruang A.
 Meskipun demikian, perbedaan tersebut tidak signifikan (\chi^2 = 0.707,df = 1, p = 0.4).
 
-
-Pada tabel \ref{tab:ctpsG} menunjukkan 62\% laki-laki menyukai ruang A dibandingkan dengan 74\% perempuan. Sementara laki-laki yang menyukai ruang B hanya 38\% dibandingkan dengan 25\% perempuan. Secara keseluruhan kebanyakan laki-laki dan perempuan memiliki preferensi terhadap ruang A.
-Meskipun demikian, perbedaan tersebut tidak signifikan (\chi^2 = 0.707,df = 1, p = 0.4).
-
 \ctpsproGen
 
 
-Pada tabel \ref{tab:ctpsU} menunjukkan seluruh kelompok usia diatas 50\% menyukai ruang A. 83\% remaja menyukai ruang A dibandingkan dengan 57\% dewasa dan 55\% manula. Terdapat sekitar 40\% orang dewasa dan manula menyukai ruang B, sementara hanya 16\% remaja yang menyukai ruang B. Uji chi-kuadrat menunjukkan perbedaan hubungan signifikan diantara kelompok usia dan preferensi ruang
+Responden juga dikelompokkan berdasarkan usia yang terdiri dari remaja (18-25), dewasa (26-41), dan manula (>41). Berdasarkan kelompok usia tersebut, 83\% (25) remaja menyukai ruang A dibandingkan dengan 57\% (20) dewasa dan 55\% (11) manula. Terdapat sekitar 42\% (15) orang dewasa dan 45\% (9)  manula menyukai ruang B, sementara hanya 16\% (5) remaja yang menyukai ruang B.
+Ini menunjukkan bahwa ruang A lebih disukai oleh kelompok remaja dengan frekuensi 25 orang sedangkan ruang B lebih disukai kelompok dewasa dengan frekuensi sebanyak 15 orang (lihat tabel \ref{tab:ctpsU}).
+Uji chi-kuadrat menunjukkan perbedaan hubungan yang signifikan diantara kelompok usia dan preferensi ruang
 (\chi^2 = 6.307, df = 2, p = 0.042).
+
+
 
 \ctpsproUsi
 
-
-Pada tabel ruang*suku (lihat tabel \ref{tab:ctpsS}) menunjukkan dengan jumlah populasi yang lebih besar, 71\% orang bugis menyukai ruang A dibandingkan 52\% nonbugis. Nonbugis memiliki kesamaan tingkat preferensi diantara ruang a dan b dengan presentase 52\% dan 48\% secara berurut. Sementara hanya 17\% orang bugis yang menyukai ruang B. Perbedaan ini menunjukkan hubungan yang tidak signifikan  (\chi^2 = 2.224, df = 3, p = 0.136).
+Keseluruhan data reseponden juga  dikelompokkan berdasarkan latar belakang budaya yaitu bugis dan nonbugis. Nonbugis merupakan suku dari toraja, makassar dan lain-lain yang hanya berkontribusi lebih kecil terhadap total keseluruhan responden. Dengan kontribusi yang paling besar, 71\% (42) responden bugis menyukai ruang A dibandingkan 52\% (13) responden nonbugis. Meskipun demikian, sekitar 50\% nonbugis menyukai kedua ruang yang menandakan preferensi yang seimbang diantara ruang.
+Sementara hanya 28\% (17) orang bugis yang menyukai ruang B seperti yang dilihat pada tabel \ref{tab:ctpsS}. Artinya kedua ruang lebih disukai oleh orang bugis. Kesamaan kelompok suku yang menyukai kedua ruang mungkin terjadi karena responden orang bugis merupakan mayoritas dari keseluruhan data dibandingkan hanya 25 responden nonbugis.
+Perbedaan ini menunjukkan hubungan yang tidak signifikan  (\chi^2 = 2.224, df = 3, p = 0.136).
 
 \ctpsproSuk
 
-Pada tabel ruang*pekerjaan (lihat tabel: \ref{tab:ctpsP}) menunjukkan 100\% yang belum bekerja, 59\% karyawan, 76\% pelajar, dan 59\% wiraswasta menyukai ruang A.
-Pada golongan pekerjaan karyawan, pelajar, wiraswasta, dan lainnya, diantara 23\% hingga 42\% responden menyukai ruang B. Perbedaan ini tidak menunjukkan hubungan signifikan diantara kedua variabel (\chi^2 = 5.461, df = 4, p = 0.243).
+Dari keseluruhan data, untuk yang terakhir kali responden dikelompokkan atas dasar pekerjaan. Kelompok pekerjaan ini terdiri atas belum bekerja, karyawan, pekerjaan lainnya, pelajar, dan wiraswasta. Berdasarkan kelompok pekerjaan, 58\% (17) karyawan dan 76\% (16) pelajar menyukai ruang A dibandingkan dengan 58\% (7) pekerjaan lainnya, 58\%(10) wiraswasta, dan 100\% (6) belum bekerja. Ini menunjukkan semuanya memiliki preferensi lebih besar terhadap ruang A dibanding ruang B. Sementara 41\% (12) karyawan lebih menyukai ruang B dibandingkan dengan 41\% (7) wiraswasta, 41\% (5) pekerjaan lainnya, dan 23\% (5) pelajar (dapat dilihat pada tabel \ref{tab:ctpsP}). Perbedaan ini tidak menunjukkan hubungan signifikan diantara kedua variabel (\chi^2 = 5.461, df = 4, p = 0.243).
 
 \ctpsproPek
 
