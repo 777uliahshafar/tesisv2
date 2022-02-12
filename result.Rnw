@@ -352,10 +352,15 @@ Untuk perempuan, kedua ruang sama-sama dipengaruhi oleh elemen tingkat cahaya da
 \end{figure}
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Usia}
-Sama halnya dengan keragaman preferensi terhadap aspek diatara kelompok usia, crosstabulasi keseluruhan data penelitian ini dibagi menjadi kelompok remaja, dewasa, dan manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis dengan MDP berdasarkan tabel \ref{tab:xtpeU} untuk menghasilkan biplot seperti pada gambar \ref{fig:breusi}. Hasil menunjukkan keragaman diantara kelompok usia terkait preferensi elemen adalah berbeda.
+Sama halnya dengan keragaman preferensi terhadap aspek diatara kelompok usia,
 
-Untuk remaja, terdapat kontribusi signifikan terhadap ruang A dari elemen Lebar jalan, Permukaan jalan, Bentuk pohon dan Jumlah pohon. Sedangkan untuk ruang B, sebagian besar dipengaruhi oleh tingkat cahaya dibandingkan elemen-elemen lainnya. Kedua elemen jenis kursi dan warna bunga memiliki keberagaman yang sama. Lebih lanjut, elemen-elemen tersebut keberagamannya konsisten diantara ketiga kelompok usia. Akan tetapi memiliki kontribusi kecil terhadap kedua ruang. Untuk orang dewasa, Ruang A dipengaruhi oleh elemen yang hampir sama dengan anak remaja, kecuali lebar jalan. Artinya dewasa kurang menghargai lebar jalan yang ada pada ruang tersebut dibandingkan remaja. Sementara, ruang B lebih dipengaruhi oleh tingkat cahaya dan lebar jalan. Jelas, pencahayaan pada ruang B cukup redup yang mana bergantung pada lampu jalan yang berjarak sekitar 40 meter. Ini lebih berkontribusi terhadap preferensi pengungjung terhadap ruang tersebut. Untuk manula, korelasi diantara ruang A dan B adalah kecil. Ruang secara keseluruhan dipengaruh oleh tingkat cahaya. Jelas ini menggambarkan manula memiliki kebutuhan yang besar untuk cahaya yang cukup.
-Selain itu, elemen lebar jalan dan permukaan jalan juga berkontribusi lebih besar terhadap ruang A. Sementara bentuk pohon sendiri berkontribusi terhadap ruang B.
+Sama halnya dengan keseluruhan data preferensi terhadap aspek,
+keseluruhan data penelitian ini juga dibagi menjadi kelompok remaja, dewasa, dan manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis dengan MDP berdasarkan tabel \ref{tab:xtpeU} untuk menghasilkan biplot seperti pada gambar \ref{fig:breusi}. Hasil menunjukkan keragaman diantara kelompok usia terkait preferensi elemen adalah berbeda.
+
+Untuk remaja, terdapat kontribusi signifikan terhadap ruang A melalui elemen Lebar jalan, Permukaan jalan, Bentuk pohon dan Jumlah pohon. Sedangkan untuk ruang B, sebagian besar dipengaruhi oleh tingkat cahaya.
+Sementara elemen jenis kursi dan warna bunga menunjukkan kesamaan dalam keberagaman preferensi terhadap elemen. Kemiripan keragaman ini juga terjadi pada kelompok usia lainnya.
+Untuk orang dewasa, ruang A sangat dipengaruhi oleh elemen permukaan jalan dan bentuk pohon. Ini sama dengan keberagaman diantara remaja tanpa lebar jalan. Ruang B lebih dipengaruhi oleh tingkat cahaya dan lebar jalan. Ini mengindikasikan dewasa merasa cukup terhadap pencahayaan yang ada di ruang B yang hanya bergantung pada lampu jalan.
+Untuk manula, kedua ruang memiliki kesamaan melalui aspek tingkat cahaya. Jelas ini menggambarkan manula memiliki kebutuhan yang besar untuk cahaya yang cukup. Elemen lebar dan permukaan jalan memiliki kontribusi yang signifikan terhadap ruang A. Sementara, bentuk pohon mengasingkan diri terhadap ruang B. Berbeda dengan kelompok usia lainnya, manula memiliki korelasi diantara ruang yang kecil (lihat gambar \ref{fig:breusi})
 
 \xtpebyusi
 
@@ -382,10 +387,10 @@ Selain itu, elemen lebar jalan dan permukaan jalan juga berkontribusi lebih besa
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Suku}
 \xtpebysuk
 
-Pada penelitian ini, crostabulasi preferensi keseluruhan preferensi juga dibagi kedalama kelompok suku dengan dua latar belakang budaya yang berbeda: responden yang bugis dan nonbugis. Keberagaman preferensi diantara kedua kelompok ini dianalisis berdasarkan tabel \ref{tab:xtpeS} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bresuk}
+Pada penelitian ini, crostabulasi preferensi keseluruhan preferensi juga dibagi kedalam kelompok suku dengan dua latar belakang budaya yang berbeda: responden yang bugis dan nonbugis. Keberagaman preferensi diantara kedua kelompok ini dianalisis berdasarkan tabel \ref{tab:xtpeS} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bresuk}. Hasil menggambarkan adanya perbedaan  keberagaman preferensi diantara suku.
 
-Seperti yang dilihat pada gambar \ref{fig:bresuk}, orang bugis dan nonbugis memiliki keragaman preferensi elemen dan ruang yang berbeda.
-Korelasi diantara ruang pada untuk orang bugis adalah cukup tinggi sementara korelasi untuk nonbugis adalah kecil. Pada orang bugis, preferensi terhadap ruang A didominasi oleh aspek betuk pohon, permukan jalan, dan jumlah pohon. Sedangkan preferensi terhadap ruang B didominasi oleh aspek Tingkat cahaya dan lebar jalan. Sama seperti perbedaan kelompok lainnya jenis kursi dan warna bunga memiliki pengaruh kecil terhadap kedua ruang. Ini konsisten terhadap kedua kelompok suku. Pada mereka yang bukan bugis, Bentuk pohon memiliki kontribusi sama besarnya terhadap kedua ruang.Ruang A sendiri didominasi oleh lebar jalan dan permukaan jalan. Sementara ruang B didominasi oleh tingkat cahaya.
+Pada orang bugis, preferensi terhadap ruang A didominasi oleh elemen permukaan jalan, bentuk dan jumlah pohon. Sedangkan preferensi terhadap ruang B didominasi oleh elemen tingkat cahaya dan lebar jalan. Sementara, jenis kursi dan warna bunga memiliki kesamaan dalam berkontribusi tehadap preferensi responden. Ini juga terjadi pada keberagaman diantara nonbugis.
+Mereka yang bukan bugis, ruang A dan B ini hampir mirip satu sama lain melalui elemen bentuk pohon. Ruang A sendiri didominasi oleh lebar jalan dan permukaan jalan. Sementara ruang B didominasi oleh tingkat cahaya. Ini sama dengan keberagaman preferensi orang dewasa terhadap ruang B. Artinya mereka sama-sama menyukai kondisi pencahayaan yang ada di ruang B. Pencahayaan pada ruang A tampaknya kurang disukai meskipun terdapat penambahan lampu jalan disana. Ini mungkin dikarenakan intensitas cahaya besar. Korelasi diantara ruang pada untuk orang bugis adalah cukup tinggi sementara korelasi untuk nonbugis adalah kecil. Hasil dari biplot ini dapat dilihat pada \ref{fig:bresuk}.
 
 \begin{figure}[htbp]
 \centering
