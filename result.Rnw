@@ -52,7 +52,6 @@ Selain berlatarbelakang pekerjaan yang berbeda, karakteristik responden juga men
 \newpage
 \section{Ruang yang Paling Disukai }
 \label{sub:prefspace}
-
 Berdasarkan respon ruang yang disukai dari tepi laut Senggol, terdapat 85 total responden. Dari total responden tersebut 59\% (47) responden menyukai ruang A dan 41\% (33) responden menyukai ruang B (lihat gambar \ref{fig:pcr}).
 
 \pieChartRuang
@@ -86,20 +85,54 @@ Dari keseluruhan data, untuk yang terakhir kali responden dikelompokkan atas das
 \section{Alasan yang Mendasari Pemilihan Ruang}
 \label{sub:prefaspek}
 
-Pada tabel \ref{tab:mrpaF} menunjukkan terdapat 150 total respon dari aspek ruang yang menjadi alasan menyukai ruang. Kebanyakan orang menyukai suatu ruang karena aspek fasilitasnya yang berjumlah 50 orang yang mana 33.33\% dari keseluruhan respon.
-Tidak jauh berbeda, 47 orang menyukai ruang karena aspek aksesibilitasnya dibandingkan dengan 46 orang karena aspek estetika yang mana masing-masing berkisar 30-31\% dari total respon.
-Sementara, sedikit orang menyukai ruang karena aspek keamanan yang berjumlah hanya 7 orang yang mana berkisar 4\% dari total respon yang ada.
+Pada penelitian ini, aspek-aspek ruang digunakan untuk menganalisis mengapa responden memiliki preferensi pada ruang tertentu. Tujuan analisis ini adalah untuk membantu memahami alasan ruang disukai  berdasarkan empat jenis aspek ruang (Definisi dan kata kunci kategori aspek dirangkum pada tabel \ref{tab:defasp} dan tabel \ref{tab:katasp}). Berdasarkan 150 total respon dari 85 responden, respon digolongkan berdasarkan  kategori aspek ruang seperti: Aksesibilitas, Keamanan, Estetika dan Fasilitas. Sehingga, untuk setiap jawaban responden, kata kunci dari setiap kategori dicocokkan dengan deskripsi dan frekuensi kemunculan di setiap kategori dihitung.
 
-Dalam tabel yang sama pada kolom peresentase kasus (pct. kasus), menunjukkan 58\% responden menyukai ruang karena fasilitas dibandingkan 55\% responden karena aksesibilitas dan 54\% karena estetika. Sedikit berbeda dengan 8\% dari responden menyukai ruang karena keamanan yang dirasakan.
+Hasilnya menunjukkan bahwa pada kategori aspek aksesibilitas, kata seperti, ``terbuka, tertata, lapang" digunakan berkali-kali. Pada kategori aspek estetika, kata seperti `` indah, bersih, mewah, dan menarik" banyak disebut. Pada kategori aspek keamanan, kata seperti `` aman dan tanpa rasa takut" cukup disebutkan. Sedangkan pada kategori aspek fasilitas, kata seperti ``makan, berkumpul, duduk" sering diulangi.  Semua kata-kata tersebut dapat dipilah dalam sub kategori aspek (lihat tabel \ref{tab:katasp}).
+
+\begin{table}[htpb]
+    \centering
+    \caption{Definisi dan sumber kategori aspek}
+    \label{tab:defasp}
+    \begin{tabular}{p{2cm} p{.45\textwidth} l}
+        \toprule
+        \textbf{Kategori Aspek} & \textbf{Definisi} & \textbf{Sumber}\\
+\midrule
+Aksesibilitas & Kemampuan individu untuk mendekati sesuatu  & \cite{larosa2018} \\
+Keamanan & Bentuk perlindungan pada diri sendiri, keluarga, dan teman & \cite{carr1992} \\
+Estetika & Kebutuhan akan rasa keindahan & \cite{hradilova2013} \\
+Fasilitas & Penggunaan untuk memfasilitasi dan mendukung aktivitas  & \cite{carmona2021} \\
+\bottomrule
+    \end{tabular}
+\end{table}
+
+\begin{table}[ht]
+    \centering
+    \caption{Kategori Analisis Jawaban Responden dengan Sub-kategori Aspek seperti yang Dideskripsikan oleh Responden}
+    \label{tab:katasp}
+    \begin{tabular}{c l}
+        \toprule
+        \textbf{Kategori Aspek} & \textbf{Kata kunci}\\
+\midrule
+Aksesibilitas & Terbuka, Tertata, Bebas, Lapang \\
+Keamanan & Aman, Tanpa rasa takut\\
+Estetika & Indah, Bersih, Mewah, Menarik \\
+Fasilitas & Makan, Berkumpul, Duduk, Nyaman \\
+\bottomrule
+    \end{tabular}
+\end{table}
+
+Hasilnya juga menunjukkan bahwa responden paling menyukai ruang yang nyaman pada kategori fasilitas. Pada kategori aksesibilitas, responden memiliki preferensi terhadap ruang yang luas. Keleluasaan mendukung responden untuk memanfaatkan ruang dengan semaksimal mungkin. Berdasarkan 150 total respon terkait alasan menyukai ruang tertentu, diantara 54-58\% (46-50) responden memiliki preferensi yang kuat terhadap kategori aspek estetika, aksesibilitas, dan fasilitas. Berbeda dengan 8\% (7) responden yang menunjukkan preferensi terhadap keamanan (lihat tabel \ref{tab:mrpaF}).
 
 \mrpafre
 
 \ctpaEach
 
-Selanjutnya pada tabel \ref{tab:ctpaE}, menunjukkan sebagian besar respon terhadap aspek tersebut menyukai ruang ruang A dengan total 104 (69\%) respon, sedangkan sebagian kecilnya menyukai ruang B dengan total 46 (31\%). Pada ruang A, 32 (21\%) respon terhadap aspek aksesibilitas merupakan alasan tertinggi mengapa orang memilih ruang tersebut. Sedangkan pada ruang B, 20 (13\%) respon dari fasilitas merupakan alasan tertinggi orang memilih ruang B. Keduanya memiliki respon keamanan sebagai alasan terendah dalam memilih kedua ruang tersebut yang berkisar 2-3 \% dari total respon.
+Dari total 150 respon terkait alasan yang mendasari pemilihan ruang, respon digolongkan berdasarkan macam-macam ruang yaitu ruang A dan B. Berdasarkan ruang itu, 25\% (37) responden menyukai ruang A karena aspek estetikanya dibandingkan dengan 20\%(30) karena fasilitas dan 21\% (32) karena aksesibilitas. 13\% (20) responden memilih ruang B karena aspek fasilitas dibandingkan dengan 10\% (15) karena aksesibilitas dan 6\% (9) arena estetika. Meskipun demikian, kategori aspek fasilitas konsisten memiliki preferensi tinggi terhadap kedua ruang. Berbanding terbalik dengan keamanan yang berkontribusi kecil terhadap pemilihan ruang. Hasil ini dapat dilihat pada tabel \ref{tab:ctpaE}.
 
-Hasil crostabulasi ini kemudian digambarkan menggunakan teknik biplot. Seperti yang dilihat pada gambar \ref{fig:bra} mengilustrasikan keragaman  respon terhadap aspek dan ruang.
-Aksesibilitas menjadi aspek yang paling signifikan yang berkontribusi terhadap kedua ruang. Pertama, ruang A bersifat terbuka dengan jalan pedestrian yang lebar dan memadai. Dengan ukuran ruang yang cukup luas dan tertata dengan baik, ruang ini disebut oleh responden ``terbuka", ``tertata" dan ``lapang". Tanggapan responden tersebut menggambarkan aspek aksesibilitas ruang A yang sangat baik. Sejumlah jawaban yang mendukung aspek aksesibilitas pada ruang A adalah sebagai berikut:
+Teknik biplot kemudian digunakan untuk menggambarkan keragaman respon aspek dan ruang berdasarkan hasil tabel crosstabulasi \ref{tab:ctpaE}.
+Hasil menunjukkan aspek aksesibilitas berkontribusi signifikan untuk preferensi terhadap kedua ruang (lihat gambar \ref{fig:bra}).
+Ruang A bersifat terbuka dengan jalan pedestrian yang lebar dan memadai. Dengan ukuran ruang yang cukup luas dan tertata dengan baik, ruang ini disebut oleh responden ``terbuka", ``tertata" dan ``lapang". Tanggapan tersebut berkontribusi terhadap preferensi responden.
+Sejumalah respon yang menyukai ruang A karena aspek aksesibilitas adalah sebagai berikut:
 
 \begin{quoting}
     Ruang ini memberi kesan lapang tapi tetap memiliki estetika sehingga membuat kita menjadi nyaman ketika berada di ruang tersebut.
@@ -113,7 +146,7 @@ Aksesibilitas menjadi aspek yang paling signifikan yang berkontribusi terhadap k
     Ruangan ini memiliki jalan, sungai, dan tidak ada berjejeran motor. Jadi saya bisa berjalan disana dan melihat pemandangan tanpa ada rasa takut.
 \end{quoting}
 
-Kedua, ruang B juga bersifat terbuka dengan berhubungan langsung dengan jalan raya. Dimana beberapa responden menjawab bahwa alasan mereka menyukai ruang B karena mampu melihat jalan yang terbuka dan bisa melihat orang yang sedang beraktivitas. Suasana ruang B yang sedikit berbeda memberikan kesempatan untuk menikmatinya secara formal maupun informal.  Mereka menjawab dengan beraneka ragam pendapat tentang ruang diantaranya ``terbuka", ``bebas", ``humanis". Kurang lebihnya respon yang dapat mewakili respon mereke terhadap aksesibilitas sebagai alasan memilih ruang B diantaranya:
+Ruang B juga bersifat terbuka dengan berhubungan langsung dengan jalan raya. Dimana beberapa responden menjawab bahwa alasan mereka menyukai ruang B karena mampu melihat jalan yang terbuka dan bisa melihat orang yang sedang beraktivitas. Suasana ruang B yang sedikit berbeda memberikan kesempatan untuk menikmatinya secara formal maupun informal. Mereka menjawab dengan beraneka ragam pendapat tentang ruang ini diantaranya ``terbuka", ``bebas", ``humanis". Berikut ini sejumlah respon responden yang menyukai ruang B karena aksesibilitasnya:
 
 \begin{quoting}
     Ruang terbuka dengan desain yang lebih humanis.
@@ -127,7 +160,7 @@ Kedua, ruang B juga bersifat terbuka dengan berhubungan langsung dengan jalan ra
     Ruang itu terbuka bisa dinikmati secara formal maupun informal.
 \end{quoting}
 
-Estetika paling berkontribusi pada preferensi terhadap ruang A dibandingkan pada ruang B. Elemen-elemen yang ada pada ruang ini cukup mewah dengan jumlah yang tidak sedikit, seperti lampu jalan, meja, dan keramik sebagai permukaan jalan pedestrian. Setiap elemen tersebut menambah penilaian estetika terhadap pengunjung. Sebagian responden menganggap estetika terletak pada ruang itu sendiri, sebagian lainnya menyebut keindahan mereka dapatkan dengan memandangi laut dan area sekitar.Sehingga secara keseluruhan, ruang ini dipertimbangkan ``indah", ``bersih", dan ``mewah". Adapun sejumlah respon estetika yang mendukung preferensi terhadap ruang A sebagai berikut:
+Estetika paling berkontribusi pada preferensi terhadap ruang A dibandingkan pada ruang B. Elemen-elemen yang ada pada ruang A cukup mewah dengan jumlah cukup banyak, seperti lampu jalan, meja, dan keramik sebagai permukaan jalan pedestrian. Setiap elemen tersebut menambah penilaian estetika terhadap pengunjung. Sebagian responden menganggap estetika terletak pada ruang itu sendiri, sebagian lainnya menyebut keindahan mereka dapatkan dengan memandangi laut dan area sekitar. Oleh karena itu, ruang ini dipertimbangkan ``indah", ``bersih", dan ``mewah". Adapun sejumlah respon yang memilih ruang A karena estetika sebagai berikut:
 
 \begin{quoting}
    Bisa menikmati laut lepas jauh dan menghilangkan penat...
@@ -141,7 +174,7 @@ Estetika paling berkontribusi pada preferensi terhadap ruang A dibandingkan pada
     Lebih representatif dan nyaman tidak terkesan kumuh dan jorok.
 \end{quoting}
 
-Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A. Elemen yang paling menonjol pada ruang ini adalah kedai makanan dan tempat duduk yang rapi di pesisir laut. Orang mempertimbangkan ruang sebagai tempat yang nyaman:  ``Makan", ``Berkumpul", ``Duduk" adalah aktivitas yang responden deskripsikan berkaitan dengan fasilitas yang tersedia. Beberapa respon yang paling mewakili berkaitan dengan aspek fasilitas pada ruang A adalah sebagai berikut:
+Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A. Elemen yang paling menonjol pada ruang ini adalah kedai makanan dan tempat duduk yang rapi di pesisir laut. Orang mempertimbangkan ruang sebagai tempat yang nyaman:  ``Makan", ``Berkumpul", ``Duduk" adalah aktivitas yang responden deskripsikan berkaitan dengan fasilitas yang tersedia. Beberapa respon yang paling mewakili aspek fasilitas sebagai alasan memilih ruang A, sebagai berikut:
 
 \begin{quoting}
     Kelihatan lebih bersih dan rapi jadi enak buat saya santai santai duduk.
@@ -154,8 +187,6 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 \begin{quoting}
     Ruang ini dapat digunakan oleh keluarga untuk menikmati indahnya view pantai sambil menikmati sajian makanan sesuai pesanan.
 \end{quoting}
-
-
 
 \begin{figure}[htpb]
     \centering
@@ -172,14 +203,12 @@ Aspek fasilitas juga berkontribusi lebih besar pada preferensi terhadap ruang A.
 \subsection{Perbedaan Keragaman Preferensi terhadap Aspek Diantara Kelompok}
 \label{sub:prefaspkel}
 
-Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, crosstabulasi preferensi keseluruhan dibagi perkelompok berdasarkan gender, usia dan suku. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
-
+Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, keseluruhan data crosstabulasi preferensi dibagi perkelompok berdasarkan gender, usia dan suku. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
 
 \subsection*{Keragaman Preferensi  Dipengaruhi oleh Gender}
-Keragaman preferensi terhadap aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil tersebut mengindikasikan perbedaan keragaman preferensi diantara responden laki-laki dan perempuan.
+Keragaman preferensi terhadap ruang berdasarkan aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil mengindikasikan keragaman preferensi diantara responden laki-laki dan perempuan adalah hampir sama.
 
-
-Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memiliki keragaman preferensi aspek dan ruang yang hampir sama. Keduanya memiliki preferensi terhadap ruang yang sangat dipengaruhi oleh aksesibilitas. Untuk ruang A, laki-laki dan perempuan lebih terpengaruh oleh aspek estetika. Sedangkan ruang B, keduanya lebih terpengaruh oleh aspek fasilitas. Terakhir, aspek keamanan mengasingkan dirinya dari kedua ruang berdasarkan keragaman preferensi kedua gender tersebut. Hanya saja untuk laki-laki, aspek keamanan sedikit mempengaruhi preferensi terhadap kedua ruang. Dan juga perlu diperhatikan bahwa keragaman preferensi dari laki-laki sama dengan keragaman preferensi dari keseluruhan responden. Kesamaan ini mungkin terjadi karena responden laki-laki (58 orang) merupakan mayoritas dari keseluruhan responden dibandingkan hanya 28 responden perempuan.
+Kedua gender, laki-laki dan perempuan memiliki preferensi terhadap ruang yang sangat dipengaruhi oleh aksesibilitas. Untuk ruang A, laki-laki dan perempuan lebih terpengaruh oleh aspek estetika. Sedangkan ruang B, keduanya lebih terpengaruh oleh aspek fasilitas. Terakhir, aspek keamanan mengasingkan dirinya dari kedua ruang berdasarkan keragaman preferensi kedua gender tersebut. Artinya aspek tersebut memiliki kontribusi yang kecil terhadap preferensi terhadap kedua ruang. Selain itu, perlu diketahui bahwa keragaman preferensi dari laki-laki menyerupai keragaman preferensi dari keseluruhan responden. Kemiripan ini mungkin terjadi karena responden laki-laki (58 orang) merupakan mayoritas dari keseluruhan responden dibandingkan hanya 28 responden perempuan. Hasil ini dapat dilihat pada gambar \ref{fig:bragen}.
 
 \xtpabygen
 
@@ -201,13 +230,14 @@ Seperti yang dilihat pada gambar \ref{fig:bragen}, laki-laki dan perempuan memil
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Usia}
 
-Keseluruhan data preferensi terhadap aspek juga dibagi berdasarkan tiga macam kelompok usia: Remaja, Dewasa dan Manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis berdasarkan tabel \ref{tab:xtpaU} dan analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brausi}.
+Keseluruhan data preferensi terhadap aspek juga dibagi berdasarkan tiga macam kelompok usia: Remaja, Dewasa dan Manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis berdasarkan tabel \ref{tab:xtpaU} dan analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brausi}. Berdasarkan tabel, hasil analisis MDP menunjukkan keragaman preferensi yang berbeda diantara remaja, dewasa dan manula.
 
-Seperti yang dilihat pada gambar Biplot tersebut, hasil analisis MDP menunjukkan keragaman preferensi yang berbeda diantara remaja, dewasa, dan manula.
-
-Untuk remaja, ruang A sebagian besar dipengaruhi oleh aspek aksesibilitas dan estetika. Kedua aspek tersebut dan aspek fasilitas memiliki keragaman yang hampir sama dalam mempengaruhi semua ruang. Sementara aspek keamanan mengasingkan dirinya dari semua ruang yang artinya aspek ini berkontribusi sangat rendah terhadap ruang. Keragaman aspek keamanan ini hampir sama pada setiap kelompok usia.
+Untuk remaja, ruang A sebagian besar dipengaruhi oleh aspek aksesibilitas dan estetika. Sementara ruang B cukup dipengaruhi oleh aspek fasilitas. Namun, pengaruh ini terlihat cukup kecil dibandingkan pengaruh aspek fasilitas terhadap ruang A.
+Aspek keamanan mengasingkan dirinya dari semua ruang yang artinya aspek ini berkontribusi sangat rendah terhadap ruang-ruang.
+Keragaman aspek keamanan ini hampir sama pada setiap kelompok usia.
 Untuk dewasa, korelasi positif antara ruang A dan B cukup rendah. Ruang A lebih dipengaruhi oleh aspek estetika. Sedangkan, Ruang B membedakan dirinya melalui aspek fasilitas. Terdapat kemiripan diantara aspek fasilitas dan aksesibilitas dalam berkontribusi terhadap kedua ruang.
 Untuk manula, ruang A lebih dipengaruhi oleh aspek estetika. Sementara aspek aksesibilitas dan fasilitas menunjukkan keragaman yang hampir sama.
+Aspek fasilitas dan aksesibilitas memiliki pengaruh besar terhadap kedua ruang. Meskipun demikian, ruang B lebih dipengaruhi oleh aspek fasilitas dan aksesibilitas dibanding aspek lainnya. Sementara aspek estetika dan keamanan memiliki kontribusi paling kecil terhadap kedua ruang seperti yang dilihat pada gambar \ref{fig:brausi}.
 
 \xtpabyusi
 
@@ -233,11 +263,17 @@ Untuk manula, ruang A lebih dipengaruhi oleh aspek estetika. Sementara aspek aks
 
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Suku}
-Dari sejumlah latar belakang budaya yang ada, keseluruhan data preferensi dibagi menjadi bugis dan nonbugis. Nonbugis merupakan suku minoritas dari keseluruhan responden (25 orang) yang terdiri dari suku toraja, makassar, dan lain-lain.  Keragaman yang terdiri dari dua kelompok suku ini dianalisis sesuai dengan tabel \ref{tab:xtpaS} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brasuk}
+Dari sejumlah latar belakang budaya yang ada, keseluruhan data preferensi dibagi menjadi bugis dan nonbugis. Nonbugis merupakan suku minoritas dari keseluruhan responden (25 orang) yang terdiri dari suku toraja, makassar, dan lain-lain.  Keragaman yang terdiri dari dua kelompok suku ini dianalisis sesuai dengan tabel \ref{tab:xtpaS} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:brasuk}. Hasilnya mengindikasikan keragaman preferensi diantara bugis dan nonbugis adalah berbeda.
 
 \xtpabysuk
 
-Terdapat indikasi adanya perbedaan keragaman preferensi diantara bugis dan nonbugis dapat dilihat pada gambar \ref{fig:brasuk}. Untuk suku bugis, aspek aksesibilitas dan fasilitas menunjukkan keragaman yang hampir sama. Selain itu, kedua aspek tersebut berkontribusi lebih besar terhadap ruang B. Sementara itu, ruang A lebih dipengaruhi oleh aspek estetika. Dan tidak ada ruang yang dipengaruhi oleh aspek keamanan. Aspek ini memiliki keragaman yang sama diantara kelompok suku yaitu mengasingkan dari ruang-ruang. Untuk suku nonbugis, menunjukkan korelasi ruang A dan B adalah cukup kecil. Dimana ruang A lebih dipengaruhi oleh aspek estetika dan aksesibilitas. Sedangkan ruang B lebih dipengaruhi oleh aspek fasilitas.
+Untuk suku bugis, ruang A paling dipengaruhi oleh aspek estetika. Sementara ruang B sangat dipengaruhi oleh aspek aksesibilitas dan fasilitas.
+Meskipun demikian, kedua ruang ini hampir mirip satu sama lain melalui aspek aksesibilitas dan fasilitas. Sehingga kedua aspek tersebut merupakan aspek terpenting yang berkontribusi terhadap preferensi orang bugis.
+Aspek keamanan memiliki pengaruh kecil terhadap kedua ruang. Ini juga memiliki kontribusi kecil terhadap keragaman suku nonbugis.
+
+Untuk suku nonbugis, keragaman kedua ruang menunjukkan korelasi yang cukup kecil.
+Dimana ruang A lebih dipengaruhi oleh aspek estetika. Sedangkan ruang B lebih dipengaruhi oleh aspek fasilitas.
+Aspek aksesibilitas juga memiliki kontribusi untuk preferensi terhadap kedua ruang seperti yang dilihat pada gambar \ref{fig:brasuk}.
 
 \begin{figure}[htbp]
 \centering
@@ -256,19 +292,25 @@ Terdapat indikasi adanya perbedaan keragaman preferensi diantara bugis dan nonbu
 \end{figure}
 
 \section{Elemen yang Paling Disukai }
+Pada penelitian ini, responden diberi pilihan jenis-jenis elemen yang disediakan berdasarkan proposisi penelitian (tabel \ref{tab:props}). Tujuan analisis ini adalah untuk memahami apa saja elemen sehingga pengunjung memilih ruang tertentu.
+Responden meluangkan waktu untuk memilih beberapa elemen yang mereka sukai. Jenis elemen yang disukai kemudian dicatat.
 
 \ctpeSingleEach
 
-Pada tabel \ref{tab:ctpeSE} menunjukkan sejumlah elemen yang menjadi alasan orang memilih ruang tertentu. Untuk ruang A, 41\% responden menyukai lebar jalan yang lebih dari tiga meter dibandingkan dengan 12\% hingga 14\% orang menyukai beberapa pohon, permukaan aspal, permukaan keramik, dan pencahayaan tinggi. Elemen lainnya dipilih oleh responden kurang dari 10\%. Sedangkan untuk ruang B, 36\% responden menyukai ruang dengan pencahayaan yang cukup dibandingkan dengan 33\% orang yang menyukai pohon yang cukup rindang. Selain daripada itu, hanya sedikit responden yang menyukai elemen-elemen lainnya.
+Hasilnya menunjukkan bahwa responden paling menyukai elemen jalan yang lebar dari kategori lebar jalan. Kelapangan atau keleluasaan yang dirasakan sesuai dengan temuan sebelumnya.
+
+Berdasarkan 220 total respon terkait elemen yang disukai, respon digolongkan berdasarkan macam-macam ruang terdiri dari ruang A dan B.
+Untuk ruang A, 41\% (35) responden yang menyukai lebar jalan yang lebih dari tiga meter dibandingkan dengan 12\% (10) hingga 14\% (12) responden yang menyukai beberapa pohon, permukaan aspal, permukaan keramik, dan pencahayaan tinggi. Sedangkan sejumlah elemen lainnya hanya dipilih oleh kurang dari 10\% (<8) responden
+Untuk ruang B, 36\% (31) responden menyukai ruang dengan pencahayaan yang cukup dibandingkan dengan 33\%(28) orang yang menyukai pohon yang cukup rindang. Selain daripada itu, dibawah 8\% (7) responden menyukai elemen-elemen lainnya. Lihat tabel \ref{tab:ctpeSE}.
 
 \ctpeEach
 %Dengan begitu, memungkinkan untuk mengekplorasi keragaman preferensi diantara pengunjung di lokasi penelitian. Untuk mencapai hal itu, maka analisis multivariate-Biplot juga diaplikasikan pada preferensi terhadap ruang berdasarkan elemen.
 
-Untuk memudahkan proses analisis, elemen-elemen sebelumnya dikelompokkan menjadi 7 jenis elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Tingkat cahaya (lihat tabel \ref{tab:ctpeE}).
+Elemen-elemen sebelumnya selanjutnya dikelompokkan menjadi 7 jenis elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Tingkat cahaya (lihat tabel \ref{tab:ctpeE}).
 Berdasarkan tabel tersebut, keragaman preferensi terhadap elemen digambarkan menggunakan biplot seperti pada preferensi terhadap aspek sebelumnya. Teknik biplot diaplikasikan pada crostabulasi seperti yang dilihat pada tabel \ref{tab:ctpeE}. Hasil analisis multivarate dimensi preferensi digambarkan menggunakan biplot pada gambar \ref{fig:bre}.
 
-Seperti yang dilihat pada gambar \ref{fig:bre}, ruang A dan B mengilustrasikan korelasi positif yang cukup tinggi. Elemen bentuk pohon dan lebar jalan sangat besar berkontribusi terhadap keragaman ini. Ruang A yang cukup baru ini memiliki jalan yang lebarnya 4 meter. Kelapangan ruang tersebut mengizinkan orang untuk akses yang mudah yang mana berkontribusi secara signifikan terhadap preferensi mereka. Sementara permukaan jalan berkontribusi besar terhadap preferensi dari ruang A.
-Ruang ini membedakan permukaan jalan pedestrian  dengan keramik. Berbeda dengan tingkat cahaya yang memiliki kontribusi lebih besar dibanding elemen-elemen lainnya terhadap ruang B. Terahir terdapat warna bunga dan jenis kursi yang memiliki keragaman yang hampir sama diikuti dengan jumlah pohon.
+Hasil menunjukkan kedua ruang memiliki kesamaan dalam hal keragaman preferensi diantara semua ruang. Elemen berupa lebar jalan dan bentuk pohon sangat berkontribusi terhadap keragaman ini. Ruang A menyediakan lebar jalan sekitar 4 meter yang mengizinkan orang untuk akses yang mudah. Meskipun ruang B tidak menyediakan jalan secara khusus, responden dapat degan leluasa berjalan-jalan dibahu jalan. Kedua ruang ini berbentuk organisasi linier (memanjang) yang diisi oleh sejumlah pohon yang cukup rindang. Selain itu, elemen permukaan jalan adalah elemen yang berkontribusi paling signifikan untuk preferensi terhadap ruang A. Ruang ini membedakan permukaan jalan pedestrian  dengan keramik. Susunan dan penataan keramik tersebut juga terbilang rapih.
+Sementara elemen tingkat cahaya sangat berkontribusi terhadap ruang B. Sehingga ruang-ruang ini memiliki korelasi yang cukup tinggi seperti yang dilihat pada gambar \ref{fig:bre}
 
 \begin{figure}[htpb]
     \centering
@@ -281,11 +323,15 @@ Ruang ini membedakan permukaan jalan pedestrian  dengan keramik. Berbeda dengan 
 
 \subsection{Perbedaan Keragaman Preferensi terhadap Elemen Ruang Diantara Kelompok}
 \label{sub:prefelekel}
-Sama seperti keragaman preferensi terhadap aspek, crostabulasi preferensi keseluruhan data dibagi berdasarkan kelompok: gender, usia dan suku. Keragaman preferensi dari bermacam kelompok kemudian diilustrasikan mengunaakan Biplot.
+Sama seperti keragaman preferensi terhadap aspek, keseluruhan data crosstabulai preferensi terhadap elemen-elemen dibagi berdasarkan kelompok: gender, usia dan suku. Keragaman preferensi dari bermacam kelompok kemudian diilustrasikan mengunaakan Biplot.
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Gender}
 
-Berdasarkan crostabulasi gender (lihat tabel \ref{tab:xtpeG}), keragaman preferensi diantara jenis kelami diilustrasikan oleh biplot pada gambar \ref{fig:bregen}. Secara jelas, hasil analisis multivariate-biplot menunjukkan keragaman preferensi diantara respon berjenis kelamin laki-laki dan perempuan. Untuk laki-laki, ruang A memiliki prefeerensi yang sama. Preferensi terhadap ruang ini mayoritas dipengaruhi oleh Bentuk jalan, Lebar jalan, Jumlah pohon, dan Permukaan jalan.  Meskipun demikian, ruang b lebih banyak dipengaruhi oleh tingkat cahaya dibanding elemen-elemen lainnya. Sementara elemen jenis kursi dan warna bunga membentuk keragaman yang sama dimana keduanya tampak mengasingkan dari kedua ruang. Artinya elemen tersebut memiliki nilai yang rendah dari preferensi terhadap ruang. Untuk perempuan, secara sekilas kontribusi elemen-elemen terhadap kedua ruang adalah kecil. Meskipun demikian, ruang A lebih dipengaruhi oleh Tingkat cahaya, Lebar jalan, dan Permukaan jalan. Tingkat cahaya didukung dengan lampu jalan yang unik (lihat gambar: \ref{fig:nau}) pada malam hari di ruang ini. Selanjutnya, elemen jalan dan permukaan jalan konsisten terhadap ruang A diantara keragaman kedua gender ini. Untuk ruang B, sebagian besar dipengaruhi oleh Bentuk pohon. Ruang B memiliki keterbukaan yang cukup tinggi, dimana memungkinkan pengunjung untuk dekat dengan pohon. Artinya manfaat yang diberikan pohon terutama yang rindang akan sangat terasa. Sedangkan, elemen jumlah pohon, jenis kursi, dan warna bunga memiliki keragaman yang hampir sama serta memiliki pengaruh kecil terhadap kedua ruang.
+Keragaman preferensi diantara jenis kelamin diilustrasikan oleh biplot pada gambar \ref{fig:bregen} berdasarkan tabel \ref{tab:xtpeG}. Secara jelas, hasil analisis multivariate-biplot menunjukkan perbedaan keragaman preferensi diantara respon berjenis kelamin laki-laki dan perempuan.
+
+Untuk laki-laki, preferensi terhadap ruang A mayoritas dipengaruhi oleh bentuk jalan, lebar jalan, jumlah pohon, dan permukaan jalan. Ruang B sangat dipengaruhi oleh tingkat cahaya. Kedua elemen jenis kursi dan warna bunga sama-sama tersisih dari semua lokasi. Artinya elemen tersebut memiliki nilai yang rendah dari preferensi terhadap ruang.
+
+Untuk perempuan, kedua ruang sama-sama dipengaruhi oleh elemen tingkat cahaya dan lebar jalan. Kedua ruang ini didukung dengan lampu jalan yang mengizinkan responden menikmati pesona malam hari. Permukaan jalan mayoritas berkontribusi untuk preferensi terhadap ruang A. Berbeda dengan bentuk pohon yang mayoritas berkontribusi untuk ruang B. Hasil ini sebagian mendukung penemuan \cite{veitch2022} bahwa orang menyukai pohon yang cukup rindang. Elemen jumlah pohon, jenis kursi dan warna bungi terlihat tersisi dari kedua ruang. Hasil biplot dapat dilihat pada gambar \ref{fig:bregen}.
 
 \xtpebygen
 
@@ -306,9 +352,7 @@ Berdasarkan crostabulasi gender (lihat tabel \ref{tab:xtpeG}), keragaman prefere
 \end{figure}
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Usia}
-Sama halnya dengan keragaman preferensi terhadap aspek, crosstabulasi keseluruhan data penelitian ini dibagi menjadi tiga kelompok usia: Remaja, Dewasa, dan Manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis dengan MDP berdasarkan tabel \ref{tab:xtpeU} untuk menghasilkan biplot seperti pada gambar \ref{fig:breusi}.
-
-Biplot pada gambar dengan jelas menggambarkan keragaman diantara kelompok usia adalah berbeda.
+Sama halnya dengan keragaman preferensi terhadap aspek diatara kelompok usia, crosstabulasi keseluruhan data penelitian ini dibagi menjadi kelompok remaja, dewasa, dan manula. Keragaman preferensi diantara ketiga kelompok usia ini dianalisis dengan MDP berdasarkan tabel \ref{tab:xtpeU} untuk menghasilkan biplot seperti pada gambar \ref{fig:breusi}. Hasil menunjukkan keragaman diantara kelompok usia terkait preferensi elemen adalah berbeda.
 
 Untuk remaja, terdapat kontribusi signifikan terhadap ruang A dari elemen Lebar jalan, Permukaan jalan, Bentuk pohon dan Jumlah pohon. Sedangkan untuk ruang B, sebagian besar dipengaruhi oleh tingkat cahaya dibandingkan elemen-elemen lainnya. Kedua elemen jenis kursi dan warna bunga memiliki keberagaman yang sama. Lebih lanjut, elemen-elemen tersebut keberagamannya konsisten diantara ketiga kelompok usia. Akan tetapi memiliki kontribusi kecil terhadap kedua ruang. Untuk orang dewasa, Ruang A dipengaruhi oleh elemen yang hampir sama dengan anak remaja, kecuali lebar jalan. Artinya dewasa kurang menghargai lebar jalan yang ada pada ruang tersebut dibandingkan remaja. Sementara, ruang B lebih dipengaruhi oleh tingkat cahaya dan lebar jalan. Jelas, pencahayaan pada ruang B cukup redup yang mana bergantung pada lampu jalan yang berjarak sekitar 40 meter. Ini lebih berkontribusi terhadap preferensi pengungjung terhadap ruang tersebut. Untuk manula, korelasi diantara ruang A dan B adalah kecil. Ruang secara keseluruhan dipengaruh oleh tingkat cahaya. Jelas ini menggambarkan manula memiliki kebutuhan yang besar untuk cahaya yang cukup.
 Selain itu, elemen lebar jalan dan permukaan jalan juga berkontribusi lebih besar terhadap ruang A. Sementara bentuk pohon sendiri berkontribusi terhadap ruang B.
