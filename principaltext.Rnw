@@ -52,7 +52,7 @@ set_parent("thesis.Rnw")
 
 \section{Latar Belakang}
 %developmnet waterfrontis crucial
-Tepi laut menjadi sebuah ruang dari perkotaan yang harus terus berkembang \citep{shamsuddin2013}.
+Tepi laut \textit{(waterfront)} menjadi sebuah ruang dari perkotaan yang harus terus berkembang \citep{shamsuddin2013}.
 Kawasan ini memiliki karakteristik dan perhatian khusus mengingat pentingnya air sebagai sumber kehidupan \citep{yassin2010}. Menurut \cite{hussein2014}, pengembangan tepi laut yang baik adalah yang mempertimbangkan keberagaman, interaksi komunitas, kenyamanan dan keamanan, lingkungan dan keberlanjutan. Pengembangan tersebut memiliki tujuan untuk menarik masyarakat berada di kawasan tepi laut.
 
 %Pengembangan berkelanjutan \textit{(sustainable development)} kota pada tepi laut mendorong kondisi yang lebih baik untuk masyarakat perkotaan \citep{brebbia2016sustainable}.
@@ -475,50 +475,27 @@ Penjelasan diatas menunjukkan bahwa setiap jenis ruang tersebut memiliki kelebih
 \label{sub:pref}
 %Sebelum meninjau faktor mengapa orang memiliki preferensi terhadap ruang tertentu, definisi preferensi ruang perlu disebutkan disini.
 Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 hak untuk didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
-\cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. \cite{zhang2006} mendefenisikan preferensi terhadap ruang sebagai ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka.
-\cite{carmona2021} membenarkan bahwa suatu ruang dapat disukai maupun tidak disuka. Preferensi terhadap ruang ini ditentukan oleh banyak faktor dalam hal memilih \citep{permata2000}. Faktor yang mempengaruhi preferensi terhadap ruang dan elemennya ditentukan baik oleh ruang dan elemen itu sendiri dan juga karakter pengguna yang mengamati \citep{permata2000}. Selain itu, preferensi terhadap ruang juga dapat dipengaruhi oleh keakraban seseorang terhadap ruang tersebut \citep{hammitt1979}. Biasanya keakraban tersebut dapat berkembang seiring waktu individu habiskan untuk berinteraksi dengan suatu tempat \citep{balling1982}.
+\cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. \cite{zhang2006} mendefenisikan preferensi terhadap ruang sebagai ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka. \cite{carmona2021} mengklarifikasi bahwa suatu ruang dapat disukai maupun tidak disukai.
 
-%% need more review
-
-Sheppard menerangkan pelajaran preferensi ruang meliputi nilai, \textit{attitudinal belief} (keyakinan perilaku), dan beragam respon lainnya yang mengungkap proses bagaimana individu merespon lingkungannya \citep{zhang2006}. Dia menambahkan produk khas dari kebanyakan penelitian preferensi ruang adalah klasifikasi elemen ruang, peta elemen atau ruang, suasana atau kondisi foto yang disukai \citep{zhang2006}. Alhasil, preferensi ruang merupakan pengukuran yang penting dalam hal presepsi ruang.
-Menurut \cite{swanwick2009}, presepsi orang dan preferensi terhadap ruang tertentu berdasarkan faktor presepsi yang berhubungan dengan ruang secara keseluruhan seperti keberagaman, kontras, warna dan kehadiran atau banyaknya elemen-elemen tertentu.
-Sebagai tambahan, selain perbedaan elemen, preferensi ruang juga berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang \citep{wen2018}. Ini diklarifikasi oleh \cite{carmona2021} yang menyatakan presepsi ruang juga bergantung pada umur, gender dan ras (karakter pengunjung) \citep{carmona2021}.
+Sheppard menjelaskan bahwa pada umumnya, penelitian preferensi mempelajari nilai, keyakinan perilaku \textit{attitudinal belief}, dan bermacam respon yang mengungkapkan proses  bagaimana individu merespon lingkungan \citep{zhang2006}. Preferensi tersebut berdasarkan presepsi individu yang berkaitan dengan suatu ruang \citep{swanwick2009}. \cite{permata2000} menegaskan bahwa prefensi ditentukan oleh banyak faktor dalam hal memilih.
+Faktor yang mempengaruhi preferensi terhadap ruang dan elemennya  ditentukan baik oleh ruang dan elemen itu sendiri serta karakter pengguna yang mengamati \citep{permata2000}.
+\cite{wen2018} mengklarifikasi preferensi terhadap ruang berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang. Sama juga dengan pendapat \cite{carmona2021}, bahwa presepsi ruang juga bergantung pada umur, gender, dan ras (karakter pengunjung). Oleh karena itu, preferensi merupakan pengukuran yang penting dalam hal presepsi ruang.
 
 \subsection{Aspek-aspek Ruang yang Mempengaruhi Preferensi}
 %00:52:10
 %00:56:09
 
-Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}. Secara umum, aspek-aspek tersebut mempengaruhi preferensi orang, dan preferensi orang walhasil menarik perhatian seseorang pada tatanan elemen ruang yang diperlukan \citep{zhang2021}.
+Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}. Menurut \cite{zhang2021}, aspek ini dapat mempengaruhi preferensi orang. Sehingga preferensi orang tersebut dapat memberitahukan aspek dan elemen-elemen seperti apa yang diperlukan \citep{zhang2021}.
 \cite{carmona2021} menyorot aksesibilitas, keselamatan dan keamanan, estetika, dan fasilitas sebagai aspek-aspek pada ruang.
 Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019, cahyaningtyas2020, larosa2018, mehta2014}, keamanan \citep{mehta2014, lis2021, campagnaro2020, hadavi2015}, estetika \citep{wang2019, hadavi2015}, kenyamanan \citep{hermida2019, mehta2014, dwiputra2017}, dan fasilitas \citep{cahyaningtyas2020}.
 
 Pada penelitian preferensi ruang publik sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebut aksesibilitas, fasilitas, ketenangan, nuansa alam, dan kualitas ruang sebagai aspek yang mempengaruhi preferensi orang.
-Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi kunjungan.
-\cite{grilli2020} mengemukakan jumlah kunjungan yang meningkat disebabkan oleh preferensi terhadap elemen. \cite{wen2018} mempelajari preferensi manula dan menemukan mereka memiliki preferensi terhadap aksesibilitas, estetika, keamanan dan fasilitas. Dia menemukan manula lebih memperhatikan aspek tersebut ketimbang pemuda \citep{wen2018}. \cite{campagnaro2020} mengurutkan aspek ruang berdasarkan kepentingannya terhadap ruang publik hijau yaitu pemeliharaan, keamanan, aksesibilitas dan fasilitas.
+Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi preferensi sehingga mau berkunjung. \cite{grilli2020} menjelaskan jumlah kunjungan yang meningkat pada suatu ruang dapat disebabkan oleh preferensi terhadap elemen. \cite{wen2018} juga menemukan preferensi terhadap aspek aksesibilitas, estetika, keamanan dan fasilitas pada kelompok manula. Dia menyimpulkan aspek-aspek tersebut lebih diperhatikan oleh manula ketimbang pemuda \citep{wen2018}. Terakhir, \cite{campagnaro2020} menyebutkan aspek pemeliharaan, keamanan, aksesibilitas, dan fasilitas sebagai aspek terpenting pada ruang publik. Dari sejumlah aspek-aspek ruang diatas, disimpulkan terdapat aspek-aspek yang relevan terhadap ruang tepi laut: Aksesibilitas, Keamanan, Estetika dan Fasilitas.
 
-
-Aspek-aspek ruang diatas dapat dipertimbangkan sebagai elemen dan fungsi yang berhubungan pada ruang yang dianggap penting oleh orang \citep{wan2021}. Selain itu, aspek ini juga dapat dipahami sebagai \textit{affordance} karena menggambarkan penilaian ruang dalam hal kesesuaiannya dengan tujuan dan kebutuhan manusia, yang mempengaruhi fungsi manusia yang efektif dalam suatu tatanan \citep{kaplan1987}.
-Sebagai contoh, \cite{campagnaro2020} menemukan bahwa keberadaan orang dan elemen-elemen buatan pada ruang berpengaruh positif terhadap aspek keamanan yang dirasakan. Untuk alasan itu, orang pasti memilih ruang yang menyediakan jenis ruang dengan keberadaan tersebut.
-
-Teori \textit{affordance}, pertama kali dikenalkan oleh \cite{gibson2014}, memberi pemahaman preferensi individu melalui ruang yang dipresepsikan dan respon dari potensi kemanfaatan \citep{zhang2006, kaplan1987}.
-Menurut \cite{kaplan1998} ruang yang memberi manfaat tertentu pasti disukai orang.
-\cite{gibson2014} menerangkan apa yang orang presepsikan ketika melihat suatu objek atau ruang itu sendiri adalah \textit{``affordance"}-nya, bukan pada kualitasnya; mereka melihat dalam istilah dimana kemanfaatan apa yang disediakan atau kebutuhan mana yang mungkin terpenuhi \citep{mumcu2010}.
-Secara singkat, affordance dari ruang adalah apa yang ruang tawarkan, apa yang disediakan \textit{(provide)} atau dilengkapi \textit{(furnish)} \citep{gibson2014}. Hal tersebut dapat mengacu pada aksesibilitas, keamanan, estetika, kenyamanan, fasilitas, dll.
-
-\textit{Affordance}, menurut \cite{gibson2014} berasal dari kata \textit{afford} yang berarti memberikan (menyediakan), namun kata affordance adalah kata buatan yang belum termuat oleh kamus bahasa.
-%Itu merujuk pada ruang dimana istilahnya belum ada \citep{gibson2014}.
-Sebaik-baik kata bahasa yang dapat menjelaskan \textit{affordance} adalah kemanfaatan \citep{marcella2004}. \citeauthor{marcella2004} menggambarkan kemanfaatan seperti, pohon yang rindang memberi manfaat keteduhan untuk manusia.
-Meskipun demikian, \cite{gibson2014} dalam contoh kasus ini menjelaskan bahwa rindang adalah relatif terhadap orang. Rindang untuk orang bertubuh besar dan kecil tentunya berbeda. Artinya kemanfaatan itu adalah relatif terhadap ukuran seseorang. Kemudian, dia menambahkan sifat elemen yang berbeda mempunyai kemanfaatan yang berbeda \citep{gibson2014}. Seperti contoh, lereng dengan kemiringan normal memberi manfaat berjalan, sedangkan lereng yang curam kemanfaatannya hanya memanjat.
-
-Keterikatan elemen ruang dan kemanfaatan dari elemen yang dipreferensi dapat memberi wawasan mengenai karakteristik desain \citep{hadavi2015}. \cite{campagnaro2020} menambahkan elemen ruang yang bertujuan memenuhi preferensi individu, dalam hal ini aspek atau kemanfaatan dari elemen yang dipreferensi, adalah penting untuk pengelolan dan perencanaan desain perkotaan. Berikut ini beberapa elemen-elemen yang terpilih dimana paling relevan terhadap aspek-aspek ruang yang menjadi fokus penelitian.
-
-
-%Aspek-aspek yang berdasarkan kemanfaatan ini dan hubungannya dengan elemen ruang membutuh penjelasan lebih lanjut.
-%Hubungan tersebut membutuhkan penjelasan lebih lanjut.
-%terdapat hubungan yang kuat antara elemen ruang dan kemanfaatan tatanan yang dipreferensi. Hubungan itu berkontribusi terhadap desain perkotaan dengan memberi masukan elemen seperti apa yang dipreferensi \citep{hadavi2015}. Hubungan tersebut membutuhkan penjelasan lebih lanjut.
-%Lebih lanjut, \cite{harris2018} mendukung ide bahwa kemanfaatan selaras dengan preferensi.
-%Dengan membentuk ruang berdasarkan aspek-aspek ruang, perancang kota dapat mempengaruhi pola aktivitas orang dan kehidupan sosial \citep{carmona2021}.
-
+Aspek-aspek ini merupakan kemanfaatan yang disediakan oleh ruang publik. Kemanfaatan dari ruang adalah apa yang ruang tawarkan, apa yang disediakan atau dilengkapi \citep{gibson2014}
+Dia menerangkan lebih lanjut bahwa apa yang orang presepsikan terhadap suatu ruang adalah kemanfaatannya, bagaimana ruang tersebut memenuhi kebutuhan atau memberi manfaat pada mereka. Apabila ruang tersebut memberi manfaat, ruang tersebut akan cenderung disukai orang \citep{gibson2014}.
+Seperti contoh, ruang yang memberi manfaat aksessibilitas melalui jalan yang lebar akan disukai oleh banyak orang.
+Hubungan antara elemen dan kemanfaatan tersebut (aspek ruang) memberi wawasan mengenai harapan dan perhatian orang \citep{campagnaro2020}. Hubungan tersebut membutuhkan penjelasan lebih lanjut, sebagai berikut:
 
 \subsubsection{Aksesibilitas}
 Menurut \cite{larosa2018}, aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu. Oleh sebab itu, aksesibilitas adalah aspek yang sangat penting untuk merasakan suatu ruang \citep{carr1992}. Dimana itu dipresepsikan berbeda oleh masing-masing individu yang mana bergantung pada kebutuhan dan preferensi mereka. Aksesibilitas harus menjangkau seluruh komponen masyarakat termasuk yang berkebutuhan khusus guna mewujudkan kesamaan dan kesempatan yang setara \cite{harsono2015}.
@@ -634,9 +611,11 @@ Menurut  \citep{talavera2015}, lebar jalan itu dapat menunjang aktivitas sosial 
 
 \end{itemize}
 
+Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada tujuh kelompok elemen pada tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Pencahayaan jalan yang dapat dilihat pada tabel dibawah ini.
+
 \section{Proposisi Penelitian}
 
-Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut (lihat tabel \ref{tab:props}). Dalam proposisi itu, 7 elemen ruang digunakan untuk pertanyaan survei. Penilitian ini menganalisis preferensi individu terhadap ruang dan elemen-elemennya, yang mana dapat berguna untuk perancangan dan pengelolaan tepi laut.
+Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Dalam proposisi ini, keempat aspek dan ketujuh elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Proposisi ini dapat dilihat pada tabel \ref{tab:props}.
 
 \begin{longtable}{ p{.33\textwidth}  p{.12\textwidth} p{.12\textwidth}  p{.12\textwidth}  p{.12\textwidth} }
 	\caption{Proposisi Penelitian} \\
@@ -886,7 +865,9 @@ Pengamatan langsung atau observasi \textit{(observation)} adalah cara pengumpula
 Adapun yang menjadi perhatian adalah bagaimana pengunjung dalam menggunakan ruang dan sifat elemen-elemen apa saja yang berada dalam jangkauan pengunjung.
 Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
 
-Survei kuesioner adalah teknik pengumpulan melalui daftar pertanyaan yang disusun secara sistematis, kemudian diberikan kepada responden yang terpilih untuk diisi \citep{bungin2005}. Penelitian ini menggunakan bentuk kuesioner semi terbuka dengan maksud menggali atau merekam data mengenai preferensi individu terhadap ruang. Sejumlah foto-foto ruang disediakan dalam bentuk pilihan ganda untuk mengetahui ruang yang paling disukai oleh responden. Taylor dalam \cite{zhang2006} menjelaskan foto sebagai rangsangan visual yang biasanya digunakan oleh penelitian preferensi. Dengan demikian, menghasilkan pemahaman terhadap preferensi pengunjung terhadap ruang di kawasan waterfront Senggol Parepare.
+Survei kuesioner adalah teknik pengumpulan melalui daftar pertanyaan yang disusun secara sistematis, kemudian diberikan kepada responden yang terpilih untuk diisi \citep{bungin2005}. Penelitian ini menggunakan bentuk kuesioner semi terbuka dengan maksud menggali atau merekam data mengenai preferensi individu terhadap ruang berbasis proposisi penelitian. Proposisi sebagai arahan untuk mendapatkan data di lapangan. Responden diminta untuk memilih ruang yang paling disukai berdasarkan tiga foto dari masing-masing ruang yang disediakan.
+Taylor menjelaskan foto sebagai rangsangan visual yang biasanya digunakan oleh penelitian preferensi \citep{zhang2006}.
+Kemudian, menjawab alasan mereka memilih ruang tersebut dalam bentuk deskripsi. Selanjutnya, memilih beberapa elemen yang mendasari pemilihan ruang tersebut. Sehingga, peneliti dapat menganalisis mengapa responden memilih ruang ini berkaitan dengan aspek dan elemen.
 
 Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pemilihan informan secara sengaja dengan mengutamakan responden yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian.
 Setiap yang akan menjadi responden dielu-elukan dan diberikan informasi \textit{background} terhadap penelitian, serta diberitahukan kriteria yang dibutuhkan untuk menyelesaikan kuesioner.
