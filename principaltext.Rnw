@@ -127,7 +127,7 @@ Hal ini dapat menyebabkan ruang yang jarang dipilih orang lambat laun akan terbe
 %Ada masyarakat yang cenderung terhadap ruang satu daripada lainnya. Alasan pemilihan ini belum jelas, seperti \cite{campagnaro2020} menemukan elemen buatan seperti jalan setapak, kursi, kran air minum berperan penting dalam pemilihan ruang hijau. Teori tersebut perlu dikaji pada kawasan ini, dimana elemen buatan tampaknya tidak berpengaruh signifikan terhadap pemilihan ruang di kawasan tepi laut.
 
 \begin{enumerate}
-    \item Ruang apa yang dipilih pengunjung untuk dimanfaatkan sebagai ruang publik?
+    \item Ruang apa yang dipilih dan bagaimana proporsi pengunjung terhadap ruang yang dipilih?
     \item Mengapa orang memiliki preferensi pada ruang tersebut?
     \item Apa saja elemen-elemen yang ada pada ruang publik sehingga pengunjung lebih memilih ruang tersebut?
 \end{enumerate}
@@ -149,7 +149,7 @@ Sehingga penelitian ini dapat menjelaskan mengapa preferensi ini terbentuk di ka
 Peneliti berharap hasil penelitian ini dapat digunakan dalam mengembangkan dan mempertahankan elemen-elemen pada suatu ruang. Dengan begitu, pengembangan selanjutnya dapat memenuhi kebutuhan masyarakat dalam menggunakan ruang publik pada kawasan tepi laut secara menyeluruh.
 
 \begin{enumerate}
-    \item Untuk menganalisis kecenderungan pengunjung dalam memilih ruang di kawasan tepi laut Senggol.
+    \item Untuk menganalisis kecenderungan pengunjung dalam memilih ruang dan proporsi pengunjung terhadap ruang yang dipilih dalam kawasan tepi laut.
     \item Untuk mengetahui latar belakang yang mendasari pemilihan tersebut.
     \item Untuk menganalisis apa saja elemen ruang publik yang disukai.
 \end{enumerate}
@@ -495,7 +495,7 @@ Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemelihara
 Aspek-aspek ini merupakan kemanfaatan yang disediakan oleh ruang publik. Kemanfaatan dari ruang adalah apa yang ruang tawarkan, apa yang disediakan atau dilengkapi \citep{gibson2014}
 Dia menerangkan lebih lanjut bahwa apa yang orang presepsikan terhadap suatu ruang adalah kemanfaatannya, bagaimana ruang tersebut memenuhi kebutuhan atau memberi manfaat pada mereka. Apabila ruang tersebut memberi manfaat, ruang tersebut akan cenderung disukai orang \citep{gibson2014}.
 Seperti contoh, ruang yang memberi manfaat aksessibilitas melalui jalan yang lebar akan disukai oleh banyak orang.
-Hubungan antara elemen dan kemanfaatan tersebut (aspek ruang) memberi wawasan mengenai harapan dan perhatian orang \citep{campagnaro2020}. Hubungan tersebut membutuhkan penjelasan lebih lanjut, sebagai berikut:
+Hubungan antara elemen dan kemanfaatan tersebut (aspek ruang) memberi wawasan mengenai kebutuhan orang \citep{campagnaro2020}. Hubungan tersebut membutuhkan penjelasan lebih lanjut, sebagai berikut:
 
 \subsubsection{Aksesibilitas}
 Menurut \cite{larosa2018}, aksesibilitas adalah kemampuan seseorang untuk mendekati sesuatu. Oleh sebab itu, aksesibilitas adalah aspek yang sangat penting untuk merasakan suatu ruang \citep{carr1992}. Dimana itu dipresepsikan berbeda oleh masing-masing individu yang mana bergantung pada kebutuhan dan preferensi mereka. Aksesibilitas harus menjangkau seluruh komponen masyarakat termasuk yang berkebutuhan khusus guna mewujudkan kesamaan dan kesempatan yang setara \cite{harsono2015}.
@@ -859,27 +859,32 @@ Langkah-langkah yang tersusun adalah sebagai berikut:
 \section{Metode Pengumpulan Data}
 \subsection{Data Primer}
 
-Data primer merupakan informasi yang didapatkan dari objek penelitian melalui pengamatan langsung dan kuesioner survei. Sumber data tersebut berasal dari responden kawasan tepi laut Senggol, khususnya mereka yang turut berinteraksi dan bersedia menjawab pertanyaan dalam kuesioner secara utuh.
+Data primer merupakan informasi yang didapatkan dari objek penelitian melalui kuesioner survei dan observasi. Sumber data tersebut berasal dari responden kawasan tepi laut Senggol, khususnya mereka yang turut berinteraksi dan bersedia menjawab pertanyaan dalam kuesioner secara utuh.
 
-Pengamatan langsung atau observasi \textit{(observation)} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
-Adapun yang menjadi perhatian adalah bagaimana pengunjung dalam menggunakan ruang dan sifat elemen-elemen apa saja yang berada dalam jangkauan pengunjung.
+Berdasarkan tujuan penelitian, data yang diambil adalah jawaban yang didapatkan dari responden melalui pertanyaan kuesioner. Bentuk kuesioner yang digunakan adalah kuesioner semi terbuka. Menurut \cite{bungin2005}, kuesioner merupakan teknik pengumpulan data melalui daftar pertanyaan yang disusun secara sistematis, kemudian diberikan kepada responden untuk diisi dan dikembalikan kepada peneliti. Pertanyaan kuesioner kemudian disusun atas dasar tujuan penelitian.
+Untuk menganalisis kecenderungan pengunjung dalam memilih ruang dan proporsi pengunjung terhadap ruang yang dipilih, maka pendekatan kuantitatif digunakan. Responden diminta untuk memilih ruang yang paling disukai berdasarkan foto dari masing-masing ruang yang disediakan. Taylor menjelaskan foto sebagai rangsangan visual yang biasanya digunakan oleh penelitian preferensi \citep{zhang2006}. Untuk mengetahui latar belakang yang mendasari pemilihan tersebut, maka pendekatan kualitatif digunakan. Pengunjung diminta untuk memberikan alasan mereka mengapa memilih ruang tersebut dalam bentuk deskripsi singkat. Untuk tujuan yang ketiga yaitu menganalisis apa saja elemen ruang publik yang disukai, maka pendekatan kuantitatif digunakan sekali lagi. Sejumlah pilihan elemen-elemen ruang disediakan berdasarkan proporsi penelitian dan responden diminta menjawab elemen apa yang mendasari pilihan mereka terhadap ruang.
+
+Selain itu, untuk melengkapi kebutuhan dalam proses penelitian, maka pengamatan langsung atau observasi dilakukan. Pengamatan langsung atau observasi \textit{(observation)} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
 Hasil dari observasi tersebut dituangkan dalam bentuk catatan atau foto sehingga peneliti memiliki rekaman yang dapat berguna untuk proses penelitian.
 
-Survei kuesioner adalah teknik pengumpulan melalui daftar pertanyaan yang disusun secara sistematis, kemudian diberikan kepada responden yang terpilih untuk diisi \citep{bungin2005}. Penelitian ini menggunakan bentuk kuesioner semi terbuka dengan maksud menggali atau merekam data mengenai preferensi individu terhadap ruang berbasis proposisi penelitian. Proposisi sebagai arahan untuk mendapatkan data di lapangan. Responden diminta untuk memilih ruang yang paling disukai berdasarkan tiga foto dari masing-masing ruang yang disediakan.
-Taylor menjelaskan foto sebagai rangsangan visual yang biasanya digunakan oleh penelitian preferensi \citep{zhang2006}.
-Kemudian, menjawab alasan mereka memilih ruang tersebut dalam bentuk deskripsi. Selanjutnya, memilih beberapa elemen yang mendasari pemilihan ruang tersebut. Sehingga, peneliti dapat menganalisis mengapa responden memilih ruang ini berkaitan dengan aspek dan elemen.
+Penelitian ini menggunakan teknik \textit{probability sampling} dengan metode \textit{stratified random sampling}. Metode pengambilan ini sangat cocok untuk penggalian informasi dan data dari populasi bersifat heterogen mulai dari remaja hingga orangtua.
+Jumlah populasi yang digunakan adalah jumlah penduduk kota Parepare pada tahun 2019, sebesar 145.178 jiwa \citep{bpskotaparepare2020}.
+Untuk mendapatkan jumlah sampel, maka penelitian ini menggunakan rumus Slovin dengan menetapkan nilai presesi 89\%, seperti berikut ini:
 
-Penelitian ini menggunakan teknik pengambilan \textit{purposive sampling} yaitu pemilihan informan secara sengaja dengan mengutamakan responden yang memiliki informasi yang dibutuhkan atau sesuai tujuan penelitian.
-Setiap yang akan menjadi responden dielu-elukan dan diberikan informasi \textit{background} terhadap penelitian, serta diberitahukan kriteria yang dibutuhkan untuk menyelesaikan kuesioner.
-Penelitian ini menargetkan setidaknya 85 respon survei, namun berdasarkan teknik pengambilan sampling berapapun jumlah responden diterima asal  memberikan informasi yang memenuhi tujuan penelitian.
-Terakhir,  informan yang merupakan pengunjung kawasan tepi laut Senggol diharapkan memenuhi sejumlah kriteria sebagai berikut:
-\begin{enumerate}
-    \item Orang yang memiliki pemahaman terhadap tempat secara mendalam.
-    \item Orang yang terlibat dalam kegiatan sosial dan budaya pada objek penelitian.
-    \item Orang yang mempunyai waktu luang untuk menjawab kuesioner.
-    \item Orang yang secara akal dan mandiri dalam menyampaikan informasi.
-\end{enumerate}
+$$ n= \frac{N}{N(d)^2+1} $$
 
+\begin{tabular}{ll}
+   \small
+   Keterangan:  & n = Jumlah sampel \\
+                & N = Jumlah populasi\\
+                & d = Nilai presisi 89\%\\
+
+\end{tabular}
+
+Berdasarkan rumus di atas, maka jumlah total sampel adalah:
+
+$$ n= \frac{145178}{145178(0.11)^2+1} $$
+$$ = 82.6 \approx  85\, sampel $$
 
 \subsection{Data Sekunder}
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain.  Data dapat termuat di majalah, koran, acara TV, cerita film sebagai objek penelitian.  Data sekunder lebih mudah dan tidak menggunakan ``manusia" sebagai objek penelitiannya \citep{martono2010}. Dalam kata lain, peneliti tidak perlu secara langsung datang ke objek penelitian tetapi hanya dengan mencari data-data sumber studi literatur yang terkait dan relevan dengan judul penelitian \citep{ary2017}.
