@@ -327,7 +327,7 @@ Sama seperti keragaman preferensi terhadap aspek, keseluruhan data crosstabulai 
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Gender}
 
-Keragaman preferensi diantara jenis kelamin diilustrasikan oleh biplot pada gambar \ref{fig:bregen} berdasarkan tabel \ref{tab:xtpeG}. Secara jelas, hasil analisis multivariate-biplot menunjukkan perbedaan keragaman preferensi diantara respon berjenis kelamin laki-laki dan perempuan.
+Keragaman preferensi diantara jenis kelamin diilustrasikan oleh biplot pada gambar \ref{fig:bregen} berdasarkan tabel \ref{tab:xtpeG}. Secara jelas, hasil analisis\\ multivariate-biplot menunjukkan perbedaan keragaman preferensi diantara respon berjenis kelamin laki-laki dan perempuan.
 
 Untuk laki-laki, preferensi terhadap ruang A mayoritas dipengaruhi oleh bentuk jalan, lebar jalan, jumlah pohon, dan permukaan jalan. Ruang B sangat dipengaruhi oleh tingkat cahaya. Kedua elemen jenis kursi dan warna bunga sama-sama tersisih dari semua lokasi. Artinya elemen tersebut memiliki nilai yang rendah dari preferensi terhadap ruang.
 

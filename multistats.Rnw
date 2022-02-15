@@ -716,22 +716,24 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 	\label{tab:xtpaG}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
-    P{4.3em}P{4.3em}P{4.8em}}
+    P{4.3em}P{4.3em}P{4.3em}P{4.3em}}
 \hline
 \multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
- {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} &
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Total}}}} \\
  \toprule
-\multirow{2}{*}{Ra}&Laki-laki  & 20  & 5    & 25 &  19\\
-&Perempuan  & 12 & 0    & 12  & 11  \\
+\multirow{2}{*}{Ra}&Laki-laki  & 20(13\%)  & 5(3\%)    & 25(17\%) &  19(12\%) & 69(46\%)\\
+&Perempuan  & 12(8\%) & 0    & 12(8\%)  & 11(7\%) & 35(23\%)  \\
 
-\multirow{2}{*}{Rb}&Laki-laki  & 11  & 2    & 8  &  15\\
-&Perempuan  & 4  & 0    & 1  & 5  \\
+\multirow{2}{*}{Rb}&Laki-laki  & 11(7\%)  & 2(1\%)    & 8(5\%)  &  15(10\%) & 36(24\%)\\
+&Perempuan  & 4(3\%)  & 0    & 1(1\%)  & 5(3\%) & 10(7\%)  \\
 
+&Total  & 47(31\%)  & 7(5\%)    & 46(31\%)  & 50(33\%) & 150(100\%) \\
 
  \midrule
 
- \multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+ \multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
+\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -743,23 +745,24 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 	\label{tab:xtpaU}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
-    P{4.3em}P{4.3em}P{4.8em}}
+    P{4.3em}P{4.3em}P{4.3em}P{4.3em}}
 \hline
-\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
- {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=6em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} &
+{\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Total}}}}\\
  \toprule
-\multirow{3}{*}{Ra}&Remaja  & 15    & 5     & 13  & 14  \\
-&Dewasa  & 11  & 0    & 18   & 8  \\
-&Manula  & 6  &0    & 6   & 8  \\
+\multirow{3}{*}{Ra}&Remaja  & 15(10\%)    & 5(3\%)     & 13(9\%)  & 14(9\%) & 47(31\%)  \\
+&Dewasa  & 11(7\%)  & 0    & 18(12\%)   & 8(5\%) & 37(25\%)  \\
+&Manula  & 6(4\%)  &0    & 6(4\%)   & 8(5\%) & 20(13\%)  \\
 
-\multirow{3}{*}{Rb}&Remaja  & 2  & 0     & 2  & 3  \\
-&Dewasa  & 8  & 0    & 4   & 11  \\
-&Manula  & 5  & 2    & 3   & 6  \\
-
+\multirow{3}{*}{Rb}&Remaja  & 2(1\%)  & 0     & 2(1\%)  & 3(2\%) & 7(5\%)  \\
+&Dewasa  & 8(5\%)  & 0    & 4(3\%)   & 11(7\%) & 23(15\%)  \\
+&Manula  & 5(3\%)  & 2(1\%)    & 3(2\%)   & 6(4\%) & 16(11\%)  \\
+&Total  & 47(31\%)  & 7(5\%)    & 46(31\%)   & 50(33\%) & 150(100\%)  \\
  \bottomrule
 
-\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+\multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
+\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -770,21 +773,22 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 	\label{tab:xtpaS}
     \centering
 \begin{tabular}[t]{p{1em}r P{4.3em}
-    P{4.3em}P{4.3em}P{4.8em}}
+    P{4.3em}P{4.3em}P{4.3em}P{4.3em}}
 \hline
-\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=7em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
- {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}} \\
+\multicolumn{2}{c}{\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=6em, height=2.2cm]{Ruang}{Aspek\\Ruang}}&
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Aksesibili-tas}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Estetika}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Fasilitas}}}}&
+ {\rotatebox[origin=c]{90}{\parbox[c]{2.2cm}{\textbf{Total}}}} \\
  \toprule
-\multirow{2}{*}{Ra}&bugis  & 23    & 5     &26   & 25   \\
-&nonbugis  & 9   & 0     & 11    & 5  \\
+\multirow{2}{*}{Ra}&bugis  & 23(15\%)    & 5(3\%)     &26(17\%)   & 25(17\%) & 79(53\%)   \\
+&nonbugis  & 9(6\%)   & 0     & 11(7\%)    & 5(3\%) & 25(17\%)  \\
 
-\multirow{2}{*}{Rb}&bugis  & 10    & 1     &6   & 12   \\
-&nonbugis  & 5   & 1     & 3    & 8  \\
-
+\multirow{2}{*}{Rb}&bugis  & 10(7\%)    & 1(1\%)     &6(4\%)   & 12(8\%) & 29(19\%)   \\
+&nonbugis  & 5(3\%)   & 1(1\%)     & 3(2\%)    & 8(5\%) & 17(11\%)  \\
+&Total  & 47(31\%)   & 7(5\%)     & 46(31\%)    & 50(33\%) & 150(100\%)  \\
  \bottomrule
 
-\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. suku bugis berjumlah 60 orang ; nonbugis berjumlah 25 orang }}\\
-\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+\multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 150 \\ \hspace*{3.8em} 2. suku bugis berjumlah 60 orang ; nonbugis berjumlah 25 orang }}\\
+\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -1029,92 +1033,98 @@ Total  & 167 (76\%)  & 53 (24\%) & 220 (100\%)   \\
 	\label{tab:xtpeG}
     \centering
 \begin{tabular}[ht]{r P{2cm}
-    P{2.2cm}P{2cm}P{2.2cm}}
+    P{2cm}P{1.8cm}P{2cm}P{2cm}}
 \hline
-\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}}\\
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=7em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}} & \textbf{Total}\\
 
 
-&{\parbox[c][1.9cm]{\textwidth}{laki-laki}}  & perempuan & laki-laki & perempuan\\
+&{\parbox[c][1.9cm]{\textwidth}{laki-laki}}  & perempuan & laki-laki & perempuan &\\
 
  \toprule
 
-Jumlah pohon  &14 (6\%) &2 (1\%)&2 (1\%)&2 (1\%)\\
-Bentuk pohon  &20 (9\%) &10 (4\%)  & 6 (3\%)  &4 (2\%)\\
-Lebar jalan  & 26 (12\%)  & 12 (5\%)  & 10 (4\%)  & 3 (1\%)\\
+Jumlah pohon  &14 (6\%) &2 (1\%)&2 (1\%)&2 (1\%) & 20(9\%)\\
+Bentuk pohon  &20 (9\%) &10 (4\%)  & 6 (3\%)  &4 (2\%) & 40(18\%)\\
+Lebar jalan  & 26 (12\%)  & 12 (5\%)  & 10 (4\%)  & 3 (1\%) & 51(23\%)\\
 
-Permukaan jalan  &20 (9\%) &11 (5\%)  &4 (2\%)  & 2 (1\%)\\
-Warna bunga & 7 (3\%) & 0  & 1 &0\\
+Permukaan jalan  &20 (9\%) &11 (5\%)  &4 (2\%)  & 2 (1\%) & 37(17\%)\\
+Warna bunga & 7 (3\%) & 0  & 1 &0 & 8(4\%)\\
 
-Jenis kursi  & 7 (3\%) & 1   & 1  & 1\\
-Tingkat cahaya  & 21 (9\%) &15 (7\%)  &13 (6\%)  & 4 (2\%)\\
+Jenis kursi  & 7 (3\%) & 1   & 1  & 1 & 10(4\%)\\
+Tingkat cahaya  & 21 (9\%) &15 (7\%)  &13 (6\%)  & 4 (2\%)& 53(24\%)\\
+
+Total  & 115 (52\%) & 51 (23\%)  &37 (17\%)  & 16 (7\%)& 220(100\%)\\
  \bottomrule
 
-\multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
 
 \newcommand{\xtpebyusi}{
-\begin{table}\setlength\tabcolsep{2pt}
+\begin{table}\setlength\tabcolsep{0pt}
 	\caption{Crosstabulasi elemen dan perbedaan usia}
 	\label{tab:xtpeU}
     \centering
-\begin{tabular}[ht]{rP{1.5cm}P{1.5cm}P{1.5cm}P{1.5cm}P{1.5cm}P{1.5cm} }
+    \footnotesize
+    \begin{tabular}[ht]{rP{1.5cm}P{1.5cm}P{1.5cm}P{1.4cm}P{1.4cm}P{1.4cm}P{1.4cm} }
 \hline
-\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=8em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}}\\
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=7em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}} & \textbf{Total}\\
 
 
-&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}\\
+&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}} & \\
 
 \toprule
 
-Jumlah pohon  & 6 (3\%)   & 5 (2\%)    & 5 (2\%)  & 0 & 1 & 3 (1\%)   \\
-Bentuk pohon  & 10 (4\%)    & 14 (6\%)   & 6 (3\%)  &0 & 3 (1\%) & 7 (3\%)\\
-Lebar jalan  & 18 (8\%)     & 10 (4\%)    & 10 (4\%)    & 4 (2\%) & 7 (3\%) & 2 (1\%) \\
+Jumlah pohon  & 6 (3\%)   & 5 (2\%)    & 5 (2\%)  & 0 & 1 & 3 (1\%) &    20(9\%)\\
+Bentuk pohon  & 10 (4\%)    & 14 (6\%)   & 6 (3\%)  &0 & 3 (1\%) & 7 (3\%) & 40(18\%) \\
+Lebar jalan  & 18 (8\%)     & 10 (4\%)    & 10 (4\%)    & 4 (2\%) & 7 (3\%) & 2 (1\%) & 51(23\%) \\
 
-Permukaan jalan  & 12 (5\%)    & 12 (5\%)    & 7 (3\%)    & 2 (1\%) & 4 (2\%) & 0  \\
-Warna bunga & 3 (1\%)  & 2 (1\%)    & 2 (1\%)   & 0 & 1  & 0   \\
+Permukaan jalan  & 12 (5\%)    & 12 (5\%)    & 7 (3\%)    & 2 (1\%) & 4 (2\%) & 0 & 37(17\%)\\
+Warna bunga & 3 (1\%)  & 2 (1\%)    & 2 (1\%)   & 0 & 1  & 0 & 8(4\%) \\
 
-Jenis kursi& 3 (1\%)  & 3 (1\%)  & 3 (1\%)    & 0   & 1  & 1  \\
-Tingkat cahaya  & 13 (6\%)  & 14 (6\%)   &9 (4\%)   & 5 (2\%) & 8 (4\%) & 4 (2\%) \\
+Jenis kursi& 3 (1\%)  & 3 (1\%)  & 3 (1\%)    & 0   & 1  & 1 & 11(5\%)  \\
+Tingkat cahaya  & 13 (6\%)  & 14 (6\%)   &9 (4\%)   & 5 (2\%) & 8 (4\%) & 4 (2\%) & 53(24\%)\\
+
+\textbf{Total}  & 65 (29\%)  & 60 (27\%)   & 42 (19\%)   & 11 (5\%) & 25 (11\%) & 17 (8\%) & 220(100\%)\\
 
  \bottomrule
-\multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
-\multicolumn{7}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+\multicolumn{8}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
+\multicolumn{8}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
 
 
 \newcommand{\xtpebysuk}{
-\begin{table}\setlength\tabcolsep{2pt}
+\begin{table}\setlength\tabcolsep{1pt}
 	\caption{Crosstabulasi elemen dan perbedaan suku}
 	\label{tab:xtpeS}
     \centering
 \begin{tabular}[ht]{r P{2cm}
-    P{2.2cm}P{2cm}P{2.2cm}}
+    P{2cm}P{2cm}P{2cm}P{2cm}}
 \hline
-\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}}\\
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=7em, height=2.4cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{2}{c}{\textbf{Ruang a}} &\multicolumn{2}{c}{\textbf{Ruang b}} & \textbf{Total}\\
 
-
-&{\parbox[c][1.9cm]{\textwidth}{bugis}}  & nonbugis & bugis & nonbugis\\
+&{\parbox[c][1.9cm]{\textwidth}{bugis}}  & nonbugis & bugis & nonbugis &\\
 
  \toprule
 
-Jumlah pohon  &13(6\%) &3 (1\%)&1&3(1\%)\\
-Bentuk pohon  &21 (9\%) &9(4\%)  & 5 (2\%)  &5 (2\%)\\
-Lebar jalan  & 26(12\%)  & 12(4\%)  & 10(4\%)  & 3(1\%)\\
+Jumlah pohon  &13(6\%) &3 (1\%)&1&3(1\%) & 20(9\%) \\
+Bentuk pohon  &21 (9\%) &9(4\%)  & 5 (2\%)  &5 (2\%) & 40(18\%)\\
+Lebar jalan  & 26(12\%)  & 12(4\%)  & 10(4\%)  & 3(1\%) & 51(23\%)\\
 
-Permukaan jalan  &22(10\%) &9(4\%)  &5(2\%)  & 1\\
-Warna bunga & 4(2\%) & 3(1\%)  & 1  &0\\
+Permukaan jalan  &22(10\%) &9(4\%)  &5(2\%)  & 1 & 37(17\%)\\
+Warna bunga & 4(2\%) & 3(1\%)  & 1  &0 & 8(4\%)\\
 
-Jenis kursi  & 6(3\%) & 3(1\%)  & 1  & 1\\
-Tingkat cahaya  & 29(13\%) &7(3\%)  &11(5\%)  & 6(3\%)\\
+Jenis kursi  & 6(3\%) & 3(1\%)  & 1  & 1 & 11(5\%)\\
+Tingkat cahaya  & 29(13\%) &7(3\%)  &11(5\%)  & 6(3\%) & 53(24\%)\\
+
+\textbf{Total}  & 121(55\%) &46(21\%)  &34(15\%)  & 19(9\%) & 220(100\%)\\
  \bottomrule
 
-\multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. bugis berjumlah 60 orang ;  nonbugis berjumlah 25 orang}}\\
-\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. bugis berjumlah 60 orang ;  nonbugis berjumlah 25 orang}}\\
+\multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
