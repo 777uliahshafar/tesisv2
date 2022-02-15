@@ -843,43 +843,95 @@ pekerjaan <- subset(df$pekerjaan, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | p
 
 ruang <- subset(df$ruang, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
 
+# Jumlah pohon
+
 xtpjpG <- xtabs(~gender + df_elemenpro$jmlhphn + ruang,data=df)
 xtpjpG <- round(100 * prop.table(xtpjpG), 0)
 
 xtpjpU <- xtabs(~usia + df_elemenpro$jmlhphn + ruang,data=df)
+xtpjpU <- round(100 * prop.table(xtpjpU), 0)
+
 xtpjpP <- xtabs(~pekerjaan + df_elemenpro$jmlhphn + ruang,data=df)
+xtpjpP <- round(100 * prop.table(xtpjpP), 0)
+
 xtpjpS <- xtabs(~suku + df_elemenpro$jmlhphn + ruang,data=df)
+xtpjpS <- round(100 * prop.table(xtpjpS), 0)
 
+# bentuk pohon
 xtpbpG <- xtabs(~gender + df_elemenpro$bntukphn + ruang,data=df)
+xtpbpG <- round(100 * prop.table(xtpbpG), 0)
+
 xtpbpU <- xtabs(~usia + df_elemenpro$bntukphn + ruang,data=df)
+xtpbpU <- round(100 * prop.table(xtpbpU), 0)
+
 xtpbpP <- xtabs(~pekerjaan + df_elemenpro$bntukphn + ruang,data=df)
+xtpbpP <- round(100 * prop.table(xtpbpP), 0)
+
 xtpbpS <- xtabs(~suku + df_elemenpro$bntukphn + ruang,data=df)
+xtpbpS <- round(100 * prop.table(xtpbpS), 0)
 
+# Lebar jalan
 xtpljG <- xtabs(~gender + df_elemenpro$lbrjln + ruang,data=df)
+xtpljG <- round(100 * prop.table(xtpljG), 0)
+
 xtpljU <- xtabs(~usia + df_elemenpro$lbrjln + ruang,data=df)
+xtpljU <- round(100 * prop.table(xtpljU), 0)
+
 xtpljP <- xtabs(~pekerjaan + df_elemenpro$lbrjln + ruang,data=df)
+xtpljP <- round(100 * prop.table(xtpljP), 0)
+
 xtpljS <- xtabs(~suku + df_elemenpro$lbrjln + ruang,data=df)
+xtpljS <- round(100 * prop.table(xtpljS), 0)
 
-
+#  permukaan jalan
 xtppjG <- xtabs(~gender + df_elemenpro$permjln + ruang,data=df)
+xtppjG <- round(100 * prop.table(xtppjG), 0)
+
 xtppjU <- xtabs(~usia + df_elemenpro$permjln + ruang,data=df)
+xtppjU <- round(100 * prop.table(xtppjU), 0)
+
 xtppjP <- xtabs(~pekerjaan + df_elemenpro$permjln + ruang,data=df)
+xtppjP <- round(100 * prop.table(xtppjP), 0)
+
 xtppjS <- xtabs(~suku + df_elemenpro$permjln + ruang,data=df)
+xtppjS <- round(100 * prop.table(xtppjS), 0)
 
+# warna bunga
 xtpwbG <- xtabs(~gender + df_elemenpro$wrnabnga + ruang,data=df)
+xtpwbG <- round(100 * prop.table(xtpwbG), 0)
+
 xtpwbU <- xtabs(~usia + df_elemenpro$wrnabnga + ruang,data=df)
+xtpwbU <- round(100 * prop.table(xtpwbU), 0)
+
 xtpwbP <- xtabs(~pekerjaan + df_elemenpro$wrnabnga + ruang,data=df)
+xtpwbP <- round(100 * prop.table(xtpwbP), 0)
+
 xtpwbS <- xtabs(~suku + df_elemenpro$wrnabnga + ruang,data=df)
-
+xtpwbS <- round(100 * prop.table(xtpwbS), 0)
+# Jenis kursi
 xtpjkG <- xtabs(~gender + df_elemenpro$jniskrs + ruang,data=df)
-xtpjkU <- xtabs(~usia + df_elemenpro$jniskrs + ruang,data=df)
-xtpjkP <- xtabs(~pekerjaan + df_elemenpro$jniskrs + ruang,data=df)
-xtpjkS <- xtabs(~suku + df_elemenpro$jniskrs + ruang,data=df)
+xtpjkG <- round(100 * prop.table(xtpjkG), 0)
 
+xtpjkU <- xtabs(~usia + df_elemenpro$jniskrs + ruang,data=df)
+xtpjkU <- round(100 * prop.table(xtpjkU), 0)
+
+xtpjkP <- xtabs(~pekerjaan + df_elemenpro$jniskrs + ruang,data=df)
+xtpjkP <- round(100 * prop.table(xtpjkP), 0)
+
+xtpjkS <- xtabs(~suku + df_elemenpro$jniskrs + ruang,data=df)
+xtpjkS <- round(100 * prop.table(xtpjkS), 0)
+# Tingkat cahaya
 xtptcG <- xtabs(~gender + df_elemenpro$tngkchy + ruang,data=df)
+xtptcG <- round(100 * prop.table(xtptcG), 0)
+
 xtptcU <- xtabs(~usia + df_elemenpro$tngkchy + ruang,data=df)
+xtptcU <- round(100 * prop.table(xtptcU), 0)
+
 xtptcP <- xtabs(~pekerjaan + df_elemenpro$tngkchy + ruang,data=df)
+xtptcP <- round(100 * prop.table(xtptcP), 0)
+
 xtptcS <- xtabs(~suku + df_elemenpro$tngkchy + ruang,data=df)
+xtptcS <- round(100 * prop.table(xtptcS), 0)
 
 
 ctpjpR <- summarytools::ctable(ruang, df_elemenpro$jmlhphn, dnn = c("Ruang", "Jumlah pohon"), prop="t", round.digits = 0)
@@ -986,15 +1038,15 @@ Total  & 167 (76\%)  & 53 (24\%) & 220 (100\%)   \\
 
  \toprule
 
-Jumlah pohon  &14 &2&2&2\\
-Bentuk pohon  &20 &10  & 6  &4\\
-Lebar jalan  & 26  & 12  & 10  & 3\\
+Jumlah pohon  &14 (6\%) &2 (1\%)&2 (1\%)&2 (1\%)\\
+Bentuk pohon  &20 (9\%) &10 (4\%)  & 6 (3\%)  &4 (2\%)\\
+Lebar jalan  & 26 (12\%)  & 12 (5\%)  & 10 (4\%)  & 3 (1\%)\\
 
-Permukaan jalan  &20 &11  &4  & 2\\
-Warna bunga & 7 & 0  & 1  &0\\
+Permukaan jalan  &20 (9\%) &11 (5\%)  &4 (2\%)  & 2 (1\%)\\
+Warna bunga & 7 (3\%) & 0  & 1 &0\\
 
-Jenis kursi  & 7 & 1  & 1  & 1\\
-Tingkat cahaya  & 21 &15  &13  & 4\\
+Jenis kursi  & 7 (3\%) & 1   & 1  & 1\\
+Tingkat cahaya  & 21 (9\%) &15 (7\%)  &13 (6\%)  & 4 (2\%)\\
  \bottomrule
 
 \multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
@@ -1008,24 +1060,24 @@ Tingkat cahaya  & 21 &15  &13  & 4\\
 	\caption{Crosstabulasi elemen dan perbedaan usia}
 	\label{tab:xtpeU}
     \centering
-\begin{tabular}[ht]{rP{2em}P{2em}P{2em}P{2em}P{2em}P{2em} }
+\begin{tabular}[ht]{rP{1.5cm}P{1.5cm}P{1.5cm}P{1.5cm}P{1.5cm}P{1.5cm} }
 \hline
-\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}}\\
+\multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=8em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}}\\
 
 
 &{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Remaja}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Dewasa}}}&{\rotatebox[origin=c]{90}{\parbox[c]{2cm}{Manula}}}\\
 
 \toprule
 
-Jumlah pohon  & 6   & 5    & 5  & 0 & 1 & 3   \\
-Bentuk pohon  & 10    & 14   & 6  &0 & 3 & 7\\
-Lebar jalan  & 18     & 10    & 10    & 4 & 7 & 2 \\
+Jumlah pohon  & 6 (3\%)   & 5 (2\%)    & 5 (2\%)  & 0 & 1 & 3 (1\%)   \\
+Bentuk pohon  & 10 (4\%)    & 14 (6\%)   & 6 (3\%)  &0 & 3 (1\%) & 7 (3\%)\\
+Lebar jalan  & 18 (8\%)     & 10 (4\%)    & 10 (4\%)    & 4 (2\%) & 7 (3\%) & 2 (1\%) \\
 
-Permukaan jalan  & 12    & 12    & 7    & 2 &4 & 0  \\
-Warna bunga & 3  & 2    & 2   & 0 & 1 & 0   \\
+Permukaan jalan  & 12 (5\%)    & 12 (5\%)    & 7 (3\%)    & 2 (1\%) & 4 (2\%) & 0  \\
+Warna bunga & 3 (1\%)  & 2 (1\%)    & 2 (1\%)   & 0 & 1  & 0   \\
 
-Jenis kursi& 3  & 3  & 3    & 0   & 1 & 1 \\
-Tingkat cahaya  & 13  & 14   &9   & 5 & 8 & 4 \\
+Jenis kursi& 3 (1\%)  & 3 (1\%)  & 3 (1\%)    & 0   & 1  & 1  \\
+Tingkat cahaya  & 13 (6\%)  & 14 (6\%)   &9 (4\%)   & 5 (2\%) & 8 (4\%) & 4 (2\%) \\
 
  \bottomrule
 \multicolumn{7}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
@@ -1050,15 +1102,15 @@ Tingkat cahaya  & 13  & 14   &9   & 5 & 8 & 4 \\
 
  \toprule
 
-Jumlah pohon  &13 &3&1&3\\
-Bentuk pohon  &21 &9  & 5  &5\\
-Lebar jalan  & 26  & 12  & 10  & 3\\
+Jumlah pohon  &13(6\%) &3 (1\%)&1&3(1\%)\\
+Bentuk pohon  &21 (9\%) &9(4\%)  & 5 (2\%)  &5 (2\%)\\
+Lebar jalan  & 26(12\%)  & 12(4\%)  & 10(4\%)  & 3(1\%)\\
 
-Permukaan jalan  &22 &9  &5  & 1\\
-Warna bunga & 4 & 3  & 1  &0\\
+Permukaan jalan  &22(10\%) &9(4\%)  &5(2\%)  & 1\\
+Warna bunga & 4(2\%) & 3(1\%)  & 1  &0\\
 
-Jenis kursi  & 6 & 3  & 1  & 1\\
-Tingkat cahaya  & 29 &7  &11  & 6\\
+Jenis kursi  & 6(3\%) & 3(1\%)  & 1  & 1\\
+Tingkat cahaya  & 29(13\%) &7(3\%)  &11(5\%)  & 6(3\%)\\
  \bottomrule
 
 \multicolumn{5}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. bugis berjumlah 60 orang ;  nonbugis berjumlah 25 orang}}\\
