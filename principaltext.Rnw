@@ -109,7 +109,7 @@ Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataa
 Hal ini didasari karena lokasi kota Parepare yang sangat strategis dimana menghubungkan dengan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo.
 Salah satu objek pariwisata yang menonjol di kota Parepare adalah tepi laut Senggol. Tepi laut ini merupakan kawasan strategis kota Parepare sehingga menarik perhatian semua pihak dalam masyarakat khususnya penentu kebijakan.
 
-Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membagi kawasan menjadi dua macam ruang yang berbeda. Penelitian ini menyebut ruang yang satu sebagai ruang A, sedangkan ruang lainnya adalah ruang B. Kedua ruang ini memiliki perbedaan yang cukup signifikan dilihat dari pelaku utama yang menjajakan makanan, pengaturan elemen-elemen, sifat-sifat elemen ruang, dan lain-lain. Akan tetapi, kebanyakan, ruang A dikenal dengan elemen buatan yang terpelihara sedangkan ruang B dikenal bersifat terbuka dan menyatu dengan alam.
+Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membagi kawasan menjadi dua macam ruang yang berbeda. Penelitian ini menyebut ruang yang satu sebagai ruang A, sedangkan ruang lainnya adalah ruang B. Kedua ruang ini memiliki perbedaan yang cukup signifikan dilihat dari pelaku utama yang menjajakan makanan, pengaturan elemen-elemen, sifat-sifat elemen ruang, dan lain-lain. Akan tetapi, kebanyakan, ruang A dikenal dengan tatanan dan elemen buatan yang terbaru sedangkan ruang B dikenal dengan tatanan yang hampir sama dengan yang dulu dan bersifat lebih alami.
 Oleh sebab itu, orang dapat memilih ruang satu daripada ruang lainnya.
 Hal ini dapat menyebabkan ruang yang jarang dipilih orang lambat laun akan terbengkalai. Agar kedua ruang tersebut memiliki potensi yang sama untuk dipilih, maka mengetahui kebutuhan masyarakat terhadap ruang adalah sangat penting. Menurut \cite{madureira2018}, pemahaman terkait preferensi orang terhadap ruang akan memberitahu kebutuhan masyarakat. Berdasarkan permasalahan itu, penelitian ini menganalisis preferensi pengunjung terhadap ruang. Maka penelitian ini akan menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
@@ -930,6 +930,7 @@ Secara administratif Parepare memiliki batasan wilayah sebagai berikut:
     \label{fig:admpare}
 \end{figure}
 
+
 \section{Tinjauan Kawasan Waterfront}
 Kawasan tepi laut merupakah daerah paling barat di kota Parepare. Daerah yang berbatasan laut ini mempunyai banyak tempat menarik di sekitarnya. Pada sebelah utara tempat ini berbatasan dengan Pasar Senggol, pada sebelah selatan terdapat Pelabuhan Nusantara, sedangkan pada sebelah timur ada Perumahan dan Lapangan. Selain itu, kawasan tepi laut ini berada di Kecamatan Ujung, Parepare.
 
@@ -939,108 +940,84 @@ Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol i
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.84\textwidth]{figures/lokzi2}
+    \includegraphics[width=0.84\textwidth]{figures/lokzi3}
     \caption{Peta lokasi penelitian}
     \caption*{Sumber: Analisis, 2022}
-    \label{fig:lokzi2}
-\end{figure}
-
-Pada gambar \ref{fig:figur}, kita ketahui bentuk tapak di sekitar kawasan tepi laut Senggol. Gambar tersebut menunjukkan adanya \textit{void square} dan \textit{void street} di tempat ini. \textit{Void square} yang paling menonjol adalah lapangan basket bernama "Jati Diri" yang berdekatan dengan ruang A. Sementara \textit{void street} yang ada di kawasan tepi laut Senggol adalah Jalan Pinggir Laut. Jalan ini selain berfungsi sebagai jalur kendaraan, bahu jalannya digunakan sebagai tempat parkir motor.
-
-\begin{figure}[htpb]
-    \centering
-    \includegraphics[width=0.86\textwidth]{figures/figur}
-    \caption{Peta Solid-Void}
-    \caption*{Sumber: Analisis, 2022}
-    \label{fig:figur}
+    \label{fig:lokzi3}
 \end{figure}
 
 
 \begin{figure}[htbp]
 \centering
 \begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/jat}
+\centering\includegraphics[width=6cm]{figures/ra}
+\caption{Ruang A}
 \end{subfigure}%
 \begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/jal}
+\centering\includegraphics[width=6cm]{figures/rb}
+\caption{Ruang B}
 \end{subfigure}\vspace{10pt}
 
-\caption{Ruang Void}
-\caption*{Sumber: Analisis, 2022}
+\caption{Foto Ruang}
+\caption*{Sumber: Dokumentasi, 2022}
+\label{fig:fotr}
 \end{figure}
 
-Sejumlah massa bangunan yang berdekatan dengan \textit{waterfront} tergambarkan pada gambar \ref{fig:figur}. Bangunan-bangunan ini dapat menjadi tempat tujuan berpergian bersama ruang A dan ruang B dari objek penelitian. Ini juga mendukung keberlangsungan pada kawasan tepi laut Senggol dimana membutuhkan hubungan diantara objek penelitian dan objek sekitarnya. Objek di sekitar merupakan bangunan-bangunan yang berfungsi beragam, beberapa bangunan yang menonjol diantaranya:
+\section{Ruang A}
 
-\begin{enumerate}
-    \item Pasar Senggol
-Pasar ini cukup populer di daerah Sulsel  sebagai tempat perdagangan cakar. Dengan jumlah kios sebanyak 789 unit, pasar ini dapat memenuhi kebutuhan pengunjung yang menyempatkan berkunjung kesini. Masyarakat dapat berkunjung pada jam 4 sore hinga 11 malam.
-Pada tahun 2006, Parepare melaksanakan program rehabilitasi terhadap prasana dan sarana. Pasar Senggol termasuk dalam proyek rehabilitasi tersebut. Hal yang melatarbelakanginya adalah untuk percepatan pertumbuhan ekonomi wilayah yang berbasis pada sumber daya lokal, investasi dan kesejahteraan masyarakat sesuai dengan prinsip pembangunan berkelanjutan. Kedua untuk pemerataan infrastruktur wilayah melalui keseimbangan penataan ruang dan adaptibilitas perubahan lingkungan hidup \citep{syafruddin2018}.
+Ruang A adalah satu diantara dua ruang yang ada kawasan tepi laut Senggol. Ruang ini memiliki tatanan dan elemen yang terbaru. Beberapa elemen yang baru disekitar area adalah jalan pedestrian, lampu jalan, kedai makanan, dan \textit{square}. Area cakupun ruang ini dapat dilihat pada gambar \ref{fig:mapsra}.
 
-Beberapa motivasi pembeli terhadap barang cakar adalah harganya termasuk murah, kualitasnya masih terjaga dan beragam pilihan. Pengunjung Pasar Senggol biasanya menyempatkan diri berkunjung ke tepi laut Senggol untuk makan malam atau hanya sekedar wisata malam.
-Pasar senggol berdekatan dengan ruang B kawasan tepi laut Senggol. Seseorang dapat mengakses ruang B melalui bahu jalan. Untuk mengakses ruang A, pengunjung lebih baik berputar menggunakan kendaraan karena jalan pada kawasan \textit{waterfront} ini adalah satu arah dan ruang A cukup jauh dari Pasar Senggol.
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{figures/mapsra}
+    \caption{Peta Lokasi Ruang A}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:mapsra}
+\end{figure}
 
-\item Pelabuhan Nusantara
-Pelabuhan yang berada disamping ruang A ini merupakan pelabuhan utama di kota Parepare. Oleh karena itu, tempat ini sangat ramai saat keberangkatan dan kedatangan kapal penumpang. Tidak jarang pendatang berasal dari luar negeri yang transit menuju ke Tana Toraja. Saat transit kadang mereka berkeliaran sebentar di Tepi laut Senggol. Selain turis luar negeri, orang lokal juga menggunakan pelabuhan ini untuk berpergian ke luar pulau Indonesia seperti Jawa, Kalimantan, Sumatra dan Papua. Ini menjadi manfaat bagi tepi laut Senggol untuk menarik pengunjung dari luar.
+\subsection{Bangunan Sekitar objek}
 
-\item Lapangan Andi Makassau
-Lapangan sekaligus alun-alun Parepare setiap jam-jam istirahat selalu ramai. Pengunjung memanfaatkan lapangan ini sebagai tempat olahraga dan berekreasi. Pada malam hari, masyarakat menggunakannya sebagai pasar malam.
-\end{enumerate}
+Lokasi ruang A berada di bagian selatan kawasan tepi laut Senggol. Sehingga berdekatan dengan sejumlah bangunan penting lainnya (lihat gambar \ref{fig:mapsra-lg}). Fungsi dan aktivitas bangunan tersebut dapat dilihat pada tabel \ref{tab:objsa}.
 
-\newpage
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{figures/mapsra-lg}
+    \caption{Bangunan Sekitar Objek}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:mapsra-lg}
+\end{figure}
+
 \begin{longtable}{p{.05\textwidth} m{.3\textwidth} m{.2\textwidth} m{.3\textwidth}}
-	\caption{Bangunan Sekitar Objek Penelitian} \\
+	\caption{Bangunan Sekitar Ruang A} \\
 	\caption*{Sumber: Analisis, 2022 } \\
-	\label{tab:objs} \\
+	\label{tab:objsa} \\
     No & Bangunan & Fungsi & Aktivitas\\
     \toprule
 1. &  \begin{center}
-      \includegraphics[width=\linewidth]{figures/psr} Pasar Senggol
-    \end{center} & Pasar Cakar & Perdagangan\\
-
-
-\midrule
-2. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/pel} Pelabuhan Nusantara
     \end{center} & Pelabuhan & Transportasi laut\\
 
 \midrule
-3. &  \begin{center}
-      \includegraphics[width=\linewidth]{figures/per} Perpustakaan Habibie
-    \end{center} & Perpustakaan & Pendidikan\\
-
-\midrule
-4. &  \begin{center}
-      \includegraphics[width=\linewidth]{figures/han} Hanstom
-    \end{center} & Toko & Perdagangan\\
-
-\midrule
-5. &  \begin{center}
+2. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/ser} Balai Habibie Ainun
     \end{center} & Gedung Serbaguna & Pertemuan\\
+\midrule
 
+3. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/jat} Lapangan Jati Diri
+    \end{center} & Lapangan basket &\\
 \midrule
-6. &  \begin{center}
-      \includegraphics[width=\linewidth]{figures/mas} Masjid Raya
-    \end{center} & Tempat Ibadah & Shalat\\
-\midrule
-7. &  \begin{center}
-      \includegraphics[width=\linewidth]{figures/mus} Museum Bj. Habibie
-    \end{center} & Museum & Rekreasi \& Edukasi \\
+
+
+4. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/alun} Alun-alun Andi Makassau
+    \end{center} & Bermain &\\
+
 \bottomrule
 \end{longtable}
 
+\subsection{Kondisi fisik}
 
-\subsection{Kondisi Fisik Ruang A}
-Ruang ini terletak pada bagian selatan kawasan tepi laut Senggol.  Tempat ini bersampingan dengan pelabuhan besar kota Parepare. Ruang ini termasuk area yang memiliki perubahan besar setelah revitaliasi. Dampak revitalisasi tersebut dapat dirasakan pada kondisi fisik ruang ini. Jalan, penerang, lanskap, dan pengaturan yang sangat rapih menjadi keunggulan tempat ini.
-
-
-\begin{figure}[htpb]
-    \centering
-    \includegraphics[width=0.8\textwidth]{figures/ruanga}
-    \caption{Ruang A}
-    \caption*{Sumber: Dokumentasi, 2022}
-    \label{fig:raga}
-\end{figure}
 
 \begin{enumerate}[label=\alph*., leftmargin=0pt, itemindent=1cm, labelwidth=15pt, labelsep=5pt, listparindent=1cm]
 
@@ -1341,43 +1318,59 @@ Meskipun demikian, ada sejumlah sisi positif dengan keberadaan pelabuhan ini sep
 \end{enumerate}
 
 
-\subsection{Kondisi Fisik Ruang B}
+\section{Ruang B}
 
-Keistimewaan yang dimiliki ruang B adalah keberadaan Pedagang Kaki Lima (PKL) yang dari tempo dulu tidak pernah hilang. Pedagang kaki lima adalah istilah penyedia barang yang memanfaatkan jalan pedestrian atau trotoar selebar 5 \textit{feet}/kaki \citep{wijayaningsih2007}. PKL di pesisir pantai senggol juga menjadi aktivitas yang paling menonjol setelah sekian lama.
+Ruang B adalah ruang yang telah bertahan cukup lama pada kawasan tepi laut Senggol.
+Secara keseluruhan, bentuk pada ruang ini tidak memiliki banyak perubahan.Hanya terdapat sejumlah elemen dan tatanan yang diubah. Salah satu yang masih bertahan adalah keberadaan pedagang kaki lima (PKL).
+Pedagang kaki lima adalah istilah penyedia barang yang memanfaatkan jalan pedestrian atau trotoar selebar 5 \textit{feet}/kaki \citep{wijayaningsih2007}. PKL di pesisir pantai senggol juga menjadi aktivitas yang paling menonjol setelah sekian lama.
 Mereka menawarkan berbagai macam makanan seperti nasi kuning, bubur kacang hijau, mie ayam dan olahan hewan laut. Waktu operasinya adalah pada pagi hingga malam hari kecuali di siang hari.
+Ruang ini mencakupi area seperti yang dilihat pada gambar \ref{fig:mapsrb}.
 
-Berdasarkan segi operasional, definisi pkl terdapat dua macam yaitu: PKL tertata dan PKL Binaan. PKL tertata adalah mereka yang menempati tempat yang tersedia oleh pemerintah serta mendapatkan ijin dari pemerintah daerah serta mengikuti aturan yang berlaku. Sementara PKL binaan adalah mereka yang menempati tempat terlarang atau tidak diijinkan oleh pemerintah daerah dan bebas biaya retribusi \citep{wijayaningsih2007}. PKL di pantai senggol saat ini telah tertata dan bukan binaan lagi seperti dulu.
-Dulu, mereka bebas untuk berjualan dimana saja di pesisir laut.
-Namun, setelah adanya revitalisasi pemerintah merelokasinya pada suatu tempat dan jangkuan yang terbatas.
-Tempat dan jangkauan tersebut penulis menamakannya sebagai ruang B.
-Lebih lanjut, akibat dari relokasi tersebut adalah berkurangnya sejumlah PKL.
-
-Pada awal adanya tempat ini, tampak fisik secara keseluruhan adalah sederhana. Lantai dari tempat ini adalah permukaan tanah walaupun ada yang \textit{paving block}. Dulu, atap dari tempat ini belum terencana, hanya naungan yang dibuat sendiri oleh masing-masing pedagang. Sementara, dinding yang berlaku sebagai tempat duduk dan pembatas berlapisan lantai keramik dengan corak air bewarna hijau dan kuning. Gambaran karakteristik pantai senggol tempo dulu dapat dilihat pada gambar \ref{fig:pkldl}.
-
-\begin{figure}[htbp]
-\centering
-\begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/pkldl1}
-\end{subfigure}%
-\begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/pkldl2}
-\end{subfigure}\vspace{10pt}
-
-\caption{Pantai Senggol Tempo Dulu}
-\caption*{sumber: id.foursquare.com }
-\label{fig:pkldl}
-\end{figure}
-
-Perkembangan ekonomi dan bisnis kota Parepare yang meningkat memicu perubahan pada tempat yang berpotensi komersial. Salah satunya adalah pantai Senggol. Ini menyebabkan tampak fisik dari ruang B ikut berubah. Perubahan fisik yang terjadi di ruang B diantaranya adalah perubahan lantai, atap dan dinding (batas sebuah ruang). Alhasil tampak fisik ruang B saat ini dapat dilihat pada gambar \ref{fig:rbb}.
-
-\begin{figure}[htpb]
+\begin{figure}[ht]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/rb}
-    \caption{Ruang B}
-    \caption*{Sumber: Dokumentasi, 2022}
-    \label{fig:rbb}
+    \includegraphics[width=0.6\textwidth]{figures/mapsrb}
+    \caption{Peta Lokasi Ruang B}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:mapsrb}
 \end{figure}
 
+\subsection{Bangunan Sekitar objek}
+
+Ruang B berada pada bagian utara kawasan tepi laut Senggol. Ruang ini juga berdekatan dengan sejumlah bangunan yang cukup terkenal lainnya (lihat gambar \ref{fig:mapsrb-lg}). Fungsi dan aktivitas bangunan di sekitarnya dapat dilihat pada tabel \ref{tab:objsb}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{figures/mapsrb-lg}
+    \caption{Bangunan Sekitar Objek}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:mapsrb-lg}
+\end{figure}
+
+\begin{longtable}{p{.05\textwidth} m{.3\textwidth} m{.2\textwidth} m{.3\textwidth}}
+	\caption{Bangunan Sekitar Objek Penelitian} \\
+	\caption*{Sumber: Analisis, 2022 } \\
+	\label{tab:objsb} \\
+    No & Bangunan & Fungsi & Aktivitas\\
+    \toprule
+1. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/psr} Pasar Senggol
+    \end{center} & Pasar Cakar & Perdagangan\\
+\midrule
+2. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/per} Perpustakaan Habibie
+    \end{center} & Perpustakaan & Pendidikan\\
+\midrule
+3. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/han} Hanstom
+    \end{center} & Toko & Perdagangan\\
+\midrule
+4. &  \begin{center}
+      \includegraphics[width=\linewidth]{figures/mas} Masjid Raya
+    \end{center} & Tempat Ibadah & Shalat\\
+\bottomrule
+\end{longtable}
+\newpage
+\subsection{Kondisi fisik}
 
 \begin{enumerate}[label=\alph*., leftmargin=0pt, itemindent=1cm, labelwidth=15pt, labelsep=5pt, listparindent=1cm]
 
