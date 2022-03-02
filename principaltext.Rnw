@@ -296,11 +296,11 @@ Data-data dari penelitian tersebut terangkum dalam bentuk sebuah tabel yang dapa
 
 \section{Ruang Terbuka Publik Tepi laut}
 
-\subsection{Ruang Terbuka Publik}
+\subsection{Ruang Terbuka Publik(RTP)}
 \label{sub:subsectionlabel}
 
 Berdasarkan kamus Amerika Oxford, ruang adalah area yang kontinu atau terbentang dan bersifat bebas atau tak terpakai. Pada perkotaan, ruang dapat menjadi ruang publik atau pribadi tergantung pada apakah ruang tersebut dapat diakses oleh banyak orang atau hanya satu orang. \cite{luan2018} menerangkan bahwa istilah ``publik" terlepas dari kepunyaan suatu lahan melainkan apakah ruang tersebut terakses oleh semua orang untuk digunakan atau tidak. Akses ini dapat berupa gratis masuk atau dengan biaya murah (seperti tiket) imbuhnya.
-Berdasarkan penelitian ruang publik, \cite{carr1992} mengindikasikan ruang publik berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain. Ruang itu terakses oleh publik setiap saat \citep{nur2006}.
+Berdasarkan penelitian ruang publik, \cite{carr1992} mengindikasikan ruang terbuka publik (RTP) berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan interaksi orang serta sebagai wadah penampung kegiatan bersantai dan bermain. Ruang itu terakses oleh publik setiap saat \citep{nur2006}.
 
 Menurut \cite{carr1992}, ruang publik memiliki dimensi `fisik' (ruang) dan `sosial' (aktivitas).
 Fisik ruang publik merupakan ruang dan tatanan yang menunjang interaksi sosial dan aktivitas umum \citep{carr1992,lynch1984}.
@@ -609,8 +609,19 @@ Selain untuk bersosialiasi, menurut \citeauthor{hadavi2015}, preferensi kursi me
 Elemen jalan berperan penting dalam hal aktitivitas fisik dan sosial. Menurut \cite{sanjaya2017}, jalan dapat memfasilitasi mobilitas, interaksi sosial, dan kenyamanan serta keindahan.
 Dalam penelitian elemen ruang, \cite{veitch2022} membenarkan jalan dapat meningkatkan aktivitas fisik maupun sosial suatu ruang \citep{veitch2022}.  \cite{veitch2022} mengindikasikan orang memiliki preferensi terhadap elemen ini dalam hal memfasilitasi aktivitas fisik dan sosial dan juga kunjungan taman.
 
-Pada jalan, lebar memainkan peran dalam menentukan kemampuan jalan dalam hal memfasilitasi \citep{van2018}. Seperti contoh, jalan yang sempit dapat mempengaruhi kenyamanan dan mobilitas pejalan kaki. Sedangkan jalan yang lebar memfasilitasi aktivitas sosial dan lain-lain \citep{van2018}. Pada umumnya, jalan yang lebar menjelaskan preferensi individu \citep{talavera2015}. Dalam penelitian tersebut, lebar pada jalan adalah lebih dari tiga meter.
-Menurut  \citep{talavera2015}, lebar jalan itu dapat menunjang aktivitas sosial dan singgah depan toko tanpa menghalangi arus pejalan kaki.
+Pada jalan, lebar memainkan peran dalam menentukan kemampuan jalan dalam hal memfasilitasi \citep{van2018}. Seperti contoh, jalan yang sempit dapat mempengaruhi kenyamanan dan mobilitas pejalan kaki. Sedangkan jalan yang lebar memfasilitasi aktivitas sosial dan lain-lain \citep{van2018}. Orang juga sering menggunakan jalan untuk berolahraga, seperti berjalan, jogging, dan bersepeda \citep{liu2021}.
+Menurut \cite{talavera2015}, jalan yang lebar menjelaskan preferensi individu secara umum. Dia mengindikasikan lebar jalan selebar tiga meter mampu menunjang aktivitas sosial dan singgah di depan toko tanpa menghalangi arus pejalan kaki.
+
+\item Orientasi Elemen
+Tepi laut sebagai ruang publik menaruh perhatian lebih terhadap orientasi elemen (cth: tempat duduk, bangunan, toko) dibanding ruang publik lainnya. Hal ini berguna untuk memaksimalkan pemandangan laut dari sebuah kawasan tepi laut. \cite{liu2021} menerangkan bahwa pemandangan adalah hal yang terpenting dalam menikmati sebuah tepi laut. Dia mengindikasikan kemampuan untuk memandangi sebuah tepi laut menarik pengunjung untuk berlama-lama \citep{liu2021}.
+
+Orientasi bangunan secara khusus diatur pada kebijakan ruang publik tepi laut. Berdasarkan kebijakan tersebut, bangunan seharusnya menghadap ke tepi laut dengan mempertimbangkan oposisi bangunan terhadap paparan matahari dan arah angin.
+
+\item Tempat wisata laut
+Tempat wisata laut merupakan area dimana orang dapat berinteraksi dengan air. Air dianggap sebagai alasan orang beraktivitas diluar ruang baik secara aktif maupun pasif. Oleh karena itu, maka penting menjaga kualitas air dan badan air dalam kawasan tepi laut.
+Sebagian besar interaksi tersebut adalah berenang, memancing, dan menyelam \citep{syafriny2013}. \cite{syafriny2013} menemukan bahwa sebagian besar pengunjung tepi laut menganggap penting fasilitas untuk interaksi air.
+
+\item
 
 \end{itemize}
 
@@ -624,7 +635,7 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 	\caption{Proposisi Penelitian} \\
 	\label{tab:props} \\
 \toprule
-  \textbf{Elemen Tepi Laut} &
+  \textbf{Elemen RTP tepi laut} &
  {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Aksesibilitas}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Estetika}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Keamanan}}}} & {\rotatebox[origin=lB]{90}{\parbox[t]{2.6cm}{\textbf{Fasilitas}}}} \\
  \midrule
 \textit{Jumlah pohon}  &  & \checkmark  & & \\
@@ -652,6 +663,19 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 \textit{Pencahayaan jalan}  &  &  & \checkmark & \\
 \tabitems Sedang   & & & &  \\
 \tabitems Tinggi  & & & &  \\
+
+\textit{Orientasi Elemen}  &  &  &  & \checkmark\\
+\tabitems Menghadap laut   & & & &  \\
+\tabitems Tidak menghadap laut  & & & &  \\
+
+\textit{Tempat Wisata air}  & \checkmark  &  &  & \checkmark\\
+\tabitems Tempat memancing   & & & &  \\
+\tabitems Tempat berenang   & & & &  \\
+
+\textit{Bangunan penunjang}  &  &  &  & \checkmark\\
+\tabitems Cafe   & & & &  \\
+\tabitems Kuliner   & & & &  \\
+\tabitems Fasilitas hiburan   & & & &  \\
 
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
@@ -1645,8 +1669,6 @@ Responden juga dikelompokkan berdasarkan usia yang terdiri dari remaja (18-25), 
 Ini menunjukkan bahwa ruang A lebih disukai oleh kelompok remaja dengan frekuensi 25 orang sedangkan ruang B lebih disukai kelompok dewasa dengan frekuensi sebanyak 15 orang (lihat tabel \ref{tab:ctpsU}).
 Uji chi-kuadrat menunjukkan perbedaan hubungan yang signifikan diantara kelompok usia dan preferensi ruang
 (\chi^2 = 6.307, df = 2, p = 0.042).
-
-
 
 \ctpsproUsi
 
