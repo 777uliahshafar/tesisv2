@@ -512,8 +512,8 @@ Sebaliknya, aksesibilitas yang kurang baik dapat berdampak pada kesehatan dan ke
 
 Pejalan kaki sangat penting dalam sebuah ruang publik, Salingaros dalam \citep{hartoyo2018}. Oleh karena itu, Ruang publik seharusnya menyediakan sejumlah jalan pedestrian yang mudah diakses. Jalan pedestrian adalah ruang bagi pejalan kaki untuk berpindah dari satu tempat ke tempat lain \citep{sanjaya2017}.
 Menurut \cite{harsono2015}, jalan pedestrian yang aksesibel memperhatikan lebar jalan. \cite{talavera2015} membenarkan bahwa lebar jalan berperan penting terhadap aksesiblitas sebagaimana itu berkontribusi terhadap kecepatan jalan.
-\citeauthor{harsono2015} menjelaskan lebar minimum jalan adalah 75 sentimeter termasuk ruang gerak, apabila ada dua orang maka lebarnya 150 sentimeter, berlaku kelipatannya. Sementara, lebar jalan pada trotoar adalah berkisar 150-300 sentimeter \citep{sanjaya2017}. Pada penelitian preferensi pedestrian terhadap troatar (jalan pedestrian), \cite{priyoga2015} menemukan orang berkecenderungan terhadap jalan yang lebar dalam hal aspek aksessibilitas. Lebar pada jalan tersebut berkisar dua hingga enam meter.
-Sejumlah penelitian menyebut jalan yang lebar dapat meningkatkan aksesibilitas \citep{priyoga2015, khofifah2016, hwang2019}. Menurut \cite{khofifah2016}, lebar jalan dapat ditentukan berdasarkan jumlah pejalan kaki pada saat jam ramai.
+\citeauthor{harsono2015} menjelaskan lebar minimum jalan adalah 75 sentimeter termasuk ruang gerak, apabila ada dua orang maka lebarnya 150 sentimeter, berlaku kelipatannya. Sementara, lebar jalan pada trotoar adalah berkisar 150-300 sentimeter \citep{sanjaya2017}. Sejumlah penelitian menemukan bahwa pengunjung memiliki preferensi terhadap jalan yang lebar dalam hal aksesibilitas \citep{priyoga2015, sari2019}. Menurut \cite{priyoga2015}, lebar jalan yang disukai berkisar 2-6 meter.
+Sebagai tambahan, penelitian lainnya menyebutkan jalan yang lebar dapat meningkatkan aksesibilitas \citep{priyoga2015, khofifah2016, hwang2019}. Menurut \cite{khofifah2016}, lebar jalan dapat ditentukan berdasarkan jumlah pejalan kaki pada saat jam ramai.
 
 \item Permukaan Jalan
 
@@ -543,7 +543,7 @@ Sama halnya penemuan \cite{campagnaro2020} yang beranggapan stuktur vegetasi yan
 
 \item Pencahayaan Jalan
 
-Ruang publik ketika malam akan dirasakan berbeda. Orang seringkali menghindari suatu ruang publik pada malam hari karena kurangnya pencahayaan \citep{rahm2021, zhang2021, nemeth2007}. Banyak penelitian yang menemukan pencahayaan berhubungan dengan keamanan yang dirasakan \citep{rahm2021, nemeth2007, ma2016, luo2021}. Menurut \cite{nemeth2007}, pencahayaan akan mendorong penggunaan ruang publik selama 24 jam dan meningkatkan rasa aman individu. Pada penelitian lanskap tepi laut, \cite{ma2016} menemukan orang menyukai pencahayaan pada malam hari dan pantulan cahaya pada laut. \cite{stino1983} juga menyimpulkan orang menyukai pencahayaan pada penelitian ruang publik. Dia menyebut kurangnya pencahayaan malam hari atau tidak ada pencahayaan berkontribusi pada kurangnya rasa aman \citep{stino1983}.
+Ruang publik ketika malam akan dirasakan berbeda. Orang seringkali menghindari suatu ruang publik pada malam hari karena kurangnya pencahayaan \citep{rahm2021, zhang2021, nemeth2007}. Banyak penelitian yang menemukan pencahayaan berhubungan dengan keamanan yang dirasakan \citep{rahm2021, nemeth2007, ma2016, luo2021}. Menurut \cite{nemeth2007}, pencahayaan akan mendorong penggunaan ruang publik selama 24 jam dan meningkatkan rasa aman individu. Pada penelitian lanskap tepi laut, \cite{ma2016} menemukan orang menyukai pencahayaan pada malam hari dan pantulan cahaya pada laut. \cite{stino1983} juga menyimpulkan orang menyukai pencahayaan pada penelitian ruang publik. Dia menyebut kurangnya pencahayaan malam hari atau tidak ada pencahayaan berkontribusi pada kurangnya rasa aman \citep{stino1983}. Meskipun demikian, kurangnya pemanfaatan ruang publik pada malam hari akan mengurangi kesukaan terhadap elemen pencahayaan \citep{sari2019}.
 
 \end{itemize}
 
@@ -573,6 +573,10 @@ Dia menemukan adanya perbedaan kualitas estetika diantara ketiga ruang dengan pr
 Perbedaan warna ini dapat ditemukan pada bunga.
 Jelas, ruang publik dengan bunga yang berwarna dapat menarik seseorang \citep{wang2019, jahani2020}. \cite{jahani2020} menjelaskan bahwa bunga juga dapat meningkatkan kualitas suatu ruang.
 Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi seseorang terhadap ruang dalam hal estetika \citep{campagnaro2020, wang2019}. Selain meningkatkan preferensi dalam estetika, bunga berwarna juga  bermanfaat untuk pemulihan jiwa \citep{jahani2020}.
+
+\item Elemen air
+Menurut
+
 
 \end{itemize}
 
@@ -613,23 +617,32 @@ Pada jalan, lebar memainkan peran dalam menentukan kemampuan jalan dalam hal mem
 Menurut \cite{talavera2015}, jalan yang lebar menjelaskan preferensi individu secara umum. Dia mengindikasikan lebar jalan selebar tiga meter mampu menunjang aktivitas sosial dan singgah di depan toko tanpa menghalangi arus pejalan kaki.
 
 \item Orientasi Elemen
-Tepi laut sebagai ruang publik menaruh perhatian lebih terhadap orientasi elemen (cth: tempat duduk, bangunan, toko) dibanding ruang publik lainnya. Hal ini berguna untuk memaksimalkan pemandangan laut dari sebuah kawasan tepi laut. \cite{liu2021} menerangkan bahwa pemandangan adalah hal yang terpenting dalam menikmati sebuah tepi laut. Dia mengindikasikan kemampuan untuk memandangi sebuah tepi laut menarik pengunjung untuk berlama-lama \citep{liu2021}.
 
-Orientasi bangunan secara khusus diatur pada kebijakan ruang publik tepi laut. Berdasarkan kebijakan tersebut, bangunan seharusnya menghadap ke tepi laut dengan mempertimbangkan oposisi bangunan terhadap paparan matahari dan arah angin.
+Tepi laut sebagai ruang publik menaruh perhatian lebih terhadap orientasi elemen (cth: tempat duduk, bangunan, toko) dibanding ruang publik lainnya.
+Menurut \cite{mumcu2016}, mengorientasikan elemen misalnya tempat duduk terhadap perhatian kebanyakan orang memberikan kemanfaatan yang paling penting kepada pengunjung.
+\cite{liu2021} menerangkan bahwa orang menilai penting suatu pemandangan dalam hal menikmati sebuah tepi laut.
+Dia mengindikasikan kemampuan untuk memandangi sebuah tepi laut menarik pengunjung untuk berlama-lama \citep{liu2021}. \cite{tahir2005} mengklarifikasikan aktivitas pengunjung tepi laut meliputi melihat-lihat panorama dan pemandangan kawasan khususnya penduduk lokal. Sebaliknya, \cite{mumcu2016} menjelaskan bahwa sejumlah orang menyukai melihat-lihat orang yang sedang beraktivitas. Dia menemukan kursi yang mengarah pada jalan tempat orang beraktivitas berlangsung lebih lama daripada yang lain \citep{mumcu2016}.
+
+Selain orientasi kursi, orientasi bangunan secara khusus diatur pada kebijakan ruang publik tepi laut. Berdasarkan kebijakan tersebut, bangunan seharusnya menghadap ke tepi laut dengan mempertimbangkan oposisi bangunan terhadap paparan matahari dan arah angin. Selain bangunan dan tempat duduk, fasad toko, plaza yang berorientasi ke laut merupakan kebutuhan untuk pemandangan ke laut \citep{tahir2005}. Sebagaimana \cite{sari2019} menemukan adanya preferensi terhadap pemandangan pada sebuah ruang terbuka publik tepi laut.
 
 \item Tempat wisata laut
-Tempat wisata laut merupakan area dimana orang dapat berinteraksi dengan air. Air dianggap sebagai alasan orang beraktivitas diluar ruang baik secara aktif maupun pasif. Oleh karena itu, maka penting menjaga kualitas air dan badan air dalam kawasan tepi laut.
-Sebagian besar interaksi tersebut adalah berenang, memancing, dan menyelam \citep{syafriny2013}. \cite{syafriny2013} menemukan bahwa sebagian besar pengunjung tepi laut menganggap penting fasilitas untuk interaksi air.
 
-\item
+Tempat wisata laut merupakan area dimana orang dapat berinteraksi dengan air. Berdasarkan kriteria kualitas ruang publik tepi laut menurut \cite{pps}, air merupakan fokus utama. \cite{sari2019} mengkategorikan akses ke perairan sebagai unsur-unsur alam dalam sebuah ruang terbuka.
+Air dianggap sebagai alasan orang beraktivitas diluar ruang baik secara aktif maupun pasif \citep{tahir2005}. Oleh karena itu, maka penting menjaga kualitas air dan badan air dalam kawasan tepi laut.
+Sebagian besar aktivitas tersebut adalah berenang, memancing, dan menyelam \citep{syafriny2013}. \cite{syafriny2013} menemukan bahwa sebagian besar pengunjung tepi laut menganggap penting fasilitas untuk interaksi air. \cite{sari2019} menegaskan adanya preferensi terhadap tempat kegiatan-kegiatan wisata.
+
+\item Bangunan penunjang
+
+Bangunan penunjang merupakan bangunan yang dapat mengakomodasi kegiatan-kegiatan pengunjung. Pada umumnya, bangunan ini terdiri dari kedai makanan, kafe, toko, stan/kios \textit{booth container}, dan tempat bermain. Diantara bangunan tersebut, kedai makanan termasuk stan menjadi yang terpenting dalam memfasilitasi aktivitas pengunjung selanjutnya diikuti fasilitas hiburan (tempat bermain) \citep{syafriny2013}. Menurut \cite{tahir2005}, kebanyakan pengunjung bukan lokal menyukai kegiatan seperti wisata kuliner, berbelanja, rekreasi pada akhir pekan. Tentunya ini mengindikasikan kesukaan terhadap bangunan yang menunjang kegiatan tersebut. Pada penelitian terkait rtp tepi laut dalam aspek fasilitas, \cite{sari2019} mengindikasikan bahwa orang menyukai kedai atau kios pedangang baik pada ruang terbuka yang bersifat alami maupun buatan.
+Oleh karena itu,  elemen-elemen ini adalah penting dimana akan memunculkan aktivitas-aktivitas yang berdampak pada keberhasilan tepi laut dan perekonomian daerah.
 
 \end{itemize}
 
-Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada tujuh kelompok elemen pada tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Pencahayaan jalan yang dapat dilihat pada tabel dibawah ini.
+Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada tujuh kelompok elemen pada tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, Pencahayaan jalan, Orientasi elemen, Tempat wisata air, dan Bangunan penunjang yang dapat dilihat pada tabel dibawah ini.
 
 \section{Proposisi Penelitian}
 
-Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Dalam proposisi ini, keempat aspek dan ketujuh elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Proposisi ini dapat dilihat pada tabel \ref{tab:props}.
+Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Dalam proposisi ini, keempat aspek dan kesepuluh elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Proposisi ini dapat dilihat pada tabel \ref{tab:props}.
 
 \begin{longtable}{ p{.33\textwidth}  p{.12\textwidth} p{.12\textwidth}  p{.12\textwidth}  p{.12\textwidth} }
 	\caption{Proposisi Penelitian} \\
@@ -673,9 +686,8 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 \tabitems Tempat berenang   & & & &  \\
 
 \textit{Bangunan penunjang}  &  &  &  & \checkmark\\
-\tabitems Cafe   & & & &  \\
-\tabitems Kuliner   & & & &  \\
-\tabitems Fasilitas hiburan   & & & &  \\
+\tabitems Stan \textit{(booth container)}   & & & &  \\
+\tabitems Kedai   & & & &  \\
 
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
@@ -688,7 +700,7 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 
 \end{longtable}
 
-Disamping ketujuh elemen tersebut, proposisi ini menunjukkan aspek ruang yang dapat menjadi alasan mengapa orang memiliki preferensi terhadap ruang maupun elemen-elemennya. Dengan begitu, proposisi ini melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
+Disamping kesepuluh elemen tersebut, proposisi ini menunjukkan aspek ruang yang dapat menjadi alasan mengapa orang memiliki preferensi terhadap ruang maupun elemen-elemennya. Dengan begitu, proposisi ini melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
 
 \begin{figure}[htbp]
 \small
@@ -709,25 +721,26 @@ Disamping ketujuh elemen tersebut, proposisi ini menunjukkan aspek ruang yang da
 \end{tabular}};
 	\node (met) [startstop, below of=rrt, text width=.83\textwidth, yshift=-1.4cm] {\textbf{Preferensi ruang}\\ adalah kecenderungan dalam memilih sesutu yang lebih disukai daripada yang lain};
 
- \draw[thick,dashed] (-6, -15.5) rectangle (6, -8.5);
+ \draw[thick,dashed] (-6, -16) rectangle (6, -8.5);
   \path
-    (5, -14.8) node(rec)[below left] {Proposisi ini sebagai alat analisis untuk dilapangan}
+    (5, -15.2) node(rec)[below left] {Proposisi ini sebagai alat analisis untuk dilapangan}
   ;
 
-    \node (ask) [startstop, below of=met, xshift=-3cm, yshift=-3cm, text width= 5.2cm] {\textbf{Aspek ruang yang mempengaruhi preferensi}\\
+    \node (ask) [startstop, below of=met, xshift=-3cm, yshift=-3.4cm, text width= 5.2cm] {\textbf{Aspek ruang yang mempengaruhi preferensi}\\
 
 \begin{tabular}{@{}p{.45\textwidth}@{}p{.35\textwidth}}
     \tabitem Aksesibilitas & \tabitem Estetika \\
     \tabitem Keamanan & \tabitem Fasilitas\\
 \end{tabular}};
 
-    \node (elm) [startstop, below of=met, xshift=3cm, yshift= -3.3cm, text width= 5.2cm] {\textbf{Elemen ruang yang mempengaruhi preferensi berdasarkan aspek}
+    \node (elm) [startstop, below of=met, xshift=3cm, yshift= -3.6cm, text width= 5.2cm] {\textbf{Elemen ruang yang mempengaruhi preferensi berdasarkan aspek}
 
             \begin{tabular}{@{}p{.4\textwidth}@{}p{.4\textwidth}}
     \tabitem Jumlah pohon & \tabitem Warna bunga \\
     \tabitem Bentuk pohon & \tabitem Jenis kursi\\
     \tabitem Lebar jalan & \tabitem Pencahayaan jalan\\
-    \tabitem Permukaan jalan & \\
+    \tabitem Permukaan jalan & \tabitem Orientasi Elemen\\
+    \tabitem Tempat wisata air & \tabitem Bangunan penunjang\\
 \end{tabular}};
 
 
