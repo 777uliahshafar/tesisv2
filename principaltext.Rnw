@@ -479,9 +479,9 @@ Penjelasan diatas menunjukkan bahwa setiap jenis ruang tersebut memiliki kelebih
 \label{sub:pref}
 %Sebelum meninjau faktor mengapa orang memiliki preferensi terhadap ruang tertentu, definisi preferensi ruang perlu disebutkan disini.
 Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 hak untuk didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
-\cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. \cite{zhang2006} mendefenisikan preferensi terhadap ruang sebagai ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka. \cite{carmona2021} mengklarifikasi bahwa suatu ruang dapat disukai maupun tidak disukai.
+\cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. \cite{zhang2006} mendefenisikan preferensi terhadap ruang sebagai ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka. \cite{carmona2021} mengklarifikasi bahwa suatu ruang dapat disukai maupun tidak disukai, dimana preferensi tersebut dapat meningkatkan kemungkinan suatu kunjungan \citep{grilli2020}.
 
-Sheppard menjelaskan bahwa pada umumnya, penelitian preferensi mempelajari nilai, keyakinan perilaku \textit{attitudinal belief}, dan bermacam respon yang mengungkapkan proses  bagaimana individu merespon lingkungan \citep{zhang2006}. Preferensi tersebut berdasarkan presepsi individu yang berkaitan dengan suatu ruang \citep{swanwick2009}. \cite{permata2000} menegaskan bahwa prefensi ditentukan oleh banyak faktor dalam hal memilih.
+Sheppard menjelaskan bahwa pada umumnya, penelitian preferensi mempelajari nilai, keyakinan perilaku \textit{attitudinal belief}, dan bermacam respon yang mengungkapkan proses  bagaimana individu merespon lingkungan \citep{zhang2006}. Preferensi tersebut berdasarkan presepsi individu yang berkaitan dengan suatu ruang \citep{swanwick2009}. \cite{permata2000} menegaskan bahwa preferensi ditentukan oleh banyak faktor dalam hal memilih.
 Faktor yang mempengaruhi preferensi terhadap ruang dan elemennya  ditentukan baik oleh ruang dan elemen itu sendiri serta karakter pengguna yang mengamati \citep{permata2000}.
 \cite{wen2018} mengklarifikasi preferensi terhadap ruang berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang. Sama juga dengan pendapat \cite{carmona2021}, bahwa presepsi ruang juga bergantung pada umur, gender, dan ras (karakter pengunjung). Oleh karena itu, preferensi merupakan pengukuran yang penting dalam hal presepsi ruang.
 
@@ -575,7 +575,10 @@ Jelas, ruang publik dengan bunga yang berwarna dapat menarik seseorang \citep{wa
 Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi seseorang terhadap ruang dalam hal estetika \citep{campagnaro2020, wang2019}. Selain meningkatkan preferensi dalam estetika, bunga berwarna juga  bermanfaat untuk pemulihan jiwa \citep{jahani2020}.
 
 \item Elemen air
-Menurut
+
+Elemen air merupakan atraksi yang menarik pada ruang publik tepi laut. Beberapa yang termasuk sebagai elemen air adalah air mancur, laut, kolam yang tenang dan lain-lain. \cite{mumcu2016} menjelaskan bahwa elemen ini adalah penting dalam suatu ruang publik dan juga meningkatkan preferensi individu terhadap ruang. Pada penelitian terkait elemen ruang, orang memiliki preferensi yang signifikan terhadap kehadiran elemen air seperti kolam \citep{veitch2022}. Meskipun demikian, terdapat keragaman preferensi diantara laki-laki dan perempuan. \cite{veitch2022} menemukan bahwa kebanyakan yang menyukai elemen air adalah laki-laki dibanding perempuan.
+\cite{grilli2020} dalam penelitian elemen ruang, membagi dua elemen ini yaitu elemen dengan air yang tenang dan yang mengalir. Dia menemukan bahwa keduanya disukai oleh sebagian besar pengunjung. Itu juga meningkatkan tambahan kunjungan terhadap suatu ruang publik \citep{grilli2020}. Oleh sebab itu, objek yang menjadi pemandangan ini perlu diperhatikan.
+\cite{mumcu2016} menyimpulkan bahwa kombinasi antara elemen ini dengan elemen lainnya seperti pohon, bunga dan bangunan arsitektur lainnya memberikan pemandangan yang lebih baik.
 
 
 \end{itemize}
@@ -604,8 +607,9 @@ Preferensi tersebut berhubungan dengan elemen yang menunjang seseorang untuk ber
 
 \item Jenis Kursi
 
+Menurut \cite{mumcu2010}, kursi yang beranekaragam akan menciptakan beragam penggunaan. Beberapa penggunaannya seperti bersosialisasi, melihat-lihat dan bersantai.
 Dalam buku \textit{public space urban design} bab dimensi fungsi, \cite{carmona2021} menjelaskan bahwa tempat duduk termasuk kursi bergerak berpengaruh positif terhadap aktivitas sosial. Selain menunjang aktivitas sosial, kursi juga dapat memfasilitasi kegiatan melihat-lihat ketika ditempatkan dekat alur pejalan kaki \citep{carmona2021}.
-Menurut \cite{hadavi2015}, orang berkecenderungan terhadap kursi untuk tujuan bersosialisasi. Dia menjelaskan orang menyukai kursi yang melengkung, kursi piknik, dan gazebo  \citep{hadavi2015}.
+Menurut \cite{hadavi2015}, orang berkecenderungan terhadap kursi yang mendukung bersosialisasi. Kursi-kursi tersebut diantaranya adalah kursi yang melengkung, kursi piknik, dan gazebo  \citep{hadavi2015}.
 Selain untuk bersosialiasi, menurut \citeauthor{hadavi2015}, preferensi kursi menjelaskan tujuan untuk memfasilitasi kenyamanan juga.
 
 \item Lebar jalan
@@ -638,11 +642,11 @@ Oleh karena itu,  elemen-elemen ini adalah penting dimana akan memunculkan aktiv
 
 \end{itemize}
 
-Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada tujuh kelompok elemen pada tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, Pencahayaan jalan, Orientasi elemen, Tempat wisata air, dan Bangunan penunjang yang dapat dilihat pada tabel dibawah ini.
+Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada sebelas kelompok elemen pada ruang publik tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, Pencahayaan jalan, Orientasi elemen, Tempat wisata air, Bangunan penunjang, dan Elemen air yang dapat dilihat pada tabel dibawah ini.
 
 \section{Proposisi Penelitian}
 
-Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Dalam proposisi ini, keempat aspek dan kesepuluh elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Proposisi ini dapat dilihat pada tabel \ref{tab:props}.
+Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi ruang di kawasan tepi laut. Dalam proposisi ini, keempat aspek dan kesebelas elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Proposisi ini dapat dilihat pada tabel \ref{tab:props}.
 
 \begin{longtable}{ p{.33\textwidth}  p{.12\textwidth} p{.12\textwidth}  p{.12\textwidth}  p{.12\textwidth} }
 	\caption{Proposisi Penelitian} \\
@@ -689,6 +693,11 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 \tabitems Stan \textit{(booth container)}   & & & &  \\
 \tabitems Kedai   & & & &  \\
 
+\textit{Elemen air}  &  &  & \checkmark & \\
+\tabitems Air mancur   & & & &  \\
+\tabitems Laut   & & & &  \\
+\tabitems Kolam   & & & &  \\
+
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
 % Jenis kelamin &  & \multicolumn{2}{c}{Mempengaruhi}   \\
@@ -700,7 +709,7 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 
 \end{longtable}
 
-Disamping kesepuluh elemen tersebut, proposisi ini menunjukkan aspek ruang yang dapat menjadi alasan mengapa orang memiliki preferensi terhadap ruang maupun elemen-elemennya. Dengan begitu, proposisi ini melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
+Disamping kesebelas elemen tersebut, proposisi ini menunjukkan aspek ruang yang dapat menjadi alasan mengapa orang memiliki preferensi terhadap ruang maupun elemen-elemennya. Dengan begitu, proposisi ini melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
 
 \begin{figure}[htbp]
 \small
@@ -709,7 +718,7 @@ Disamping kesepuluh elemen tersebut, proposisi ini menunjukkan aspek ruang yang 
 
     \node (fit) [startstop, text width=.83\textwidth] {\textbf{Ruang terbuka publik}\\ adalah ruang yang berperan untuk memberi alur pergerakan yang baik, bertindak sebagai tempat berkumpul dan wadah kegiatan.};
 
-	\node (soc) [startstop, below of=fit, text width=.83\textwidth, yshift=-1.4cm] {\textbf{Tepi laut}\\ adalah kawasan dinamis yang berbatasan dengan air yang memiliki kontak fisik dan visual dengan laut, sungai, danau, dan lain-lain.
+	\node (soc) [startstop, below of=fit, text width=.83\textwidth, yshift=-1.2cm] {\textbf{Tepi laut}\\ adalah kawasan dinamis yang berbatasan dengan air yang memiliki kontak fisik dan visual dengan laut, sungai, danau, dan lain-lain.
         };
 
 	\node (rrt) [startstop, below of=soc, text width=.83\textwidth, yshift=-1.4cm] {\textbf{Jenis ruang tepi laut}\\
@@ -721,19 +730,19 @@ Disamping kesepuluh elemen tersebut, proposisi ini menunjukkan aspek ruang yang 
 \end{tabular}};
 	\node (met) [startstop, below of=rrt, text width=.83\textwidth, yshift=-1.4cm] {\textbf{Preferensi ruang}\\ adalah kecenderungan dalam memilih sesutu yang lebih disukai daripada yang lain};
 
- \draw[thick,dashed] (-6, -16) rectangle (6, -8.5);
+ \draw[thick,dashed] (-6, -16.6) rectangle (6, -8.5);
   \path
-    (5, -15.2) node(rec)[below left] {Proposisi ini sebagai alat analisis untuk dilapangan}
+    (5, -15.8) node(rec)[below left] {Proposisi ini sebagai alat analisis untuk dilapangan}
   ;
 
-    \node (ask) [startstop, below of=met, xshift=-3cm, yshift=-3.4cm, text width= 5.2cm] {\textbf{Aspek ruang yang mempengaruhi preferensi}\\
+    \node (ask) [startstop, below of=met, xshift=-3cm, yshift=-3.8cm, text width= 5.2cm] {\textbf{Aspek ruang yang mempengaruhi preferensi}\\
 
 \begin{tabular}{@{}p{.45\textwidth}@{}p{.35\textwidth}}
     \tabitem Aksesibilitas & \tabitem Estetika \\
     \tabitem Keamanan & \tabitem Fasilitas\\
 \end{tabular}};
 
-    \node (elm) [startstop, below of=met, xshift=3cm, yshift= -3.6cm, text width= 5.2cm] {\textbf{Elemen ruang yang mempengaruhi preferensi berdasarkan aspek}
+    \node (elm) [startstop, below of=met, xshift=3cm, yshift= -4cm, text width= 5.2cm] {\textbf{Elemen ruang yang mempengaruhi preferensi berdasarkan aspek}
 
             \begin{tabular}{@{}p{.4\textwidth}@{}p{.4\textwidth}}
     \tabitem Jumlah pohon & \tabitem Warna bunga \\
@@ -741,12 +750,13 @@ Disamping kesepuluh elemen tersebut, proposisi ini menunjukkan aspek ruang yang 
     \tabitem Lebar jalan & \tabitem Pencahayaan jalan\\
     \tabitem Permukaan jalan & \tabitem Orientasi Elemen\\
     \tabitem Tempat wisata air & \tabitem Bangunan penunjang\\
+    \tabitem Elemen air & \\
 \end{tabular}};
 
 
-    \node (jun) [startstop, below of=ask, xshift=3.6cm, yshift= -4.2cm, text width= 4.5cm] {\textbf{Tepi laut Senggol}\\ Ruang A dan Ruang B};
+    \node (jun) [startstop, below of=ask, xshift=3.6cm, yshift= -4.6cm, text width= 4.5cm] {\textbf{Tepi laut Senggol}\\ Ruang A dan Ruang B};
 
-    \node (tem) [startstop, below of=jun, yshift= -1cm, text width= 4.5cm] {Menghasilkan temuan preferensi pada ruang publik tepi laut};
+    \node (tem) [startstop, below of=jun, yshift= -.8cm, text width= 4.5cm] {Menghasilkan temuan preferensi pada ruang publik tepi laut};
 \draw [arrow] (fit) -- (soc);
 \draw [arrow] (soc) -- (rrt);
 
@@ -997,14 +1007,15 @@ Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol i
 
 \begin{figure}[htbp]
 \centering
-\begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/ra}
+\begin{subfigure}[b]{.85\textwidth}
+    \centering\includegraphics[width=1\linewidth, trim={0cm 1cm 0cm 5cm}, clip]{figures/ra}
 \caption{Ruang A}
-\end{subfigure}%
-\begin{subfigure}{7cm}
-\centering\includegraphics[width=6cm]{figures/rb}
+\end{subfigure}\vspace{3cm}
+
+\begin{subfigure}[b]{.85\textwidth}
+\centering\includegraphics[width=1\linewidth]{figures/rb}
 \caption{Ruang B}
-\end{subfigure}\vspace{10pt}
+\end{subfigure}\vspace{7pt}
 
 \caption{Foto Ruang}
 \caption*{Sumber: Dokumentasi, 2022}
