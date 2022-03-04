@@ -682,8 +682,8 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 \tabitems Tinggi  & & & &  \\
 
 \textit{Orientasi Elemen}  &  &  &  & \checkmark\\
-\tabitems Menghadap laut   & & & &  \\
 \tabitems Tidak menghadap laut  & & & &  \\
+\tabitems Menghadap laut   & & & &  \\
 
 \textit{Tempat Wisata air}  & \checkmark  &  &  & \checkmark\\
 \tabitems Tempat memancing   & & & &  \\
