@@ -576,13 +576,13 @@ Sejumlah penelitian menemukan bahwa bunga yang berwarna menjelaskan preferensi s
 
 \item Elemen air
 
-Elemen air merupakan atraksi yang menarik pada ruang publik tepi laut. Beberapa yang termasuk sebagai elemen air adalah air mancur, laut, kolam yang tenang dan lain-lain. \cite{mumcu2016} menjelaskan bahwa elemen ini adalah penting dalam suatu ruang publik dan juga meningkatkan preferensi individu terhadap ruang. Pada penelitian terkait elemen ruang, orang memiliki preferensi yang signifikan terhadap kehadiran elemen air seperti kolam \citep{veitch2022}. Meskipun demikian, terdapat keragaman preferensi diantara laki-laki dan perempuan. \cite{veitch2022} menemukan bahwa kebanyakan yang menyukai elemen air adalah laki-laki dibanding perempuan.
-\cite{grilli2020} dalam penelitian elemen ruang, membagi dua elemen ini yaitu elemen dengan air yang tenang dan yang mengalir. Dia menemukan bahwa keduanya disukai oleh sebagian besar pengunjung. Itu juga meningkatkan tambahan kunjungan terhadap suatu ruang publik \citep{grilli2020}. Oleh sebab itu, objek yang menjadi pemandangan ini perlu diperhatikan.
-\cite{mumcu2016} menyimpulkan bahwa kombinasi antara elemen ini dengan elemen lainnya seperti pohon, bunga dan bangunan arsitektur lainnya memberikan pemandangan yang lebih baik.
+Elemen air merupakan atraksi yang menarik pada ruang publik tepi laut.
+Beberapa yang termasuk sebagai elemen air adalah air mancur, laut, kolam yang tenang dan lain-lain. \cite{mumcu2016} menjelaskan bahwa elemen ini adalah penting dalam suatu ruang publik dan juga meningkatkan preferensi individu terhadap ruang.
+Pada penelitian terkait elemen ruang, orang memiliki preferensi yang signifikan terhadap kehadiran elemen air seperti kolam \citep{veitch2022}. Dalam penelitian itu terdapat keragaman preferensi diantara laki-laki dan perempuan. \cite{veitch2022} menemukan bahwa kebanyakan yang menyukai elemen air adalah laki-laki dibanding perempuan.
 
-
+\cite{grilli2020} dalam penelitian elemen ruang, membagi dua elemen ini yaitu elemen dengan air yang tenang dan yang mengalir. Dia menemukan bahwa keduanya disukai oleh sebagian besar pengunjung. Dia juga menjelaskan bahwa preferensi terhadap elemen ini meningkatkan tambahan kunjungan pada ruang publik \citep{grilli2020}. Sehingga, elemen air yang menjadi pemadangan ini sangat perlu perhatian dalam pengembangan tepi laut.
+\cite{mumcu2016} menambahkan bahwa kombinasi antara elemen ini dengan elemen lainnya seperti pohon, bunga dan bangunan arsitektur lainnya memberikan pemandangan yang lebih baik.
 \end{itemize}
-
 
 \subsubsection{Fasilitas}
 
@@ -694,9 +694,8 @@ Berdasarkan kajian pustaka, penulis merumuskan proposisi mengenai preferensi rua
 \tabitems Kedai   & & & &  \\
 
 \textit{Elemen air}  &  &  & \checkmark & \\
-\tabitems Air mancur   & & & &  \\
-\tabitems Laut   & & & &  \\
-\tabitems Kolam   & & & &  \\
+\tabitems Laut yang tenang   & & & &  \\
+\tabitems Laut yang berombak   & & & &  \\
 
 % &&\\
 % Umur &  & \multicolumn{2}{c}{Mempengaruhi}   \\
