@@ -831,21 +831,21 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 attach(df)
 
 # Extract cols from file
-df_elemen <- data.frame(jmlhphn,bntukphn,lbrjln,permjln,wrnabnga,jniskrs,tngkchy )
+df_elemen <- data.frame(jmlhphn,bntukphn,lbrjln,permjln,wrnabnga,jniskrs,tngkchy,ornele)
 
 # Get the rows having at least 1 response
-df_elemenpro <- subset(df_elemen, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+df_elemenpro <- subset(df_elemen, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0| ornele >= 0)
 
 
-gender <- subset(df$gender, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+gender <- subset(df$gender, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0| ornele >= 0)
 
 df$usia <- cut(df$usia, breaks = c(15, 25, 40, 80), labels = c("18-25", "26-40", "> 41"), right = T)
 
-usia <- subset(df$usia, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+usia <- subset(df$usia, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0|ornele >= 0)
 
-pekerjaan <- subset(df$pekerjaan, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+pekerjaan <- subset(df$pekerjaan, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0|ornele >= 0)
 
-ruang <- subset(df$ruang, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0)
+ruang <- subset(df$ruang, jmlhphn >= 0 | bntukphn >= 0 | lbrjln >= 0 | permjln >= 0| wrnabnga >= 0| jniskrs >= 0| tngkchy >= 0| ornele >=0)
 
 # Jumlah pohon
 
@@ -937,6 +937,18 @@ xtptcP <- round(100 * prop.table(xtptcP), 0)
 xtptcS <- xtabs(~suku + df_elemenpro$tngkchy + ruang,data=df)
 xtptcS <- round(100 * prop.table(xtptcS), 0)
 
+# Orientasi elemen
+xtpoeG <- xtabs(~gender + df_elemenpro$ornele + ruang,data=df)
+xtpoeG <- round(100 * prop.table(xtpoeG), 0)
+
+xtpoeU <- xtabs(~usia + df_elemenpro$ornele + ruang,data=df)
+xtpoeU <- round(100 * prop.table(xtpoeU), 0)
+
+xtpoeP <- xtabs(~pekerjaan + df_elemenpro$ornele + ruang,data=df)
+xtpoeP <- round(100 * prop.table(xtpoeP), 0)
+
+xtpoeS <- xtabs(~suku + df_elemenpro$ornele + ruang,data=df)
+xtpoeS <- round(100 * prop.table(xtpoeS), 0)
 
 ctpjpR <- summarytools::ctable(ruang, df_elemenpro$jmlhphn, dnn = c("Ruang", "Jumlah pohon"), prop="t", round.digits = 0)
 
@@ -951,6 +963,9 @@ ctpwbR <- summarytools::ctable(ruang, df_elemenpro$wrnabnga, dnn = c("Ruang", "W
 ctpjkR <- summarytools::ctable(ruang, df_elemenpro$jniskrs, dnn = c("Ruang", "Jenis kursi"), prop="t", round.digits = 0)
 
 ctptcR <- summarytools::ctable(ruang, df_elemenpro$tngkchy, dnn = c("Ruang", "Tingkat cahaya"), prop="t", round.digits = 0)
+
+ctpoeR <- summarytools::ctable(ruang, df_elemenpro$ornele, dnn = c("Ruang", "Orientasi Elemen"), prop="t", round.digits = 0)
+
 @
 %------------------------------------------------------------------------------------------
 % Elemen yang disukai latex
@@ -962,38 +977,41 @@ ctptcR <- summarytools::ctable(ruang, df_elemenpro$tngkchy, dnn = c("Ruang", "Ti
 	\caption{Crosstabulasi 2 ruang dan elemen}
 	\label{tab:ctpeSE}
     \centering
-\begin{tabular}[h!]{rP{5.2em}P{5.2em}P{5.4em} }
+    \setlength\extrarowheight{3pt}
+    \begin{tabular}[ht]{P{3.4em}rP{5em}P{5em}P{5.2em} }
 \hline
-\bfseries\diagbox[innerleftsep=8pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}&{\bfseries\parbox[c][2.5cm]{\textwidth}{Ruang a}} &\textbf{Ruang b} & \textbf{Total}\\
+&\bfseries\diagbox[innerleftsep=8pt,innerrightsep=3pt,width=10em, height=2.5cm]{Elemen \\ruang}{Kelompok}&{\bfseries\parbox[c][2.5cm]{\textwidth}{Ruang a}} &\textbf{Ruang b} & \textbf{Total}\\
 
 
 \toprule
 
-Sedikit pohon  & 6 (7\%)  & 3 (4\%)    &9(4\%) \\
-Beberapa pohon  &10 (12\%)  & 1 (1\%)    &11 (5\%) \\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Jumlah pohon}}}& Sedikit pohon  & 6 (2\%)  & 3 (1\%)    &9(3\%) \\
+&Beberapa pohon  &10 (4\%)  & 1     &11 (4\%) \\
 
-Cukup rindang  &2 (2\%)  & 28 (33\%)    &30(14\%) \\
-Sangat rindang  &4 (5\%)  & 6 (7\%)    &10(4) \\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Bentuk pohon}}}&Cukup rindang  &2 (1\%)  & 28 (10\%)    &30(11\%) \\
+&Sangat rindang  &4 (1\%)  & 6 (2\%)    &10(4\%) \\
 
-1-3m  &3 (4\%)  & 6 (7\%)   &9(4\%) \\
-> 3m  &35 (41\%)  & 7 (8\%)    &42(19\%)\\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Lebar jalan}}}&1-3m  &3 (1\%)  & 6 (2\%)   &9(3\%) \\
+&> 3m  &35 (13\%)  & 7 (3\%)    &42(16\%)\\
 
-Paving  &7 (8\%)  & 4 (5\%)    &11(5\%) \\
-Aspal  &12(14\%)  & 1(1\%)    &13(6\%) \\
-Keramik  &12(14\%)  & 1(1\%)    &13(6\%) \\
+\multirow{3}{*}{\parbox{3.4em}{\textit{Permukaan jalan}}}&Paving  &7 (3\%)  & 4 (1\%)    &11(4\%) \\
+&Aspal  &12(4\%)  & 1    &13(5\%) \\
+&Keramik  &12(4\%)  & 1    &13(5\%) \\
 
-1 atau 2 warna  &2(2\%)  & 0    &2(1\%) \\
-lebih 3 warna  &5(6\%)  & 1(1\%)    &6(3\%) \\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Jenis kursi}}}&kursi bergerak  &6(2\%)  & 0    &6(2\%)\\
+&kursi dinding  &3(1\%)  & 2(1\%)    &5(2\%) \\
 
-kursi bergerak  &6(7\%)  & 0    &6(3\%)\\
-kursi dinding  &3(4\%)  & 2(2\%)    &5(2\%) \\
 
-pencahayaan cukup   &5 (6\%)  & 31 (36\%)    &36(16\%) \\
-pencahayaan tinggi   &11(13\%)  & 6 (7\%)    &17(8\%)\\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Tingkat cahaya}}}&pencahayaan cukup   &5 (2\%)  & 31 (12\%)    &36(13\%) \\
+&pencahayaan tinggi   &11(4\%)  & 6 (2\%)    &17(6\%)\\
 
-Total  & 123 (56\%)  & 97 (44\%) & 220 (100\%)   \\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Orientasi elemen}}}&membelakangi laut   &8(3\%)  & 3 (1\%)    &11(4\%)\\
+&menghadap laut   &29 (11\%)  & 15 (6\%)    &44(16\%) \\
+
+
+&Total  & 153 (57\%)  & 114 (43\%) & 267 (100\%)   \\
  \bottomrule
-\multicolumn{3}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
+\multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
 }
@@ -1010,15 +1028,15 @@ Total  & 123 (56\%)  & 97 (44\%) & 220 (100\%)   \\
 
 \toprule
 
-Jumlah pohon  & 16 (7\%)  & 4 (2\%) & 20 (9\%)    \\
-Bentuk pohon  & 30 (14\%)  & 10 (4\%) & 40 (18\%)   \\
-Lebar jalan  & 38 (17\%)  & 13 (6\%) &51 (23\%)   \\
-Permukaan jalan  & 31 (14\%)  & 6 (3\%) & 37 (17\%)   \\
-Warna bunga & 7 (3\%)  & 1   & 8 (4\%)  \\
-Jenis kursi  & 9 (4\%)  & 2 (1\%)  & 11 (5\%)  \\
-Tingkat cahaya  & 36 (16\%)  & 17 (8\%) & 53 (24\%)   \\
+Jumlah pohon  & 16 (6\%)  & 4 (1\%) & 20 (7\%)    \\
+Bentuk pohon  & 30 (11\%)  & 10 (4\%) & 40 (15\%)   \\
+Lebar jalan  & 38 (14\%)  & 13 (5\%) &51 (19\%)   \\
+Permukaan jalan  & 31 (12\%)  & 6 (2\%) & 37 (14\%)   \\
+Jenis kursi  & 9 (3\%)  & 2 (1\%)  & 11 (4\%)  \\
+Tingkat cahaya  & 36 (13\%)  & 17 (6\%) & 53 (20\%)   \\
+Orientasi elemen  & 37 (14\%)  & 18 (7\%) & 55 (21\%)   \\
 
-Total  & 167 (76\%)  & 53 (24\%) & 220 (100\%)   \\
+Total  & 197 (74\%)  & 70 (26\%) & 267 (100\%)   \\
 
 \bottomrule
 
@@ -1042,20 +1060,18 @@ Total  & 167 (76\%)  & 53 (24\%) & 220 (100\%)   \\
 
  \toprule
 
-Jumlah pohon  &14 (6\%) &2 (1\%)&2 (1\%)&2 (1\%) & 20(9\%)\\
-Bentuk pohon  &20 (9\%) &10 (4\%)  & 6 (3\%)  &4 (2\%) & 40(18\%)\\
-Lebar jalan  & 26 (12\%)  & 12 (5\%)  & 10 (4\%)  & 3 (1\%) & 51(23\%)\\
+Jumlah pohon  &14 (5\%) &2 (1\%)&2 (1\%)&2 (1\%) & 20(7\%)\\
+Bentuk pohon  &20 (7\%) &10 (4\%)  & 6 (2\%)  &4 (1\%) & 40(15\%)\\
+Lebar jalan  & 26 (10\%)  & 12 (4\%)  & 10 (4\%)  & 3 (1\%) & 51(19\%)\\
+Permukaan jalan  &20 (7\%) &11 (4\%)  &4 (1\%)  & 2 (1\%) & 37(14\%)\\
+Jenis kursi  & 8 (3\%) & 1   & 1  & 1 & 11(4\%)\\
+Tingkat cahaya  & 21 (8\%) &15 (6\%)  &13 (5\%)  & 4 (1\%)& 53(20\%)\\
+Orientasi Elemen  & 23 (9\%) &14 (5\%)  &13 (5\%)  & 5 (2\%)& 55(21\%)\\
 
-Permukaan jalan  &20 (9\%) &11 (5\%)  &4 (2\%)  & 2 (1\%) & 37(17\%)\\
-Warna bunga & 7 (3\%) & 0  & 1 &0 & 8(4\%)\\
-
-Jenis kursi  & 7 (3\%) & 1   & 1  & 1 & 10(4\%)\\
-Tingkat cahaya  & 21 (9\%) &15 (7\%)  &13 (6\%)  & 4 (2\%)& 53(24\%)\\
-
-Total  & 115 (52\%) & 51 (23\%)  &37 (17\%)  & 16 (7\%)& 220(100\%)\\
+Total  & 131 (49\%) & 65 (24\%)  &49 (18\%)  & 21 (8\%)& 267(100\%)\\
  \bottomrule
 
-\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
+\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 267 \\ \hspace*{3.8em} 2. Laki-laki berjumlah 58 orang ;  Perempuan berjumlah 27 orang}}\\
 \multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
@@ -1067,7 +1083,7 @@ Total  & 115 (52\%) & 51 (23\%)  &37 (17\%)  & 16 (7\%)& 220(100\%)\\
 	\label{tab:xtpeU}
     \centering
     \footnotesize
-    \begin{tabular}[ht]{rP{1.5cm}P{1.5cm}P{1.5cm}P{1.4cm}P{1.4cm}P{1.4cm}P{1.4cm} }
+    \begin{tabular}[ht]{rP{1.5cm}P{1.5cm}P{1.5cm}P{1.4cm}P{1.5cm}P{1.4cm}P{1.4cm} }
 \hline
 \multirow{2}{*}{\bfseries\diagbox[innerleftsep=3pt,innerrightsep=3pt,width=7em, height=2.5cm]{Elemen \\ruang}{Kelompok}}&\multicolumn{3}{c}{\textbf{Ruang a}} &\multicolumn{3}{c}{\textbf{Ruang b}} & \textbf{Total}\\
 
@@ -1076,20 +1092,19 @@ Total  & 115 (52\%) & 51 (23\%)  &37 (17\%)  & 16 (7\%)& 220(100\%)\\
 
 \toprule
 
-Jumlah pohon  & 6 (3\%)   & 5 (2\%)    & 5 (2\%)  & 0 & 1 & 3 (1\%) &    20(9\%)\\
-Bentuk pohon  & 10 (4\%)    & 14 (6\%)   & 6 (3\%)  &0 & 3 (1\%) & 7 (3\%) & 40(18\%) \\
-Lebar jalan  & 18 (8\%)     & 10 (4\%)    & 10 (4\%)    & 4 (2\%) & 7 (3\%) & 2 (1\%) & 51(23\%) \\
+Jumlah pohon  & 6 (2\%)   & 5 (2\%)    & 5 (2\%)  & 0 & 1 & 3 (1\%) &    20(7\%)\\
+Bentuk pohon  & 10 (4\%)    & 14 (5\%)   & 6 (2\%)  &0 & 3 (1\%) & 7 (3\%) & 40(15\%) \\
+Lebar jalan  & 18 (7\%)     & 10 (4\%)    & 10 (4\%)    & 4 (1\%) & 7 (3\%) & 2 (1\%) & 51(19\%) \\
 
-Permukaan jalan  & 12 (5\%)    & 12 (5\%)    & 7 (3\%)    & 2 (1\%) & 4 (2\%) & 0 & 37(17\%)\\
-Warna bunga & 3 (1\%)  & 2 (1\%)    & 2 (1\%)   & 0 & 1  & 0 & 8(4\%) \\
+Permukaan jalan  & 12 (4\%)    & 12 (4\%)    & 7 (3\%)    & 2 (1\%) & 4 (1\%) & 0 & 37(14\%)\\
+Jenis kursi& 3 (1\%)  & 3 (1\%)  & 3 (1\%)    & 0   & 1  & 1 & 11(4\%)  \\
+Tingkat cahaya  & 13 (5\%)  & 14 (5\%)   &9 (3\%)   & 5 (2\%) & 8 (3\%) & 4 (1\%) & 53(20\%)\\
+Orientasi elemen  & 17 (6\%)  & 12 (4\%)   &8 (3\%)   & 2 (1\%) & 11 (4\%) & 5 (2\%) & 55(21\%)\\
 
-Jenis kursi& 3 (1\%)  & 3 (1\%)  & 3 (1\%)    & 0   & 1  & 1 & 11(5\%)  \\
-Tingkat cahaya  & 13 (6\%)  & 14 (6\%)   &9 (4\%)   & 5 (2\%) & 8 (4\%) & 4 (2\%) & 53(24\%)\\
-
-\textbf{Total}  & 65 (29\%)  & 60 (27\%)   & 42 (19\%)   & 11 (5\%) & 25 (11\%) & 17 (8\%) & 220(100\%)\\
+\textbf{Total}  & 79 (30\%)  & 70 (26\%)   & 48 (18\%)   & 13 (5\%) & 35 (13\%) & 22 (8\%) & 267(100\%)\\
 
  \bottomrule
-\multicolumn{8}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
+\multicolumn{8}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 267 \\ \hspace*{3.8em} 2. Remaja berjumlah 30 orang ;  Dewasa berjumlah 35 orang; Manula berjumlah  20 orang}}\\
 \multicolumn{8}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}
@@ -1110,20 +1125,20 @@ Tingkat cahaya  & 13 (6\%)  & 14 (6\%)   &9 (4\%)   & 5 (2\%) & 8 (4\%) & 4 (2\%
 
  \toprule
 
-Jumlah pohon  &13(6\%) &3 (1\%)&1&3(1\%) & 20(9\%) \\
-Bentuk pohon  &21 (9\%) &9(4\%)  & 5 (2\%)  &5 (2\%) & 40(18\%)\\
-Lebar jalan  & 26(12\%)  & 12(4\%)  & 10(4\%)  & 3(1\%) & 51(23\%)\\
+Jumlah pohon  &13(5\%) &3 (1\%)&1&3(1\%) & 20(7\%) \\
+Bentuk pohon  &21 (8\%) &9(3\%)  & 5 (2\%)  &5 (2\%) & 40(15\%)\\
+Lebar jalan  & 26(10\%)  & 12(4\%)  & 10(4\%)  & 3(1\%) & 51(19\%)\\
 
-Permukaan jalan  &22(10\%) &9(4\%)  &5(2\%)  & 1 & 37(17\%)\\
-Warna bunga & 4(2\%) & 3(1\%)  & 1  &0 & 8(4\%)\\
+Permukaan jalan  &22(8\%) &9(3\%)  &5(2\%)  & 1 & 37(14\%)\\
 
-Jenis kursi  & 6(3\%) & 3(1\%)  & 1  & 1 & 11(5\%)\\
-Tingkat cahaya  & 29(13\%) &7(3\%)  &11(5\%)  & 6(3\%) & 53(24\%)\\
+Jenis kursi  & 6(2\%) & 3(1\%)  & 1  & 1 & 11(4\%)\\
+Tingkat cahaya  & 29(11\%) &7(3\%)  &11(4\%)  & 6(2\%) & 53(20\%)\\
+Orientasi elemen  & 28(10\%) &9(3\%)  &11(4\%)  & 7(3\%) & 55(20\%)\\
 
-\textbf{Total}  & 121(55\%) &46(21\%)  &34(15\%)  & 19(9\%) & 220(100\%)\\
+\textbf{Total}  & 145(54\%) &52(19\%)  &44(16\%)  & 26(10\%) & 220(100\%)\\
  \bottomrule
 
-\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 220 \\ \hspace*{3.8em} 2. bugis berjumlah 60 orang ;  nonbugis berjumlah 25 orang}}\\
+\multicolumn{6}{l}{\rule{0pt}{1em} \parbox{.8\textwidth}{Catatan: 1. Total respon adalah 267 \\ \hspace*{3.8em} 2. bugis berjumlah 60 orang ;  nonbugis berjumlah 25 orang}}\\
 \multicolumn{6}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}
 \end{table}

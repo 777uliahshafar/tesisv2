@@ -299,17 +299,21 @@ Responden meluangkan waktu untuk memilih beberapa elemen yang mereka sukai. Jeni
 
 Hasilnya menunjukkan bahwa responden paling menyukai elemen jalan yang lebar dari kategori lebar jalan. Kelapangan atau keleluasaan yang dirasakan sesuai dengan temuan sebelumnya.
 
-Berdasarkan 220 total respon terkait elemen yang disukai, respon digolongkan berdasarkan macam-macam ruang terdiri dari ruang A dan B.
-Untuk ruang A, 41\% (35) responden yang menyukai lebar jalan yang lebih dari tiga meter dibandingkan dengan 12\% (10) hingga 14\% (12) responden yang menyukai beberapa pohon, permukaan aspal, permukaan keramik, dan pencahayaan tinggi. Sedangkan sejumlah elemen lainnya hanya dipilih oleh kurang dari 10\% (<8) responden
-Untuk ruang B, 36\% (31) responden menyukai ruang dengan pencahayaan yang cukup dibandingkan dengan 33\%(28) orang yang menyukai pohon yang cukup rindang. Selain daripada itu, dibawah 8\% (7) responden menyukai elemen-elemen lainnya. Lihat tabel \ref{tab:ctpeSE}.
+Berdasarkan 267 total respon terkait elemen yang disukai, respon digolongkan berdasarkan macam-macam ruang terdiri dari ruang A dan B. Jenis-jenis elemen yang termasuk dalam tabel adalah elemen yang memiliki jumlah disukai yang cukup besar.
+
+Untuk ruang A, 13\% (35) responden yang menyukai lebar jalan dengan lebar tiga meter dibandingkan dengan 4\% (10) hingga 11\% (29) responden yang menyukai beberapa pohon, permukaan aspal, permukaan keramik, pencahayaan tinggi dan elemen menghadap laut. Sedangkan sejumlah elemen lainnya hanya dipilih oleh kurang dari 3\% (< 8) responden
+Untuk ruang B, 12\% (31) responden menyukai ruang dengan pencahayaan yang cukup dibandingkan dengan 10\% (28) orang yang menyukai pohon yang cukup rindang. Selain daripada itu, dibawah 3\% (7) responden menyukai elemen-elemen lainnya. Lihat tabel \ref{tab:ctpeSE}.
 
 \ctpeEach
 %Dengan begitu, memungkinkan untuk mengekplorasi keragaman preferensi diantara pengunjung di lokasi penelitian. Untuk mencapai hal itu, maka analisis multivariate-Biplot juga diaplikasikan pada preferensi terhadap ruang berdasarkan elemen.
 
-Elemen-elemen sebelumnya selanjutnya dikelompokkan menjadi 7 jenis elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Tingkat cahaya (lihat tabel \ref{tab:ctpeE}).
+Elemen-elemen sebelumnya selanjutnya dikelompokkan menjadi 7 jenis elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Jenis kursi, Tingkat cahaya dan Orientasi elemen (lihat tabel \ref{tab:ctpeE}).
 Berdasarkan tabel tersebut, keragaman preferensi terhadap elemen digambarkan menggunakan biplot seperti pada preferensi terhadap aspek sebelumnya. Teknik biplot diaplikasikan pada crostabulasi seperti yang dilihat pada tabel \ref{tab:ctpeE}. Hasil analisis multivarate dimensi preferensi digambarkan menggunakan biplot pada gambar \ref{fig:bre}.
 
-Hasil menunjukkan kedua ruang memiliki kesamaan dalam hal keragaman preferensi diantara semua ruang. Elemen berupa lebar jalan dan bentuk pohon sangat berkontribusi terhadap keragaman ini. Ruang A menyediakan lebar jalan sekitar 4 meter yang mengizinkan orang untuk akses yang mudah. Meskipun ruang B tidak menyediakan jalan secara khusus, responden dapat degan leluasa berjalan-jalan dibahu jalan. Kedua ruang ini berbentuk organisasi linier (memanjang) yang diisi oleh sejumlah pohon yang cukup rindang. Selain itu, elemen permukaan jalan adalah elemen yang berkontribusi paling signifikan untuk preferensi terhadap ruang A. Ruang ini membedakan permukaan jalan pedestrian  dengan keramik. Susunan dan penataan keramik tersebut juga terbilang rapih.
+Hasil menujukkan ruang A
+
+Hasil menunjukkan ruang memiliki kesamaan dalam hal keragaman preferensi. Elemen berupa lebar jalan dan bentuk pohon sangat berkontribusi terhadap keragaman ini.
+Ruang A menyediakan lebar jalan sekitar 4 meter yang mengizinkan orang untuk akses yang mudah. Meskipun ruang B tidak menyediakan jalan secara khusus, responden dapat degan leluasa berjalan-jalan dibahu jalan. Kedua ruang ini berbentuk organisasi linier (memanjang) yang diisi oleh sejumlah pohon yang cukup rindang. Selain itu, elemen permukaan jalan adalah elemen yang berkontribusi paling signifikan untuk preferensi terhadap ruang A. Ruang ini membedakan permukaan jalan pedestrian  dengan keramik. Susunan dan penataan keramik tersebut juga terbilang rapih.
 Sementara elemen tingkat cahaya sangat berkontribusi terhadap ruang B. Sehingga ruang-ruang ini memiliki korelasi yang cukup tinggi seperti yang dilihat pada gambar \ref{fig:bre}
 
 \begin{figure}[htpb]
