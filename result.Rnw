@@ -39,15 +39,16 @@ Dari total 85 responden, kelompok usia termuda (18-25) memiliki responden sebany
 
 \pieChartUsia
 
+\subsection{Suku}
+Selain berlatarbelakang pekerjaan yang berbeda, karakteristik responden juga menunjukkan perbedaan latar belakang suku. Pada gambar \ref{fig:pcs} menunjukkan 71\% responden merupakan suku bugis, 29\% lainnya merupakan suku diluar bugis yang terdiri atas suku makassar, toraja dan lainnya. Berdasarkan data, persentase orang bugis mewakili orang sebanyak 60 orang suku bugis. Sementara nonbugis mewakili responden sejumlah 25 orang.
+
+\pieChartSuku
+
 \subsection{Pekerjaan}
 Pada gambar \ref{fig:pck} menunjukkan sejumlah latar belakang pekerjaan beserta persentase dari keseluruhan responden. Terdapat lima kelompok karakteristik pekerjaan yang terdiri atas karyawan, wiraswasta, pelajar, belum bekerja dan lainnya. Persentase terbesar adalah karyawan dengan perolehan 34\%. Diikuti oleh kelompok pelajar, wiraswasta, lainnya, dan belum bekerja dengan persentase masing-masing 25\%, 20\%,  14\$, dan 7\% secara berurut. Persentase karyawan mewakili karyawan sebanyak 29 orang, wiraswasta sebanyak 17 orang, pelajar sebanyak 21 orang, lainnya 12 orang dan terakhir belum bekerja hanya sejumlah 6 orang.
 
 \pieChartPek
 
-\subsection{Suku}
-Selain berlatarbelakang pekerjaan yang berbeda, karakteristik responden juga menunjukkan perbedaan latar belakang suku. Pada gambar \ref{fig:pcs} menunjukkan 71\% responden merupakan suku bugis, 29\% lainnya merupakan suku diluar bugis yang terdiri atas suku makassar, toraja dan lainnya. Berdasarkan data, persentase orang bugis mewakili orang sebanyak 60 orang suku bugis. Sementara nonbugis mewakili responden sejumlah 25 orang.
-
-\pieChartSuku
 
 \newpage
 \section{Ruang yang Paling Disukai }
@@ -216,8 +217,6 @@ Kontribusi aspek fasilitas juga terlihat pada ruang B. Aktivitas yang ada pada r
 \begin{quoting}
     Karena bisa menikmati suasana pantai.
 \end{quoting}
-
-Diantara keempat aspek, aspek keamanan memiliki kontribusi yang paling sedikit ter
 
 
 \begin{figure}[htpb]
