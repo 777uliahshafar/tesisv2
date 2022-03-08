@@ -282,9 +282,12 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 %\usepackage[round]{natbib}
 %\setcitestyle{open={(},close={)}}
 \usepackage[natbibapa]{apacite}
-\renewcommand{\BBAA}{dan}  % between authors in parenthetical cites and ref. list
-\renewcommand{\BBAB}{dan}  % between authors in in-text citation
-\renewcommand{\BAnd}{dan}  % for ``Ed. \& Trans.'' in ref. list
+%change and in citation to dan
+\AtBeginDocument{
+  \renewcommand{\BBAA}{dan}
+  \renewcommand{\BBAB}{dan}
+  \renewcommand{\BAnd}{dan}
+}
 
 %\def\biblio{\bibliographystyle{apalike}\bibliography{references.bib}} % bliography in subfile use with onlysubfile
 
