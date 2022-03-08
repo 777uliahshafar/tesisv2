@@ -279,8 +279,13 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 
 %----------------------------------------------------------------------------------------
 % PREAMBLE OF BIBLIOGRAPHY
-\usepackage[round]{natbib}
-\setcitestyle{open={(},close={)}}
+%\usepackage[round]{natbib}
+%\setcitestyle{open={(},close={)}}
+\usepackage[natbibapa]{apacite}
+\renewcommand{\BBAA}{dan}  % between authors in parenthetical cites and ref. list
+\renewcommand{\BBAB}{dan}  % between authors in in-text citation
+\renewcommand{\BAnd}{dan}  % for ``Ed. \& Trans.'' in ref. list
+
 %\def\biblio{\bibliographystyle{apalike}\bibliography{references.bib}} % bliography in subfile use with onlysubfile
 
 %\makeatletter

@@ -55,7 +55,7 @@
 %	BIBLIOGRAPHY
 \clearpage
 \addcontentsline{toc}{chapter}{\bibname}
-\bibliographystyle{apalike}
+\bibliographystyle{apacite}
 \bibliography{bibliography/biblio.bib}
 
 
