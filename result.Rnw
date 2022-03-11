@@ -25,6 +25,7 @@ Berdasarkan teknik pengambilan sampel yang digunakan, penelitian ini mengambil r
     \item Jenis kelamin
     \item Kelompok usia
     \item Suku
+    \item Pendidikan yang telah ditempuh
     \item Pekerjaan.
 \end{inparaenum}
 
@@ -43,6 +44,13 @@ Dari total 85 responden, kelompok usia termuda (18-25) memiliki responden sebany
 Selain berlatarbelakang pekerjaan yang berbeda, karakteristik responden juga menunjukkan perbedaan latar belakang suku. Pada gambar \ref{fig:pcs} menunjukkan 71\% responden merupakan suku bugis, 29\% lainnya merupakan suku diluar bugis yang terdiri atas suku makassar, toraja dan lainnya. Berdasarkan data, persentase orang bugis mewakili orang sebanyak 60 orang suku bugis. Sementara nonbugis mewakili responden sejumlah 25 orang.
 
 \pieChartSuku
+
+
+\subsection{Pendidikan}
+
+
+
+\pieChartPendidikan
 
 \subsection{Pekerjaan}
 Pada gambar \ref{fig:pck} menunjukkan sejumlah latar belakang pekerjaan beserta persentase dari keseluruhan responden. Terdapat lima kelompok karakteristik pekerjaan yang terdiri atas karyawan, wiraswasta, pelajar, belum bekerja dan lainnya. Persentase terbesar adalah karyawan dengan perolehan 34\%. Diikuti oleh kelompok pelajar, wiraswasta, lainnya, dan belum bekerja dengan persentase masing-masing 25\%, 20\%,  14\$, dan 7\% secara berurut. Persentase karyawan mewakili karyawan sebanyak 29 orang, wiraswasta sebanyak 17 orang, pelajar sebanyak 21 orang, lainnya 12 orang dan terakhir belum bekerja hanya sejumlah 6 orang.
@@ -322,6 +330,10 @@ Aspek aksesibilitas juga memiliki kontribusi untuk preferensi terhadap kedua rua
 \label{fig:brasuk}
 \end{figure}
 
+\subsection*{Keragaman Preferensi Dipengaruhi oleh Pendidikan}
+
+\xtpabypen
+
 \section{Elemen yang Paling Disukai }
 Pada penelitian ini, responden diberi pilihan jenis-jenis elemen yang disediakan berdasarkan proposisi penelitian (tabel \ref{tab:props}). Tujuan analisis ini adalah untuk memahami apa saja elemen sehingga pengunjung memilih ruang tertentu.
 Responden meluangkan waktu untuk memilih beberapa elemen yang mereka sukai. Jenis elemen yang disukai kemudian dicatat.
@@ -444,7 +456,8 @@ Mereka yang bukan bugis, ruang A dan B ini hampir mirip satu sama lain melalui e
 \label{fig:bresuk}
 \end{figure}
 
-
+\subsection*{Keragaman Preferensi Dipengaruhi oleh Pendidikan}
+\xtpebypen
 %--------------------------------------------------------------------------------------------------------------
 \begin{comment}
 

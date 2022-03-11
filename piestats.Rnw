@@ -205,6 +205,50 @@ cat(paste("}\n"))
 @
 
 
+<<piedidik, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
+
+df$pendidikan <- as.factor(df$pendidikan)
+
+plotdata <- df %>%
+  count(pendidikan) %>%
+  arrange(desc(pendidikan)) %>%
+  mutate(
+    prop = round(n * 100 / sum(n), 1),
+    lab.ypos = cumsum(prop) - 0.5 * prop
+  )
+
+plotdata$percent <- paste0(
+  plotdata$pendidikan, "\n",
+  round(plotdata$prop), "%"
+)
+
+cat(paste("\\newcommand{\\pieChartPendidikan}\n{", sep= ""))
+cat("\\begin{figure}[htbp]\n")
+cat("\\centering\n")
+ggplot(
+  data = plotdata,
+  aes(x = "", y = prop, fill = pendidikan)
+) +
+  ggtitle("Pendidikan") +
+  geom_bar(width = 1, stat = "identity", color = "white") +
+  coord_polar(theta = "y", start = 0) +
+  geom_text(
+    aes(
+      y = lab.ypos, label = percent
+    ),
+    color = "white"
+  ) +
+  scale_fill_manual(values = mycols) +
+  theme_void()
+cat(paste("\\caption{Diagram Pendidikan}\n", sep=""))
+cat("\\label{fig:pcd}")
+cat("\\end{figure}\n")
+cat(paste("}\n"))
+
+
+@
+
+
 <<pieRuang, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=3, autodep= T>>=
 
 df$ruang <- as.factor(df$ruang)
