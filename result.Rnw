@@ -20,40 +20,43 @@ set_parent("thesis.Rnw")
 \section{Gambaran Umum Responden}
 \label{sub:gbrumumres}
 
-Berdasarkan teknik pengambilan sampel yang digunakan, penelitian ini mengambil responden sebanyak 85 orang. Responden tersebut terdiri dari beragam karakteristik yang berbeda. Karakteristik tersebut ditinjau dari empat kategori berdasarkan:
+Berdasarkan teknik pengambilan sampel yang digunakan, penelitian ini mengambil responden sebanyak 85 orang. Responden tersebut terdiri dari beragam karakteristik yang berbeda. Karakteristik tersebut ditinjau dari lima kategori berdasarkan:
 \begin{inparaenum}
     \item Jenis kelamin
     \item Kelompok usia
     \item Suku
-    \item Pendidikan yang telah ditempuh
+    \item Tingkat pendidikan
     \item Pekerjaan.
 \end{inparaenum}
 
 \subsection{Jenis Kelamin}
-Pada gambar \ref{fig:pcg} menjelaskan persentase karakteristik jenis kelamin dari keseluruhan responden. Secara garis besar, sebagian besar responden adalah laki-laki dengan persentase 68\% . Sedangkan, sebagian kecilnya adalah perempuan dengan persentase 32\%. Berdasarkan perolehan data, laki-laki memiliki jumlah sebanyak 58 orang sementara perempuan berjumlah sebanyak 27 orang.
+
+Responden terbagi atas dua jenis kelompok jenis kelamin yaitu laki-laki dan perempuan.
+Secara garis besar, sebagian besar responden adalah laki-laki dengan persentase 68\% (58 orang) . Sedangkan, sebagian kecilnya adalah perempuan dengan persentase 32\% (27 orang). Persentase digambarkan menggunakan diagram lingkaran seperti pada gambar \ref{fig:pcg}.
 
 \pieChartGender
 
 \subsection{Kelompok Usia}
-Pada gambar \ref{fig:pcu} menunjukkan persentase karakteristik kelompok usia. Kelompok usia tersebut terbagi atas 3 kategori yaitu 18-25, 25-40, dan lebih 40 tahun. Kebanyakan berasal dari kelompok usia 26-40 tahun dengan persentase 41\%. Kemudian diikuti oleh mereka yang berusia berkisar 18 hingga 25 tahun (35\%) dan yang paling kecil adalah kelompok usia tertua (40+) dengan persentase dibawah seperempat responden atau 24\%.
-Dari total 85 responden, kelompok usia termuda (18-25) memiliki responden sebanyak 30 orang, sedangkan kelompok usia menengah (25-40) memiliki responden sebesar 35 orang, dan yang terakhir kelompok usia tertua (40+) mempunyai responden dengan jumlah 20 orang.
+
+Keseluruhan responden juga dibagi berdasarkan tiga kelompok usia: 18-25 (remaja), 25-40 (dewasa), > 40 (manula).
+Kebanyakan berasal dari 41\% (35) kelompok usia dewasa. Kemudian diikuti oleh 35\% (30) dan sebagian kecilnya adalah 24\% (20) kelompok usia manula. Hasil ini dapat dilihat pada gambar \ref{fig:pcu}
 
 \pieChartUsia
 
 \subsection{Suku}
-Selain berlatarbelakang pekerjaan yang berbeda, karakteristik responden juga menunjukkan perbedaan latar belakang suku. Pada gambar \ref{fig:pcs} menunjukkan 71\% responden merupakan suku bugis, 29\% lainnya merupakan suku diluar bugis yang terdiri atas suku makassar, toraja dan lainnya. Berdasarkan data, persentase orang bugis mewakili orang sebanyak 60 orang suku bugis. Sementara nonbugis mewakili responden sejumlah 25 orang.
 
+Pada penelitian ini, responden berasal dari beragam macam latar belakang budaya. Beberapa diantaranya adalah bugis, makassaar, toraja dan lain-lain. Meskipun demikian, keseluruhan responden yang terdiri dari berbagai macam suku dibagi menjadi dua kelompok yaitu bugis dan nonbugis. Dari total responden, 71\% (60) responden merupakan suku bugis, 29\% (25) lainnya merupakan suku diluar bugis yang terdiri atas suku makassar, toraja dan lainnya (lihat gambar \ref{fig:pcs}).
 \pieChartSuku
 
 
 \subsection{Pendidikan}
-
-
+Responden penelitian ini juga dibagi berdasarkan tingkat pendidikan: dibawah sma / sederajat, sma sederajat dan perguruan tinggi. Setengah dari keseluruhan responden atau 51\% (43) responden sudah tamat sarjana. 39\% (33) responden baru tamat sma / sederajat dan sisanya 11\% (9) responden tamat dibawah sma / sederajat. Hasilnya digambarkan menggunakan diagram lingkaran seperti pada gambar \ref{fig:pcs}.
 
 \pieChartPendidikan
 
 \subsection{Pekerjaan}
-Pada gambar \ref{fig:pck} menunjukkan sejumlah latar belakang pekerjaan beserta persentase dari keseluruhan responden. Terdapat lima kelompok karakteristik pekerjaan yang terdiri atas karyawan, wiraswasta, pelajar, belum bekerja dan lainnya. Persentase terbesar adalah karyawan dengan perolehan 34\%. Diikuti oleh kelompok pelajar, wiraswasta, lainnya, dan belum bekerja dengan persentase masing-masing 25\%, 20\%,  14\$, dan 7\% secara berurut. Persentase karyawan mewakili karyawan sebanyak 29 orang, wiraswasta sebanyak 17 orang, pelajar sebanyak 21 orang, lainnya 12 orang dan terakhir belum bekerja hanya sejumlah 6 orang.
+
+Pada bagian ini juga menjelaskan pembagian responden berdasarkan jenis pekerjaan. Keseluruhan responden dibagi menjadi lima jenis pekerjaan yaitu karyawan, wiraswasta, pelajar, belum bekerja dan lainnya. Dari total responden, 34\% (29) adalah pengunjung yang bekerja sebagai karyawan dan 25\% (21) adalah seorang pelajar dibandingkan dengan jenis pekerjaan lainnya yang memiliki persentase dibawah 20\%: 20\%(17) wiraswasta, 14\%(12) lainnya, dan 7\%(6) belum bekerja (lihat gambar \ref{fig:pck}).
 
 \pieChartPek
 
