@@ -48,7 +48,7 @@ set_parent("thesis.Rnw")
 \chapter*{HALAMAN PERNYATAAN ORIGINALITAS}
 \addcontentsline{toc}{chapter}{HALAMAN PERNYATAAN}
 \begin{center}
- Dengan ini saya sebagai penulis menyatakan bahwa  \Title\, dengan judul \subtitle\,adalah hasil karya saya sendiri. Semua data yang dicantumkan dan sumber referensi yang dikutip pada \Title\, ini adalah benar dan dapat dipertanggungjawabkan keasliannya.
+ Dengan ini saya sebagai penulis menyatakan bahwa  \title\, dengan judul \subtitle\,adalah hasil karya saya sendiri. Semua data yang dicantumkan dan sumber referensi yang dikutip pada \title\, ini adalah benar dan dapat dipertanggungjawabkan keasliannya.
 \end{center}
 
 \vspace{8\baselineskip}
@@ -78,7 +78,7 @@ NIM. 21020119420029
    \yourIdentifier
 
 \vspace{2\baselineskip}
-{\small Diajukan pada Sidang \Title\\ Pada tanggal \DTMtoday}
+{\small Diajukan pada Sidang \title\\ Pada tanggal \DTMtoday}
 
 
 \vspace{3\baselineskip}
@@ -105,7 +105,7 @@ Fakultas Teknik Universitas Diponegoro\\
 
 \vspace{3\baselineskip}
 
-Dr.Ir.Suzanna Ratih Sari, M.M., M.A.\\NIP. 196704301992032002
+Dr. Ir. R. Siti Rukayah, MT.\\NIP. 196806281998022001
 \end{center}
 
 % Agreement -------------------------------------------------------------------------
@@ -193,7 +193,7 @@ Puji dan syukur penulis panjatkan atas kehadirat Allah SWT. Berkat rahmat dan hi
     \item \yourAdvisor  selaku pembimbing I yang telah memberikan banyak bimbingan dan dukungan serta saran dalam keberhasilan penulisan tesis ini.
     \item \yourSecAdvisor selaku pembimbing II yang telah memberikan banyak bimbingan dan arahan dalam penulisan tesis ini.
     \item \ldots selaku penguji yang telah menambah masukan dan saran dalam penyempurnaan penulisan tesis ini.
-    \item Dr. Ir. Suzanna Ratih Sari, MM, MA selaku Kaprodi Magister Arsitektur FT Undip yang telah memberikan banyak pembelajaran yang berguna dalam penulisan tesis ini.
+    \item Dr. Ir. R. Siti Rukayah, MT, selaku Kaprodi Magister Arsitektur FT Undip yang telah memberikan banyak pembelajaran yang berguna dalam penulisan tesis ini.
     \item Orang tuaku tercinta Bapak Dr. Drs. Parman Farid, MM. dan Ibu Junaeda yang telah mendukung dan mendoakan penulis. Sehingga studi dan penulisan tesis ini dapat berjalan dengan lancar.
     \item Teman satu angkatan di Magister Arsitektur UNDIP TA 2019 atas kebersamaan selama kuliah dan selama penulis menyelesaikan tesis ini.
     \item Teman-teman di SAKTI yang telah memberikan dukungan moril dan material dalam penulisan tesis ini.

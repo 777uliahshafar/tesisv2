@@ -1881,7 +1881,7 @@ Kedua gender, laki-laki dan perempuan memiliki preferensi terhadap ruang yang sa
 
 \xtpabygen
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/asplaki.png}
@@ -1910,7 +1910,7 @@ Aspek fasilitas dan aksesibilitas memiliki pengaruh besar terhadap kedua ruang. 
 
 \xtpabyusi
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/asprem.png}
@@ -1944,7 +1944,7 @@ Untuk suku nonbugis, keragaman kedua ruang menunjukkan korelasi yang cukup kecil
 Dimana ruang A lebih dipengaruhi oleh aspek estetika. Sedangkan ruang B lebih dipengaruhi oleh aspek fasilitas.
 Aspek aksesibilitas juga memiliki kontribusi untuk preferensi terhadap kedua ruang seperti yang dilihat pada gambar \ref{fig:brasuk}.
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspbug.png}
@@ -1971,7 +1971,7 @@ Untuk kelompok yang tamat dibawah sma, aspek-aspek pada gambar biplot terlihat m
 Untuk yang berpendidikan sma / sederajat, kedua ruang besar dipengaruhi oleh aspek aksesibilitas. Ruang A secara khusus dipengaruhi oleh estetika meskipun terlihat tidak terlalu besar. Sementara ruang B juga memiliki pengaruh besar dari aspek fasilitas.
 Untuk yang berpendidikan sarjana atau perguruan tinggi, ruang A mayoritas dipengaruhi oleh kedua aspek yaitu aksesibilitas dan estetika. Sedangkan ruang B lebih dipengaruhi oleh aspek fasilitas.
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspbsma.png}
@@ -1991,14 +1991,14 @@ Untuk yang berpendidikan sarjana atau perguruan tinggi, ruang A mayoritas dipeng
 \label{fig:bradik}
 \end{figure}
 
-
+\newpage
 \section{Elemen yang Paling Disukai }
 Pada penelitian ini, responden diberi pilihan jenis-jenis elemen yang disediakan berdasarkan proposisi penelitian (tabel \ref{tab:props}). Tujuan analisis ini adalah untuk memahami apa saja elemen sehingga pengunjung memilih ruang tertentu.
 Responden meluangkan waktu untuk memilih beberapa elemen yang mereka sukai. Jenis elemen yang disukai kemudian dicatat.
 
 \ctpeSingleEach
 
-Hasilnya menunjukkan bahwa responden paling menyukai elemen jalan yang lebar dari kategori lebar jalan. Kelapangan atau keleluasaan yang dirasakan sesuai dengan temuan sebelumnya.
+Hasilnya menunjukkan bahwa responden paling menyukai elemen jalan yang lebar dari kategori lebar jalan. Orang menaruh perhatian lebih terhadap kelapangan atau keleluasan. Ini mendukung temuan sebelumnya bahwa orang mempertimbangkan aksesibilitas pada suatu ruang publik.
 
 Berdasarkan 267 total respon terkait elemen yang disukai, respon digolongkan berdasarkan macam-macam ruang terdiri dari ruang A dan B. Jenis-jenis elemen yang termasuk dalam tabel adalah elemen yang memiliki jumlah disukai yang cukup besar.
 
@@ -2041,7 +2041,7 @@ Hasil biplot dapat dilihat pada gambar \ref{fig:bregen}.
 
 \xtpebygen
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .5cm},clip]{figures/elelaki.png}
@@ -2070,7 +2070,7 @@ Sementara, bentuk pohon mengasingkan diri untuk ruang B. Berbeda dengan kelompok
 
 \xtpebyusi
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/elerem.png}
@@ -2098,7 +2098,7 @@ Pada penelitian ini, crostabulasi preferensi keseluruhan preferensi juga dibagi 
 Pada orang bugis, preferensi terhadap ruang A didominasi oleh elemen permukaan jalan, bentuk dan jumlah pohon. Sedangkan preferensi terhadap ruang B didominasi oleh elemen tingkat cahaya, lebar jalan dan orientasi elemen. Jenis kursi sendiri tersisih dari semua ruang, begitupun pada orang yang bukan bugis.
 Mereka yang bukan bugis, ruang A dan B ini hampir mirip satu sama lain melalui elemen bentuk pohon. Ruang A sendiri didominasi oleh lebar jalan dan permukaan jalan. Sementara ruang B didominasi oleh tingkat cahaya dan orientasi elemen. Korelasi diantara ruang untuk orang bugis adalah cukup tinggi sedangkan korelasi untuk nonbugis adalah kecil. Hasil dari biplot ini dapat dilihat pada \ref{fig:bresuk}.
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/elebug.png}
@@ -2126,7 +2126,7 @@ Untuk pendidikan dibawah sma, ruang A mayoritas dipengaruhi oleh orientasi eleme
 Untuk yang berpendidikan sma / sederajat, ruang A sangat dipengaruhi oleh elemen lebar jalan, permukaan jalan, dan bentuk pohon. Semantara ruang B mayoritas dipengaruhi oleh tingkat cahaya dan orientasi elemen. Korelasi diantara ruang pada kelompok ini adalah relatif kecil.
 Untuk yang berpendidikan perguruan tinggi, ruang A dipengaruhi oleh tingkat cahaya dan permukaan jalan. Sedangkan pada ruang B, kebanyakan dipengaruhi oleh orientasi elemen, lebar jalan dan bentuk pohon. Dimana bentuk pohon dan lebar jalan memiliki keragaman yang sama dalam berkontribusi terhadap ruang B. Sama dengan yang berpendidikan dibawah sma, korelasi ruang kelompok ini juga cukup besar.
 
-\begin{figure}[htbp]
+\begin{figure}[htp]
 \centering
 \begin{subfigure}[b]{0.49\textwidth}
 \centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/elebsma.png}

@@ -9,7 +9,7 @@
 
 % More about you and your thesis:
 \def \Title{TESIS}
-\def \title{PRA TESIS}
+\def \title{Tesis}
 \def \subtitle{Preferensi Pengunjung terhadap Ruang Publik di Kawasan Tepi Laut Senggol Parepare}
 \def \yourName{Muhammad Uliah Shafar}
 \def \yourIdentifier{21020119420029}
