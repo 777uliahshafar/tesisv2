@@ -335,7 +335,35 @@ Aspek aksesibilitas juga memiliki kontribusi untuk preferensi terhadap kedua rua
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Pendidikan}
 
+Dari keseluruhan data, respon dibagi menjadi tiga macam tingkat pendidikan yang terdiri dari < sma / sederajat, sma sederajat, dan perguruan tinggi. Keragaman alasan yang mendasari pemilihan ruang ini dianalisis berdasarkan tabel \ref{tab:xtpaD} dan analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bradik}. Ketiga biplot tersebut menunjukkan perbedaan diantara kelompok pendidikan.
+
 \xtpabypen
+
+Untuk kelompok yang tamat dibawah sma, aspek-aspek pada gambar biplot terlihat menyebar dari semua ruang. Artinya respon dari setiap aspek tersebut memiliki kontribusi yang kecil. Meskipun demikian, ruang A besar kemungkinan lebih dipengaruhi oleh aspek aksesibilitas dan fasilitas. Sedangkan ruang B lebih dipengaruhi oleh aspek estetika ketimbang aspek lainnya. Aspek kemanan mengasingkan dirinya dari kedua ruang. Keragaman ini muncul pada setiap kelompok pendidikan. Artinya adalah keamanan memiliki kontribusi paling kecil terhadap setiap ruang dan setiap kelompok.
+
+Untuk yang berpendidikan sma / sederajat, kedua ruang besar dipengaruhi oleh aspek aksesibilitas. Ruang A secara khusus dipengaruhi oleh estetika meskipun terlihat tidak terlalu besar. Sementara ruang B juga memiliki pengaruh besar dari aspek fasilitas.
+Untuk yang berpendidikan sarjana atau perguruan tinggi, ruang A mayoritas dipengaruhi oleh kedua aspek yaitu aksesibilitas dan estetika. Sedangkan ruang B lebih dipengaruhi oleh aspek fasilitas.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}[b]{0.49\textwidth}
+\centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspbsma.png}
+\caption{Keragaman Preferensi dari dibawah sma}
+\end{subfigure}
+\begin{subfigure}[b]{0.49\textwidth}
+\centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .8cm},clip]{figures/aspsma.png}
+\caption{Keragaman Preferensi dari sma}
+\end{subfigure}\vspace{14pt}
+\begin{subfigure}[b]{0.55\textwidth}
+\centering\includegraphics[width=\linewidth,trim={1cm .6cm .9cm .2cm},clip]{figures/asppt.png}
+\caption{Keragaman Preferensi dari PT}
+\end{subfigure}\vspace{2pt}
+
+\caption{Preferensi terhadap ruang dan aspek berdasarkan pendidikan}
+\caption*{Sumber: Analisis, 2022}
+\label{fig:bradik}
+\end{figure}
+
 
 \section{Elemen yang Paling Disukai }
 Pada penelitian ini, responden diberi pilihan jenis-jenis elemen yang disediakan berdasarkan proposisi penelitian (tabel \ref{tab:props}). Tujuan analisis ini adalah untuk memahami apa saja elemen sehingga pengunjung memilih ruang tertentu.
@@ -459,8 +487,38 @@ Mereka yang bukan bugis, ruang A dan B ini hampir mirip satu sama lain melalui e
 \label{fig:bresuk}
 \end{figure}
 
+
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Pendidikan}
+
+Berdasarkan tingkat pendidikan, keseluruhan data dibagi menjadi tiga kelompok yaitu < sma / sederajat, sma/ sederajat, dan perguruan tinggi. Kelompok tersebut kemudian dianalisis dengan MDP berdasarkan tabel \ref{tab:xtpeD} untuk menghasilkan biplot seperti gambar \ref{fig:bredik}. Hasil menunjukkan terdapat perbedaan keragaman diantara kelompok pendidikan.
+
 \xtpebypen
+
+Untuk pendidikan dibawah sma, ruang A mayoritas dipengaruhi oleh orientasi elemen dan lebar jalan. Kedua elemen tersebut memiliki keragaman yang sama. Ruang B dipengaruhi oleh tingkat cahaya dan bentuk pohon. Namun, elemen tersebut hanya berpengaruh kecil. Sama halnya dengan jumlah pohon dan jenis kursi yang memiliki kontribusi kecil terhadap kedua ruang. Kedua elemen ini memiliki keragaman yang konsisten terhadap setiap kelompok pendidikan. Selain itu, biplot menunjukkan bahwa korelasi diantara ruang di kelompok ini adalah tinggi.
+
+Untuk yang berpendidikan sma / sederajat, ruang A sangat dipengaruhi oleh elemen lebar jalan, permukaan jalan, dan bentuk pohon. Semantara ruang B mayoritas dipengaruhi oleh tingkat cahaya dan orientasi elemen. Korelasi diantara ruang pada kelompok ini adalah relatif kecil.
+Untuk yang berpendidikan perguruan tinggi, ruang A dipengaruhi oleh tingkat cahaya dan permukaan jalan. Sedangkan pada ruang B, kebanyakan dipengaruhi oleh orientasi elemen, lebar jalan dan bentuk pohon. Dimana bentuk pohon dan lebar jalan memiliki keragaman yang sama dalam berkontribusi terhadap ruang B. Sama dengan yang berpendidikan dibawah sma, korelasi ruang kelompok ini juga cukup besar.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}[b]{0.49\textwidth}
+\centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/elebsma.png}
+\caption{Keragaman Preferensi dari dibawah sma}
+\end{subfigure}
+\begin{subfigure}[b]{0.49\textwidth}
+\centering\includegraphics[width=\textwidth,trim={1cm .6cm .9cm .6cm},clip]{figures/elesma.png}
+\caption{Keragaman Preferensi dari sma}
+\end{subfigure}\vspace{10pt}
+\begin{subfigure}[b]{0.55\textwidth}
+\centering\includegraphics[width=\linewidth,trim={1cm .6cm .9cm .8cm},clip]{figures/elept.png}
+\caption{Keragaman Preferensi dari PT}
+\end{subfigure}\vspace{2pt}
+
+\caption{Preferensi terhadap ruang dan elemen berdasarkan pendidikan}
+\caption*{Sumber: Analisis, 2022}
+\label{fig:bredik}
+\end{figure}
+
 %--------------------------------------------------------------------------------------------------------------
 \begin{comment}
 
