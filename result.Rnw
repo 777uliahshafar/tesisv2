@@ -15,6 +15,7 @@ set_parent("thesis.Rnw")
 @
 
 %--------------------------------------------------------------------------------------
+\begin{comment}
 
 \chapter{Hasil dan Pembahasan}
 \section{Gambaran Umum Responden}
@@ -519,6 +520,7 @@ Untuk yang berpendidikan perguruan tinggi, ruang A dipengaruhi oleh tingkat caha
 \label{fig:bredik}
 \end{figure}
 
+\end{comment}
 %--------------------------------------------------------------------------------------------------------------
 \begin{comment}
 
@@ -560,3 +562,53 @@ Pada tabel \ref{tab:ctpaR} menunjukkan aspek keamanan paling banyak disebutkan p
 
 %\cTabPek
 %\cTabSukuPlus
+
+
+\chapter{Hasil analisis dan pertnyaan}
+\textbf{Pertanyaan 1}
+
+\textbf{Pilih ruang yang anda paling sukai (A atau B)?}
+
+\pieChartRuang
+\newpage
+\textbf{Pertanyaan 2}
+
+\textit{Ruang publik memudahkan akses terhadap fasilitasnya?}Artinya memilih aspek aksesibilitas
+
+\textit{Ruang publik adalah tempat yang damai dan tenang?}Artinya memilih aspek keamanan
+
+\textit{Ruang publik memberikan kebebasan menikmati pemandangan?}Artinya memilih aspek estetika
+
+\textit{Ruang memiliki fasilitas untuk bermain dan menyalurkan hobi?}Artinya memilih aspek fasilitas
+\ctpaEach
+
+
+\newpage
+\textbf{Pertanyaan 3}
+
+\textbf{Pilih kualitas elemen dari pantai sengol yang mendukung alasan anda memilih ruang?(banyak pilihan diperbolehkan)}
+
+Jumlah pohon
+\begin{itemize}
+    \item Sedikit pohon
+    \item Beberapa pohon
+\end{itemize}
+Bentuk pohon
+\begin{itemize}
+    \item Cukup rindang
+    \item Rindang
+\end{itemize}
+Lebar jalan
+\begin{itemize}
+    \item <1-3m
+    \item >3m
+\end{itemize}
+Permukaan jalan
+\begin{itemize}
+    \item Paving
+    \item Aspal
+    \item Tanah
+\end{itemize}
+dst..
+
+\ctpeSingleEach
