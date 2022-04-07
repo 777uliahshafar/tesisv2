@@ -195,6 +195,16 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{dcolumn} % pretty column descr R crosstab2tex
 \newcolumntype{d}{D{.}{.}{-1}}
 
+%change font percentage symbol
+\newcommand*\pct{\mbox{%
+    \fontencoding{\encodingdefault}%
+    \fontfamily{cmr}%
+    \selectfont
+    \symbol{`\%}%
+  }%
+  }
+\newcommand*\pc{{\scalebox{.9}{\pct}}}
+
 \usepackage{paralist} %Inline list(inparaenum), always on top of enumitem
 \usepackage{lscape}
 \usepackage{longtable} % Enable table cross multiple page
