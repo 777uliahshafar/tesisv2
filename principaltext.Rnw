@@ -654,11 +654,12 @@ Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan ba
 Berdasarkan kajian pustaka, penulis merumuskan variabel mengenai preferensi ruang di kawasan tepi laut. Dalam variabel ini, keempat aspek dan kesebelas elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Variabel penelitian dapat dilihat pada tabel \ref{tab:props}.
 
 \renewcommand{\arraystretch}{0.8}\setlength\tabcolsep{1.2pt}
-\begin{longtable}{p{.33\textwidth}p{1.2em} p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}}
+\begin{longtable}{p{.33\textwidth}R{1.2em} R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}}
 	\caption{Variabel Penelitian}\\
 	\label{tab:props}\\
 \hline
-\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=11em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
+\rowcolor{White}
+\bfseries\diagbox[innerleftsep=10pt,innerrightsep=15pt,width=10em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
 
 {\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Gender}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Laki-laki}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perempuan}}} &
 
@@ -680,7 +681,8 @@ Berdasarkan kajian pustaka, penulis merumuskan variabel mengenai preferensi ruan
 \endfirsthead
 \caption{Variabel Penelitian \footnotesize{(samb.)}}\\
 \hline
-\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=11em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
+\rowcolor{White}
+\bfseries\diagbox[innerleftsep=10pt,innerrightsep=15pt,width=11em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
 
 {\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Gender}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Laki-laki}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perempuan}}} &
 
@@ -701,57 +703,65 @@ Berdasarkan kajian pustaka, penulis merumuskan variabel mengenai preferensi ruan
 \toprule
 \endhead
 \textbf{Aspek Ruang} &&&&&&&&&&&&&&\\
-Aksesibiltitas &&&&&&&&&&&&&&\\
-Keamanan &&&&&&&&&&&&&&\\
-Estetika &&&&&&&&&&&&&&\\
-Fasilitas &&&&&&&&&&&&&&\\
-
+Aksesibiltitas &  & \cca{31} & \cca{16} &  & \cca{17} & \cca{19} & \cca{11} &  & \cca{33} & \cca{15} &  & \cca{4} & \cca{30} & \cca{13}\\
+Keamanan &  & \cca{7} & \cca{0} &  & \cca{5} & \cca{0} & \cca{2} &  & \cca{6} & \cca{1} &  & \cca{1} & \cca{5} & \cca{1}\\
+Estetika &  & \cca{33} & \cca{13} &  & \cca{15} & \cca{22} & \cca{9} &  & \cca{32} & \cca{14} &  & \cca{7} & \cca{17} & \cca{22} \\
+Fasilitas &  & \cca{34} & \cca{16} &  & \cca{17} & \cca{19} & \cca{14} &  & \cca{37} & \cca{13} &  & \cca{3} & \cca{29} & \cca{18} \\
 
 \textbf{Elemen Ruang} &&&&&&&&&&&&&&\\
 
-\textit{Jumlah pohon}&&&&&&&&&&&&&&\\
-\tabitems Sedikit pohon&&&&&&&&&&&&&&\\
-\tabitems Beberapa pohon&&&&&&&&&&&&&&\\
-\textit{Bentuk pohon}&&&&&&&&&&&&&&\\
-\tabitems Cukup rindang&&&&&&&&&&&&&&\\
-\tabitems Rindang&&&&&&&&&&&&&&\\
-\textit{Lebar jalan}&&&&&&&&&&&&&&\\
-\tabitems 1-3m&&&&&&&&&&&&&&\\
-\tabitems $\leq$ 3m&&&&&&&&&&&&&&\\
+Jumlah pohon &  & \cca{16} & \cca{4} &  & \cca{6} & \cca{6} & \cca{8} &  & \cca{14} & \cca{6} &  & \cca{2} & \cca{9} & \cca{9} \\
+\quad\tabitems \small{Sedikit pohon} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Beberapa pohon} &&&&&&&&&&&&&&\\
 
-\textit{Permukaan jalan}&&&&&&&&&&&&&&\\
-\tabitems Paving&&&&&&&&&&&&&&\\
-\tabitems Aspal&&&&&&&&&&&&&&\\
-\tabitems Tanah&&&&&&&&&&&&&&\\
+Bentuk pohon &  & \cca{26} & \cca{14} &  & \cca{10} & \cca{17} & \cca{13} &  & \cca{26} & \cca{14} &  & \cca{5} & \cca{15} & \cca{20} \\
+\quad\tabitems \small{Cukup rindang} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Rindang} &&&&&&&&&&&&&&\\
 
-\textit{Warna bunga/tanaman}&&&&&&&&&&&&&&\\
-\tabitems satu atau dua warna&&&&&&&&&&&&&&\\
-\tabitems tiga atau lebih warna&&&&&&&&&&&&&&\\
-\textit{Jenis kursi}&&&&&&&&&&&&&&\\
-\tabitems Kursi bergerak&&&&&&&&&&&&&&\\
-\tabitems Kursi dinding&&&&&&&&&&&&&&\\
+Lebar jalan &  & \cca{36} & \cca{15} &  & \cca{22} & \cca{17} & \cca{12} &  & \cca{36} & \cca{15} &  & \cca{7} & \cca{24} & \cca{20} \\
+\quad\tabitems \small{1-3m} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{3m} &&&&&&&&&&&&&&\\
 
-\textit{Pencahayaan jalan}&&&&&&&&&&&&&&\\
-\tabitems Sedang&&&&&&&&&&&&&&\\
-\tabitems Tinggi&&&&&&&&&&&&&&\\
+Permukaan jalan &  & \cca{24} & \cca{13} &  & \cca{14} & \cca{16} & \cca{7} &  & \cca{27} & \cca{10} &  & \cca{4} & \cca{17} & \cca{16} \\
+\quad\tabitems \small{Paving} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Aspal} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Tanah} &&&&&&&&&&&&&&\\
 
-\textit{Orientasi Elemen}  &&&&&&&&&&&&&&\\
-\tabitems Membelakangi laut &&&&&&&&&&&&&&\\
-\tabitems Menghadap laut   &&&&&&&&&&&&&&\\
+Warna bunga/tanaman  &&\ccg&\ccg&&\ccg&\ccg&\ccg&&\ccg&\ccg&&\ccg&\ccg&\ccg\\
+\quad\tabitems \small{satu atau dua warna} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{tiga atau lebih warna} &&&&&&&&&&&&&&\\
 
-\textit{Tempat Wisata air}  &&&&&&&&&&&&&&\\
-\tabitems Tempat memancing  &&&&&&&&&&&&&&\\
-\tabitems Tempat berenang   &&&&&&&&&&&&&&\\
+Jenis kursi &  & \cca{9} & \cca{2} &  & \cca{3} & \cca{4} & \cca{4} &  & \cca{7} & \cca{4} &  & \cca{1} & \cca{6} & \cca{4} \\
+\quad\tabitems \small{Kursi bergerak} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Kursi dinding} &&&&&&&&&&&&&&\\
 
-\textit{Bangunan penunjang}  &&&&&&&&&&&&&&\\
-\tabitems Stan \textit{(booth container)}   &&&&&&&&&&&&&&\\
-\tabitems Kedai   &&&&&&&&&&&&&&\\
+Pencahayaan jalan &  & \cca{34} & \cca{19} &  & \cca{18} & \cca{22} & \cca{13} &  & \cca{40} & \cca{13} &  & \cca{5} & \cca{24} & \cca{24} \\
+\quad\tabitems \small{Sedang} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Tinggi} &&&&&&&&&&&&&&\\
 
-\textit{Elemen air}  &&&&&&&&&&&&&&\\
-\tabitems Laut yang tenang   &&&&&&&&&&&&&&\\
-\tabitems Laut yang berombak &&&&&&&&&&&&&&\\
+Orientasi Elemen &  & \cca{36} & \cca{19} &  & \cca{19} & \cca{23} & \cca{13} &  & \cca{39} & \cca{16} &  & \cca{7} & \cca{19} & \cca{29} \\
+\quad\tabitems \small{Membelakangi laut} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Menghadap laut} &&&&&&&&&&&&&&\\
+
+Tempat wisata air  &&\ccg&\ccg&&\ccg&\ccg&\ccg&&\ccg&\ccg&&\ccg&\ccg&\ccg\\
+\quad\tabitems \small{Tempat memancing} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Tempat berenang} &&&&&&&&&&&&&&\\
+
+Bangunan penunjang  &&\ccg&\ccg&&\ccg&\ccg&\ccg&&\ccg&\ccg&&\ccg&\ccg&\ccg\\
+\quad\tabitems \small{Stan} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Kedai} &&&&&&&&&&&&&&\\
+
+Elemen air  &&\ccg&\ccg&&\ccg&\ccg&\ccg&&\ccg&\ccg&&\ccg&\ccg&\ccg\\
+\quad\tabitems \small{Laut tenang} &&&&&&&&&&&&&&\\
+\quad\tabitems \small{Laut berombak} &&&&&&&&&&&&&&\\
 \bottomrule
+ \multicolumn{15}{l}{\rule{0pt}{1em} \parbox{.9\textwidth}{Catatan: \noindent\textcolor{red}{\rule{1em}{5pt}} : berpengaruh tinggi
+\noindent\textcolor{yellow!60}{\rule{1em}{5pt}} : berpengaruh sedang\par
+\hspace*{1em}\textcolor{green!60}{\rule{1em}{5pt}} : berpengaruh rendah \textcolor{dgray}{\rule{1em}{5pt}} : berpengaruh sangat rendah
+
+ }}\\
 \end{longtable}
+
 
 Disamping kesebelas elemen tersebut, variabel penelitian menunjukkan aspek ruang yang dapat menjadi alasan mengapa orang memiliki preferensi terhadap ruang maupun elemen-elemennya. Dengan begitu, variabel ini melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
 

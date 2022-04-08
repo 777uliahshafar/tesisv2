@@ -57,6 +57,17 @@
 }
 
 \usepackage[table]{xcolor}
+\definecolor{White}{rgb}{255,255,255}
+\definecolor{gray}{gray}{0.98}
+\definecolor{dgray}{gray}{0.58}
+\def\ccg{\cellcolor{dgray}}
+
+
+\def\cca#1{%
+\ifdim#1pt<15pt\cellcolor{green!90}\ifnum#1<15\color{green!90}\fi\else
+\ifdim#1pt<30pt\cellcolor{yellow!90}\ifnum#1<30\color{yellow!90}\fi\else
+\cellcolor{red!90}\color{red!90}\fi\fi
+#1}
 \usepackage{comment}
 %----------------------------------------------------------------------------------------
 %	DOCUMENT MARGINS
@@ -212,6 +223,7 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{array} %Mostly formatting columns and spacing
 \usepackage{diagbox} % diagonal line on table
 \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}} %centering elemen in table
+\newcolumntype{R}[1]{>{\columncolor{gray}}p{#1}} %centering elemen in table
 
 \usepackage{enumitem} % Required for list customisation
 
