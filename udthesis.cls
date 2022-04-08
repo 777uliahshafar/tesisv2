@@ -56,6 +56,7 @@
 %    \renewcommand{\abstractname}{ABSTRACT}
 }
 
+\usepackage[table]{xcolor}
 \usepackage{comment}
 %----------------------------------------------------------------------------------------
 %	DOCUMENT MARGINS

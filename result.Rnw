@@ -642,13 +642,20 @@ dst..
 {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{SMA/sederajat}}}&
 {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perguruan tinggi}}}\\
 \toprule
+\multirow[t]{2}{*}{xx} &&7&0&&x&x&x&&x&x&&x&x&x\\
+&&\pc&\pc&&\pc&\pc&\pc&&\pc&\pc&&\pc&\pc&\pc\\
 \textbf{Aspek Ruang} &&&&&&&&&&&&&&\\
-\multirow[t]{2}{*}{Aksesibiltitas} &85&10&10&85&10&10&10&10&10&10&10&10&10&10\\
+\multirow[t]{2}{*}{Aksesibiltitas} &&x&x&&x&x&x&&x&x&&x&x&x\\
+&&21\pc&11\pc&100\pc&10\pc&10\pc&10\pc&100\pc&10\pc&10\pc&100\pc&10\pc&10\pc&10\pc\\
 
-&\100\pc&10\pc&10\pc&100\pc&10\pc&10\pc&10\pc&100\pc&10\pc&10\pc&100\pc&10\pc&10\pc&10\pc\\
-Keamanan &10&10&10&&&&&&&&&&&\\
-Estetika &&&&&&&&&&&&&&\\
-Fasilitas &&&&&&&&&&&&&&\\
+\multirow[t]{2}{*}{Keamanan} &&7&0&&x&x&x&&x&x&&x&x&x\\
+&&\pc&\pc&&\pc&\pc&\pc&&\pc&\pc&&\pc&\pc&\pc\\
+
+\multirow[t]{2}{*}{Estetika} &&33&13&&x&x&x&&x&x&&x&x&x\\
+
+\multirow[t]{2}{*}{Estetika} &&34&16&&x&x&x&&x&x&&x&x&x\\
+
+Total &&105&45&&&&&&&&&&&\\
 
 
 \textbf{Elemen Ruang} &&&&&&&&&&&&&&\\
