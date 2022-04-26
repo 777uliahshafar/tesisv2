@@ -190,13 +190,13 @@ Describe in about 250 to 350 words the problem, the innovation, the method, the 
 
 Puji dan syukur penulis panjatkan atas kehadirat Allah SWT. Berkat rahmat dan hidayah-Nya tesis dengan judul ``Preferensi Pengunjung terhadap ruang Kawasan Tepi Laut Senggol'' dapat terselesaikan dengan baik. Banyak dukungan, bimbingan dan bantuan yang penulis terima selama penulisan tesis ini. Maka dari itu, dengan hak istimewa ini penulis menyampaikan ucapan terima kasih yang sebesar-besarnya kepada:
 \begin{enumerate}
-    \item \yourAdvisor  selaku pembimbing I yang telah memberikan banyak bimbingan dan dukungan serta saran dalam keberhasilan penulisan tesis ini.
-    \item \yourSecAdvisor selaku pembimbing II yang telah memberikan banyak bimbingan dan arahan dalam penulisan tesis ini.
+    \item \yourAdvisor\, selaku pembimbing I yang telah memberikan banyak bimbingan dan dukungan serta saran dalam keberhasilan penulisan tesis ini.
+    \item \yourSecAdvisor\, selaku pembimbing II yang telah memberikan banyak bimbingan dan arahan dalam penulisan tesis ini.
     \item \ldots selaku penguji yang telah menambah masukan dan saran dalam penyempurnaan penulisan tesis ini.
-    \item Dr. Ir. R. Siti Rukayah, MT, selaku Kaprodi Magister Arsitektur FT Undip yang telah memberikan banyak pembelajaran yang berguna dalam penulisan tesis ini.
-    \item Orang tuaku tercinta Bapak Dr. Drs. Parman Farid, MM. dan Ibu Junaeda yang telah mendukung dan mendoakan penulis. Sehingga studi dan penulisan tesis ini dapat berjalan dengan lancar.
+    \item Dr. Ir. R. Siti Rukayah, MT, selaku Kaprodi Magister Arsitektur FT Undip.
+    \item Orang tuaku tercinta Ayahanda Dr. Drs. Parman Farid, MM. dan Ibunda Junaeda yang telah mendukung dan mendoakan penulis dengan tulus.
     \item Teman satu angkatan di Magister Arsitektur UNDIP TA 2019 atas kebersamaan selama kuliah dan selama penulis menyelesaikan tesis ini.
-    \item Teman-teman di SAKTI yang telah memberikan dukungan moril dan material dalam penulisan tesis ini.
+    \item Teman-teman di PT. Sahabat Karya Sejati, khususnya Bapak Muhammad Ali yang memberikan dukungan moril dan material dalam waktu yang tidak singkat pada pengerjaan tesis ini.
 \end{enumerate}
 
 Rasa terima kasih ini diikuti dengan  kesadaran penulis bahwa penulisan tesis ini meskipun telah sampai pada tahap selesai, masih banyak kekurangan dari segi penulisan, pengetahuan dan pemahaman penulis. Dengan selesainya tesis ini, penulis berharap dapat memberikan manfaat dalam memperkaya khasanah keilmuan arsitektur perkotaan diluar kekurangan yang ada. Penulis juga menerima kritik dan saran  agar dapat menjadi masukan kepada penulis.

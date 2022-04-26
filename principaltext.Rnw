@@ -1634,11 +1634,16 @@ Perbedaan ini menunjukkan hubungan yang tidak signifikan  (\chi^2 = 2.224, df = 
 
 \ctpsproSuk
 
+Selain gender, usia, dan suku, total responden juga dikelompokkan berdasarkan pendidikan. \cite{zhang2006} menemukan tingkat pendidikan sangat mempengaruhi preferensi terhadap ruang. Tingkat pendidikan tersebut diantaranya terdiri dari < sma / sederajat, sma/ sederajat, dan perguruan tinggi. Kebanyakan dari setiap kelompok ini menyukai ruang A dengan persentase masing-masing diatas 50\%. Itu terdiri dari 88\%(8) <sma / sederajat, 58\%(25) sma / sederajat dan 60\%(23) perguruan tinggi.
+Sedangkan 30\%(10) sma / sederajat dan  41\%(18) perguruan tinggi menyukai ruang B dibandingkan hanya 11\%(1) < sma /sederajat (lihat table \ref{tab:ctpsD}). Perbedaan ini tidak menunjukkan hubungan signifikan (\chi^2 = 3.48, df = 2, p = 0.176).
+
+\ctpsproDik
+
 Dari keseluruhan data, untuk yang terakhir kali responden dikelompokkan atas dasar pekerjaan. Kelompok pekerjaan ini terdiri atas belum bekerja, karyawan, pekerjaan lainnya, pelajar, dan wiraswasta. Berdasarkan kelompok pekerjaan, 58\% (17) karyawan dan 76\% (16) pelajar menyukai ruang A dibandingkan dengan 58\% (7) pekerjaan lainnya, 58\%(10) wiraswasta, dan 100\% (6) belum bekerja. Ini menunjukkan semuanya memiliki preferensi lebih besar terhadap ruang A dibanding ruang B. Sementara 41\% (12) karyawan lebih menyukai ruang B dibandingkan dengan 41\% (7) wiraswasta, 41\% (5) pekerjaan lainnya, dan 23\% (5) pelajar (dapat dilihat pada tabel \ref{tab:ctpsP}). Perbedaan ini tidak menunjukkan hubungan signifikan diantara kedua variabel (\chi^2 = 5.461, df = 4, p = 0.243).
 
 \ctpsproPek
 
-\newpage
+
 \section{Alasan yang Mendasari Pemilihan Ruang}
 \label{sub:prefaspek}
 

@@ -93,3 +93,26 @@ sanitize.text.function = function(x) x,)
 cat(paste("}\n"))
 
 @
+
+<<cTabDik, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=6, fig.height=4, autodep= T>>=
+# sorting columns' name
+df$pendidikan <- factor(df$pendidikan, levels = names(sort(table(df$pendidikan), decreasing = FALSE)))
+
+ctpsD <- crosstab(df$ruang, df$pendidikan,
+               dnn = c("Ruang", "Pendidikan"),
+               user.missing.dep = "Don't know",
+               expected = FALSE, prop.c = TRUE, prop.r = FALSE, total.r=FALSE,chisq=TRUE, plot = FALSE)
+
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{Sumber: analisis,2022 \\hspace{6pt} *p=0.309}} \n")
+
+cat(paste("\\newcommand{\\ctpsproDik}{\n", sep=""))
+print(xtable(ctpsD, align = "llddd", multirow = TRUE, hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Crosstabulasi ruang berdasarkan pendidikan",label="tab:ctpsD"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",
+add.to.row = list(pos = list(4), command = comm),
+sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@

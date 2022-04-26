@@ -14,7 +14,7 @@ set_parent("thesis.Rnw")
 \chapter*{BERITA ACARA SIDANG TESIS}
 \addcontentsline{toc}{chapter}{BERITA ACARA}
 \setlength\parindent{0pt}
-Dengan ini saya selaku peserta sidang menyatakan bahwa telah melaksanakan sidang \title pada:
+Dengan ini saya selaku peserta sidang menyatakan bahwa telah melaksanakan sidang \title\,pada:
 
 
 \begin{tabular}{@{}l@{\hspace{1em}:}@{\hspace{1em}}l@{}}
@@ -44,7 +44,7 @@ Dengan ini saya selaku peserta sidang menyatakan bahwa telah melaksanakan sidang
 \vspace{\baselineskip}
 {\bf Pelaksanaan sidang:}
 \begin{enumerate}[leftmargin = *]
-    \item Sidang \title dengan judul \subtitle. Dimulai pada pukul \DTMusetime{waktuberita}.
+    \item Sidang \title\,dengan judul \subtitle. Dimulai pada pukul \DTMusetime{waktuberita}.
 \end{enumerate}
 
 \vspace{\baselineskip}
@@ -65,7 +65,7 @@ Dengan ini saya selaku peserta sidang menyatakan bahwa telah melaksanakan sidang
 \end{enumerate}
 
 \vspace{\baselineskip}
-Demikian berita acara sidang \title ini dibuat sesuai dengan keadaan yang sebenar-benarnya. \ldots
+Demikian berita acara sidang \title\,ini dibuat sesuai dengan keadaan yang sebenar-benarnya. \ldots
 \vspace{30pt}
 
 \begin{flushright}
