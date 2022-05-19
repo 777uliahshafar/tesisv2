@@ -1055,8 +1055,8 @@ ctpoeR <- summarytools::ctable(ruang, df_elemenpro$ornele, dnn = c("Ruang", "Ori
 \multirow{2}{*}{\parbox{3.4em}{\textit{Jumlah pohon}}}& Sedikit pohon  & 6 (2\%)  & 3 (1\%)    &9(3\%) \\
 &Beberapa pohon  &10 (4\%)  & 1     &11 (4\%) \\
 
-\multirow{2}{*}{\parbox{3.4em}{\textit{Bentuk pohon}}}&Cukup rindang  &2 (1\%)  & 28 (10\%)    &30(11\%) \\
-&Sangat rindang  &4 (1\%)  & 6 (2\%)    &10(4\%) \\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Bentuk pohon}}}&Cukup rindang  &2 (1\%)  &4 (1\%)   &6(2\%) \\
+&Sangat rindang  &28 (10\%)  & 6 (2\%)    &34(13\%) \\
 
 \multirow{2}{*}{\parbox{3.4em}{\textit{Lebar jalan}}}&1-3m  &3 (1\%)  & 6 (2\%)   &9(3\%) \\
 &> 3m  &35 (13\%)  & 7 (3\%)    &42(16\%)\\
@@ -1069,14 +1069,14 @@ ctpoeR <- summarytools::ctable(ruang, df_elemenpro$ornele, dnn = c("Ruang", "Ori
 &kursi dinding  &3(1\%)  & 2(1\%)    &5(2\%) \\
 
 
-\multirow{2}{*}{\parbox{3.4em}{\textit{Tingkat cahaya}}}&pencahayaan cukup   &5 (2\%)  & 31 (12\%)    &36(13\%) \\
-&pencahayaan tinggi   &11(4\%)  & 6 (2\%)    &17(6\%)\\
+\multirow{2}{*}{\parbox{3.4em}{\textit{Tingkat cahaya}}}&pencahayaan cukup   &5 (2\%)  &11(4\%)     &16(6\%) \\
+&pencahayaan tinggi   &31 (12\%)  & 6 (2\%)    &37(14\%)\\
 
 \multirow{2}{*}{\parbox{3.4em}{\textit{Orientasi elemen}}}&membelakangi laut   &8(3\%)  & 3 (1\%)    &11(4\%)\\
 &menghadap laut   &29 (11\%)  & 15 (6\%)    &44(16\%) \\
 
 
-&Total  & 153 (57\%)  & 114 (43\%) & 267 (100\%)   \\
+&Total  & 197 (74\%)  & 70 (26\%) & 267 (100\%)   \\
  \bottomrule
 \multicolumn{5}{l}{\rule{0pt}{1em}\scriptsize Sumber: Analisis, 2022 }\\
 \end{tabular}

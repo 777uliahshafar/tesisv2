@@ -207,6 +207,10 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \usepackage{dcolumn} % pretty column descr R crosstab2tex
 \newcolumntype{d}{D{.}{.}{-1}}
 
+%linebreak on tablecell
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}l@{}}#2\end{tabular}}
+
 %change font percentage symbol
 \newcommand*\pct{\mbox{%
     \fontencoding{\encodingdefault}%

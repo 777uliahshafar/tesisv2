@@ -164,12 +164,10 @@ Yang Menyatakan
 \begin{abstract}
 \addcontentsline{toc}{chapter}{ABSTRAK}
 
-Kawasaan tepi laut berkontribusi besar terhadap kesejahteraan masyarkat saat ini.
-Kemunculan tepi laut dengan beragam ruang merupakan hasil dari permintaan oleh masyarakat terhadap akses ke tepi laut. Namun, kemunculan ini tidak serta merta memenuhi kebutuhan masyarakat yang datang di tepi laut. Setidaknya, mereka akan memilih ruang yang hampir memenuhi kebutuhannya. Dengan begitu, ruang yang tidak dipilih akan terbengkalai.
-Hal ini akan menimbulkan ketimpangan penggunaan pada ruang-ruang yang tersedia dan merusak estetik kawasan tepi laut secara keseluruhan.
-Pemahaman preferensi untuk mengetahui kebutuhan masyarakat akan membantu untuk menyelaraskan fungsi setiap ruang yang ada di tepi laut. Maka dari itu, penelitian ini bertujuan untuk menganalisis kecenderungan pengunjung dalam memilih ruang. Metode yang digunakan adalah pendekatan kualitatif dan kuantitatif \textit{(mixed-method)}.
-Penelitian ini menggunakan crosstabulasi dan analisis biplot untuk melakukan analisis data.
-Penyebaran survei kuesioner dari 85 responden diadakan pada tepi laut Sengol Parepare. Sekitar 66\% responden memilih ruang A dan sisanya memilih ruang B. Kebanyakan responden beralasan aspek fasilitas dalam memilih ruang. Sedangkan elemen yang paling disukai adalah jalan yang lebar. Sehingga, desain dan elemen yang tersedia pada ruang B tidak memenuhi preferensi dan kebutuhan kebanyakan pengunjung dan juga tidak berkontribusi terhadap kesejahteraan masyarakat.
+Kawasaan tepi laut berkontribusi besar terhadap kesejahteraan masyarkat saat ini. Permintaan masyarakat terhadap akses tepi laut memunculkan pengembangan tepi laut yang sesuai dengan kebutuhan masyarkat. Pengembangan baru tepi laut Senggol menghadirkan dua bagian ruang yang berbeda. Oleh karena itu, pengetahuan preferensi pengunjung adalah penting. Pengetahuan ini akan menjelaskan kebutuhan pengunjung sebagai dasar dalam merancang ruang publik yang efektif.
+Maka dari itu, penelitian ini bertujuan untuk menganalisis kecenderungan pengunjung dalam memilih ruang dan proporsi terhadap ruang yang dipilih. Metode yang digunakan adalah pendekatan kualitatif dan kuantitatif \textit{(mixed-method)}.
+Desain penelitian ini adalah \textit{cross-sectional} dengan menggunakan crosstabulasi dan analisis biplot untuk melakukan analisis data.
+Penyebaran survei kuesioner dari 85 responden diadakan pada tepi laut Sengol Parepare. Dari total responden, sekitar 66\% memilih ruang A dan 34\% memilih ruang B. Kebanyakan responden beralasan aspek fasilitas dalam memilih ruang. Sedangkan elemen yang paling disukai adalah jalan yang lebar. Sehingga, desain dan elemen yang tersedia pada ruang B tidak memenuhi preferensi dan kebutuhan kebanyakan pengunjung dan juga tidak berkontribusi terhadap kesejahteraan masyarakat.
 \end{abstract}
 
 \noindent Kata kunci: Preferensi, Ruang, Aspek Ruang, Elemen Ruang,Tepi laut Senggol Parepare.
@@ -178,11 +176,12 @@ Penyebaran survei kuesioner dari 85 responden diadakan pada tepi laut Sengol Par
 \chapter*{ABSTRACT}
 \addcontentsline{toc}{chapter}{ABSTRACT}
 
-Your text here Write the abstract in English and in German, called \emph{Zusammenfassung}.
-Describe in about 250 to 350 words the problem, the innovation, the method, the results and implications.
+Waterfront area has contributed hugely for the current people's wellness. People's demand of waterfront access  bring up waterfront development that match with people's needs. The new development Senggol Waterfront has built two part of different space. Because of that, the knowledge of visitors' preference is crucial. The knowledge will explain the need of visitor as a basic of planning the effective public space. Therefore, the purpose of this study is to analyse the preference of visitor for choosing a space and proportion of the choosen space. The method used is a qualitative and quantitative approach (mixed-method).
+
+The design of this study is a cross-sectional by using crosstabulation and biplot analysis for data analysis. The spread of questionnaire survey from 85 respondent was conducted in Senggol waterfront Parepare. Out of total responden, about 66\% selected A space dan 35\% selected B space. Most of the respondent reasoned facility aspect for deciding a space. Whereas the most liked element was the wide path. As a result, the avalaible design and element in B space is not meeting the most visitors preference and need and also is not contributing towards visitors' wellness
 
 \vspace{\baselineskip}
-\noindent Keywords: lorem, ipsum, lorem, ipsum
+\noindent Keywords: Preference, Space, Aspect of Space, Element of Space, Senggol Waterfront Parepare.
 
 % Acknogledge -------------------------------------------------------------------------
 \chapter*{KATA PENGANTAR}

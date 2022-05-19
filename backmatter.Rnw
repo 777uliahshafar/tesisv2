@@ -103,15 +103,15 @@ NIM.\yourNipAdvisor & & NIM.\yourNipSecAdvisor \\
 
 \begin{wrapfigure}[7]{l}{3cm}
 \centering
-    \includegraphics[width=2.8cm,trim=60 40 60 140,clip]{saya.jpg}
+    \includegraphics[width=2.8cm,trim=0cm 4cm 0cm 2cm,clip]{saya.jpg}
 \end{wrapfigure}
 
-\noindent Muhammad Uliah Shafar, pria kelahiran Parepare, 26 Juni 1996, sebagai putra sulung dari Parman Farid dan Junaeda. Lulus pendidikan S2 di Magister Arsitektur DAFT UNDIP, dengan alur konsentrasi Arsitektur Kota. Penulis menjalani pendidikan S2 sejak 2020 sesaat setelah menempuh pendidikan S1-nya di UTY Yogyakarta.
+\noindent Muhammad Uliah Shafar, pria kelahiran Parepare, 26 Juni 1996, sebagai putra sulung dari Dr. Parman Farid MM. dan Junaeda. Lulus pendidikan S2 di Magister Arsitektur DAFT UNDIP, dengan alur konsentrasi Arsitektur Kota. Penulis menjalani pendidikan S2 pada tahun ajaran 2019 genap setelah menempuh pendidikan S1-nya di UTY Yogyakarta.
 
-Penulis memiliki ketertarikan Arsitektur sejak duduk di bangku SMK. Saat itu, penulis memilih jurusan teknik gambar. Banyak pelajaran maupun pengalaman yang dia rasakan selama menempuh sekolah kejuruan seperti contoh, magang di salah satu perusahaan semen terbesar di Sulawesi Selatan. Hal itu membuatnya meneruskan bidang ini ke jenjang yang lebih tinggi.
+Penulis memiliki ketertarikan Arsitektur sejak duduk di bangku SMK (Sekolah Menengah Kejuruan). Saat itu, penulis memilih jurusan teknik gambar. Banyak pelajaran maupun pengalaman yang dia rasakan selama menempuh sekolah kejuruan seperti contoh, magang di salah satu perusahaan semen di Sulawesi Selatan. Hal itu memotivasinya meneruskan bidang ini ke jenjang yang lebih tinggi.
 
 Ruang publik menjadi fokus tema penulisan karya ilmiah penulis.
-Saat ini penulis telah mempublikasikan artikel di jurnal nasional dan menyelesaikan tesis dengan tema ruang publik. Penulis tertarik terhadap tema ruang publik karena suatu saat nanti penulis berniat untuk merancang suatu kota dengan lebih baik dan memberikan ilmu bermanfaat terhadap bidang arsitektur perkotaan.
+Saat ini penulis telah mempublikasikan artikel di jurnal nasional dan menyelesaikan tesis dengan tema ruang publik tepi laut. Penulis tertarik terhadap tema ruang publik karena suatu saat nanti penulis berniat ikut serta merancang suatu kota dengan lebih baik dan memberikan ilmu bermanfaat terhadap bidang arsitektur perkotaan.
 
 
 \vspace{2\baselineskip}

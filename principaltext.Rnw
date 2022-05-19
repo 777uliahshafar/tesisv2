@@ -69,8 +69,9 @@ Terdapat sejumlah area yang berada di garis pantai tersebut misalnya tepi sungai
 Dengan sejumlah tempat rekreasi tersebut, Parepare mencanangkan diri sebagai kota wisata dengan ikon Patung Bapak BJ Habibie, Presiden ketiga Republik Indonesia.
 
 %karakteristik di tepi laut senggol
-Berdasarkan rencana tata ruang wilayah kota, Parepare menetapkan kawasan strategis kota yang mendasari pembangunan infrastruktur. Kawasan pengembangan senggol termasuk dalam kawasan pengembangan PKL untuk mendukung pertumbuhan ekonomi daerah.
-Pengembangan tepi laut ini bertujuan agar bisa meningkatkan jumlah pengunjung pada tempat wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa penduduk kota untuk datang ke pesisir. Dengan begitu akan meningkatkan pertumbuhan ekonomi pada kawasan tersebut.
+Berdasarkan rencana tata ruang wilayah kota, Parepare menetapkan kawasan strategis kota yang mendasari pengembangan kawasan objek wisata di beberapa tempat \citep{tri2020}. Salah satunya adalah pengembangan tepi laut senggol tahap satu dan dua.
+Kawasan pengembangan senggol termasuk dalam kawasan pengembangan PKL untuk mendukung pertumbuhan ekonomi daerah.
+Pengembangan tepi laut ini bertujuan agar bisa meningkatkan jumlah pengunjung pada objek wisata tersebut, sebagaimana \cite{hoyle2001} menjelaskan keberhasilan suatu tepi laut ditandai dengan pengembangannya membawa penduduk kota untuk datang ke pesisir. Dengan begitu akan meningkatkan pertumbuhan ekonomi pada kawasan tersebut.
 Tepi laut senggol telah lama menjadi daya tarik wisata populer bagi masyarakat setempat. Tepi laut Senggol memiliki pemandangan yang sangat indah. Pemandangan sebuah teluk menjadi ciri khas daerah ini. Selain itu, pengunjung juga tertarik untuk berwisata kuliner yang ditemani dengan kombinasi pemandangan elemen daratan dan air. Pelaku utama yang mendukung daya tarik tersebut adalah pedagang kaki lima yang bertahan dari dulu hingga saat ini. Setelah berwisata kuliner, banyak pengunjung yang menghabiskan sisa waktunya untuk berenang di tepi laut. Menurut \cite{davidowich1998}, bagian yang terpenting dalam pengembangan tepi laut adalah kemampuan pengunjung untuk berinteraksi dengan air. Selain berenang, aktivitas rekreasi seperti memancing dan mencari kepiting membutuhkan akses ke air \citep{gordon1996}. Penggunaan beragam dapat berkontribusi terhadap kesuksessan strategi berkelanjutan \citep{eldeeb2015}.
 
 % def Preferensi ruang
@@ -109,9 +110,17 @@ Abad 21 ini, Parepare menitikberatkan pembangunan kota dalam aspek kepariwisataa
 Hal ini didasari karena lokasi kota Parepare yang sangat strategis dimana menghubungkan dengan sejumlah kota wisata lainnya di Sulawesi Selatan (Sulsel) \citep{junaid2016}, seperti Toraja, Bulukumba, Makassar, dan Palopo.
 Salah satu objek pariwisata yang menonjol di kota Parepare adalah tepi laut Senggol. Tepi laut ini merupakan kawasan strategis kota Parepare sehingga menarik perhatian semua pihak dalam masyarakat khususnya penentu kebijakan.
 
-Pada tahun 2011, kota Parepare memulai perencanaan penataan kawasan tepi laut senggol. Penataan ini membagi kawasan menjadi dua macam ruang yang berbeda. Penelitian ini menyebut ruang yang satu sebagai ruang A, sedangkan ruang lainnya adalah ruang B. Kedua ruang ini memiliki perbedaan yang cukup signifikan dilihat dari pelaku utama yang menjajakan makanan, pengaturan elemen-elemen, sifat-sifat elemen ruang, dan lain-lain. Akan tetapi, kebanyakan, ruang A dikenal dengan tatanan dan elemen buatan yang terbaru sedangkan ruang B dikenal dengan tatanan yang hampir sama dengan yang dulu dan bersifat lebih alami.
-Oleh sebab itu, orang dapat memilih ruang satu daripada ruang lainnya.
-Hal ini dapat menyebabkan ruang yang jarang dipilih orang lambat laun akan terbengkalai. Agar kedua ruang tersebut memiliki potensi yang sama untuk dipilih, maka mengetahui kebutuhan masyarakat terhadap ruang adalah sangat penting. Menurut \cite{madureira2018}, pemahaman terkait preferensi orang terhadap ruang akan memberitahu kebutuhan masyarakat. Berdasarkan permasalahan itu, penelitian ini menganalisis preferensi pengunjung terhadap ruang. Maka penelitian ini akan menjawab sejumlah pertanyaan penelitian sebagai berikut:
+Pada tahun 2011, kota Parepare memulai perencanaan pengembangan kawasan tepi laut senggol.
+Pengembangan ini membagi kawasan menjadi dua bagian ruang yang berbeda.
+Penelitian ini menyebut ruang yang satu sebagai ruang A, sedangkan ruang lainnya adalah ruang B. Kedua ruang ini memiliki perbedaan yang cukup signifikan dilihat dari pelaku utama yang menjajakan makanan, pengaturan elemen-elemen, sifat-sifat elemen ruang, dan lain-lain. Umumnya ruang A dikenal dengan tatanan dan elemen buatan yang mewah dan penuh elemen buatan sedangkan ruang B dikenal dengan tatanan yang terlihat lebih alami dengan sedikit elemen buatan.
+Dengan demikian, pengembangan ini memunculkan dua kondisi yang kontras sehingga orang berkesempatan memilih ruang satu daripada lainnya. %Ini dapat menyebabkan ketidakselarasan dalam satu kawasan dimana ruang satu terlihat lebih berhasil menarik pengunjung daripada yang lainnya.
+Dalam waktu tertentu, ketidakselarasan dapat terjadi pada kawasan tepi laut senggol dimana ruang satu terlihat lebih berhasil menarik pengunjung daripada yang lainnya.
+Oleh karena itu, mengetahui preferensi pengunjung pada masing-masing ruang tersebut adalah penting \citep{madureira2018}. \cite{madureira2018} menambahkan, pengetahuan terkait preferensi pengunjung terhadap ruang akan menjelaskan kebutuhan pengunjung dalam merancang ruang publik kedepan yang efektif.
+Berdasarkan permasalahan itu, penelitian ini menganalisis preferensi pengunjung terhadap ruang. Maka penelitian ini akan menjawab sejumlah pertanyaan penelitian sebagai berikut:
+
+%Agar kedua ruang tersebut memiliki kesalarasan dalam suatu kawasan maka mengetahui kebutuhan masyarakat di tiap-tiap ruang adalah penting.
+%Untuk mengetahui potensi dari keduanya agar memberikan keselarasan pada kawasan ini maka perlu mengetahui kebutuhan masyarakat.
+%Menurut \cite{madureira2018}, pemahaman terkait preferensi orang terhadap ruang akan memberitahu kebutuhan masyarakat. Berdasarkan permasalahan itu, penelitian ini menganalisis preferensi pengunjung terhadap ruang. Maka penelitian ini akan menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 %Pengetahuan tentang kebutuhan orang terhadap ruang tepi laut akan membantu kedua ruang ini.Untuk mengatasinya maka perlu pengetahuan tentang preferensi masyarakat terhadap ruang tepi laut agar kedua ruang dapat memenuhi kebutuhan masyarakat. Berdasarkan permasalahan tersebut, penelitian ini akan membahas preferensi pengunjung terhadap ruang di kawasan tepi laut Senggol. Berangkat dari permasalahan ini, maka mengetahui kebutuhan masyarakat terhadap tepi laut Senggol adalah penting. Untuk Dengan begitu, penelitian ini akan menganalisis preferensi pengunjung terhadap ruang dan elemen-elemen di kawasan tersebut. Menurut sejumlah penelitian, orang lebih menyukai ruang yang alami dibandingkan dengan ruang binaan \citep{zhang2006, swanwick2009, kaplan1998}. Padahal kedua ruang pada tepi laut Senggol ini memiliki
 
@@ -1112,7 +1121,7 @@ Lokasi ruang A berada di bagian selatan kawasan tepi laut Senggol. Sehingga berd
     \label{fig:mapsra-lg}
 \end{figure}
 
-\begin{longtable}{p{.05\textwidth} m{.3\textwidth} m{.2\textwidth} m{.3\textwidth}}
+\begin{longtable}{p{.05\textwidth} m{.3\textwidth} m{.25\textwidth} m{.25\textwidth}}
 	\caption{Bangunan Sekitar Ruang A} \\
 	\caption*{Sumber: Analisis, 2022 } \\
 	\label{tab:objsa} \\
@@ -1125,18 +1134,18 @@ Lokasi ruang A berada di bagian selatan kawasan tepi laut Senggol. Sehingga berd
 \midrule
 2. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/ser} Balai Habibie Ainun
-    \end{center} & Gedung Serbaguna & Pertemuan\\
+  \end{center} & Gedung Serbaguna & \specialcell{Pertemuan\\Pameran}\\
 \midrule
 
 3. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/jat} Lapangan Jati Diri
-    \end{center} & Lapangan basket &\\
+  \end{center} & Lapangan basket & \specialcell{Bermain basket\\ Menonton}\\
 \midrule
 
 
 4. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/alun} Alun-alun Andi Makassau
-    \end{center} & Bermain &\\
+  \end{center} & Lapangan & \specialcell{Bermain\\Olahraga\\Berdagang} \\
 
 \bottomrule
 \end{longtable}
@@ -1399,7 +1408,7 @@ Ruang B berada pada bagian utara kawasan tepi laut Senggol. Ruang ini juga berde
 \end{figure}
 
 \begin{longtable}{p{.05\textwidth} m{.3\textwidth} m{.2\textwidth} m{.3\textwidth}}
-	\caption{Bangunan Sekitar Objek Penelitian} \\
+	\caption{Bangunan Sekitar Ruang B} \\
 	\caption*{Sumber: Analisis, 2022 } \\
 	\label{tab:objsb} \\
     No & Bangunan & Fungsi & Aktivitas\\
@@ -1410,7 +1419,7 @@ Ruang B berada pada bagian utara kawasan tepi laut Senggol. Ruang ini juga berde
 \midrule
 2. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/per} Perpustakaan Habibie
-    \end{center} & Perpustakaan & Pendidikan\\
+  \end{center} & Perpustakaan & \specialcell{Membaca\\Pinjam buku\\Diskusi}\\
 \midrule
 3. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/han} Hanstom
@@ -1418,7 +1427,7 @@ Ruang B berada pada bagian utara kawasan tepi laut Senggol. Ruang ini juga berde
 \midrule
 4. &  \begin{center}
       \includegraphics[width=\linewidth]{figures/mas} Masjid Raya
-    \end{center} & Tempat Ibadah & Shalat\\
+  \end{center} & Tempat Ibadah & \specialcell{Shalat\\Berdoa\\Diskusi}\\
 \bottomrule
 \end{longtable}
 \newpage
@@ -1609,7 +1618,7 @@ Pada bagian ini juga menjelaskan pembagian responden berdasarkan jenis pekerjaan
 \newpage
 \section{Ruang yang Paling Disukai }
 \label{sub:prefspace}
-Berdasarkan respon ruang yang disukai dari tepi laut Senggol, terdapat 85 total responden. Dari total responden tersebut 59\% (47) responden menyukai ruang A dan 41\% (33) responden menyukai ruang B (lihat gambar \ref{fig:pcr}).
+Berdasarkan respon ruang yang disukai dari tepi laut Senggol, terdapat 85 total responden. Dari total responden tersebut 59\% (56) responden menyukai ruang A dan 41\% (29) responden menyukai ruang B (lihat gambar \ref{fig:pcr}).
 
 \pieChartRuang
 
@@ -1795,7 +1804,7 @@ Kontribusi aspek fasilitas juga terlihat pada ruang B. Aktivitas yang ada pada r
 \subsection{Perbedaan Keragaman Preferensi terhadap Aspek Diantara Kelompok}
 \label{sub:prefaspkel}
 
-Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, keseluruhan data crosstabulasi preferensi dibagi perkelompok berdasarkan gender, usia dan suku. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
+Pada tinjauan pustaka (lihat subbab: \ref{sub:pref}), Carmona dan rekan-rekannya menunjukkan bahwa faktor seperti gender, usia, dan latar belakang budaya dapat mempengaruhi preferensi terhadap ruang. Oleh karena itu, pada penelitian ini, keseluruhan data crosstabulasi preferensi dibagi perkelompok berdasarkan gender, usia, suku dan pendidikan. Kemudian tingkat preferensi diantara kelompok tersebut digambarkan menggunakan biplot.
 
 \subsection*{Keragaman Preferensi  Dipengaruhi oleh Gender}
 Keragaman preferensi terhadap ruang berdasarkan aspek diantara laki-laki dan peremuan dianalisis berdasarkan tabel \ref{tab:xtpaG} dan hasil analisis MDP digambarkan menggunakan biplot pada gambar \ref{fig:bragen}. Hasil mengindikasikan keragaman preferensi diantara responden laki-laki dan perempuan adalah hampir sama.
@@ -1950,7 +1959,7 @@ Pada ruang B, tidak tersedianya jalan pedestrian membuat orang menggunakan bahu 
 
 \subsection{Perbedaan Keragaman Preferensi terhadap Elemen Ruang Diantara Kelompok}
 \label{sub:prefelekel}
-Sama seperti keragaman preferensi terhadap aspek, keseluruhan data crosstabulai preferensi terhadap elemen-elemen dibagi berdasarkan kelompok: gender, usia dan suku. Keragaman preferensi dari bermacam kelompok kemudian diilustrasikan mengunaakan Biplot.
+Sama seperti keragaman preferensi terhadap aspek, keseluruhan data crosstabulai preferensi terhadap elemen-elemen dibagi berdasarkan kelompok: gender, usia, suku dan pendidikan. Keragaman preferensi dari bermacam kelompok kemudian diilustrasikan mengunaakan Biplot.
 
 \subsection*{Keragaman Preferensi Dipengaruhi oleh Gender}
 
