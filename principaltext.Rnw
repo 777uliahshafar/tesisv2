@@ -115,7 +115,8 @@ Pengembangan ini membagi kawasan menjadi dua bagian ruang yang berbeda.
 Penelitian ini menyebut ruang yang satu sebagai ruang A, sedangkan ruang lainnya adalah ruang B. Kedua ruang ini memiliki perbedaan yang cukup signifikan dilihat dari pelaku utama yang menjajakan makanan, pengaturan elemen-elemen, sifat-sifat elemen ruang, dan lain-lain. Umumnya ruang A dikenal dengan tatanan dan elemen buatan yang mewah dan penuh elemen buatan sedangkan ruang B dikenal dengan tatanan yang terlihat lebih alami dengan sedikit elemen buatan.
 Dengan demikian, pengembangan ini memunculkan dua kondisi yang kontras sehingga orang berkesempatan memilih ruang satu daripada lainnya. %Ini dapat menyebabkan ketidakselarasan dalam satu kawasan dimana ruang satu terlihat lebih berhasil menarik pengunjung daripada yang lainnya.
 Dalam waktu tertentu, ketidakselarasan dapat terjadi pada kawasan tepi laut senggol dimana ruang satu terlihat lebih berhasil menarik pengunjung daripada yang lainnya.
-Oleh karena itu, mengetahui preferensi pengunjung pada masing-masing ruang tersebut adalah penting \citep{madureira2018}. \cite{madureira2018} menambahkan, pengetahuan terkait preferensi pengunjung terhadap ruang akan menjelaskan kebutuhan pengunjung dalam merancang ruang publik kedepan yang efektif.
+Menurut \cite{sari2015}, tidak meratanya tingkat keramaian pada suatu kawasan tepi laut membuat keseluruhan kawasan menjadi tidak optimal.
+Oleh karena itu, mengetahui preferensi pengunjung pada masing-masing ruang tersebut adalah penting \citep{madureira2018}. \cite{madureira2018} menjelaskan pengetahuan terkait preferensi pengunjung terhadap ruang akan menjelaskan kebutuhan pengunjung dalam merancang ruang publik kedepan yang optimal.
 Berdasarkan permasalahan itu, penelitian ini menganalisis preferensi pengunjung terhadap ruang. Maka penelitian ini akan menjawab sejumlah pertanyaan penelitian sebagai berikut:
 
 %Agar kedua ruang tersebut memiliki kesalarasan dalam suatu kawasan maka mengetahui kebutuhan masyarakat di tiap-tiap ruang adalah penting.
@@ -1071,6 +1072,7 @@ Menurut \cite{bpskotaparepare2020} pada tahun 2018, kecamatan Ujung memiliki jum
 Berdasakan \cite{dauwani2015} permukiman warga berpusat di pesisir laut menyebar ke area perbukitan meliputi kecamatan Ujung, Soreang, Bacukiki Barat. Sedangkan daerah lainnya yaitu bagian tengah untuk perkebunan dan pertanian dan bagian tenggara untuk kawasan hutan. Oleh karena kecamatan ini didominasi oleh permukiman maka ruang publik menjadi kebutuhan masyarakat baik segi ekonomi maupun kesejahteraan sosial.
 Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol ini merupakan kawasan strategis kota (KSK) untuk pengembangan PKL dalam kepentingan pertumbuhan ekonomi.
 
+
 \begin{figure}[htpb]
     \centering
     \includegraphics[width=0.84\textwidth]{figures/lokzi3}
@@ -1079,23 +1081,15 @@ Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol i
     \label{fig:lokzi3}
 \end{figure}
 
-
-\begin{figure}[htbp]
-\centering
-\begin{subfigure}[b]{.85\textwidth}
-    \centering\includegraphics[width=1\linewidth, trim={0cm 1cm 0cm 5cm}, clip]{figures/ra}
-\caption{Ruang A}
-\end{subfigure}\vspace{3cm}
-
-\begin{subfigure}[b]{.85\textwidth}
-\centering\includegraphics[width=1\linewidth]{figures/rb}
-\caption{Ruang B}
-\end{subfigure}\vspace{7pt}
-
-\caption{Foto Ruang}
-\caption*{Sumber: Dokumentasi, 2022}
-\label{fig:fotr}
+\begin{landscape}
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[height=\textheight]{figures/blockmaptes}
+    \caption{Peta digital penelitian}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:lokzi4}
 \end{figure}
+\end{landscape}
 
 \section{Ruang A}
 
@@ -1115,7 +1109,7 @@ Lokasi ruang A berada di bagian selatan kawasan tepi laut Senggol. Sehingga berd
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=0.6\textwidth]{figures/mapsra-lg}
+    \includegraphics[width=0.62\textwidth]{figures/mapsra-lg}
     \caption{Bangunan Sekitar Objek}
     \caption*{Sumber: Analisis, 2022}
     \label{fig:mapsra-lg}
@@ -1151,6 +1145,15 @@ Lokasi ruang A berada di bagian selatan kawasan tepi laut Senggol. Sehingga berd
 \end{longtable}
 
 \subsection{Pepohonan}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petaphna}
+    \caption{Peta Digital Pepohonan}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petaphna}
+\end{figure}
+
 
 Pepohonan dapat berperan sebagai naungan dalam menciptakan dan merekayasa lingkungan yang sesuai dengan kebutuhan kenyamanan termal pengguna suatu lingkungan. Apabila ruang A ingin digunakan tanpa henti seiring perputaran matahari, maka area yang membutuhkan tempat teduh adalah tempat makan dan jalan setapak. Mengingat kedua tempat tersebut merupakan area utama dari ruang A.
 
@@ -1228,6 +1231,15 @@ Pohon yang merupakan vegetasi sangat baik dalam memberikan naungan. Selain sebag
 \end{figure}
 
 \subsection{Jalan}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petapedea}
+    \caption{Peta Digital Jalan Setapak}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petapedea}
+\end{figure}
+
 
 \begin{figure}[htpb]
     \centering
@@ -1311,6 +1323,14 @@ Pengunjung dapat mengakses jalan setapak sekaligus panorama laut melalui sejumla
 
 \subsection{Tempat duduk dan orientasi}
 
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petakura}
+    \caption{Peta Digital Tempat duduk}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petakura}
+\end{figure}
+
 Kedai makanan merupakan pusat kegiatan ekonomi pada tepi laut Senggol. Sehingga tempat ini merupakan sarana yang menyediakan tempat duduk atau meja makan di sekitar ruang A. Total kedai makanan yang ada adalah sebanyak lima buah. Satu kedai makanan terbilang cukup luas dengan ukuran 8m x 20.8m (lihat gambar \ref{fig:pln}).
 
 Kelima kedai makanan ini mempunyai tampak depan yang serupa seperti pada gambar \ref{fig:tmpka}. Terlihat pada gambar bukaan \textit{(opening)} masing-masing kedai sangat lebar. Ini mengakibatkan sirkulasi udara menjadi sangat baik dan pemandangan keluar kedai bebas halangan.
@@ -1349,6 +1369,14 @@ Satu-satunya orientasi elemen yang fleksibel adalah tempat duduk. Elemen seperti
 %% Lebih lanjut, pembatas antara jalan setapak dan air seringkali dijadikan meja makan. Lebar pembatas ini adalah kurang lebih 82 cm, hampir sama dengan ukuran meja. untuk ruang B
 
 \subsection{Lampu}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petalampa}
+    \caption{Peta Digital Titik Lampu}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petalampa}
+\end{figure}
 
 Lampu merupakan sumber penerang tambahan saat senja maupun malam hari. Dengan adanya penerang sebuah ruang, aktivitas pada malam hari dapat berjalan dengan lancar. Oleh karena itu, penerangan yang cukup merupakan hal yang penting dalam sebuah ruang publik.
 
@@ -1434,6 +1462,14 @@ Ruang B berada pada bagian utara kawasan tepi laut Senggol. Ruang ini juga berde
 
 \subsection{Pepohonan}
 
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petaphnb}
+    \caption{Peta Digital Pepohonan}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petaphnb}
+\end{figure}
+
 Pepohonan memiliki andil dalam membantu meneduhkan area di sepanjang ruang B ini. Pohon-pohon tersebut tumbuh di pinggir jalan. Sebelah barat jalan, pohon-pohon ini memiliki jarak yang cukup jauh sekitar 3-5 meter. Ini memastikan pengunjung dengan mudah masuk ke area PKL. Berbeda dengan ruang A, ruang B memiliki pohon yang sangat berdekatan dengan bangunan utama yaitu PKL. Sehingga PKL terbilang cukup teduh oleh karena pepohonan.
 Sedangkan sebelah timur jalan, pohon-pohon adalah rindang tetapi jarang.
 
@@ -1474,6 +1510,14 @@ Secara keseluruhan, ruang B lebih terlihat alami dengan kerapatan pepohonan dan 
 \end{table}
 
 \subsection{Jalan}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petapedeb}
+    \caption{Peta Digital Jalan Setapak}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petapedeb}
+\end{figure}
 
 Secara umum, jalan lokal ruang B merupakan terusan dari jalan lokal A. Sehingga kondisi fisiknya seperti lebar jalan dan trotoarnya hampir sama. Hanya saja ruang ini hanya memiliki satu bagian jalan saja (tanpa disertai median). Kedua sisi dari jalan ini memiliki fungsi yang berbeda, sisi sebelah timur untuk trotoar satunya lagi untuk gerobak PKL (pedagang kaki lima). Adapun gambaran struktur jalan lokal ruang B seperti gambar \ref{fig:jlb}.
 
@@ -1518,6 +1562,14 @@ Sementara itu, pemerintah tidak hanya meninggalkan tempat untuk pedagang tanpa p
 
 \subsection{Tempat duduk dan orientasi}
 
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petakurb}
+    \caption{Peta Digital Tempat duduk}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petakurb}
+\end{figure}
+
 PKL merupakan bagian dari ekonomi marginal (kecil-kecilan) yang termasuk dalam sektor informal \citep{rasdiana2013}. \citeauthor{rasdiana2013} menuturkan kemunculan PKL ini dipicu oleh keberhasilan pasar Senggol dalam menarik pengunjung.
 Seiring perkembangan kawasan di Pasar Senggol, pemerintah turut membantu PKL dalam menjalankan usaha. Salah satunya adalah dengan memperbaiki lantai, atap dan dinding (pembatas laut).
 
@@ -1552,6 +1604,14 @@ Ukuran RTP tersebut cukup luas yaitu 18 m x 15 m. RTP ini bertingkat dua. Semua 
 Pada umumnya, material yang ada di RTP ini merupakan \textit{`hardscape'}. Pada tingkat dasar, material yang digunakan adalah plesteran dengan motif bata beton. Sedangkan pada tingkat dua, lantainya menggunakan keramik abu-abu berukuran 40 cm x 40 cm. Hampir semua permukaan pada RTP ini menggunakan plesteran, termasuk pada \textit{benches}.
 
 \subsection{Lampu}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.62\textwidth]{figures/petalampb}
+    \caption{Peta Digital Titik Lampu}
+    \caption*{Sumber: Analisis, 2022}
+    \label{fig:petalampb}
+\end{figure}
 
 Secara keseluruhan, pencahayaan pada ruang B adalah remang- remang. Ini dikarenakan pencahayaan hanya bergantung pada 2 lampu jalan lokal yang masing-masing berjarak 40 meter. Adapun pencahayaan yang cukup terang ada pada tempat makan PKL. Hal ini disebabkan karena masing-masing PKL menyediakan lampu sendiri pada tempat jualannya seperti yang dilihat pada gambar \ref{fig:lmpub}.
 
@@ -2079,6 +2139,23 @@ Untuk yang berpendidikan perguruan tinggi, ruang A dipengaruhi oleh tingkat caha
 \end{figure}
 
 
+\section{Pemaknaan}
+Jika \cite{sari2015} menyebut bahwa untuk menciptakan tepi laut yang hidup dan ramai membutuhkan suatu upaya, maka upaya yang utama adalah memenuhi kebutuhan pengunjung melalui pengetahuan preferensi mereka terhadap ruang publik itu sendiri. Pengembangan yang telah diselesaikan beberapa waktu lalu menghasilkan konsep desain tersendiri. Terdapat dua ruang yang berbeda secara karakter atau sifat fisiknya. Ruang tersebut adalah ruang A dan B.
+Lebih lanjut, ruang tersebut dalam waktu tertentu memiliki jumlah pengunjung yang berbeda.
+Dalam penelitian ini, kebanyakan pengunjung memiliki preferensi terhadap ruang A. Ini menggambarkan jumlah pengunjung terhadap ruang A lebih dominan, sebagaimana \cite{grilli2020} mengindikasikan preferensi terhadap ruang publik meningkatkan potensi kunjungan.
+
+Tingkat keramaian yang tidak merata mengakibatkan keseluruhan kawasan menjadi tidak optimal \citep{sari2015}. Aspek Fasilitas memerankan peran penting dalam preferensi pengunjung terhadap ruang dan tingkat keramaiannya.
+Kebanyakan orang memilih kedua ruang karena aspek fasilitas. Meskipun demikian, aspek ini lebih berkontribusi terhadap ruang A. Hal ini menjadi salah satu penyebab ruang B kurang dipilih. Apabila dibandingkan, fasilitas pada ruang A lebih tertata rapi dibanding ruang B. Orang dapat duduk-duduk, makan, melihat-lihat, mengobrol dan memancing dalam suasana yang nyaman, aman dan bersih. Berbeda dengan ruang B, meskipun tempat ini juga memiliki beragam fasilitas didalamnya. Beberapa diantaranya adalah makan, mengobrol, melihat-lihat, memancing bahkan berenang.
+Orang memilih ruang ini karena aspek fasilitas lebih sedikit dibanding ruang A.
+%Akan tetapi, ruang ini kurang dipilih oleh pengunjung dengan alasan aspek fasilitas dibanding ruang A.
+Ini mungkin karena ruang B kurang tertata atau tidak terencana dengan baik untuk aspek fasilitasnya. Sebagai contoh, ruang pribadi \textit{(personal space)} dari ruang ini adalah sangat kurang. Jarak antara meja makan satu dan lainnya berkisar satu meter saja. Selain itu, meja yang tersedia adalah meja yang berukuran panjang. Meja tersebut tidak dapat diatur untuk pengunjung yang datang dengan kelompok yang lebih kecil. Dengan demikian, hal itu membatasi pengunjung untuk memanfaatkan fasilitas dengan sepenuhnya. Peran penting lainnya adalah aspek aksesibilitas. Sama halnya dengan aspek fasilitas, aspek ini lebih berkontribusi terhadap ruang A dibanding ruang B. Jelas, ruang A memiliki aksesibilitas yang lebih baik disebabkan oleh jalan pedestrian yang direncana dengan baik. Sementara itu, ruang B menggunakan bahu jalan raya sebagai jalan untuk pedestrian.
+Keterbatasan ini mendorong pengunjung lebih memilih ruang A dibanding ruang B. Selain itu, dapat menyebabkan keseluruhan kawasan menjadi tidak optimal.
+
+Tingginya aspek fasilitas sebagai alasan dalam memilih ruang dalam penelitian ini mendukung sejumlah penelitian terkait preferensi ruang publik khususnya tepi laut. \cite{wang2020} menemukan orang menyukai ruang bersantai \textit{indoor} dan pertunjukan atau pameran suatu tema. Kedua elemen ruang tersebut merupakan bagian dari aspek fasilitas. Dimana terdapat hubungan antara aktivitas dan ruang.
+
+%penelitian lainnya
+
+%Sama seperti penelitian lainnya, penelitian ini tidak mengungkap elemen tepi laut secara khusus.
 
 
 
