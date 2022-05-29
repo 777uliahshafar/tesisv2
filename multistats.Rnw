@@ -7,6 +7,7 @@ set_parent("thesis.Rnw")
 %library(xtable)
 %require(summarytools)
 %library(kableExtra)
+%library(dplyr)
 %df <- read.table("csv/descriptiveCSV.csv", sep = ";", header = TRUE)
 <<mResFre, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
 
@@ -870,6 +871,35 @@ xtpfP <- round(100 * prop.table(xtpfP), 0)
 \end{tabular}
 \end{table}
 }
+
+
+<<mResEleFre, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
+
+mrpe <- data.frame(
+  Frek = colSums(df[11:18]),
+  Pct.Resp = (colSums(df[11:18]) / sum(df[11:18])) * 100,
+  Pct.Kasus = (colSums(df[11:18]) / nrow(df[11:18])) * 100
+)
+
+mrpe <- cbind(Elemen = rownames(mrpe), mrpe)
+rownames(mrpe) <- NULL
+
+mrpe <- mrpe %>% mutate(across(where(is.numeric), round, 2))
+
+total <- c(size = "total", apply(mrpe[, -1], FUN = sum, MAR = 2))
+mrpe_pro <- rbind(mrpe, total)
+
+comm <- paste0("\\hline \n \\multicolumn{4}{l}",
+               "{\\scriptsize{sumber: Analisis,2022 }} \n")
+
+cat(paste("\\newcommand{\\mrpafre}{\n", sep=""))
+print(xtable(mrpe_pro, align ="llldd" , hline = TRUE,
+             row.labels = TRUE, percent = FALSE,
+             caption = "Frekuensi Elemen", label="tab:mrpaF"),
+      booktabs = TRUE, include.rownames = FALSE, caption.placement="top",add.to.row = list(pos = list(5), command = comm), sanitize.text.function = function(x) x,)
+cat(paste("}\n"))
+
+@
 
 
 <<mResEle, eval=F, echo= F, error= F, message= F, results= "asis", warning= F, cache=F,fig.path="../figures/",fig.width=4, fig.height=4, autodep= T>>=
