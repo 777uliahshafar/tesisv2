@@ -194,6 +194,8 @@ labelfont={bf},
 font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 \setlength\belowcaptionskip{-10pt} %Reduce spacing caption figures
 
+\usepackage[section]{placeins} %let image in their section
+
 
 %\setkeys{Gin}{draft} %Render image for draft
 

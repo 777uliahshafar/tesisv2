@@ -1388,7 +1388,7 @@ Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan yang biasa disebut senggol i
 
 \begin{figure}[htpb]
     \centering
-    \includegraphics[width=0.97\textwidth]{figures/lokzi3}
+    \includegraphics[width=0.70\textwidth]{figures/lokzi3}
     \caption{Peta lokasi penelitian}
     \caption*{Sumber: Analisis, 2022}
     \label{fig:lokzi3}
