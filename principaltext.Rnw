@@ -372,9 +372,9 @@ Tersedianya tepi laut adalah solusi yang pas untuk memenuhi kebutuhan baru masya
 Ruang rekreasi merupakan komponen penting pada pinggir jalan utama tepi laut \textit{(boelevard)} \citep{dong2004}. \cite{dong2004} menjelaskan pengembangan menuju ruang rekreasi tepi laut akan meningkatkan keunggulan bersaing yang unik dan jelas.
 Hingga saat ini, banyak tepi laut memusatkan perhatian pengembangannya pada ruang rekreasi dan juga penggunaan campuran \textit{(mixed-use)}. Pengembangan tersebut terjadi di beberapa negara maju seperti Malaysia dan Spanyol \citep{yassin2010, vayona2011}.
 
-\cite{zhang2006} mendefinisikan ruang rekreasi sebagai ruang terencana untuk aktivitas bersantai, dimana semua tampak, bangunan dan aktivitas bercampur dengan lanskap lokal dan berdasarkan tema tertentu. Orang menghubungkan sejumlah aktivitas bersantai, jajaran kedai makanan, dan jalan pedestrian dengan ruang rekreasi tepi laut. \cite{vayona2011} mengindikasikan ruang rekreasi pada tepi laut menjelaskan preferensi sedang. Selanjutnya, Fegence dalam \cite{dong2004} membagi dua macam penggunaan ruang rekreasi secara umum yaitu penggunaan sisi darat dan sisi laut. Penggunaan sisi darat memunculkan taman piknik, jalan pedestrian, jalan sepeda, taman tepi laut, tempat makan-makan. Sedangkan penggunaan sisi laut memunculkan olahraga laut, layanan perahu \textit{(speedboat)}, dan kedai makanan yang mengambang.
+\cite{zhang2006} mendefinisikan ruang rekreasi sebagai ruang terencana untuk aktivitas bersantai, dimana semua tampak, bangunan dan aktivitas bercampur dengan lanskap lokal dan berdasarkan tema tertentu. Orang menghubungkan sejumlah aktivitas bersantai, jajaran kedai makanan, dan jalan pedestrian dengan ruang rekreasi tepi laut. \cite{vayona2011} mengindikasikan ruang rekreasi pada tepi laut menjelaskan preferensi sedang. Selanjutnya, Fegence dalam \cite{dong2004} membagi dua macam penggunaan ruang rekreasi secara umum yaitu penggunaan sisi darat dan sisi laut. Penggunaan sisi darat memunculkan taman piknik, jalan pedestrian, jalan sepeda, taman tepi laut, tempat makan-makan. Sedangkan penggunaan sisi laut memunculkan olahraga laut, layanan perahu \textit{(speedboat)}, dan kedai makanan yang mengambang. Jenis ruang tepi laut rekreasi dapat dilihat seperti pada gambar \ref{fig:jrek}.
 
-\begin{figure}[htbp]
+\begin{figure}[ht]
 \centering
 \begin{subfigure}{6.2cm}
 \centering\includegraphics[width=5.6cm]{figures/rec}
@@ -394,7 +394,7 @@ Hingga saat ini, banyak tepi laut memusatkan perhatian pengembangannya pada ruan
 Menurut \cite{yassin2010}, tepi laut bermula dari ruang komersial, pusat perdagangan, dan pusat transportasi. Itu menyebabkan tepi laut menjadi populer di sejumlah kota sebelum mengalami penurunan.  Penurunan tersebut disebabkan oleh perubahan dari sisi transportasi dan pengiriman kontainer.
 Sekarang ini, ruang komersial kembali dipulihkan dengan cara menghubungkan tepi laut ke pusat kota untuk kepentingan publik. Oleh sebab itu, ruang komersial pada tepi laut dikembangkan.
 Banyak tepi laut yang berhasil berubah menjadi ruang komersial yang berhasil, khususnya perubahan dari sebuah industri pelabuhan \citep{tunbridge1992, dong2004}.
-Satu diantara tepi laut yang terkenal sebagai ruang komersial dan berhasil adalah \textit{Canada Place} di Vancouver, Canada \citep{vayona2011}.
+Satu diantara tepi laut yang terkenal sebagai ruang komersial dan berhasil adalah \textit{Canada Place} di Vancouver, Canada yang terlihat pada gambar \ref{fig:jkom} \citep{vayona2011}.
 
 Jenis ruang komersial selalu berdampingan dengan jenis ruang rekreasi tepi laut. Banyak orang yang berekreasi menghabiskan uang mereka pada tempat komersial yang meliputi kedai makanan, toko-toko, tukang cukur, dan toko oleh-oleh. Oleh sebab itu, ruang komersial pada sebuah tepi laut dipercaya mampu meningkatkan kevitalan sebuah tepi laut \citep{luan2018}. \cite{dong2004} mecontohkan Xinghai Bay sebagai pusat komersial internasional menyediakan konferensi dan pameran, perdagangan, pelancongan, dan rekreasi. Meskipun demikian, \cite{vayona2011} menjelaskan preferensi terhadap ruang komersial adalah terendah. Orang mengaitkan ruang komersial dengan toko-toko dan akuarium dan bukan pada restauran atau jalan pedestrian \citep{vayona2011}.
 
@@ -420,7 +420,7 @@ Ruang alamiah memiliki banyak manfaat untuk kehidupan perkotaan serta kesejahter
 
 Bagian yang terpenting adalah ruang alamiah tepi laut memiliki kecenderungan untuk dipreferensi lebih besar daripada jenis lainnya \citep{vayona2011}. Menurut \cite{vayona2011}, orang membayangkan tepi laut alamiah sebagai sesuatu yang berhubungan dengan jalan setapak, ekologi, bersantai dan akuarium.
 \cite{tunbridge1992} menjelaskan kedai makanan juga dipertimbangkan termasuk dalam tepi laut alamiah, sedangkan toko-toko dan bioskop tidak termasuk. Dia menerangkan bahwa orang masih mengira tepi laut alamiah apabila terdapat kedai makanan \textit{(restauran)}.
-Munculnya beragam aktivitas dekat dengan laut mengakibatkan orang membutuhkan pemandangan yang lebih baik. Hal itu berimbas pada penebasan pohon yang dapat menurunkan ekologi dan stabilitas tepi laut, dimana merusak ruang alamiah tepi laut. Untuk mengatasinya maka perlu memperhatikan keseimbangan antara ruang yang bersifat buatan dan alami \citep{permana2017}
+Munculnya beragam aktivitas dekat dengan laut mengakibatkan orang membutuhkan pemandangan yang lebih baik. Hal itu berimbas pada penebasan pohon yang dapat menurunkan ekologi dan stabilitas tepi laut, dimana merusak ruang alamiah tepi laut. Untuk mengatasinya maka perlu memperhatikan keseimbangan antara ruang yang bersifat buatan dan alami seperti yang ditunjukkan pada gambar \ref{fig:jlin} \citep{permana2017}
 
 \begin{figure}[htbp]
 \centering
@@ -443,7 +443,7 @@ Banyak tepi laut yang mendirikan bangunan perumahan pada tepi laut seperti tepi 
 Biasanya bangunan perumahan serta bangunan komersial dan perkantoran termasuk dalam suatu pengembangan campuran \textit{(mixed-use)}.
 
 Ruang perumahan tepi laut adalah salah satu diantara jenis tepi laut yang hanya terakses oleh sebagian kelompok orang. Meskipun demikian, orang memiliki preferensi tinggi terhadap ruang perumahan pada tepi laut \citep{vayona2011}. Pada penelitian yang dilakukan \citeauthor{vayona2011}, ruang perumahan berhubungan positif dengan kompleksitas laut seperti taman laut \textit{(marine park)}. Dimana kompleksitas laut tersebut menambah kemewahan pada suatu perumahan yang sudah tampak mewah \citep{vayona2011}.
-Hubungan positif lainnya ditunjukkan oleh rehabilitasi ekologi dimana itu akan memberi manfaat terhadap penghuni perumahan. Berbeda dengan jalan pedestrian, toko-toko, bersantai dan hotel berpotensi mengurangi privasi orang, sehingga mereka menunjukkan hubungan yang negatif terhadap ruang perumahan tepi laut.
+Hubungan positif lainnya ditunjukkan oleh rehabilitasi ekologi dimana itu akan memberi manfaat terhadap penghuni perumahan. Berbeda dengan jalan pedestrian, toko-toko, bersantai dan hotel berpotensi mengurangi privasi orang, sehingga mereka menunjukkan hubungan yang negatif terhadap ruang perumahan tepi laut. Perumahan tepi laut biasanya seperti yang dilihat pada gambar \ref{fig:jres}
 
 \begin{figure}[htbp]
 \centering
@@ -464,7 +464,7 @@ Hubungan positif lainnya ditunjukkan oleh rehabilitasi ekologi dimana itu akan m
 
 Orang menyukai bekerja dimana mereka dapat menikmati pemandangan yang indah \citep{permana2017}. Salah satu tempat yang dapat menyediakannya adalah tepi laut. Tempat ini memiliki panorama yang luas dan unik, keunikannya ini dapat berasal dari kompleksitas laut, tekstur laut, dan kecepatan ombak. Satu cara untuk menghadirkan ruang kerja tepi laut adalah dengan menyediakan penghubung antara bangunan bisnis menuju tepi laut. Dengan cara ini, kualitas bekerja orang dapat meningkat di saat bersamaan mengembangkan komersial dan katering sepanjang tepi laut \citep{luan2018}.
 
-\cite{vayona2011} menemukan ruang kerja menjelaskan preferensi sedang terhadap jenis ruang khususnya pada pengembangan tepi laut. Dia menjelaskan jenis ruang kerja berhubungan dengan pertokoan, olahraga, dan kompleksitas laut. Dalam hal ini pertokoan, pusat perbelanjaan akan mendukung aktivitas bekerja orang \citep{vayona2011}. Sama halnya fasilitas olahraga dianggap penting bagi orang yang bekerja dan juga kompleksitas laut yang dapat memberi kesan positif terhadap jenis ruang kerja \citep{vayona2011}.
+\cite{vayona2011} menemukan ruang kerja menjelaskan preferensi sedang terhadap jenis ruang khususnya pada pengembangan tepi laut. Dia menjelaskan jenis ruang kerja berhubungan dengan pertokoan, olahraga, dan kompleksitas laut. Dalam hal ini pertokoan, pusat perbelanjaan akan mendukung aktivitas bekerja orang \citep{vayona2011}. Sama halnya fasilitas olahraga dianggap penting bagi orang yang bekerja dan juga kompleksitas laut yang dapat memberi kesan positif terhadap jenis ruang kerja \citep{vayona2011}. Salah satu jenis ruang kerja tepi laut yang telah berhasil dapat dilihat pada gambar \ref{fig:jwor}.
 
 
 \begin{figure}[htbp]
@@ -484,9 +484,8 @@ Orang menyukai bekerja dimana mereka dapat menikmati pemandangan yang indah \cit
 
 %\subsubsection{Tepi Laut Sejarah}
 %Kesimpulan jenis ruang
+
 Tidak dipungkiri terbentuknya beragam macam ruang pada tepi laut merupakan akibat meningkatkan kebutuhan masyarakat terhadap perkotaan yang menyatu dengan laut. Penjelasan diatas menunjukkan setiap jenis-jenis ruang tepi laut memiliki andil dalam memenuhi kebutuhan masyarakat. Orang-orang memilih dan menyukai jenis ruang tertentu berdasarkan kebutuhan dan alasan tertentu. Jenis-jenis ruang tersebut setidaknya memiliki hubungan dengan elemen-elemen yang membentuknya. Seperti contoh, kedai makanan, toko, lampu jalan, pepohonan, kompleksitas laut, dan pusat perbelanjaan. Sehingga jenis ruang dapat teridentifikasi satu diantara yang lain.
-
-
 Penjelasan diatas menunjukkan bahwa setiap jenis ruang tersebut memiliki kelebihan dan kekurangan. Selain itu, mereka memiliki potensi untuk disukai oleh masyarakat.
 
 \section{Preferensi Ruang}
@@ -657,120 +656,7 @@ Oleh karena itu,  elemen-elemen ini adalah penting dimana akan memunculkan aktiv
 
 \end{itemize}
 
-Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada sebelas kelompok elemen pada ruang publik tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Pencahayaan jalan, Orientasi elemen, Tempat wisata air, Bangunan penunjang, dan Elemen air yang dapat dilihat pada tabel dibawah ini.
-
-\section{Variabel Penelitian}
-
-Berdasarkan kajian pustaka, penulis merumuskan variabel mengenai preferensi ruang di kawasan tepi laut. Dalam variabel ini, keempat aspek dan kesebelas elemen ruang tersebut digunakan untuk kepentingan pertanyaan survei. Dengan tujuan untuk menganalisis preferensi pengunjung terhadap ruang dan tatanannya. Sehingga hasilnya dapat berguna untuk perancangan dan pengelolaan tepi laut. Variabel penelitian dapat dilihat pada tabel \ref{tab:props}.
-
-\renewcommand{\arraystretch}{0.8}\setlength\tabcolsep{1.2pt}
-\begin{longtable}{p{.33\textwidth}R{1.2em} R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}R{1.2em}}
-	\caption{Variabel Penelitian}\\
-	\label{tab:props}\\
-\hline
-\rowcolor{White}
-\bfseries\diagbox[innerleftsep=10pt,innerrightsep=15pt,width=10em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Gender}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Laki-laki}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perempuan}}} &
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Usia}}}} &
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Remaja}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Dewasa}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Manula}}}&
-
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Suku}}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Bugis}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Non-bugis}}}&
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Pendidikan}}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{< SMA/sederajat}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{SMA/sederajat}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perguruan tinggi}}}\\
-\toprule
-\endfirsthead
-\caption{Variabel Penelitian \footnotesize{(samb.)}}\\
-\hline
-\rowcolor{White}
-\bfseries\diagbox[innerleftsep=10pt,innerrightsep=15pt,width=11em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Gender}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Laki-laki}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perempuan}}} &
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Usia}}}} &
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Remaja}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Dewasa}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Manula}}}&
-
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Suku}}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Bugis}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Non-bugis}}}&
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Pendidikan}}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{< SMA/sederajat}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{SMA/sederajat}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perguruan tinggi}}}\\
-\toprule
-\endhead
-\textbf{Aspek Ruang} &&&&&&&&&&&&&&\\
-Aksesibiltitas &&&&&&&&&&&&&&\\
-Keamanan &&&&&&&&&&&&&&\\
-Estetika &&&&&&&&&&&&&&\\
-Fasilitas &&&&&&&&&&&&&&\\
-
-\textbf{Elemen Ruang} &&&&&&&&&&&&&&\\
-
-\textit{Jumlah pohon}&&&&&&&&&&&&&&\\
-
-\quad\tabitems \small{Sedikit pohon} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Beberapa pohon} &&&&&&&&&&&&&&\\
-
-\textit{Bentuk pohon}&&&&&&&&&&&&&&\\
-
-\quad\tabitems \small{Cukup rindang} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Rindang} &&&&&&&&&&&&&&\\
-
-\textit{Lebar jalan}&&&&&&&&&&&&&&\\
-\quad\tabitems \small{1-3m} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{3m} &&&&&&&&&&&&&&\\
-
-\textit{Permukaan jalan}&&&&&&&&&&&&&&\\
-\quad\tabitems \small{Paving} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Aspal} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Tanah} &&&&&&&&&&&&&&\\
-
-\textit{Warna bunga/tanaman}&&&&&&&&&&&&&&\\
-\quad\tabitems \small{satu atau dua warna} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{tiga atau lebih warna} &&&&&&&&&&&&&&\\
-
-\textit{Jenis kursi}&&&&&&&&&&&&&&\\
-\quad\tabitems \small{Kursi bergerak} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Kursi dinding} &&&&&&&&&&&&&&\\
-
-\textit{Pencahayaan jalan}&&&&&&&&&&&&&&\\
-\quad\tabitems \small{Sedang} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Tinggi} &&&&&&&&&&&&&&\\
-
-\textit{Orientasi Elemen}  &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Membelakangi laut} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Menghadap laut} &&&&&&&&&&&&&&\\
-
-\textit{Tempat Wisata air}  &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Tempat memancing} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Tempat berenang} &&&&&&&&&&&&&&\\
-
-\textit{Bangunan penunjang}  &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Stan} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Kedai} &&&&&&&&&&&&&&\\
-
-\textit{Elemen air}  &&&&&&&&&&&&&&\\
-
-\quad\tabitems \small{Laut tenang} &&&&&&&&&&&&&&\\
-\quad\tabitems \small{Laut berombak} &&&&&&&&&&&&&&\\
-
-\bottomrule
-\end{longtable}
-Disamping kesebelas elemen tersebut, variabel penelitian menunjukkan aspek ruang yang dapat menjadi alasan mengapa orang memiliki preferensi terhadap ruang maupun elemen-elemennya. Dengan begitu, variabel ini melengkapi alur penelitian preferensi pengunjung terhadap ruang di kawasan tepi laut. Alur penelitian tersebut tergambarkan melalui kerangka konseptual penelitian (lihat gambar \ref{fig:conc}).
+Dari aspek aksesibilitas, estetika, keamanan dan fasilitas, dapat disimpulkan bahwa ada sebelas kelompok elemen pada ruang publik tepi laut. Beberapa diantara: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Warna bunga, Jenis kursi, dan Pencahayaan jalan, Orientasi elemen, Tempat wisata air, Bangunan penunjang, dan Elemen air. Masing-masing elemen tersebut memiliki sifat yang berpotensi disukai oleh pengunjung dan juga mendasari memilih ruang tertentu. Berdasarkan teori-teori diatas, maka peneliti merumuskan kerangka konseptual seperti pada gambar/kerangka \ref{fig:props}.
 
 \begin{figure}[htbp]
 \small
@@ -819,43 +705,7 @@ Disamping kesebelas elemen tersebut, variabel penelitian menunjukkan aspek ruang
 
 % \draw[thick,dashed] (-8.15, -20) rectangle (4.4, -7.8);
 
-    \node (elm) [below of=met, yshift= -5.8cm, xshift=1cm, text width= .8\textwidth] {\centering\textbf{Kerangka Indikator Variabel}
-
-            \begin{tabular}{p{.33\textwidth}p{1.2em} p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}p{1.2em}}
-\footnotesize
-\bfseries\diagbox[innerleftsep=10pt,innerrightsep=3pt,width=9em, height=3.3cm]{Elemen\\Ruang}{Pelaku} &
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Gender}}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Laki-laki}}} & {\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perempuan}}} &
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Usia}}}} &
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Remaja}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Dewasa}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Manula}}}&
-
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Suku}}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Bugis}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Non-bugis}}}&
-
-{\rotatebox[origin=c]{90}{\parbox[c]{3cm}{\textbf{Pendidikan}}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{< SMA/sederajat}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{SMA/sederajat}}}&
-{\rotatebox[origin=c]{90}{\parbox[c]{3.3cm}{Perguruan tinggi}}}\\
-\toprule
-\textbf{Aspek Ruang} &&&&&&&&&&&&&&\\
-Aksesibilitas &&&&&&&&&&&&&&\\
-\textit{dst...} &&&&&&&&&&&&&&\\
-\textbf{Elemen Ruang} &&&&&&&&&&&&&&\\
-Jumlah pohon &&&&&&&&&&&&&&\\
-\textit{dst...} &&&&&&&&&&&&&&\\
-\end{tabular}};
-
- \draw[thick,dashed] (-7.4, -15.9) rectangle (4.2, -7.8);
-
-  \path (2.92, -15.4) node(rec)[below left] {Variabel ini sebagai alat analisis untuk dilapangan};
-
-
-    \node (jun) [startstop, below of=elm, yshift= -4.6cm, text width= 4.5cm] {\textbf{Tepi laut Senggol}\\ Ruang A dan Ruang B};
+    \node (jun) [startstop, below of=met, yshift= -3cm, text width= 4.5cm] {\textbf{Tepi laut Senggol}\\ Ruang A dan Ruang B};
 
     \node (tem) [startstop, below of=jun, yshift= -.8cm, text width= 4.5cm] {Menghasilkan temuan preferensi pada ruang publik tepi laut};
 
@@ -875,14 +725,15 @@ Jumlah pohon &&&&&&&&&&&&&&\\
 
 \draw [arrow] (met) -- (ele);
 
-\draw [arrow] (rec) -- (jun);
-\draw [arrow] (elm) -- (rec);
+%\draw [arrow] (rec) -- (jun);
+%\draw [arrow] (elm) -- (rec);
 \draw [arrow] (jun) -- (tem);
 
 \end{tikzpicture}
 \caption{Kerangka Konseptual}
-\label{fig:conc}
+\label{fig:props}
 \end{figure}
+
 
 %%
 \begin{comment}
@@ -1336,6 +1187,70 @@ $$ = 82.6 \approx  85\, sampel $$
 Data ini merupakan informasi yang telah tersedia oleh pihak atau instansi lain. Data ini tidak memerlukan datang secara langsung ke objek penelitian melainkan mencari data sumber literatur dari buku, artikel penelitian, dan laporan instansi terkait yang berisikan informasi mengenai kawasan tepi laut senggol \citep{ary2017}. Untuk data yang bersifat kualitatif, data yang dikumpulkan berupa peta dan deskripsi mengenai keadaan sejarah, geografis dan administratif dan lain-lain tentang kota dan kawasan tepi laut senggol.
 Untuk data yang bersifat kuantitatif, data yang dikumpulkan berupa angka mengenai jumlah penduduk, luas, jumlah kecamatan, dimensi dan lain-lain tentang kota dan kawasan tepi laut senggol.
 
+\section{Variabel Penelitian}
+
+Variabel merupakan segala sesuatu, benda atau kejadian, yang peneliti pelajari untuk mendapatkan informasi sehingga dapat menarik suatu kesimpulan \citep{sugiyono2010}. Secara konseptual, variabel adalah konsep yang memiliki nilai yang bervariasi. Konsep dapat berarti jalan, pohon, kursi, bangunan dan lain-lain. Akan tetapi, itu belum memiliki nilai atau ukuran tertentu. Sedangkan istilah lebar jalan, jenis pohon, jenis kursi, permukaan jalan dan lain-lain telah memiliki ukuran atau nilai sehingga dapat disebut variabel \citep{sunanto2006}.
+Variabel tersebut dapat berjumlah satu (tunggal), atau lebih dari satu variabel \citep{soendari2012}.
+
+Penelitian ini menggunakan variabel tunggal. Menurut \cite{nawawi1996}, variabel tunggal hanya memunculkan variabel untuk dideskripsikan faktor atau unsur didalam setiap gejala dalam variabel tersebut. Tujuan menggunakan variabel ini adalah merumuskan objek penelitian dengan mudah. Variabel penelitian ini adalah preferensi pengunjung terhadap ruang publik tepi laut. Preferensi pengunjung terdiri atas sejumlah elemen ruang dan aspek ruang yang terangkum dalam tabel \ref{tab:varpar}.
+
+\begin{longtable}{p{.23\textwidth}p{.33\textwidth}m{.33\textwidth}}
+	\caption{Variabel Penelitian} \\
+	\caption*{Sumber: Analisis, 2022 } \\
+	\label{tab:varpar} \\
+\toprule
+\textbf{Variabel} & \textbf{Sub-Variabel} & \textbf{Indikator}  \\
+\midrule
+\multirow{2}{*}{Estetika} & \multirow{2}{*}{Jumlah pohon} & Sedikit pohon\\
+& & Beberapa pohon\\
+\cmidrule{2-3}
+
+Keamanan& \multirow{2}{*}{Bentuk pohon} & Cukup rindang\\
+Fasilitas& & Rindang\\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Aksesibilitas} & \multirow{2}{*}{Lebar jalan} & 1-3m\\
+& & 3m\\
+\cmidrule{2-3}
+
+
+\multirow{3}{*}{Aksesibilitas}& \multirow{3}{*}{Permukaan jalan} & Paving\\
+& & Aspal \\
+& & Tanah \\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Estetika} & \multirow{2}{*}{Warna bunga/tanaman} & satu atau dua warna\\
+& & tiga atau lebih warna\\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Fasilitas} & \multirow{2}{*}{Jenis kursi} & Kursi bergerak \\
+& & Kursi dinding \\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Keamanan}& \multirow{2}{*}{Tingkat cahaya} & Sedang\\
+& & Tinggi\\
+\cmidrule{2-3}
+
+Fasilitas & \multirow{2}{*}{Orientasi elemen} & Membelakangi laut\\
+Estetika & & Menghadap laut\\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Fasilitas} & \multirow{2}{*}{Tempat wisata air} & Tempat memancing\\
+& & Tempat berenang\\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Fasilitas} & \multirow{2}{*}{Bangunan penunjang} & Stan \\
+& & Kedai\\
+\cmidrule{2-3}
+
+\multirow{2}{*}{Estetika} & \multirow{2}{*}{Elemen air} & Laut tenang\\
+& & Laut berombang\\
+
+\bottomrule
+\end{longtable}
+
+
+
 \section{Metode Analisis Data}
 
 Pada proses ini, peneliti menganalisis data dari hasil survei kuesioner mengenai preferensi pengunjung terhadap ruang-ruang yang berkaitan dengan alasan memilih dan elemen-elemen yang disukai.
@@ -1345,7 +1260,7 @@ Sebelum melakukan analisis, maka penting untuk mereduksi data yang tersedia.
 Mereduksi data artinya melakukan pemilahan, penyederhanaan, pengabstakan dan perubahan data mentah yang muncul dari catatan yang tertulis di lapangan.
 Berdasarkan tujuan penelitian, terdapat dua pendekatan pengumpulan data pada penelitian ini yaitu kualitatif dan kuantitatif.
 Untuk data yang berfungsi kualitatif seperti kecenderungan dan deskripsi, peneliti berusaha memahami makna tema-tema dalam teks responden. Biasanya dengan cara memilih data yang cocok untuk dianalisis. Kemudian data tersebut dikategorisasikan sesuai dengan kriteria data yang didapatkan. Pada tahap selanjutnya adalah menganalisis data dengan variabel penelitian yang disusun secara deskriptif mengenai preferensi terhadap ruang publik di kawasan tepi laut.
-Untuk data yang bersifat kuantitatif, peneliti mempelajari hubungan antara variabel-variabel dengan menggunakan pendekatan \textit{cross-sectional}. Dari hasil pengisian kuesioner dilakukan analisis deskriptif dengan menggunakan crosstabulasi yang dikonfirmasikan dalam bentuk persentase dan narasi.
+Untuk data yang bersifat kuantitatif, peneliti mempelajari karateristik setiap variabel dengan menggunakan pendekatan \textit{cross-sectional}. Dari hasil pengisian kuesioner dilakukan analisis deskriptif dengan menggunakan crosstabulasi yang dikonfirmasikan dalam bentuk persentase dan narasi.
 Crosstabulasi merupakan teknik untuk meringkas kandungan informasi menjadi kelompok- kelompok kecil yang relevan dengan tujuan penelitian. Analisis ini menggunakan perangkat lunak analisis statistika R.
 Selanjutnya, hasil crosstabulasi digambarkan menggunakan teknik biplot (teknik analisis multivariat). Biplot dikenal memiliki keunggulan dalam menginterpretasikan komponennya dengan mudah. Pertama, korelasi antar observasi berhubungan dengan sudut yang dibentuk oleh vektor-vektor; kedua, korelasi antar objek berhubungan dengan jarak antar titik pada biplot; ketiga, nilai observasi dalam suatu objek berhubungan dengan proyeksi tegak lurus dari titik ke vektor. Hasil teknik biplot ini menggambarkan keragaman preferensi terhadap ruang dan juga diantara kelompok. Analisis multivariat ini menggunakan perangkat lunak minitab.
 
@@ -2295,7 +2210,7 @@ Untuk yang berpendidikan sarjana atau perguruan tinggi, ruang A mayoritas dipeng
 
 \newpage
 \section{Elemen yang Paling Disukai }
-Pada penelitian ini, responden diberi pilihan jenis-jenis elemen yang disediakan berdasarkan variabel penelitian (tabel \ref{tab:props}). Tujuan analisis ini adalah untuk memahami apa saja elemen sehingga pengunjung memilih ruang tertentu.
+Pada penelitian ini, responden diberi pilihan jenis-jenis elemen yang disediakan berdasarkan variabel penelitian (tabel \ref{tab:varpar}). Tujuan analisis ini adalah untuk memahami apa saja elemen sehingga pengunjung memilih ruang tertentu.
 Responden meluangkan waktu untuk memilih beberapa elemen yang mereka sukai. Jenis elemen yang disukai kemudian dicatat.
 
 \ctpeSingleEach
