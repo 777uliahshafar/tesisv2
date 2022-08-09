@@ -495,20 +495,22 @@ Penjelasan diatas menunjukkan bahwa setiap jenis ruang tersebut memiliki kelebih
 Berdasarkan Kamus Besar Bahasa Indonesia, preferensi adalah, 1 hak untuk didahulukan dan diutamakan daripada yang lain; prioritas; 2 pilihan; kecenderungan; kesukaan.
 \cite{devysandra2012} menjelaskan preferensi adalah kecenderungan dalam memilih sesuatu yang lebih disukai daripada yang lain. \cite{zhang2006} mendefenisikan preferensi terhadap ruang sebagai ungkapan selera orang terhadap ruang, seperti perasaan suka atau tidak suka. \cite{carmona2021} mengklarifikasi bahwa suatu ruang dapat disukai maupun tidak disukai, dimana preferensi tersebut dapat meningkatkan kemungkinan suatu kunjungan \citep{grilli2020}.
 
-Sheppard menjelaskan bahwa pada umumnya, penelitian preferensi mempelajari nilai, keyakinan perilaku \textit{attitudinal belief}, dan bermacam respon yang mengungkapkan proses  bagaimana individu merespon lingkungan \citep{zhang2006}. Preferensi tersebut berdasarkan presepsi individu yang berkaitan dengan suatu ruang \citep{swanwick2009}. \cite{permata2000} menegaskan bahwa preferensi ditentukan oleh banyak faktor dalam hal memilih.
-Faktor yang mempengaruhi preferensi terhadap ruang dan elemennya  ditentukan baik oleh ruang dan elemen itu sendiri serta karakter pengguna yang mengamati \citep{permata2000}.
-\cite{wen2018} mengklarifikasi preferensi terhadap ruang berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang. Sama juga dengan pendapat \cite{carmona2021}, bahwa presepsi ruang juga bergantung pada umur, gender, dan ras (karakter pengunjung). Oleh karena itu, preferensi merupakan pengukuran yang penting dalam hal presepsi ruang.
+Sheppard menjelaskan bahwa pada umumnya, penelitian preferensi mempelajari nilai, keyakinan perilaku \textit{(attitudinal belief)}, dan bermacam respon yang mengungkapkan proses  bagaimana individu merespon lingkungan \citep{zhang2006}. Preferensi tersebut berdasarkan presepsi individu yang berkaitan dengan suatu ruang \citep{swanwick2009}.
+\cite{permata2000} menjelaskan preferensi terhadap ruang dapat ditentukan oleh elemen-elemen pada ruang itu sendiri dan ruang secara menyeluruh.
+Dengan demikian, preferensi merupakan pengukuran yang penting dalam hal presepsi sebuah ruang.
+
+Menurut sejumlah penelitian, keadaan sosio-demografi pengunjung suatu ruang dapat mempengaruhi preferensi seseorang terhadap ruang dan elemen-elemen. \cite{wen2018} menjelaskan preferensi terhadap ruang berhubungan dengan tata cara orang berinteraksi dengan elemen, budaya, dan karakter orang. Jelas, presepsi ruang ini ditentukan juga oleh karakter pengguna yang mengamati \citep{permata2000}. \cite{carmona2021} mengerucutkan karakter pengguna diantaranya umur, gender dan suku. Maka dari itu, penelitian ini juga akan melihat preferensi terhadap ruang berdasarkan keadaan sosio-demografi pengunjung.
 
 \subsection{Aspek-aspek Ruang yang Mempengaruhi Preferensi}
 %00:52:10
 %00:56:09
 
 Aspek-aspek ruang adalah penting dalam perencanaan perkotaan \citep{hermida2019}. Menurut \cite{zhang2021}, aspek ini dapat mempengaruhi preferensi orang. Sehingga preferensi orang tersebut dapat memberitahukan aspek dan elemen-elemen seperti apa yang diperlukan \citep{zhang2021}.
-\cite{carmona2021} menyorot aksesibilitas, keselamatan dan keamanan, estetika, dan fasilitas sebagai aspek-aspek pada ruang.
-Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019, cahyaningtyas2020, larosa2018, mehta2014}, keamanan \citep{mehta2014, lis2021, campagnaro2020, hadavi2015}, estetika \citep{wang2019, hadavi2015}, kenyamanan \citep{hermida2019, mehta2014, dwiputra2017}, dan fasilitas \citep{cahyaningtyas2020}.
+\cite{carmona2021} menyoroti aksesibilitas, keselamatan dan keamanan, estetika, dan fasilitas sebagai aspek-aspek pada ruang. \cite{wen2018} menjelaskan bahwa hampir setiap aspek tersebut baik untuk dipertimbangkan dalam kasus kebanyakan.
+Masing-masing aspek itu mendukung sejumlah penelitian preferensi terhadap ruang publik: aksesibilitas \citep{arnberger2017, hermida2019, cahyaningtyas2020, larosa2018, mehta2014,sadeghi2022}, keamanan \citep{mehta2014, lis2021, campagnaro2020, hadavi2015,sadeghi2022}, estetika \citep{wang2019, hadavi2015,sadeghi2022}, kenyamanan \citep{hermida2019, mehta2014, dwiputra2017}, dan fasilitas \citep{cahyaningtyas2020,sadeghi2022}.
 
 Pada penelitian preferensi ruang publik sebagai tempat relaksasi, \cite{cahyaningtyas2020} menyebut aksesibilitas, fasilitas, ketenangan, nuansa alam, dan kualitas ruang sebagai aspek yang mempengaruhi preferensi orang.
-Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi preferensi sehingga mau berkunjung. \cite{grilli2020} menjelaskan jumlah kunjungan yang meningkat pada suatu ruang dapat disebabkan oleh preferensi terhadap elemen. \cite{wen2018} juga menemukan preferensi terhadap aspek aksesibilitas, estetika, keamanan dan fasilitas pada kelompok manula. Dia menyimpulkan aspek-aspek tersebut lebih diperhatikan oleh manula ketimbang pemuda \citep{wen2018}. Terakhir, \cite{campagnaro2020} menyebutkan aspek pemeliharaan, keamanan, aksesibilitas, dan fasilitas sebagai aspek terpenting pada ruang publik. Dari sejumlah aspek-aspek ruang diatas, disimpulkan terdapat aspek-aspek yang relevan terhadap ruang tepi laut: Aksesibilitas, Keamanan, Estetika dan Fasilitas.
+Sementara \cite{wang2021} menyimpulkan keamanan, estetika, fasilitas, pemeliharaan, dan kebisingan dalam aspek yang mempengaruhi preferensi sehingga mau berkunjung. \cite{grilli2020} menjelaskan jumlah kunjungan yang meningkat pada suatu ruang dapat disebabkan oleh preferensi terhadap aspek maupun elemen ruang. \cite{wen2018} juga menemukan preferensi terhadap aspek aksesibilitas, estetika, keamanan dan fasilitas pada kelompok manula. Dia menyimpulkan aspek-aspek tersebut lebih diperhatikan oleh manula ketimbang pemuda \citep{wen2018}. Terakhir, \cite{campagnaro2020} menyebutkan aspek pemeliharaan, keamanan, aksesibilitas, dan fasilitas sebagai aspek terpenting pada ruang publik. Dari sejumlah aspek-aspek ruang diatas, disimpulkan terdapat aspek-aspek yang relevan terhadap ruang tepi laut: Aksesibilitas, Keamanan, Estetika dan Fasilitas.
 
 Aspek-aspek ini merupakan kemanfaatan yang disediakan oleh ruang publik. Kemanfaatan dari ruang adalah apa yang ruang tawarkan, apa yang disediakan atau dilengkapi \citep{gibson2014}
 Dia menerangkan lebih lanjut bahwa apa yang orang presepsikan terhadap suatu ruang adalah kemanfaatannya, bagaimana ruang tersebut memenuhi kebutuhan atau memberi manfaat pada mereka. Apabila ruang tersebut memberi manfaat, ruang tersebut akan cenderung disukai orang \citep{gibson2014}.
@@ -1086,7 +1088,7 @@ Secara singkat, penelitian ini bertujuan untuk  menganalisis preferensi pengunju
 Pendekatan kualitatif menghasilkan gambaraan menyeluruh dari sebuah fenomena melalui pemahaman dan penglihatan secara langsung fenomena dalam objek penelitian yang disertai sumber-sumber data \citep{creswell2016}.
 Fenomena tersebut berupa kecenderungan pengunjung dalam memilih suatu ruang.
 Menurut \cite{groat2013}, penelitian kualitatif menekankan  pada proses induktif, sebagaimana \citeauthor{creswell2016} menjelaskan ini dengan pemberian pertanyaan \textit{open-ended}. Pertanyaan tersebut berupa alasan individu memiliki preferensi pada ruang tertentu dengan tujuan mendapatkan deskripsi latar belakang yang mendasari pemilihan tersebut. \cite{creswell2016} menjelaskan bahwa pertanyaan ini dapat berkembang seiring pemahaman peneliti terhadap masalah dilapangan \citep{creswell2016}.
-Untuk pendekatan kuantitatif digunakan untuk meneliti pada populasi atau sampel tertentu. Pengumpulan data berdasarkan variabel penelitian. Analisis data menggunakan desain deskriptif analitik dengan pendekatan \textit{cross sectional} yang bertujuan menggambarkan hubungan antara variabel-variabel dalam suatu populasi \citep{nurdini2006}. Sehingga penelitian ini dapat mengetahui latar belakang yang mendasari pemilihan ruang dan elemen-elemen ruang publik yang disukai yang dihubungkan dengan faktor demografi pengunjung.
+Untuk pendekatan kuantitatif digunakan untuk meneliti pada populasi atau sampel tertentu. Pengumpulan data berdasarkan variabel penelitian. Analisis data menggunakan desain deskriptif analitik dengan pendekatan \textit{cross sectional} yang bertujuan untuk menilai seberapa sering variabel yang menarik terjadi di seluruh ruang tertentu. Sehingga penelitian ini dapat mengetahui latar belakang yang mendasari pemilihan ruang dan elemen-elemen ruang publik yang disukai yang dihubungkan dengan faktor demografi pengunjung.
 
 %Penelitian ini menyediakan kerangka konseptual untuk aspek ruang serta elemen-elemen yang teradaptasi terhadap ruang. Pembahasan penelitian  meliputi pertama, analisis distribusi untuk memahami dominasi frekuensi kepentingan sebuah atribut ruang. Analisis ini menekankan pada data numerik yang diolah dengan menggunakan metode statistik \citep{azwar1997}. Pengujian statistik mendukung menentukan apakah teori yang tersedia kebenarannya ada \citep{bungin2005}. Kedua, penilaian kualitatif dari respon pendapat untuk memperkaya pemahaman.
 
@@ -1157,8 +1159,10 @@ Data primer merupakan informasi yang didapatkan dari objek penelitian melalui ku
 Berdasarkan tujuan penelitian, data yang diambil adalah jawaban yang didapatkan dari responden melalui pertanyaan kuesioner. Bentuk kuesioner yang digunakan adalah kuesioner semi terbuka. Menurut \cite{bungin2005}, kuesioner merupakan teknik pengumpulan data melalui daftar pertanyaan yang disusun secara sistematis, kemudian diberikan kepada responden untuk diisi dan dikembalikan kepada peneliti. Pertanyaan kuesioner kemudian disusun atas dasar tujuan penelitian. Kuesioner terdiri atas pertanyaan yang berdasarkan variabel penelitian (aspek dan elemen ruang) dan faktor demografi (gender, umur, pendidikan, dan pekerjaan). Kesertaan faktor demografi merupakan adopsi dari hasil penelitian \citeauthor{permata2000, carmona2021, wen2018}. \cite{permata2000} menemukan bahwa karakter pengguna (faktor demografi) mempengaruhi preferensi terhadap ruang dan elemen-elemennya.
 
 Untuk menganalisis kecenderungan pengunjung dalam memilih ruang dan proporsi pengunjung terhadap ruang yang dipilih, maka pendekatan kuantitatif digunakan. Responden diminta untuk memilih ruang yang paling disukai berdasarkan foto dari masing-masing ruang yang disediakan. Taylor menjelaskan foto sebagai rangsangan visual yang biasanya digunakan oleh penelitian preferensi \citep{zhang2006}.
-Untuk mengetahui latar belakang yang mendasari pemilihan tersebut, maka pendekatan campuran digunakan. Pengunjung diminta untuk menjawab secara singkat dan bebas terkait alasan memilih ruang yang disukai serta menilai pernyataan yang mewakili aspek­aspek ruang terkait aspek yang mendasari pemilihan ruang.
-Untuk tujuan yang ketiga yaitu menganalisis apa saja elemen ruang publik yang disukai, maka pendekatan kuantitatif digunakan sekali lagi. Sejumlah pilihan elemen-elemen ruang disediakan berdasarkan variabel penelitian dan responden diminta menjawab elemen apa yang mendasari pilihan mereka terhadap ruang.
+Untuk mengetahui latar belakang yang mendasari pemilihan tersebut, maka pendekatan campuran digunakan. Pengunjung diminta untuk menjawab secara singkat dan bebas terkait alasan memilih ruang yang disukai serta menilai pernyataan yang mewakili aspek- aspek ruang terkait aspek yang mendasari pemilihan ruang.
+Untuk tujuan yang ketiga yaitu menganalisis apa saja elemen ruang publik yang disukai, maka pendekatan kuantitatif digunakan sekali lagi. Sejumlah pilihan elemen-elemen ruang disediakan berdasarkan variabel penelitian dan responden diminta menjawab elemen apa yang mendasari pilihan mereka terhadap ruang. Diluar dari itu,
+keberagaman preferensi tersebut akan dilihat dari latar belakang responden. Sehingga responden diminta untuk menjawab pertanyaan terkait latar belakang mereka berupa jenis kelamin, usia, suku, pendidikan terakhir dan juga pekerjaan.
+
 %Berikut ini variabel penelitian beserta penjelasannya terkait preferensi terhadap ruang berdasarkan aspek dan elemen-elemen ruang terangkum dalam tabel \ref{tab:varpar}.
 
 Selain itu, untuk melengkapi kebutuhan dalam proses penelitian, maka pengamatan langsung atau observasi dilakukan. Pengamatan langsung atau observasi \textit{(observation)} adalah cara pengumpulan data untuk mengetahui situasi kawasan yang sebenarnya. Menurut kamus Oxford, kata observasi berasal dari \textit{observe} yaitu melihat atau memperhatikan. Tujuan observasi adalah menggambarkan tempat, aktivitas, pelaku, dan makna yang terjadi dalam proses observasi \citep{poerwandari2007}. Kunci keberhasilan metode pengumpulan ini terletak pada sang pengamat dimana dia menyimpulkan apa yang dilihat, didengar, atau dicium \citep{prof2016}.
@@ -1193,63 +1197,81 @@ Variabel merupakan segala sesuatu, benda atau kejadian, yang peneliti pelajari u
 Variabel tersebut dapat berjumlah satu (tunggal), atau lebih dari satu variabel \citep{soendari2012}.
 
 Penelitian ini menggunakan variabel tunggal. Menurut \cite{nawawi1996}, variabel tunggal hanya memunculkan variabel untuk dideskripsikan faktor atau unsur didalam setiap gejala dalam variabel tersebut. Tujuan menggunakan variabel ini adalah merumuskan objek penelitian dengan mudah. Variabel penelitian ini adalah preferensi pengunjung terhadap ruang publik tepi laut. Preferensi pengunjung terdiri atas sejumlah elemen ruang dan aspek ruang yang terangkum dalam tabel \ref{tab:varpar}.
-
-\begin{longtable}{p{.23\textwidth}p{.33\textwidth}m{.33\textwidth}}
-	\caption{Variabel Penelitian} \\
-	\caption*{Sumber: Analisis, 2022 } \\
-	\label{tab:varpar} \\
+\begin{table}[hp]
+    \small
+    \centering
+    \caption{Variabel penelitian}
+    \label{tab:varpar}
+    \begin{tabular}{p{.23\textwidth}p{.33\textwidth}m{.33\textwidth}}
 \toprule
 \textbf{Variabel} & \textbf{Sub-Variabel} & \textbf{Indikator}  \\
 \midrule
-\multirow{2}{*}{Estetika} & \multirow{2}{*}{Jumlah pohon} & Sedikit pohon\\
+\multirow{5}{*}{Aksesibilitas\tikzmark{ak}} & \tikzmark{jp}Jumlah pohon & Sedikit pohon\\
 & & Beberapa pohon\\
 \cmidrule{2-3}
 
-Keamanan& \multirow{2}{*}{Bentuk pohon} & Cukup rindang\\
-Fasilitas& & Rindang\\
+& \multirow{2}{*}{\tikzmark{bp}Bentuk pohon} & Cukup rindang\\
+& & Rindang\\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Aksesibilitas} & \multirow{2}{*}{Lebar jalan} & 1-3m\\
-& & 3m\\
+& \multirow{2}{*}{\tikzmark{lj}Lebar jalan} & 1-3m\\
+\multirow{5}{*}{Keamanan\tikzmark{ke}}& & 3m\\
 \cmidrule{2-3}
 
 
-\multirow{3}{*}{Aksesibilitas}& \multirow{3}{*}{Permukaan jalan} & Paving\\
+& \multirow{3}{*}{\tikzmark{pj}Permukaan jalan} & Paving\\
 & & Aspal \\
 & & Tanah \\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Estetika} & \multirow{2}{*}{Warna bunga/tanaman} & satu atau dua warna\\
+& \multirow{2}{*}{\tikzmark{wb}Warna bunga/tanaman} & satu atau dua warna\\
 & & tiga atau lebih warna\\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Fasilitas} & \multirow{2}{*}{Jenis kursi} & Kursi bergerak \\
+& \multirow{2}{*}{\tikzmark{jk}Jenis kursi} & Kursi bergerak \\
 & & Kursi dinding \\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Keamanan}& \multirow{2}{*}{Tingkat cahaya} & Sedang\\
+\multirow{5}{*}{Estetika\tikzmark{es}}& \multirow{2}{*}{\tikzmark{tc}Tingkat cahaya} & Sedang\\
 & & Tinggi\\
 \cmidrule{2-3}
 
-Fasilitas & \multirow{2}{*}{Orientasi elemen} & Membelakangi laut\\
-Estetika & & Menghadap laut\\
+& \multirow{2}{*}{\tikzmark{oe}Orientasi elemen} & Membelakangi laut\\
+& & Menghadap laut\\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Fasilitas} & \multirow{2}{*}{Tempat wisata air} & Tempat memancing\\
+& \multirow{2}{*}{\tikzmark{tw}Tempat wisata air} & Tempat memancing\\
 & & Tempat berenang\\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Fasilitas} & \multirow{2}{*}{Bangunan penunjang} & Stan \\
+\multirow{5}{*}{Fasilitas\tikzmark{fa}}& \multirow{2}{*}{\tikzmark{bap}Bangunan penunjang} & Stan \\
 & & Kedai\\
 \cmidrule{2-3}
 
-\multirow{2}{*}{Estetika} & \multirow{2}{*}{Elemen air} & Laut tenang\\
+& \multirow{2}{*}{\tikzmark{ea}Elemen air} & Laut tenang\\
 & & Laut berombang\\
-
 \bottomrule
-\end{longtable}
-
-
+\end{tabular}
+\end{table}
+\begin{tikzpicture}[overlay,remember picture,shorten >=.5pt,shorten <=.5pt, transform canvas={yshift=.25\baselineskip}]
+    \draw [->] ({pic cs:ak}) -- ({pic cs:lj});
+    \draw [->] ({pic cs:ak}) -- ({pic cs:pj});
+    \draw [->] ({pic cs:ke}) -- ({pic cs:bp});
+    \draw [->] ({pic cs:ke}) -- ({pic cs:pj});
+    \draw [->] ({pic cs:es}) -- ({pic cs:jp});
+    \draw [->] ({pic cs:es}) -- ({pic cs:wb});
+    \draw [->] ({pic cs:es}) -- ({pic cs:ea});
+    \draw [->] ({pic cs:fa}) -- ({pic cs:bp});
+    \draw [->] ({pic cs:fa}) -- ({pic cs:jk});
+    \draw [->] ({pic cs:fa}) -- ({pic cs:lj});
+    \draw [->] ({pic cs:fa}) -- ({pic cs:oe});
+    \draw [->] ({pic cs:fa}) -- ({pic cs:tw});
+    \draw [->] ({pic cs:fa}) -- ({pic cs:bap});
+    \draw [->] ({pic cs:sd}) -- ({pic cs:g});
+    \draw [->] ({pic cs:sd}) -- ({pic cs:u});
+    \draw [->] ({pic cs:sd}) -- ({pic cs:s});
+    \draw [->] ({pic cs:sd}) -- ({pic cs:p});
+\end{tikzpicture}
 
 \section{Metode Analisis Data}
 
@@ -1262,7 +1284,7 @@ Berdasarkan tujuan penelitian, terdapat dua pendekatan pengumpulan data pada pen
 Untuk data yang berfungsi kualitatif seperti kecenderungan dan deskripsi, peneliti berusaha memahami makna tema-tema dalam teks responden. Biasanya dengan cara memilih data yang cocok untuk dianalisis. Kemudian data tersebut dikategorisasikan sesuai dengan kriteria data yang didapatkan. Pada tahap selanjutnya adalah menganalisis data dengan variabel penelitian yang disusun secara deskriptif mengenai preferensi terhadap ruang publik di kawasan tepi laut.
 Untuk data yang bersifat kuantitatif, peneliti mempelajari karateristik setiap variabel dengan menggunakan pendekatan \textit{cross-sectional}. Dari hasil pengisian kuesioner dilakukan analisis deskriptif dengan menggunakan crosstabulasi yang dikonfirmasikan dalam bentuk persentase dan narasi.
 Crosstabulasi merupakan teknik untuk meringkas kandungan informasi menjadi kelompok- kelompok kecil yang relevan dengan tujuan penelitian. Analisis ini menggunakan perangkat lunak analisis statistika R.
-Selanjutnya, hasil crosstabulasi digambarkan menggunakan teknik biplot (teknik analisis multivariat). Biplot dikenal memiliki keunggulan dalam menginterpretasikan komponennya dengan mudah. Pertama, korelasi antar observasi berhubungan dengan sudut yang dibentuk oleh vektor-vektor; kedua, korelasi antar objek berhubungan dengan jarak antar titik pada biplot; ketiga, nilai observasi dalam suatu objek berhubungan dengan proyeksi tegak lurus dari titik ke vektor. Hasil teknik biplot ini menggambarkan keragaman preferensi terhadap ruang dan juga diantara kelompok. Analisis multivariat ini menggunakan perangkat lunak minitab.
+Selanjutnya, hasil crosstabulasi digambarkan menggunakan teknik biplot (teknik analisis multivariat). Biplot dikenal memiliki keunggulan dalam menginterpretasikan komponennya dengan mudah. Pertama, korelasi antar observasi berhubungan dengan sudut yang dibentuk oleh vektor-vektor; kedua, korelasi antar objek berhubungan dengan jarak antar titik pada biplot; ketiga, nilai observasi dalam suatu objek berhubungan dengan proyeksi tegak lurus dari titik ke vektor. Hasil teknik biplot ini menggambarkan keragaman preferensi terhadap ruang berdasarkan aspek dan elemen ruang. Keragaman preferensi tersebut dilihat pula dari latar belakang responden atau diantara kelompok (gender, usia, suku, dan pendidikan terakhir.) Analisis multivariat ini menggunakan perangkat lunak minitab.
 
 Tahap terakhir dari penelitian adalah menarik kesimpulan dan menyusun rekomendasi penelitian selanjutnya.
 Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang telah didapatkan berdasarkan metode campuran. Berdasarkan analisis dan pembahasan data, maka hasil yang diperoleh pada tahap kesimpulan ini adalah preferensi terhadap ruang, serta alasan memilih ruang dan elemen-elemen yang disukai. Sedangkan, penyusunan rekomendasi berguna untuk memberi masukan kepada pengembangan objek penelitian.
@@ -1273,7 +1295,7 @@ Tujuan penarikan kesimpulan adalah untuk menginterpretasikan hasil analisis yang
 
 Kota Parepare adalah kota tempat kelahiran presiden ke-3 Indonesia BJ Habibie. Istilah tersebut menjadi ikon bagi Parepare untuk memajukan aspek kepariwisataan. Peningkatan kepariwisataan Parepare mendorong kemajuan kawasan pesisir. Tujuan dari kemajuan ini adalah untuk menarik masyarakat untuk berkunjung ke \textit{waterfront}. Parepare memiliki potensi untuk mengembangkan tepi laut yang ramai, berhasil dan berkelanjutan.
 
-Daerah ini memiliki 4 kecamatan dan  22 kelurahan. Keempat kecamatan tersebut yaitu Ujung, Soreang, Bacukiki dan Bacukiki Barat. Parepare memiliki kondisi geografis menghadap ke selat Makassar dan berada di garis teluk Parepare \citep{uliah2019}. Area laut ini memiliki kedalaman dibawah 100 meter \citep{petatematikindo2013}.
+Daerah ini memiliki 4 kecamatan dan  22 kelurahan. Keempat kecamatan tersebut yaitu Ujung, Soreang, Bacukiki dan Bacukiki Barat (lihat gambar \ref{fig:admpare}). Parepare memiliki kondisi geografis menghadap ke selat Makassar dan berada di garis teluk Parepare \citep{uliah2019}. Area laut ini memiliki kedalaman dibawah 100 meter \citep{petatematikindo2013}.
 Secara administratif Parepare memiliki batasan wilayah sebagai berikut:
 
     \begin{tabular}{l l}
@@ -1310,7 +1332,7 @@ Menurut \cite{bpskotaparepare2020} pada tahun 2018, kecamatan Ujung memiliki jum
 Berdasakan \cite{dauwani2015} permukiman warga berpusat di pesisir laut menyebar ke area perbukitan meliputi kecamatan Ujung, Soreang, Bacukiki Barat. Sedangkan daerah lainnya yaitu bagian tengah untuk perkebunan dan pertanian dan bagian tenggara untuk kawasan hutan. Oleh karena kecamatan ini didominasi oleh permukiman maka ruang publik menjadi kebutuhan masyarakat baik segi ekonomi maupun kesejahteraan mereka.
 
 Berdasarkan RPI2JM 2017-2021 kota Parepare, kawasan ini merupakan kawasan strategis kota (KSK) untuk pengembangan PKL dalam kepentingan pertumbuhan ekonomi. Tentunya yang mendasari hal tersebut merupakan karakteristik tepi laut yang mendukung. Sebagai kawasan perairan, ombak pada pantai Senggol terbilang cukup dinamis.
-Pada saat musim timur, gelombang laut dapat mencapai ketinggian kisaran 0.5 hingga 1.2 meter. Sedangkan pada saat musim barat, gelombang laut dapat menembus ketinggian sekitar 0.4-1.4 meter. Secara keseluruhan, ketinggian ombak pada pantai tersebut adalah rendah. Ini mungkin disebabkan karena lokasi tepi laut senggol berada pada Teluk Parepare. Karakteristik ini bermanfaat karena dapat mengurangi potensi abrasi terutama pada dinding penahan kawasan ini.
+Pada saat musim timur, gelombang laut dapat mencapai ketinggian kisaran 0.5 hingga 1.2 meter. Sedangkan pada saat musim barat, gelombang laut dapat menembus ketinggian sekitar 0.4-1.4 meter. Secara keseluruhan, ketinggian ombak pada pantai tersebut adalah rendah. Karakteristik ini bermanfaat karena dapat mengurangi potensi abrasi terutama pada dinding penahan kawasan ini.
 
 Apabila ada satu hal yang harus diwaspadai dari karakteristik laut pada kawasan ini, itu adalah pergerakan arus tolak \textit{(rip current)} yang menghantui hampir setiap perairan kota Parepare.
 Kecepatan pergerakan tersebut berkisar 0.14 m/dtk sampai 0.1852 m/dtk dengan interval gelombang 1.1 m - 1.5 m.Kebanyakan penyebab pergerakan arus tolak tersebut adalah angin. Selain karakteristik laut yang unik diantara setiap tepi laut, kawasan ini menawarkan karakteristik kombinasi dari daratan dan perairan.
@@ -1903,7 +1925,7 @@ Pada bagian ini juga menjelaskan pembagian responden berdasarkan jenis pekerjaan
 \newpage
 \section{Ruang yang Paling Disukai }
 \label{sub:prefspace}
-Berdasarkan respon ruang yang disukai dari tepi laut Senggol, terdapat 85 total responden. Dari total responden tersebut 59\% (56) responden menyukai ruang A dan 41\% (29) responden menyukai ruang B (lihat gambar \ref{fig:pcr}).
+Berdasarkan respon ruang yang disukai dari tepi laut Senggol, terdapat 85 total responden. Dari total responden tersebut 66\% (56) responden menyukai ruang A dan 34\% (29) responden menyukai ruang B (lihat gambar \ref{fig:pcr}).
 
 \pieChartRuang
 
@@ -2016,7 +2038,10 @@ Ruang B juga bersifat terbuka dengan berhubungan langsung dengan jalan raya. Dim
     Bisa pilih-pilih makanan sesuai selera dan bisa berjalan dengan puas.
 \end{quoting}
 
-Estetika paling berkontribusi pada preferensi terhadap ruang A dibandingkan pada ruang B. Elemen-elemen yang ada pada ruang A cukup mewah dengan jumlah cukup banyak, seperti lampu jalan, meja, dan keramik sebagai permukaan jalan pedestrian. Setiap elemen tersebut menambah penilaian estetika terhadap pengunjung. Sebagian responden menganggap estetika terletak pada ruang itu sendiri, sebagian lainnya menyebut keindahan mereka dapatkan dengan memandangi laut dan area sekitar. Oleh karena itu, ruang ini dipertimbangkan ``indah", ``bersih", dan ``mewah". Adapun sejumlah respon yang memilih ruang A karena estetika sebagai berikut:
+Estetika paling berkontribusi pada preferensi terhadap ruang A dibandingkan pada ruang B. Elemen-elemen yang ada pada ruang A cukup mewah dengan jumlah cukup banyak, seperti lampu jalan, meja, dan keramik sebagai permukaan jalan pedestrian. Setiap elemen tersebut menambah penilaian estetika terhadap pengunjung. Sebagian responden menganggap estetika terletak pada ruang itu sendiri, sebagian lainnya menyebut keindahan mereka dapatkan dengan memandangi laut dan area sekitar.
+Kondisi laut yang berada di sebuah teluk dapat menambah estetika pemandangan ke laut.
+Teluk Parepare ini memiliki karakteristik yang bernilai positif. Kecepatan arus pada laut di teluk ini adalah beragam. Kecepatan terendah adalah 0.0029 - 0.0051 m/s dan tertinggi adalah 0.068 - 0.21m/s. Selain itu, ketinggian gelombang laut ini berkisar 0.4- 1.4 meter yang dapat menambah keindahan suatu panorama tepi laut.
+Oleh karena itu, ruang ini dipertimbangkan ``indah", ``bersih", dan ``mewah". Adapun sejumlah respon yang memilih ruang A karena estetika sebagai berikut:
 
 \begin{quoting}
    Bisa menikmati laut lepas jauh dan menghilangkan penat...
@@ -2219,7 +2244,7 @@ Hasilnya menunjukkan bahwa responden paling menyukai elemen jalan yang lebar dar
 
 Berdasarkan 267 total respon terkait elemen yang disukai, respon digolongkan berdasarkan macam-macam ruang terdiri dari ruang A dan B. Jenis-jenis elemen yang termasuk dalam tabel adalah elemen yang memiliki jumlah disukai yang cukup besar.
 
-Untuk ruang A, 13\% (35) responden yang menyukai lebar jalan dengan lebar tiga meter dibandingkan dengan 4\% (10) hingga 11\% (29) responden yang menyukai beberapa pohon, permukaan aspal, permukaan keramik, pencahayaan tinggi dan elemen menghadap laut. Sedangkan sejumlah elemen lainnya hanya dipilih oleh kurang dari 3\% (< 8) responden
+Untuk ruang A, 13\% (35) responden yang menyukai lebar jalan dengan lebar tiga meter dibandingkan dengan 4\% (10) hingga 11\% (29) responden yang menyukai beberapa pohon, permukaan aspal, permukaan keramik, pencahayaan tinggi dan elemen menghadap laut. Sedangkan sejumlah elemen lainnya hanya dipilih oleh kurang dari 3\% (< 8) responden.
 Untuk ruang B, 12\% (31) responden menyukai ruang dengan pencahayaan yang cukup dibandingkan dengan 10\% (28) orang yang menyukai pohon yang cukup rindang. Selain daripada itu, dibawah 3\% (7) responden menyukai elemen-elemen lainnya. Lihat tabel \ref{tab:ctpeSE}.
 
 \ctpeEach
@@ -2373,17 +2398,20 @@ Tingkat keramaian yang tidak merata mengakibatkan keseluruhan kawasan menjadi ti
 Kebanyakan orang memilih kedua ruang karena aspek fasilitas. Meskipun demikian, aspek ini lebih berkontribusi terhadap ruang A. Hal ini menjadi salah satu penyebab ruang B kurang dipilih. Apabila dibandingkan, fasilitas pada ruang A lebih tertata rapi dibanding ruang B. Orang dapat duduk-duduk, makan, melihat-lihat, mengobrol dan memancing dalam suasana yang nyaman, aman dan bersih. Berbeda dengan ruang B, meskipun tempat ini juga memiliki beragam fasilitas didalamnya. Beberapa diantaranya adalah makan, mengobrol, melihat-lihat, memancing bahkan berenang.
 Orang memilih ruang ini karena aspek fasilitas lebih sedikit dibanding ruang A.
 %Akan tetapi, ruang ini kurang dipilih oleh pengunjung dengan alasan aspek fasilitas dibanding ruang A.
-Ini mungkin karena ruang B kurang tertata atau tidak terencana dengan baik untuk aspek fasilitasnya. Sebagai contoh, ruang pribadi \textit{(personal space)} dari ruang ini adalah sangat kurang. Jarak antara meja makan satu dan lainnya berkisar satu meter saja. Selain itu, meja yang tersedia adalah meja yang berukuran panjang. Meja tersebut tidak dapat diatur untuk pengunjung yang datang dengan kelompok yang lebih kecil. Dengan demikian, hal itu membatasi pengunjung untuk memanfaatkan fasilitas dengan sepenuhnya. Peran penting lainnya adalah aspek aksesibilitas. Sama halnya dengan aspek fasilitas, aspek ini lebih berkontribusi terhadap ruang A dibanding ruang B. Jelas, ruang A memiliki aksesibilitas yang lebih baik disebabkan oleh jalan pedestrian yang direncana dengan baik. Sementara itu, ruang B menggunakan bahu jalan raya sebagai jalan untuk pedestrian.
-Keterbatasan ini mendorong pengunjung lebih memilih ruang A dibanding ruang B. Selain itu, dapat menyebabkan keseluruhan kawasan menjadi tidak optimal.
+Ini mungkin karena ruang B kurang tertata atau tidak terencana dengan baik untuk aspek fasilitasnya. Sebagai contoh, ruang pribadi \textit{(personal space)} dari ruang ini adalah sangat kurang. Jarak antara meja makan satu dan lainnya berkisar satu meter saja. Selain itu, meja yang tersedia adalah meja yang berukuran panjang. Meja tersebut tidak dapat diatur untuk pengunjung yang datang dengan kelompok yang lebih kecil. Dengan demikian, hal itu membatasi pengunjung untuk memanfaatkan fasilitas dengan sepenuhnya. Sedangkan berdasarkan keragamaan diantara kelompok pengunjung terdapat sejumlah perbedaan. Diantara semua kelompok, laki-laki, manula dan orang bugis memiliki kontribusi besar terhadap aspek fasilitas. Laki-laki memiliki potensi yang luas untuk menggunakan sebagian besar fasilitas yang ada pada tepi laut, begitupun manula. Kebanyakan fasilitas yang tersedia yang sering mereka gunakan adalah berenang, memancing, dan lain-lain, yang mungkin jarang digunakan oleh individu dari kelompok lain. Manula yang terbilang kurang bergerak memanfaatkan ruang berenang untuk berendam saja sekaligus memanfaatkan sinar matahari pagi untuk berjemur.
+Sementara orang bugis sebagai penduduk asli dari tempat ini telah memiliki rasa keakraban \textit{(familiarity)}, sehingga mereka lebih bebas dalam melakukan sesuatu pada tepi laut ini dibanding mereka yang mungkin baru belasan tahun tinggal di kota Parepare.
+Peran penting lainnya adalah aspek aksesibilitas. Sama halnya dengan aspek fasilitas, aspek ini lebih berkontribusi terhadap ruang A dibanding ruang B. Jelas, ruang A memiliki aksesibilitas yang lebih baik dengan lebar jalan dan ornamen yang memadai. Sementara itu, ruang B hanya menggunakan bahu jalan raya sebagai jalan untuk pedestrian.
+Keterbatasan ini mendorong pengunjung lebih memilih ruang A dibanding ruang B.
 
 Tingginya aspek fasilitas sebagai alasan dalam memilih ruang dalam penelitian ini mendukung sejumlah penelitian terkait preferensi ruang publik khususnya tepi laut. \cite{wang2020} menemukan orang menyukai ruang bersantai \textit{indoor} dan pertunjukan atau pameran suatu tema. Kedua elemen ruang tersebut merupakan bagian dari aspek fasilitas yang menghubungkan antara aktivitas dan ruang. \cite{vayona2011}, dalam penelitian terkait preferensi tepi laut alamiah thessaloniki, juga menemukan bahwa orang memiliki preferensi terhadap tempat bersantai, akuarium dan restauran. Ini jelas mengindikasikan bahwa orang menggunakan tepi laut sebagai tempat untuk bersantai, melihat-lihat dan makan. Meskipun demikian, preferensi terhadap elemen ruang berdasarkan aspek estetika atau aksesibilitas juga muncul. Elemen seperti jalan pedestrian dan faktor ekologi menjelaskan preferensi yang kuat pada tepi laut alamiah \citep{vayona2011}. Selain orang ingin memahami bagaimana suatu ruang dapat digunakan, orang juga memikirkan bagaimana ruang tersebut dapat didekati dan keindahan yang disediakan oleh tepi laut.
 
 Pada penelitian ini, elemen yang disukai kebanyakan pengunjung adalah orientasi elemen, tingkat cahaya dan lebar jalan. Ruang A memiliki jenis kursi bergerak \textit{(moveable)} dan meja kecil, artinya mereka dapat mengubah orientasi kursi tersebut sesuka mereka. Kebanyakan mereka yang berada di ruang A menyukai orientasi yang menghadap ke laut.
-Sementara ruang B memiliki meja panjang yang tetap dimana membatasi pengunjung untuk memilih orientasi yang diinginkan. Meskipun demikian, kebanyakan  pengunjung memilih orientasi menghadap laut. Terdapat dinding pembatas yang biasa orang gunakan sebagai kursi atau meja yang mengakomodasi mereka menghadap ke laut. Penambahan lampu hias jalan  pada ruang A memberikan nilai tersendiri. Kebanyakan orang sepertinya menyukai elemen tersebut yang menambah penerangan pada malam hari. Mereka lebih menyukai penerangan yang tinggi, mungkin ini disebabkan karena orang tertarik melihat detail arsitektur setiap inci ruang pada malam hari. Sebaliknya, orang menyukai penerangan yang cukup pada ruang B.
-Lebar jalan pada ruang A memiliki jarak 4 meter. Kebanyakan orang pada ruang ini menyukainya. Berbeda dengan ruang B yang menunjukkan preferensi yang sama dengan jumlah relatif kecil terhadap kelompok lebar jalan. Ini mungkin disebabkan karena tidak adanya jalan pedestrian yang memadai pada ruang B, sehingga mereka tidak memiliki acuan seperti apa jalan yang mungkin mengomodasi mereka lebih baik. Jalan pedestrian pada ruang ini menggunakan bahu jalan, dimana orang terlihat baik-baik saja dengan hal itu.
+Sementara ruang B memiliki meja panjang yang tetap dimana membatasi pengunjung untuk memilih orientasi yang diinginkan. Meskipun demikian, kebanyakan  pengunjung memilih orientasi menghadap laut. Terdapat dinding pembatas yang biasa orang gunakan sebagai kursi atau meja yang mengakomodasi mereka menghadap ke laut. Hal penting adalah kebanyakan perhatian terhadap orientasi elemen berasal dari responden berusia muda, orang tua lebih memperhatikan kelompok elemen lebar jalan dan tingkat cahaya. Ini dapat disebabkan karena manula lebih mementingkan rekreasi dibandingkan sekedar melihat-melihat. Perhatian lebih juga ditunjukan oleh orang bugis, laki-laki dan sma / sederajat. Artinya semakin sedikit batasan \textit{(constrain)} yang responden miliki semakin mereka menyukai orientasi menghadap ke laut. Mereka tidak membutuhkan banyak dari tepi laut lebih dari sekedar untuk melihat-lihat.
 
-Dua dari ketiga elemen tersebut mendukung hasil temuan penelitian terkait preferensi individu terhadap tepi laut Thessaloniki. \cite{vayona2011} menemukan bahwa orang menyukai jalan pedestrian dan faktor ekologi. Sama dengan penelitian ini menemukan orang menyukai lebar jalan. Ini mengindikasikan besarnya perhatian terhadap akses orang menuju ke tepi laut. Selain itu, terdapat faktor ekologi suaut laut yang mungkin berhubungan dengan tingginya preferensi seseorang terhadap orientasi menghadap ke laut dimana ekologi tepi laut diharapkan. Demikian pula hasil penelitian \citep{sari2015} yang menjelaskan bahwa air dapat menjadi daya tarik utama sebuah tepi laut. Dia mengutarakan bahwa kehadiran sebuah air memenuhi kebutuhan dalam aspek fasilitas dan estetika \citep{sari2015}. Sebagai contoh, orang lebih memilih untuk duduk-duduk sambil mengobrol dan menikmati pemandangan di tepian laut \citep{sari2015}.
+Penambahan lampu hias jalan  pada ruang A memberikan nilai tersendiri. Kebanyakan orang sepertinya menyukai elemen tersebut yang menambah penerangan pada malam hari. Mereka lebih menyukai penerangan yang tinggi, mungkin ini disebabkan karena orang tertarik melihat detail arsitektur setiap inci ruang pada malam hari. Selain itu, laut dengan gelombang yang relatif kecil menambah estetika pada malam hari. Dengan cahaya yang mendukung, mereka dapat melihat-melihat. Terdapat pula keragaman elemen tingkat cahaya dan orientasi elemen yang hampir sama pada setiap kelompok. Ini menggambarkan pontesi hubungan diantara kedua kelompok elemen tersebut. Hal penting adalah semakin tinggi pendidikan seseorang semakin mereka membutuhkan sebuah penerangan yang lebih. Sama halnya pada kelompok usia, orang dewasa lebih menyukai kelompok tingkat cahaya dibandingkan remaja. Ini mungkin disebabkan, orang yang berusia lebih muda takut menjadi pusat perhatian atau mengganggu apapun aktivitas yang mereka lakukan akibat kehadiran cahaya.
+Kebanyakan responden juga menyukai elemen jalan yang lebar dari 3 meter dari kelompok lebar jalan. Kebanyakan responden menyukai elemen ini pada ruang A dibanding ruang B. Keragaman tersebut hampir sama pada setiap kelompok. Ini menggambarkan orang menyukai tempat yang menyediakan jalan yang lebih memadai.
 
+Dua dari ketiga elemen tersebut mendukung hasil temuan penelitian terkait preferensi individu terhadap tepi laut Thessaloniki. \cite{vayona2011} menemukan bahwa orang menyukai jalan pedestrian dan faktor ekologi. Sama dengan penelitian ini menemukan orang menyukai lebar jalan. Ini mengindikasikan besarnya perhatian terhadap akses orang menuju ke tepi laut. Selain itu, terdapat faktor ekologi laut yang mungkin berhubungan dengan tingginya preferensi seseorang terhadap orientasi menghadap ke laut dimana ekologi tepi laut diharapkan. Demikian pula hasil penelitian \citep{sari2015} yang menjelaskan bahwa air dapat menjadi daya tarik utama sebuah tepi laut. Dia mengutarakan bahwa kehadiran sebuah air memenuhi kebutuhan dalam aspek fasilitas dan estetika \citep{sari2015}. Sebagai contoh, orang lebih memilih untuk duduk-duduk sambil mengobrol dan menikmati pemandangan di tepian laut \citep{sari2015}.
 
 Berdasarkan perbandingan antara penelitian ini dan penelitian lain terkait ruang publik khususnya tepi laut. Sejumlah elemen pada tepi laut Senggol belum cukup terpenuhi sebagai ruang publik di tepi laut. Masih ada kekurangan seperti akuarium, pelestarian ekologi bawah laut dan masih banyak lagi. Dengan penambahan elemen-elemen yang belum ada akan menimbulkan beragam kegiatan publik yang menarik partisipasi pengunjung. Partisipasi pengunjung yang meningkat menunjukkan pengembangan tepi laut yang berhasil \citep{sari2015, hoyle2001}. Selain itu, penambahan elemen tersebut tentunya dapat menciptakan preferensi baru terhadap ruang publik sehingga banyak alasan agar berada pada suatu ruang di tepi laut.
 
@@ -2395,8 +2423,14 @@ Melalui proses penelitan dengan menggunakan metode campuran dan analisis multiva
 
 \begin{enumerate}
     \item Pada penelitian ini, crosstabulasi digunakan untuk mengidentifikasi ruang yang paling disukai pada tepi laut. Hasil dari studi ini mengindikasikan ruang A paling dipreferensi di tepi laut Senggol. Ruang ini terkenal dengan elemen binaan seperti lampu jalan, permukaan keramik, dan bangunan yang terpelihara. Hasil ini berbeda dengan penemuan dari \cite{zhang2006}. \cite{zhang2006} menemukan bahwa preferensi paling tinggi adalah ruang yang alami daripada ruang binaan. Oleh sebab itu, perbaikan dan peningkatan elemen buatan harus dipertimbangkan sebagai isu yang penting untuk desain dan pengelolaan ruang di tepi laut perkotaan.
-    \item Dari hasil studi pustaka, preferensi terhadap ruang diukur dengan empat aspek ruang: Aksesibilitas, Keamanan, Estetika dan Fasilitas. Aspek ini merupakan alasan mengapa orang memiliki preferensi pada ruang tertentu. Keragaman preferensi digambarkan menggunkan Biplot yang mana dengan mudah menggambarkan bagaimana aspek ini berkontribusi dalam preferensi terhadap ruang. Hasilnya menunjukkan aspek fasilitas adalah aspek yang paling disukai orang dalam memilih ruang. Oleh karena itu, aspek fasilitas seharusnya diutamakan dalam desain dan pengelolaan ruang terbuka tepi laut. Penelitian ini kemudian menemukan faktor seperti gender, usia, suku dan pendidikan memiliki pengaruh terhadap keberagaman preferensi berdasarkan aspek diantara kelompok responden. Meskipun kelompok gender sama-sama dipengaruhi oleh aksesibilitas, presepsi responden laki-laki terhadap ruang lebih dipengaruhi oleh fasilitas. Sedangkan responden perempuan sangat dipengaruhi oleh kombinasi dari aksesibilitas dan fasilitas. Remaja lebih banyak dipengaruhi oleh aspek aksesibilitas, sementara orang dewasa sangat dipengaruhi oleh komponen visual dan manula dipengaruhi oleh aspek fasilitas. Pada kelompok latar belakang budaya, orang bugis sangat dipengaruhi oleh fasilitas sementara nonbugis lebih dipengaruhi oleh estetika. Terakhir, diantara kelompok pendidikan, mereka yang tamat dibawah sma dan perguruan tinggi dipengaruhi oleh aspek estetika, sedangkan sma / sederajat mayoritas dipengaruhi oleh aksesibilitas.
-    \item Berdasarkan aspek ruang, terdapat sejumlah elemen yang mendukung aspek-aspek ruang yang mana menjadi alasan mengapa orang memiliki preferensi ruang tertentu. Oleh karena itu, preferensi ruang juga diukur oleh tujuh kelompok elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Jenis kursi, Tingkat cahaya dan Orientasi Elemen. Hasil dari studi ini menemukan elemen yang paling disukai oleh pengunjung adalah lebar jalan. Ini mendukung aspek yang paling disukai yang kedua dari penelitian ini yaitu aksesibilitas. Faktor socio-demografi juga berpengaruh  terhadap keragaman preferensi yang berdasarkan elemen-elemen diantara kelompok pengunjung. Presepsi responden laki-laki terhadap ruang dipengaruhi oleh kombinasi lebar jalan dan tingkat cahaya. Sedangkan responden perempuan lebih dipengaruhi oleh tingkat cahaya. Untuk kelompok usia terbagi menjadi tiga kelompok: remaja lebih banyak dipengaruhi oleh lebar jalan, dewasa dan manula keduanya sangat dipengaruhi oleh tingkat cahaya. Untuk kelompok latar belakang budaya, suku bugis lebih banyak dipengaruhi oleh tingkat cahaya dan orientasi elemen, sedangkan nonbugis lebih banyak dipengaruhi oleh bentuk pohon. Terakhir, orang yang berpendidikan dibawah sma mayoritas dipengaruhi oleh lebar jalan dan orientasi elemen. SMA dan sedejarat hanya dipengaruhi oleh lebar jalan. Sedangkan perguruan tinggi mayoritas dipengaruhi oleh orientasi elemen.
+    \item Dari hasil studi pustaka, preferensi terhadap ruang diukur dengan empat aspek ruang: Aksesibilitas, Keamanan, Estetika dan Fasilitas. Aspek ini merupakan alasan mengapa orang memiliki preferensi pada ruang tertentu. Keragaman preferensi digambarkan menggunkan Biplot yang mana dengan mudah menggambarkan bagaimana aspek ini berkontribusi dalam preferensi terhadap ruang. Hasilnya menunjukkan aspek fasilitas adalah aspek yang paling disukai orang dalam memilih ruang. \cite{stino1983} menyarankan agar ruang publik mengutamakan penggunaan khususnya untuk rekreasi dan bersantai sebagaimana itu memiliki preferensi yang tinggi.
+        Oleh karena itu, aspek fasilitas seharusnya diutamakan dalam desain dan pengelolaan ruang terbuka tepi laut. Penelitian ini kemudian menemukan faktor seperti gender, usia, suku dan pendidikan memiliki pengaruh terhadap keberagaman preferensi berdasarkan aspek diantara kelompok responden. Meskipun kelompok gender sama-sama dipengaruhi oleh aksesibilitas, presepsi responden laki-laki terhadap ruang lebih dipengaruhi oleh fasilitas. Sedangkan responden perempuan sangat dipengaruhi oleh kombinasi dari aksesibilitas dan fasilitas. Sama halnya, \cite{sadeghi2022} menemukan bahwa diantara aspek ruang seperti aksesibilitas, keamanan, estetika, penggunaan lahan, fasilitas dan pelayanan pada ruang publik merupakan preferensi paling tinggi diantara kelompok wanita khususnya yang masih mudah dan belum menikah. Remaja lebih banyak dipengaruhi oleh aspek aksesibilitas,
+        sementara orang dewasa sangat dipengaruhi oleh aspek estetika.
+        Ini berbeda dengan penelitian \citep{wen2018}, dia menggambarkan bahwa orang dewasa muda \textit{(young adult)} memiliki preferensi terhadap aksesibilitas. Walaupun preferensi ini lebih rendah daripada preferensi manula terhadap aksesibilitas.
+        Kelompok usia terakhir yaitu manula, kelompok ini dominan dipengaruhi oleh aspek fasilitas.
+        Sebagaimana yang disebut sebelumnya, manula memiliki preferensi tinggi terhadap aksesibilitas pada penelitian \citep{wen2018}. Dia beranggapan bahwa ini dapat mendorong mereka untuk merasakan kreativitas, kebersamaan dan rasa syukur. Meskipun demikian, banyak penelitian juga mengindikasikan preferensi yang kuat terhadap aspek estetika. Perbedaan hasil pada penelitian yang ada menggambarkan bahwa kelompok manula memerlukan studi lanjut terkait aspek yang menjadi preferensi mereka.
+        Pada kelompok latar belakang budaya, orang bugis sangat dipengaruhi oleh fasilitas sementara nonbugis lebih dipengaruhi oleh estetika. Terakhir, diantara kelompok pendidikan, mereka yang tamat dibawah sma dan perguruan tinggi dipengaruhi oleh aspek estetika, sedangkan sma / sederajat mayoritas dipengaruhi oleh aksesibilitas.
+    \item Berdasarkan aspek ruang, terdapat sejumlah elemen yang mendukung aspek-aspek ruang yang mana menjadi alasan mengapa orang memiliki preferensi ruang tertentu. Oleh karena itu, preferensi ruang juga diukur oleh tujuh kelompok elemen: Jumlah pohon, Bentuk pohon, Lebar jalan, Permukaan jalan, Jenis kursi, Tingkat cahaya dan Orientasi Elemen. Hasil dari studi ini menemukan elemen yang paling disukai oleh pengunjung adalah lebar jalan. Ini mendukung aspek yang paling disukai yang kedua dari penelitian ini yaitu aksesibilitas. Faktor sosio-demografi juga berpengaruh  terhadap keragaman preferensi yang berdasarkan elemen-elemen diantara kelompok pengunjung. Presepsi responden laki-laki terhadap ruang dipengaruhi oleh kombinasi lebar jalan dan tingkat cahaya. Sedangkan responden perempuan lebih dipengaruhi oleh tingkat cahaya. Menurut \cite{sadeghi2022}, preferensi perempuan terhadap tingkat cahaya merupakan bagian dari aspek keamanan dan kenyamanan yang dirasakan. Mereka menyukai pencahayaan tinggi sebagaimana itu meningkatkan kepuasan perempuan terutama dalam berinteraksi sosial dan mengurangi perasaan negatif. Untuk kelompok usia terbagi menjadi tiga kelompok: remaja lebih banyak dipengaruhi oleh lebar jalan, dewasa dan manula keduanya sangat dipengaruhi oleh tingkat cahaya. Untuk kelompok latar belakang budaya, suku bugis lebih banyak dipengaruhi oleh tingkat cahaya dan orientasi elemen, sedangkan nonbugis lebih banyak dipengaruhi oleh bentuk pohon. Terakhir, orang yang berpendidikan dibawah sma mayoritas dipengaruhi oleh lebar jalan dan orientasi elemen. SMA dan sedejarat hanya dipengaruhi oleh lebar jalan. Sedangkan perguruan tinggi mayoritas dipengaruhi oleh orientasi elemen.
 
 \end{enumerate}
 

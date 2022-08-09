@@ -264,7 +264,7 @@ font={it,small,onehalfspacing}]{caption}%Use \caption* for add source
 %----------------------------------------------------------------------------------------
 % CONFIGURATION OF TIKZ
 \usepackage{tikz}
-\usetikzlibrary{shapes.geometric, arrows, arrows.meta}
+\usetikzlibrary{shapes.geometric, arrows, arrows.meta,tikzmark}
 
 % Create checkmark symbol
 \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
