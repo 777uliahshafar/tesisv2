@@ -24,7 +24,7 @@ library(descr)
 
 
 # Set working directory:
-setwd("/Volumes/hdd/tesis/")
+setwd("C:/Users/uliah/Documents/tesis")
 cur.wd <- getwd()
 @
 
